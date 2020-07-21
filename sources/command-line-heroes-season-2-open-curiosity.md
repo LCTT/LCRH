@@ -1,5 +1,5 @@
 [#]: collector: (bestony)
-[#]: translator: ( )
+[#]: translator: (Colin-XKL)
 [#]: reviewer: ( )
 [#]: publisher: ( )
 [#]: url: ( )
