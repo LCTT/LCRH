@@ -12,75 +12,81 @@ Command Line Heroes: Season 3: Heroes in a Bash Shell
 **00:07** - _Saron Yitbarek_
 
 It's 1987. Ronald Reagan's America is in full swing, and a 27-year-old high school dropout with big dreams is driving to his new home in Santa Barbara. That man's name is Brian Fox, and in the trunk of his car, he's got two massive tapes filled with the code he's been writing.
-
+就在1987年，里根时代的美国十分兴盛活跃，当时,在圣塔芭芭拉，一个满怀梦想27岁的高中少年正开车回家，他就是Brian Fox，在他小车的后备箱里，装着俩个大大的磁带，磁带里面满满的记录了他所写的代码。
 **00:28** - _Saron Yitbarek_
 
 Fox has spent years working as a programmer in something called the free software movement. He believes the code he's got locked in that trunk is part of a new reality, a new software paradigm, that his community is bringing to life, one piece at a time.
 
+Fox 在一个叫自由软件运动的组织里已经当程序员好几年了，他相信：他锁在后备箱里的代码就是一种新的现实，一种新的软件模式，他的团队正一步一步的让它充满活力。
 **00:49** - _Saron Yitbarek_
 
 That year, a team of coders at Richard Stallman's Free Software Foundation were trying to set the programming world free. They wanted to build an alternative to the UNIX operating system that had dominated programming since the '70s. Their GNU, which stood for GNU's not UNIX, was going to be an operating system for the people, one that anybody could use without worrying about license fees or copyright.
 
+那一年， Richard Stallman 自由软件基金会的一个代码团队正想让编程的世界自由化。他们想建立一套替代，来替代从70年代一直是编程界主流的UNIX操作系统。他们的GNU,即是（GNU's Not Unix）的缩写准备成为一个操作系统，一个所有人可以不用担心许可费用和版权，可以自由使用的操作系统。
+
 **01:18** - _Saron Yitbarek_
 
 The foundation had been cobbling this brave new operating system together for years. And those two massive tapes of code in the trunk of Brian Fox's car? They held a crucial component. Written on those tapes was a free and hackable shell that could complete the GNU operating system, Brian Fox's gift to the free software movement. He called it Bash.
+基金会已经在一起拼凑这个操作系统好几年了。在 Brian Fox's后备箱里俩个大大的磁带里的代码？里面有一个重要的组件。写在那些磁带里的是一个能完成GNU操作系统的自由和可破解的shell，是Brian Fox's带给自由软件运动的礼物，他叫它Bash。
 
 **01:46** - _Saron Yitbarek_
 
 I'm Saron Yitbarek and this is Command Line Heroes, an original podcast from Red Hat. This episode, we're looking at our heroes in a Bash shell. We're uncovering the history of shells and why they're so crucial to our work today. Think of shell scripts like a script you would give an actor. They deliver a whole sequence of commands that the shell can then rattle off on its own, the same way an actor can read her lines one after another. It's the ultimate workaround if you've got repetitive or convoluted commands. It's the key to automation. You might say that shell scripting super charges our development. But could a shell be written that gave that superpower away to the whole world? That was the challenge.
-
+我是Saron Yitbarek ，这里是代码英雄，一个来自红帽子的原创播客。这一集，我们寻找来自Bash shell的英雄。我们将揭开shells的历史，和解答为什么它们对于我们今天这么重要。想象一下shell脚本就像一个脚本你将写给演员。它们发出了一整套命令，shell能够自己解析，就像演员能够一句接一句的念出他的台词一样。如果你有重复或者难懂的命令，它是个极其有用的变通方法。它是自动化的关键。你可以说Shell脚本提升了我们的开发。但是，一个能够给全世界带来超级力量的shell是否能被写出来？这就是我们的挑战
 **02:38** - _Ken Thompson_
 
 Back in 1969, a couple of computer scientists here at Bell Labs started to develop some programs they needed for their own use.
+早在1969，很多在贝尔实验室的科学家已经开始开发一些他们需要自己使用的程序。
 
 **02:48** - _Saron Yitbarek_
 
 That's pioneering command line hero, Ken Thompson. The UNIX operating system, designed at Bell Labs, really was intended for their personal use. Originally, it was just an internal system. UNIX encouraged close communication among programmers, but it wasn't intended to change the way the whole world worked. It was intended to change Bell Labs.
 
+那是代码英雄的先驱， Ken Thompson.在贝尔实验室设计的NIX操作系统的初衷其实就是给他们私人使用。一开始，它就是一个内部系统。UNIX 鼓励程序员之间紧密的通信，但它并没有设想去改变全世界工作的方式。它想改变的是贝尔实验室。
 **03:13** - _Ken Thompson_
 
 By now, it's used all over Bell Labs. We have close to 20,000 computer terminals in this company, and most of them are used for communicating with UNIX systems.
-
+直到现在，它用在全部的贝尔实验室。我们有近2万个计算机终端在这个公司，并且大多数都是用来跟UNIX系统通信。
 **03:25** - _Saron Yitbarek_
 
 A UNIX shell designed by Ken Thompson was released in 1971. The Thompson shell was designed to be a command line interpreter, but it really wasn't capable of full-on scripting. It wasn't until six years later, in 1977, that scripting started to take off.
-
+在1971，Ken Thompson 设计的UNIX shell 发布了。Thompson shell设计成为一个命令行解释器，但它其实没有全面脚本的能力，它没有，于是6年后，在1977，它开始被取代了。
 **03:44** - _Chet Ramey_
 
 The shell parameters, the special parameters, the variables that we sort of take for granted today, originated with Steve Bourne and the Bourne shell.
-
+我们今天认同的shell参数，特别的参数，变量，最开始出现于Steve Bourne和他的 Bourne Shell.
 **03:57** - _Saron Yitbarek_
 
 That's Chet Ramey, an IT architect at Case Western Reserve University. Chet works at maintaining Bash, but he's also a great resource for our origin story. He describes Bell Labs just as it was figuring out what the UNIX shell was going to look like.
-
+那是 Chet Ramey， 一个 凯斯西储大学的IT 架构师， Chet从事Bash维护，但他也是我们当初故事的一个不错资源。他描述的贝尔实验室就只是指出了UNIX shell将看起来会是什么样子。
 **04:13** - _Chet Ramey_
 
 The programming constructs that we use without thinking today originated with Steve Bourne, and his shell basically won the bake-off. There was a significant user community using the Mashey shell. There was a significant user community beginning to use the Bourne shell. There was a committee that was set up to decide which one would win, which one would be the officially supported UNIX shell coming out of Bell Labs from then on, and Bourne's shell won. And the rest, as they say, is history.
-
+我们现在用的编程结构开始于Steve Bourne，他的Shell基本上赢得了比赛。有这么一个重要用户社区正用着Mashey shell， 有这么一个重要用户社区开始了使用Bourne shell。有这么一个委员会建立了决定哪个将会赢，哪一个从此以后将成为贝尔实验室外部产生的UNIX shell 的官方支持，当然Bourne‘s shell 赢得了。就像他们说的一样，其他的只是个历史。
 **04:54** - _Saron Yitbarek_
 
 It's not the end of history, though. Sure, the Bourne shell was a huge leap forward. It opened a door toward super-powered operations, toward greater automation, yet while there was a kind of Bourne supremacy for a while, the Bourne shell didn't solve all our scripting needs.
-
+这可不是历史的结束，确定的说，Bourne shell 是前进了一大步。 他打开了向超级操作，向了不起的自动化的一首门，Bourne式的优势还是持续了一段时间，虽然Bour shell 没有解决我们脚本的所有需求。
 **05:14** - _Chet Ramey_
 
 The constraints under which Bourne wrote his shell are almost unimaginable today. Obviously, when you have those constraints, you have to give up a lot, and Bourne gave up a lot. It's remarkable that he was able to put as much into the Bourne shell as he did given the space, memory, and CPU constraints he worked with.
-
+Bourne写shell时的限制今天几乎难以想象。很明显，当你遇到这些限制，你不得不放弃很多，当然 Bourne也是放弃了很多。他的卓越在于在他的工作能够做了很多，来尽可能减少受到空间，内存和CPU等的限制。
 **05:42** - _Saron Yitbarek_
 
 And remember, the Bourne shell was still part of Bell Labs' UNIX system. It was still tied to the UNIX license. That meant it wasn't free. It wasn't open. This shell was owned.
-
+还要记得， Bourne shell 还是贝尔实验室UNIX系统的一部分。 它还是绑定了UNIX许可， 那意味着 它不是自由的，开放的，它是私有的。
 **05:55** - _Chet Ramey_
 
 It was incredibly difficult to get UNIX source if you were not at a university. Obviously, that had an effect on the popularity of Berkeley UNIX, for instance, which started at a university, grew up among a community of universities, and kind of took off on the path of least resistance, as it were. So, getting access to the Bourne shell code was not difficult if you were at the right place, but in general, it wasn't viable.
-
+如果你不是一个大学，去获得UNIX的源码是难以想象的困难。显然，这影响到了UNIX的流行度，例如，那些起步于大学，在大学社团发展起来的，正向着能最小阻力的道路前行，那样，就不难获取到Bourne shell 的源码，如果你在正确的地点，但一般的，这不是很可行的。
 **06:36** - _Saron Yitbarek_
 
 Chet Ramey is the maintainer of the Bash shell.
-
+Chet Ramey 是 Bash shell 的维护者。
 **06:41** - _Saron Yitbarek_
 
 So, we've got the beginnings of shells, the start of this crucial component to programming, but the best shell out there is tied to a license. It's closed. For Richard Stallman and his Free Software Foundation, that arrangement just wasn't okay. What was needed was a shell that wasn't tied to any one company, a shell for the people.
-
+那么， 我们已经获得了shells 的开始，重要的编程组件的开始，但最好的shell还是绑定着许可的，是封闭的。 对 Richard Stallman 和他的自由软件联盟来说， 那种安排是不适合的。他们所需要的是一个没有绑定任何一个公司的shell，一种属于大家的shell。
 **07:05** - _Saron Yitbarek_
 
 But here's the trick. That meant writing something that did everything the Bourne shell could do without infringing on any of those pesky copyrights. Copy the Bourne shell's code verbatim, and you'd have a lawsuit on your hands.
