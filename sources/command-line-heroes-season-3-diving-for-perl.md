@@ -7,19 +7,20 @@
 [#]: via: (https://www.redhat.com/en/command-line-heroes/season-3/diving-for-perl)
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
-Command Line Heroes: Season 3: Diving for Perl
+命令行英雄 第三季:深入聊聊Perl语言
 ======
 **00:02** - _Saron Yitbarek_
 
-Picture Larry Wall, the creator of the Perl language, stepping up to the mic at a conference in 1999. He's got his signature bushy mustache and swept-over bangs, and he's feeling good. His language has been gathering steam.
+想象一下Perl语言的创建者Larry Wall在1999年的一次会议上拿起麦克风，留着他标志性的浓密小胡子和梳理过的刘海，感觉相当好，因为他所发明的语言正在越来越受欢迎。
+
 
 **00:19** - _Voice actor_
 
-Testing.
+声音测试。
 
 **00:19** - _Saron Yitbarek_
 
-It's easily surpassed COBOL, surpassed Visual Basic, and Python? Python's still a distant contender, fodder for a couple of Wall's jokes. Wall shows the crowd numbers from a dice.com report. Perl's future is very, very bright. And then, it wasn't. Fast forward two decades to the summer of 2018, and dice.com names Perl one of the languages most likely to go extinct. What just happened?
+Perl语言轻松地超越了COBOL、Visual Basic和Python?Larry Wall开玩笑得说“Python仍然是一个遥远的竞争者”。Wall从dice.com的一份报告看到这次参加集会的人数。Perl的未来是非常非常光明的,然后之后Perl的未来就不再如此了。dice.com在20年后的2018年夏天将Perl列为最可能灭绝的语言之一。短短20年之间发生了什么?
 
 **00:59** - _Saron Yitbarek_
 
