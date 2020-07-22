@@ -1,5 +1,5 @@
 [#]: collector: (bestony)
-[#]: translator: ( )
+[#]: translator: (TimeBear)
 [#]: reviewer: ( )
 [#]: publisher: ( )
 [#]: url: ( )
