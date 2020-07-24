@@ -1,5 +1,5 @@
 [#]: collector: (bestony)
-[#]: translator: (caiichenr)
+[#]: translator: (atongsa)
 [#]: reviewer: ( )
 [#]: publisher: ( )
 [#]: url: ( )
