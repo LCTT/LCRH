@@ -7,479 +7,479 @@
 [#]: via: (https://www.redhat.com/en/command-line-heroes/season-2/the-data-explosion)
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
-Command Line Heroes: Season 2: The Data Explosion
+《代码英雄》第二季：数据爆炸
 ======
 **00:03** - _Saron Yitbarek_
 
-If you take all human data created from the dawn of time to 2003, you'd get about five million gigabytes of data. How many gigabytes of data did we create yesterday?
+如果你把从人类历史早期到2003年创建的所有人类数据计算在内，你将得到大约500万GB的数据。我们昨天创建了多少GB的数据？
 
 **00:15** - _Poll response 1_
 
-Oh gosh, 100,000.
+哦，天哪，10万GB的数据。
 
 **00:21** -_Poll response 2_
 
-Like five million gigabytes.
+可能是500万GB数据。
 
 **00:23** - _Poll response 3_
 
-How many gigabytes of data did we create yesterday in one day? 10 million gigabytes?
+我们在昨天一天之内创建了多少GB的数据？1000万GB数据？
 
 **00:31** - _Poll response 4_
 
-I would say, I don't know, like two million maybe?
+我会说，我不知道，可能是200万GB数据？
 
 **00:36** - _Poll response 5_
 
-Maybe a million gigabytes in a day?
+可能是100万GB数据一天？
 
 **00:40** - _Saron Yitbarek_
 
-Answer? More than 2.5 billion.
+回答？超过25亿GB数据。
 
 **00:44** - _Poll response 1_
 
-Oh wow.
+哦哇哦。
 
 **00:44** - _Poll response 2_
 
-2.5 billion?
+25亿GB数据？
 
 **00:45** - _Poll response 3_
 
-So, we already beat the world record.
+所以，我们已经打破了世界纪录。
 
 **00:45** - _Poll response 4_
 
-That's a lot of gigabytes.
+那是很多GB的数据。
 
 **00:45** - _Poll response 5_
 
-That's a lot of data right there. I don't believe it.
+我都不敢相信那有这么多的数据。
 
 **00:52** - _Saron Yitbarek_
 
-In 2016, our annual data traffic online passed one zetabyte for the first time. That's one sextillion bites, if it helps. Okay, got that number in your head? Now triple it, because that's how much data we'll have by 2021.
+在2016年，我们的年度在线数据流量首次超过了1ZB的数据。准确的说是有1千的七乘方的比特数据。好，记住那个数字了吗？现在乘以3倍那个数字，因为那是我们将在2021年拥有的数据量大小。
 
 **01:10** - _Saron Yitbarek_
 
-I know, the brain wasn't made to think in zetabytes, but just hold onto this one little fact for a second. Our IP traffic will triple in five years. It's a data flood and we're in the middle of it.
+我知道，大脑不是以ZB为单位进行思考，而只要抓住一下这一小小的事实。 我们的IP流量将在五年内翻三番。 这是数据洪流，而我们正处于其中。
 
 **01:24** - _Saron Yitbarek_
 
-That last minute that went by, people sent 16 million text messages and in the time it took me to say that sentence, Google processed 200,000 searches.
+在刚过去的一分钟里，人们发出了1600万条短信，在我说出这句话的时间里，谷歌处理了20万条搜索。
 
 **01:37** - _Saron Yitbarek_
 
-Hidden inside that data flood are patterns, answers, and secrets that can massively improve our lives if we can just keep ourselves standing upright when the flood comes in.
+如果我们能在数据洪流来临时做好准备站稳脚跟，那么隐藏在数据洪流中的模式，答案和秘密可以极大地改善我们的生活。
 
 **01:50** - _Saron Yitbarek_
 
-I'm Saron Yitbarek and this is Command Line Heroes, an original podcast from Red Hat. The tidal waves are on the horizon. This is episode 6 of season 2, the data flood.
+我是 Saron Yitbarek，你这里是《代码英雄》，一款红帽公司原创的播客节目。潮汐即将来临。这里是第二季的第六集，数据洪流。
 
 **02:17** - _Saron Yitbarek_
 
-How do we handle such enormous amounts of data? How will we make use of that data once it's captured? Big data is going to solve some of our most complicated problems:
+我们如何处理如此大量的数据？ 一旦采集到数据，我们将如何利用它们？ 大数据将解决我们一些最复杂的问题：
 
 **02:29** - _Saron Yitbarek_
 
-How we manage traffic. How we grow food. How we deliver supplies to those in need. But only once we figure out how to work with all that data, how to process it, and at breakneck speed.
+我们如何管理交通。我们如何种植粮食。我们如何向需要的人提供物资。但只有当我们想出如何处理这些数据，如何以最快的速度处理这些数据时，我们才能做到这一点。
 
 **02:43** - _Kenneth Cukier_
 
-By having more data, we can drill down into these sub-groups, these particulars, and these details in ways that we never could before.
+通过获取更多的数据，我们可以用前所未有的方式来深入了解这些子组、这些细节。
 
 **02:53** - _Saron Yitbarek_
 
-Kenneth Cukier is a senior editor at The Economist and he's also the Saron Yitbarek of their tech podcast called Babbage.
+Kenneth Cukier是《经济学人》的高级编辑，他也是他们科技播客《Babbage》的Saron Yitbarek。
 
 **03:01** - _Kenneth Cukier_
 
-It's not to say that we couldn't collect the data before. We could, it just was really, really expensive. The real revolution is that we can collect this data very easily.
+这并不是说我们以前无法收集数据。我们可以，但这真的，真的很昂贵。真正的革命是我们可以很容易地收集这些数据。
 
 **03:10** - _Kenneth Cukier_
 
-It's very inexpensive and the processing is super simple because it's all done by a computer. This has become the huge revolution of our era and it is probably the most defining aspect of modern life and will be for the next several decades, if not the next century. That's why big data's such a big deal.
+现在收集数据的价格非常便宜，而且处理方式也超级简单，因为都是由电脑完成的。这已经成为我们这个时代的巨大革命，它可能是现代生活中最具有决定性的方面，在未来几十年甚至下个世纪都会如此。这也是为什么大数据如此重要的原因。
 
 **03:33** - _Saron Yitbarek_
 
-A little history can remind us how radical that change has been. Think about it, 4,000 years ago, we were scratching all our data into dried slabs of mud.
+这段历史提醒我们到这种变化是翻天覆地的。想想看，4000年前，我们把所有的数据都刻在了干泥板上。
 
 **03:46** - _Kenneth Cukier_
 
-These clay disks were heavy. The data that is imprinted in them once they're baked can't be changed. All of these features of how information was processed, stored, transferred, created has changed, right?
+这些黏土盘很重。黏土盘烘焙后，刻在其中的数据就无法更改。所有这些信息的处理、存储、传输、创建方式的特点都发生了变化，对吗？
 
 **04:04** - _Saron Yitbarek_
 
-Changed big time. Around the year 1450, you get the first information revolution with the invention of the printing press. And today, we have our own revolution.
+这发生了巨大的变化。大约在1450年，印刷机的发明带来了第一次信息革命。今天，我们有了自己的革命。
 
 **04:16** - _Kenneth Cukier_
 
-It's lightweight. It can be changed super simply because we can just use the delete key and change the instantiation of the information that we have in whether it's the magnetic tape or in the transition of the electronic transistors and the processors that we have. We can transport it at the speed of light, unlike say a clay disk that you have to carry.
+现在的信息存储介质很轻巧。信息的修改变的超级简单，无论是磁带还是电子晶体管和处理器的变革，我们只需要使用删除键就能改变我们所拥有的信息实例。我们可以以光速传输数据，不用像你说的那样携带粘土圆盘。
 
 **04:37** - _Saron Yitbarek_
 
-The printing press levelled up our understanding of things with the 15th-century flood of data that ushered in the enlightenment.
+15世纪启蒙运动的大量数据在印刷机的传播下提升了我们对事物的认识。
 
 **04:45** - _Saron Yitbarek_
 
-Today, big data can level us up again. But only if we figure out how to take advantage of all that data. Only if we build the dams and the turbines that will put the flood to work.
+今天，大数据可以再次提升我们的水平。但前提是我们要想办法利用这些数据。只有当我们建造大坝和涡轮机，才能把洪水治理好。
 
 **05:00** - _Kenneth Cukier_
 
-There is a huge gap between what is possible and what companies and individuals and organizations are doing. That's really important because we could already see that there's this latent value in the data and that the cost of collecting, storing, and processing the data has really dropped down considerably to where it was, of course, a hundred years ago but even just ten years ago.
+公司和个人及组织所做的事情之间可能存在着巨大的差距。这一点非常重要，因为我们已经看到，数据中有这种潜在的价值，而且收集、存储和处理数据的成本已经大大降低到一百年前甚至十年前的水平。
 
 **05:22** - _Kenneth Cukier_
 
-That's really exciting. But the problem is that, culturally, and in our organizational processes and even in the budgets that our CFOs and our CIOs allot to data, we're not there yet.
+这真令人兴奋。但问题是，我们还没有在文化上，在我们的组织流程中，甚至在我们的首席财务官和首席信息官分配给数据的预算中做到这一点。
 
 **05:35** - _Saron Yitbarek_
 
-Super frustrating when you think about it. Enlightenment knocking at the door and nobody's answering. Part of the reason we're not answering though is that, well, who's actually behind the door? What's all this data gonna deliver?
+当你想到它的时候，就会非常沮丧。启蒙在敲门却无人应答。不过我们不回答的部分原因是，门后到底是谁？这些数据能带来什么？
 
 **05:51** - _Saron Yitbarek_
 
-Kenneth figures the newness of big data keeps some companies from taking that leap.
+Kenneth认为，大数据的新奇让一些公司无法实现这一飞跃。
 
 **05:56** - _Kenneth Cukier_
 
-What is the value of the data once you collect a lot of it? The most honest answer is if you think you know, you're a fool. Because you can never identify today all the ways with which we're going to put the data to uses tomorrow.
+收集大量数据后，这些数据的价值是什么？最诚实的答案是，如果你认为你知道，你就是个傻瓜。因为你永远无法确定今天我们将如何将数据用于明天的用途。
 
 **06:12** - _Kenneth Cukier_
 
-The most important thing is to have the data and to have an open mind in all the ways that it can be used.
+最重要的是拥有数据，并以开放的思想对待所有可以使用的方式。
 
 **06:18** - _Saron Yitbarek_
 
-What Kenneth’s envisioning if we get big data right, is a wholesale transformation of our attitudes towards what's possible. A world where everybody, not just data scientists, can see the potential and gain insight.
+我们将对可能发生事情的态度发生全面转变，如果按照Kenneth所设想的那样，我们把大数据做好。在这个世界上，每个人，不仅仅是数据科学家，都能发现潜力并获得洞察力。
 
 **06:33** - _Kenneth Cukier_
 
-By understanding that the world is one in which we can collect empirical evidence about it in order to understand it, and in order to change it, and improve it, and that improvements can happen in an automated fashion, we will see the world in a different way, and I think that's the really interesting change that's happening now culturally or psychologically around the world with policy makers and business people and Starbucks baristas.
+通过理解这个世界，我们可以收集关于它的经验证据来理解它，为了改变它，改善它，并且可以以一种自动化的方式进行改善，我们将以不同的方式来看待这个世界，我认为这就是现在世界各地的政策制定者和商业人士以及星巴克咖啡师在文化或心理上发生的真正有趣的变化。
 
 **07:00** - _Kenneth Cukier_
 
-Everyone in all walks of life sort of have the data gene. They got it. They've sort of gotten the inoculation and now, everywhere they look, they think in a data mindset.
+各行各业的人都有数据基因。他们明白了。他们就像接种了这种疫苗一样，现在，无论他们到哪里，他们都以数据思维方式思考。
 
 **07:15** - _Saron Yitbarek_
 
-Kenneth Cukier told us a quick story to illustrate the power of that new data mindset. Some researchers at Microsoft began thinking about pancreatic cancer.
+Kenneth Cukier给我们讲了一个简短的故事来说明这种新数据思维方式的力量。微软的一些研究人员开始考虑胰腺癌问题。
 
 **07:27** - _Saron Yitbarek_
 
-People often find out about pancreatic cancer too late and early detection could save lives. So, the researchers began asking before these patients start searching for information on pancreatic cancer, what were they searching for in the previous few months? And in the previous years.
+人们发现胰腺癌往往为时已晚，早期发现可以挽救生命。因此，研究人员开始询问在这些患者开始搜索有关胰腺癌的信息之前，在过去的几个月中他们在搜索什么？ 在前几年搜索了什么。
 
 **07:46** - _Saron Yitbarek_
 
-They began looking for clues buried inside all that search data. They began looking for patterns.
+研究人员开始寻找埋藏在所有搜索数据中的线索。他们开始寻找模式。
 
 **07:54** - _Kenneth Cukier_
 
-They struck pay dirt. They saw that they can identify patterns in the search terms leading up to the moment where people started searching for pancreatic cancer that predicted very accurately that people had pancreatic cancer.
+他们有了重大发现。他们发现，在人们开始搜索胰腺癌的那一刻之前，他们可以识别搜索词中的模式，从而可以非常准确地预测人们患有胰腺癌。
 
 **08:09** - _Kenneth Cukier_
 
-The lesson here is that by using their imagination in terms of the latent knowledge inside of data, they can save lives. All they need now to do is to find a way to instrument through policy this finding, so that when people are searching for these terms, they can intervene in a subtle way to say, "You might wanna go to a healthcare clinic and get this checked out."
+这里的教训是，通过利用他们在数据内部潜在知识方面的想象力，他们可以挽救生命。他们现在所要做的就是找到一种方法，通过方法来解释这一发现，这样当人们在搜索这些术语时，他们可以以一种微妙的方式干预，说，“你可能要去医疗诊所检查一下。”
 
 **08:29** - _Kenneth Cukier_
 
-If they start doing that, people's lives will be saved.
+如果他们开始这样做，人们的生命将得到挽救。
 
 **08:37** - _Saron Yitbarek_
 
-What the researchers stumbled upon is a new form of cancer screening, a process that could alert patients month earlier. Making use of data isn't just a question of maximizing profits or efficiency.
+研究人员偶然发现了一种新的癌症筛查方式，这种方法可以在一个月前提醒患者。利用数据不仅仅是一个利润或效率最大化的问题。
 
 **08:52** - _Saron Yitbarek_
 
-It's about so much more than that. Hiding in all that data are real, enormous positives for humankind. If we don't use that data, we could be cheating ourselves. It's that epic struggle to put data to work that we're focusing on next.
+它的意义远不止于此。在所有这些数据中，隐藏着对人类真实的、巨大的积极意义。如果我们不使用这些数据，我们可能在欺骗自己。我们下一步要关注的是做好如何将数据投入工作的持久战。
 
 **09:18** - _Saron Yitbarek_
 
-Boston Children's Hospital at Harvard Medical School performed more than 26,000 surgeries last year. Kids walk through their doors for about a quarter million radiological exams.
+哈佛医学院波士顿儿童医院去年进行了26000多例手术。进行约25万人次的儿童放射检查。
 
 **09:31** - _Saron Yitbarek_
 
-The staff is doing incredible work, but there's a huge roadblock standing in their way.
+医护人员正在努力工作，但有一个巨大的障碍挡在他们面前。
 
 **09:37** - _Ellen Grant_
 
-A lot of the problems that we have in a hospital environment, especially as a physician, is how to get access to the data.
+在医院的环境中，尤其是作为医生，我们遇到的很多问题就是如何获取数据。
 
 **09:45** - _Saron Yitbarek_
 
-That's Dr. Ellen Grant. She's a pediatric neuroradiologist at Boston Children's and she depends on accessing data and analyzing medical images.
+那是Ellen Grant医生 她是波士顿儿童医院的小儿神经放射科医生 她依靠访问数据和分析医学图像。
 
 **09:56** - _Ellen Grant_
 
-It's not simple to get access into say a pax archive where the images are stored to do additional data analysis unless you set up an environment. That's not easy to do when you're in a reading room where there are just standard hospital PCs provided.
+除非你设置了一个环境，否则要想进入存储图像的存档做额外的数据分析并不简单。当你在一个只提供标准医院电脑的阅览室里时，要做到这一点并不容易。
 
 **10:14** - _Ellen Grant_
 
-There's a barrier to actually get to the data.
+实际获取数据是有障碍的。
 
 **10:17** - _Saron Yitbarek_
 
-Hospitals actually dump a lot of their data because they can't afford to store it. So, that data's just lost. Radiologists like Dr. Grant may have been the first group of doctors to feel the frustration of data overload.
+事实上，是因为医院负担不起存储数据的费用而丢弃了大量数据。所以，这些数据就这样丢失了。像Grant医生这样的放射科医生可能是第一批感受到数据过载受挫的医生。
 
 **10:33** - _Saron Yitbarek_
 
-When they went digital, they began creating enormous amounts of data and that quickly became impossible to handle.
+当他们走向数字化后，他们开始创造大量的数据，这很快就使得数据变得无法处理。
 
 **10:41** - _Ellen Grant_
 
-I, as a clinician, in the reading room wanted to be able to do all the fancy analysis that could be done in a research environment. But there's no way to easily get images off of the packs and get them to some place where the analysis could be done and get them back into my hands.
+作为临床医生的我，在阅览室里希望能够在研究环境中进行所有想要的分析。但没有办法轻易地从包中取走图像，拿到一些可以进行分析的地方，再拿到我手里。
 
 **10:59** - _Saron Yitbarek_
 
-Packs by the way are what hospitals call the data banks that store their images. Dr. Grant knew there were tools that could make those packs of images more functional, but costs were prohibitive.
+顺便说一句，包就是医院存储其图像的数据库。Grant医生知道有一些工具可以让这些图像包发挥更大的功能，但成本太高。
 
 **11:12** - _Ellen Grant_
 
-As we're entering into this era of machine learning and AI, there's more of that gonna happen that we need these larger computational resources to really start to do the large database analysis we wanna do.
+随着我们进入机器学习和人工智能的时代，更多的事情会发生，我们需要这些更大的计算资源来真正开始做我们想做的大型数据库分析。
 
 **11:27** - _Saron Yitbarek_
 
-The data's been piling up, but not so much the processing. On premise data processing would be out of reach. And elaborate, expensive supercomputers aren't an option for hospitals.
+数据一直在堆积，但处理量不大。内部数据处理将遥不可及。而复杂、昂贵的超级计算机不是医院的选择。
 
 **11:41** - _Saron Yitbarek_
 
-Dr. Grant became deeply frustrated.
+Grant医生非常沮丧。
 
 **11:44** - _Ellen Grant_
 
-Can't we figure out a better way for me to just get data over here, analyze it, get it back so I can do it at the consul where I'm interpreting clinical images cause I wanna have that data there and analyzed there quickly.
+我们能不能想出一个更好的办法，让我把数据拿到这里来，分析一下，然后再拿回来，这样我就可以在领事那里完成，我在那里解释临床图像，因为我想把数据放在那里，并在那里快速分析。
 
 **11:56** - _Ellen Grant_
 
-I don't wanna have to move to different computers and memorize all this line code when that's not my job. My job is trying to understand very complex medical diseases and keep all those facts in my head.
+我不想把数据移动到不同的电脑，再所有的代码都背下来，这不是我的工作。我的工作是试图理解非常复杂的医学疾病，并把所有这些事实真相记在脑子里。
 
 **12:10** - _Ellen Grant_
 
-I wanted to keep my focus on where my skill set was but exploit what is emerging in the computational side without having to dive that deep into it.
+我想把我的重点放在我的技术领域，但利用计算方面的新兴技术，而不必深入研究它。
 
 **12:21** - _Saron Yitbarek_
 
-What Dr. Grant and radiologists around the world needed was a way to click on imagery, run detailed analysis, and have it all happen on the cloud so the hospital didn't have to build their own server farm and didn't have to turn the medical staff into programmers.
+Grant医生和世界各地的放射科医生需要的是一种点击图像、运行详细分析的方法，并让这一切都发生在云端，这样医院就不必建立自己的服务器场地，也不必把医务人员变成程序员。
 
 **12:40** - _Saron Yitbarek_
 
-They needed a way to make their data save all the lives it could and so, that's exactly what Dr. Grant and a few command line heroes decided to build.
+他们需要一种使他们的数据尽可能地拯救生命的方法，因此，这正是Grant医生和几个代码英雄决定去做的。
 
 **12:55** - _Saron Yitbarek_
 
-Dr. Grant's team at Boston Children's Hospital worked with Red Hat and the Massachusetts Open Cloud (MOC). More on the MOC a little later. First though, here's Rudolph Pienaar, a biomedical engineer at the hospital describing their solution. It's an open source, container-based imaging platform.
+Grant医生在波士顿儿童医院的团队与红帽和马萨诸塞州开放云（MOC）合作。稍后再谈MOC。首先，医院的生物医学工程师鲁道夫·皮纳尔，描述了他们的解决方案。它是一个开源的、基于容器的成像平台。
 
 **13:15** - _Saron Yitbarek_
 
-It's all run on the cloud, too. So you're not limited by the computing power at the hospital itself. They call their creation ChRIS.
+这也都是在云端运行的。所以你不受医院本身计算能力的限制。他们称自己的创作为ChRIS。
 
 **13:24** - _Rudolph Pienaar_
 
-There's a backend database that's a Django Python machine really and that keeps track of users. It keeps track of the data they've processed. It keeps track of results.
+ChRIS有一个后台数据库，其实就是一个Django Python机器，它可以跟踪用户。它可以跟踪处理过的数据。它可以跟踪结果。
 
 **13:35** - _Rudolph Pienaar_
 
-Then there are a whole bunch of constellation of services around this database that all exist as their own instances in containers. These deal with communicating with hospital resources like databases. They deal with the intricacies of pulling data from these resources and then pushing them out to other services that exist on a cloud or another lab or whatever it might be. On the place where data is computed, there's all these services like Kubernetes, the schedule, the actual analysis of the data that you want to be doing. Then, pulling it back again.
+然后围绕这个数据库有一大堆的服务系统群，这些服务都是作为自己的实例存在于容器中。它们处理与医院资源的通信，比如与医院数据库通信。他们从这些资源中提取复杂的数据，将其推送到存在于云端或另一个实验室或其他任何地方的其他服务处理。在计算数据的地方，有这些服务，比如Kubernetes，时间表，你要做的数据的实际分析。然后，再把处理完的结果传送回来。
 
 **14:11** - _Saron Yitbarek_
 
-For Dr. Grant, the ChRIS imaging platform is a way to make data come to life. More than that, it's a way for data to make her a better doctor.
+对于Grant医生来说，ChRIS成像平台是一种让数据活起来的方法。更重要的是，这种数据处理方式让她成为更好的医生。
 
 **14:21** - _Ellen Grant_
 
-What makes a person a good physician is the experience they've had over a lifetime of practicing. But if I can kind of embody that into the data analysis and access more of that information, we just all know more and can combine the information better.
+医生的优秀，取决于他们一生的从业经验。如果我能把这一点融入到数据分析中，并获得更多的信息，我们就知道得更多，能够更好地结合这些信息。
 
 **14:39** - _Ellen Grant_
 
-For example, I have a perception of what a certain pattern of injury looks like in a certain patient population built on my Gestalt understanding from the memories that I have.
+例如，我对某些患者群体的某种伤害模式有什么样的认识，取决于根据我经验构造的知识体系。
 
 **14:52** - _Ellen Grant_
 
-I can now actually create probability maps of their distributions and inform everybody based on real data, or I can look for similar patients who had similar patterns and say what works best with them when they were treated to try to get closer to precision medicine.
+实际上我现在可以根据真实数据创建他们分布的概率图，并通知每个人，或者我可以寻找有相似模式的相似患者，并告诉他们在接受治疗时，什么对他们最有效，以便更接近精准医疗。
 
 **15:10** - _Ellen Grant_
 
-Integrating the large amount of data and trying to explore our past knowledge and to best inform how to treat any individual the best you can.
+整合大量的数据，并尝试探索我们过去的知识，并尽你所能以最好的方式告知如何对待任何人。
 
 **15:21** - _Saron Yitbarek_
 
-What does that mean for the children that are brought to the hospital? Dr. Grant says the ChRIS platform delivers more targeted diagnoses and more individualized care.
+这对被送到医院的孩子意味着什么？Grant医生说，ChRIS平台能提供更有针对性的诊断和更个性化的护理。
 
 **15:31** - _Ellen Grant_
 
-If we have more complex databases, we can understand complex interactions better and hopefully guide individual patients better. I think of ChRIS basically as my portal into multiple accessory lobes so I can be a lot smarter than I can on my own, ‘cause I cannot keep all this data in my brain at one time.
+如果我们有更复杂的数据库，我们可以更好地理解复杂的信息相互作用，并希望能更好地指导每个患者。我认为ChRIS基本上是我进入超级大脑入口，这比我自己更聪明，因为我不能一次把所有这些数据保存在我的大脑中。
 
 **15:53** - _Saron Yitbarek_
 
-When the stakes are this high, we wanna push past the limits of the human brain. Here's Máirín Duffy. She's a designer on the Red Hat team that makes ChRIS happen and she knows from personal experience what's at stake.
+当赌注这么大的时候，我们要突破人类大脑的极限。这是Máirín Duffy。她是红帽团队中的设计师，使ChRIS得以实现，她从个人经验中知道其中的利害关系。
 
 **16:15** - _Máirín Duffy_
 
-My father had a stroke, so I've been there sort of in the patient's family side of waiting for medical technology, ‘cause when someone has a stroke, they bring you in the hospital and they have to figure out what type of stroke it is. Based on the type, there's different treatments.
+我父亲中风了，我一直在病人家属那里等待医疗技术诊断，因为当有人中风时，他们会把你送到医院，他们必须弄清楚是哪种类型的中风。根据类型，有不同的治疗方法。
 
 **16:31** - _Máirín Duffy_
 
-If you give the wrong treatment, then really bad things can happen. So, the faster you can get the patient in for an MRI, the faster you can interpret the results in that situation. The faster you can potentially save their life.
+如果给出了错误的治疗方案，那么就会发生真正糟糕的事情。所以，在这种情况下，你能越快地把病人送来做核磁共振，就能越快地得到治疗方案。速度越快就有可能挽救他们的生命。
 
 **16:43** - _Máirín Duffy_
 
-Just think about just the fact of getting that image processing pushed out of the cloud, parallelized, make it so much faster. So instead of being hours or days, it's minutes.
+想想看，仅仅是把图像处理从云端推送出来，并行化处理，就能让它快很多。因此，这个过程不是几个小时或几天，而是几分钟。
 
 **16:55** - _Saron Yitbarek_
 
-Medicine may be arriving at a new inflection point. One not driven by pharmacology, but by computer science. Also, think about the scalability of something like ChRIS.
+医学可能正迎来一个新的转折点。不是由药理学驱动，而是由计算机科学驱动。另外，想想像ChRIS这种东西的拓展性。
 
 **17:08** - _Saron Yitbarek_
 
-You could have doctors in developing countries benefiting from the expertise and data sets at Boston Children's Hospital. Anybody with cell service could access web-based computing and data that might save lives.
+你可以让发展中国家的医生受益于波士顿儿童医院的专业知识和数据集。任何有手机服务的人都可以访问基于网络的计算和数据，从而挽救生命。
 
 **17:24** - _Saron Yitbarek_
 
-Besides medicine, lots of other fields could be witnessing a similar inflection point. But only if they figure out how to make their data collections sing. To do that, they need to discover a whole new territory of computing.
+除了医学，很多其他领域也可能出现类似的拐点。但前提是，他们要想出如何让自己的数据找到隐藏信息。要做到这一点，他们需要发现一个全新的计算领域。
 
 **17:46** - _Saron Yitbarek_
 
-All around the world, we're learning to make use of our data. Diverting those data floods towards our own goals, like at Boston Children's Hospital.
+在世界各地，我们都在学习如何利用我们的数据。就像在波士顿儿童医院一样，找到数据中和我们目标相关的信息。
 
 **17:56** - _Saron Yitbarek_
 
-In other words, we're processing that data. But we can only do that because a new generation of cloud-based computing makes the processing possible.
+换句话说，我们正在处理这些数据。但我们之所以能做到这一点，是因为新一代的云计算使这些数据处理成为可能。
 
 **18:11** - _Saron Yitbarek_
 
-For platforms like ChRIS, a key ingredient is that cloud-based computing is a new kind of storage. Remember that lots of hospitals throw out the data they gather because they literally can't hold it all.
+对于像ChRIS这样的平台来说，一个关键的因素是基于云计算的新型存储方式。请记住，很多医院都会把收集到的数据扔掉，因为他们真的无法保存所有的数据。
 
 **18:25** - _Saron Yitbarek_
 
-That's what I wanna focus on as a last piece of the data flood puzzle. The storage solution. For ChRIS, the storage solution came in the form of an open source project called Ceph. The Massachusetts Open Cloud, which ChRIS uses, depends on Ceph.
+这就是我想重点讨论的数据洪流的最后一块拼图。存储解决方案。对于ChRIS来说，存储解决方案是以一个叫Ceph的开源项目的形式出现的。ChRIS使用的马萨诸塞州开放云，就基于Ceph。
 
 **18:45** - _Saron Yitbarek_
 
-So, I got chatting with its creator, Sage Weil, to learn more about how places like Boston Children's can process enormous amounts of data in lightning time. Here's my conversation with Sage. I think a great first question is what is Ceph and what does it do?
+所以，我和Ceph的创建者Sage Weil聊了聊，想了解更多关于像波士顿儿童医院这样的地方是如何在闪电般的时间内处理海量数据的。以下是我与Sage的对话。我认为第一个重要问题是什么是Ceph，它能做什么？
 
 **19:05** - _Sage Weil_
 
-Sure. Ceph is a software-defined storage system that allows you to provide a reliable storage service, providing various protocols across unreliable hardware.
+当然，Ceph是一种软件定义的存储系统，它允许你提供可靠的存储服务，并在不可靠的硬件上提供各种协议。
 
 **19:14** - _Sage Weil_
 
-It's designed from the ground up to be scalable, so you can have very, very large storage systems, very large data sets and you can make them available and tolerate hardware failures and network failures and so on without compromising availability.
+它的设计从开始就是满足可扩展性，所以你可以拥有非常非常大的存储系统，非常大的数据集，你可以让它们可用，并容忍硬件故障和网络故障等，而不影响可用性。
 
 **19:29** - _Saron Yitbarek_
 
-Nowadays, there's just so much data.
+现在，数据太多了。
 
 **19:31** - _Sage Weil_
 
-Yes.
+是的。
 
 **19:33** - _Saron Yitbarek_
 
-So much consumption. There's just so much to get a handle on. Do you feel like the timing of it was part of the need for the solution?
+如此大的工作量。要处理的东西实在是太多了。你觉得它的时机是需要解决方案的一部分吗？
 
 **19:39** - _Sage Weil_
 
-Yes, definitely. At the time, it just seemed painfully obvious that there's this huge gap in the industry. There was no open source solution that would address the scalable storage problem. So it was obvious that we needed to build something.
+是的，当然。在当时，这个行业的巨大差距是显而易见的。没有开源的解决方案去解决可扩展的存储问题。所以很明显，我们需要建造一些东西。
 
 **19:53** - _Saron Yitbarek_
 
-When we're thinking about the amount of data we're dealing with on a daily basis and the fact that it's only growing, it's only getting bigger and harder to manage, what do you see that's being worked on today that will maybe address this growing need?
+当我们在思考我们每天要处理的数据量，以及它只会越来越多，只会越来越大，越来越难管理的事实时，你看到今天有哪些工作可以或许解决这种日益增长的需求？
 
 **20:09** - _Sage Weil_
 
-I think there are sort of several pieces of it. The first thing is that there's incredible amount of data being generated, of course, so you need scalable systems that can scale not just in the amount of hardware and data that you're storing but also have a sort of fixed or nearly fixed operational overhead.
+我认为有几方面的。第一件事是，当然有惊人的数据量正在产生，所以你需要可扩展的系统，它不仅可以在你存储的硬件和数据量上进行扩展，而且还有一种固定或几乎固定的操作开销。
 
 **20:25** - _Saron Yitbarek_
 
-Mm-hmm (affirmative).
+嗯哼（肯定）。
 
 **20:26** - _Sage Weil_
 
-You don't wanna pay another person per 10 petabytes or something like that. They have to be operationally scalable, I guess would be the way to put it.
+你不会想仅为每10PB存储空间或类似的东西就给别人付钱吧？我想他们必须是可操作的可扩展的。
 
 **20:33** - _Saron Yitbarek_
 
-Yeah.
+是的。
 
 **20:35** - _Sage Weil_
 
-That's part of it. I think also the way that people interact with storage is changing as well. In the beginning, it was all file storage and then we have block storage for VMs, object storage is sort of, I think, a critical trend in the industry.
+这是其中的一部分。我认为，人们与存储交互的方式也在改变。一开始，都是文件存储，然后我们有了虚拟机的块存储，我觉得对象存储在某种程度上是行业的重要趋势。
 
 **20:51** - _Sage Weil_
 
-I think really the next phase of this is not so much around just providing an object storage endpoint and being able to store data in one cluster, but really taking this sort of the level up and having clusters of clusters, geographically distributed mesh of cloud footprints or private datacenter footprints where data is stored and being able to manage the data that's distributed across those.
+我认为下一个阶段的目标并不是提供一个对象存储端点并能够在一个集群中存储数据，而是真正提高这种级别并拥有集群，地理上分布的云足迹或私有数据中心足迹网格，其中存储数据，并能够管理分布在这些足迹上的数据。
 
 **21:13** - _Sage Weil_
 
-Maybe you write the data today in one location, you tier it off to somewhere else over time because it's cheaper, or it's closer, or the data's older, and you need to move it to a lower-performance, higher-capacity tier for pricing reasons.
+也许你现在将数据写入一个位置，随着时间的推移，你把数据分层到其他位置，因为它更便宜、更近、或者因为数据更老，而且出于定价原因，您需要将其移动到性能更低、容量更大的层。
 
 **21:27** - _Sage Weil_
 
-Dealing with things like compliance so that when you ingest data in one, in Europe, it has to stay within certain political boundaries in order to comply with regulation.
+处理诸如法规遵从性这样的事情，当您在欧洲的一个地方接收数据时，它必须保持在特定的政治边界内，才能遵守法规。
 
 **21:39** - _Sage Weil_
 
-In certain industries, you have things like HIPAA that restricts the way that data's moved around. I think as modern IT organizations are increasingly spread across lots of different datacenters and lots of public clouds and their own private cloud infrastructure, being able to manage all this data and automate that management is becoming increasingly important.
+在某些行业，像HIPAA这样的东西，限制了数据的移动方式。我认为，随着现代IT组织越来越多地分布在许多不同的数据中心和许多公共云以及他们自己的私有云基础设施上，能够管理所有这些数据并使这种管理自动化正变得越来越重要。
 
 **21:58** - _Saron Yitbarek_
 
-When you think about how we're going to manage and store data in the future, and process data in the future, how does open source play a role in that? You mentioned that you wanted to create an open source solution because of your personal philosophy and your strong feelings on free and open software.
+当你想到未来我们要如何管理和存储数据，以及未来如何处理数据的时候，开源在其中扮演了怎样的角色？你曾提到，你之所以要创建一个开源的解决方案，是因为你个人的理念和你对自由和开放软件的强烈感情。
 
 **22:16** - _Saron Yitbarek_
 
-How do you see open source affecting other solutions in the future?
+你认为开源对未来其他解决方案有何影响？
 
 **22:21** - _Sage Weil_
 
-I think that, particularly in the infrastructure space, solutions are converging towards open source. I think the reason for that is there are high cost pressures in the infrastructure space and particularly for people building software-as-a-service or cloud services, it's important that they keep their infrastructure very cheap and open source is obviously a very good way to do that from their perspective.
+我认为，特别是在基础设施领域，解决方案正在向开源靠拢。我认为原因是基础设施领域的成本压力很大，特别是对于构建软件即服务或云服务的人来说，保持基础设施非常便宜很重要，从他们的角度来看，开源显然是一个非常好的方法。
 
 **22:48** - _Sage Weil_
 
-I think the second reason is more of a, I think, a social reason and that it's such a fast-moving field where you have new tools, new frameworks, new protocols, new ways of thinking about data and there's so much innovation and change happening in that space and so many different products and projects that are interacting, that it's very hard to do that in a way that is sort of based on the traditional model, where you have different companies having partnership agreements and co-development or whatever.
+我认为第二个原因更多的是社会原因，在这个快速发展的领域里，你有新的工具、新的框架、新的协议、新的思维数据的方式，在这个领域有很多的创新和变化，有这么多不同的产品和项目在相互作用，所以很难以一种基于像你和不同的公司有合作协议和共同开发或任何东西的传统模式方式做到这一点。
 
 **23:20** - _Sage Weil_
 
-Open source removes all of that friction.
+开源可以消除所有的摩擦。
 
 **23:28** - _Saron Yitbarek_
 
-Sage Weil is a senior consulting engineer at Red Hat and the Ceph project lead. I'm gonna circle back to Kenneth Cukier from The Economist so we can zoom out a bit, because I want us to remember that vision he had about our relationship with data and how we've progressed from clay tablets to the printing press to cloud-based wonders like the one Sage built.
+Sage Weil是红帽公司的高级咨询工程师，也是Ceph项目的负责人。我将回到《经济学人》的Kenneth Cukier，以便我们可以进行一点缩小，因为我希望我们记住他关于我们与数据关系的那个看法，以及我们如何从泥板到印刷机再到像Sage打造的云端奇迹的进展。
 
 **23:55** - _Kenneth Cukier_
 
-This is about human progress and it is about how we can understand the world and the empirical evidence of the world better to improve the world. It is the same mission of progress that humans have always been on.
+这关乎人类的进步，关乎我们如何更好地理解世界和世界的实证，以改善世界。这也是人类一直以来的进步使命。
 
 **24:08** - _Saron Yitbarek_
 
-The mission never ends. But, in the meantime, learning to process the data we've gathered and put that flood to work, that's an open source mission for a whole generation. We're ending our data journey with a quick stop at the Oak Ridge National Laboratory in Tennessee. It's home to Summit, the world's fastest supercomputer or at least fastest as of 2018.
+使命永远不会结束。但是，与此同时，学会处理我们收集到的数据并将其投入使用，这是整整一代人的开源任务。我们将在田纳西州的橡树岭国家实验室（Oak Ridge National Laboratory）短暂停留，结束我们的数据之旅。它是世界上最快的超级计算机Summit的所在地，或者至少是在2018年最快的超级计算机。
 
 **24:43** - _Saron Yitbarek_
 
-This machine processes 200,000 trillion calculations per second. That's 200 petaflops, if you're counting. Processing speed like that isn't practical for hospitals or banks or all the thousands of organizations that benefit from high high performance computing today.
+这台机器每秒要处理20万亿次计算。如果你要计算的话，那就是200 petaflops。这样的处理速度，对于医院、银行或者今天所有受益于高性能计算的成千上万的组织来说并不实用。
 
 **25:04** - _Saron Yitbarek_
 
-Supercomputers like Summit are reserved more for Hadron Collider territory. But then again, we were once recording just a hundred bytes of info on clay tablets.
+像Summit这样的超级计算机更多的是留给强子对撞机的领域。不过话说回来，我们曾经在泥板上记录的只是100字节的信息。
 
 **25:16** - _Saron Yitbarek_
 
-The story of data storage and data processing is one where extraordinary feats keep becoming the new normal. One day, we might all have Summit-sized supercomputers in our pockets. Think of the answers we'll be able to search for then.
+在数据存储和数据处理的故事中，非凡的壮举不断成为新的常态。有一天，我们的口袋里可能都有Summit级别的超级计算机。想一想，到时候我们将能够搜索到的答案。
 
 **25:42** - _Saron Yitbarek_
 
-Next episode, we're going serverless. Or are we? Episode 7 is all about our evolving relationship with cloud-based development. We're figuring out how much of our work we can abstract and what we might be giving up in the process.
+下一集，我们聊聊无服务器。还是我们？第7集讲述我们与基于云的开发之间不断发展的关系。我们正在弄清楚我们的工作有多少可以抽象化，以及在这个过程中我们可能会放弃什么。
 
 **25:58** - _Saron Yitbarek_
 
-Meantime, if you wanna dive deeper into the ChRIS story, visit [redhat.com/chris](https://www.redhat.com/chris) to learn more about how it was built and how you can contribute to the project itself.
+同时，如果你想深入了ChRIS的故事，请访问[redhat.com/chris](https://www.redhat.com/chris) 了解它是如何构建的，以及如何为项目本身做出贡献。
 
 **26:12** - _Saron Yitbarek_
 
-Command Line Heroes is an original podcast from Red Hat. Listen for free on Apple Podcasts, Google Podcasts, or wherever you do your thing.
+《代码英雄》是一款红帽公司原创的播客。在苹果播客，谷歌播客或任何您做事的地方免费收听。
 
 **26:24** - _Saron Yitbarek_
 
-I'm Saron Yitbarek. Until next time, keep on coding.
+我是 Saron Yitbarek。下次之前，继续编码。
 
 --------------------------------------------------------------------------------
 
@@ -487,7 +487,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-2/the-data-explosion
 
 作者：[Red Hat][a]
 选题：[bestony][b]
-译者：[译者ID](https://github.com/译者ID)
+译者：[TimeBear](https://github.com/TimeBear)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
