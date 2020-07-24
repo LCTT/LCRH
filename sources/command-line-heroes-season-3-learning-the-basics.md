@@ -1,5 +1,5 @@
 [#]: collector: (bestony)
-[#]: translator: ( )
+[#]: translator: (nalidong)
 [#]: reviewer: ( )
 [#]: publisher: ( )
 [#]: url: ( )
