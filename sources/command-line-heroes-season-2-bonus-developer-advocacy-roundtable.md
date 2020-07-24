@@ -1,5 +1,6 @@
+jianglaiya is translating.
 [#]: collector: (bestony)
-[#]: translator: ( )
+[#]: translator: (jianglaiya )
 [#]: reviewer: ( )
 [#]: publisher: ( )
 [#]: url: ( )
