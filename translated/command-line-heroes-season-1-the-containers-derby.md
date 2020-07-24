@@ -3,7 +3,7 @@
 [#]: reviewer: ( )
 [#]: publisher: ( )
 [#]: url: ( )
-[#]: subject: (Command Line Heroes: Season 1: Crack the Cloud_Open)
+[#]: subject: (Command Line Heroes: Season 1: The Containers Derby)
 [#]: via: (https://www.redhat.com/en/command-line-heroes/season-1/the-containers-derby)
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
