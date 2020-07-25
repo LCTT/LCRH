@@ -57,7 +57,6 @@ _Steven Vaughan-Nichols_
 
 **02:30** - _Saron Yitbarek_
 
-This is Steven Vaughan-Nichols. You might remember him from Episodes 1 and 2 when we were talking about the OS wars. He's a contributing editor at CBS Interactive and he's been following tech since 300 bits per second was a fast modem.
 这位是 Steven Vaughan-Nichols。你可能在第一集和第二集里谈论操作系统战争的时候记住了他。他是<ruby>哥伦比亚广播集团互动媒体公司<rt>CBS Interactive</rt></ruby>的特约编辑，一直关注着科技，因为快速调制解调器的速度是 300 比特每秒（译者注：这里指的是 1958 年 AT&T 发布的第一个商业化调制解调器 Bell 103 的传输速度，主持人用这种方式暗喻嘉宾的参与开源时间比较早和的确在持续关注科技）。
 
 _Steven Vaughan-Nichols_
