@@ -1,14 +1,14 @@
-[#]: collector: (bestony)
-[#]: translator: (mrpingan)
-[#]: reviewer: ( )
-[#]: publisher: ( )
-[#]: url: ( )
-[#]: subject: (Command Line Heroes: Season 5: Becoming a Coder)
-[#]: via: (https://www.redhat.com/en/command-line-heroes/season-5/becoming-a-coder)
-[#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
+[#]: collector: 'bestony'
+[#]: translator: 'mrpingan'
+[#]: reviewer: ' '
+[#]: publisher: ' '
+[#]: url: ' '
+[#]: subject: 'Command Line Heroes: Season 5: Becoming a Coder'
+[#]: via: 'https://www.redhat.com/en/command-line-heroes/season-5/becoming-a-coder'
+[#]: author: 'RedHat https://www.redhat.com/en/command-line-heroes'
 
-Command Line Heroes: Season 5: Becoming a Coder
-======
+# Command Line Heroes: Season 5: Becoming a Coder
+
 **00:01** - _Saron Yitbarek_
 
 You're stuck on a desert island. You discover a broken down prop plane, some tools, and a handy-dandy manual. You've never fixed a plane before, but you're desperate to get off the island, so you get to work. Your determination might be enough to get that plane flying again. Now this is an extreme example, but when you're trying to figure out how something is put together, especially something that's physically in front of you like a plane, you've got a mental image of what you're working with and a manual to help you along. But what about software? If you're outside that world, it's pretty hard to figure out what to do with all those ones and zeros. And even when you're in it, it can be hard to visualize what you're putting together. That's the situation one person found themself in.
@@ -333,15 +333,15 @@ Keep on coding.
 
 Keep on coding.
 
---------------------------------------------------------------------------------
+---
 
 via: https://www.redhat.com/en/command-line-heroes/season-5/becoming-a-coder
 
 作者：[Red Hat][a]
 选题：[bestony][b]
-译者：[译者ID](https://github.com/译者ID)
-校对：[校对者ID](https://github.com/校对者ID)
+译者：[译者 ID](https://github.com/译者ID)
+校对：[校对者 ID](https://github.com/校对者ID)
 
-本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
+本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux 中国](https://linux.cn/) 荣誉推出
 [a]: https://www.redhat.com/en/command-line-heroes
 [b]: https://github.com/bestony
