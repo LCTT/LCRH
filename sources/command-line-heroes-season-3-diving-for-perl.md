@@ -20,37 +20,31 @@
 
 **00:19** - _Saron Yitbarek_
 
-Perl语言是不是轻松地超越了COBOL、Visual Basic和Python?Larry Wall开玩笑得说“Python仍然是一个遥远的竞争者”。Wall从dice.com的一份报告能看到这次参加集会的人数非常多，在那时来看Perl语言的未来是非常非常光明的,然后之后Perl的未来就不再如此了。dice.com在20年后的2018年夏天将Perl列为最可能灭绝的语言之一。短短20年之间发生了什么?
+Perl语言是不是轻松地超越了COBOL、Visual Basic和Python?Larry Wall开玩笑得说,“Python仍然是一个遥远的竞争者”。Wall从dice.com的一份报告能看到这次参加集会的人数非常多，在那时来看Perl语言的未来是非常非常光明的,然而之后Perl的未来就不再如此了。dice.com在20年后的2018年夏天将Perl列为最可能灭绝的语言之一。短短20年之间发生了什么?
 
 **00:59** - _Saron Yitbarek_
 
-我是Saron Yitbarek，这是命令行英雄，红帽原创播客。这一季是关于我们的编程语言的力量和前景的。上一集，我们追踪了JavaScript在互联网上的疯狂崛起。
-
-I'm Saron Yitbarek, and this is Command Line Heroes, an original podcast from Red Hat. This season is all about the power and promise of our programming languages. Last episode, we tracked JavaScript on its crazy rise to success as it hitched its fortunes to the web.
+我是Saron Yitbarek，本节目是命令行英雄，一档红帽公司的原创播客。这一季是关于我们编程语言的力量和前景的。在上一集我们追踪了JavaScript在互联网上的疯狂崛起。
 
 **01:19** - _Saron Yitbarek_
 
-但并不是每一种语言都有一个不断成长和成功的故事。大多数语言出现了，在当时非常特殊的生态系统中发挥了它们的作用，然后当我们的编程生活需要其他类型的工具时，它们就开始消退。
+但并不是每一种语言都有一个不断成长和成功的故事。大多数语言出现并在当时非常特殊的生态系统中发挥了它们的作用，然后当我们的编程生活里需要其他类型的工具时它们就开始消退。
 
-But not every language has a story of non-stop growth and success. Most languages emerge, play their part in a very particular ecosystem of the moment, and then start to recede when our programming lives call for other kinds of tools.
 
 **01:37** - _Saron Yitbarek_
 
-本集我们将深入介绍Perl世界。是什么导致了它早期的成功，为什么它的成功突然被颠覆了?我们生活的环境，我们的基础设施，我们的硬件，所有的因素都会决定哪些语言会繁荣，哪些会开始萎缩。这就是Perl故事如此吸引人的地方。
+本集我们将深入介绍Perl世界。是什么导致了它早期的成功，为什么它的成功突然就被颠覆了?我们生活的环境，我们的基础设施，我们的硬件，所有的因素都会决定哪些语言会繁荣，哪些会开始萎缩。这就是Perl语言的故事里如此吸引人的地方。
 
-This episode we're taking a deep dive into the world of Perl. What caused its early success, and why did that success suddenly get turned upside down? The environment we live in, our infrastructure, our hardware, all kinds of factors will dictate which languages thrive, and which begin to shrink. And that's what's so fascinating about the story of Perl.
 
 **02:08** - _Saron Yitbarek_
 
-我们知道Perl并没有接管世界，但是在90年代，一切都不是那么清楚。Tim Berners-Lee在1991年发布了万维网，它迅速创造了一个全新的基于网络的发展领域。谁也说不准哪种编程语言会在这个新领域取得成功。
+我们知道Perl并没有统治世界，但是退回到90年代的时候Perl语言的一切都不是那么确定。Tim Berners-Lee在1991年发明了万维网，之后便迅速创造了一个全新的基于网络的发展领域。谁也说不准会是哪种编程语言在这个新领域取得成功。
 
-We know that Perl didn't take over the world, but back in the 90s nothing was that clear. Tim Berners-Lee released the World Wide Web in 1991, and it quickly created a whole new frontier of web-based development. It was anybody's guess which programming language was going to succeed in that new terrain.
 
 **02:31** - _Michael Stevenson_
 
-在互联网出现的时候，很多人都在等着什么事情发生。有兴奋。
+在互联网出现的时候所有人都等待着会有什么事情发生。那个时候整个世界都是令人兴奋的。
 
-The web emerged at a time that there's a lot of waiting for something to happen. There was excitement.
 
 **02:39** - _Saron Yitbarek_
 
