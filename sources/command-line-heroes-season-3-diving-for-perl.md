@@ -48,27 +48,23 @@ Perl语言是不是轻松地超越了COBOL、Visual Basic和Python?Larry Wall开
 
 **02:39** - _Saron Yitbarek_
 
-迈克尔·史蒂文森是阿姆斯特丹大学媒体研究的副教授。他为我们描述了早期的web。人们见过Usenet，也见过ARPANET。他们在网上看到了美国，还有其他一些国家。但是直到网络出现，互联网的全部发展潜力才真正得到体现。突然之间，你就进入了这个巨大的互联世界。这是一个启示。
+Michael Stevenson是阿姆斯特丹大学媒体研究的副教授。他为我们描述了早期的Web。人们见过Usenet，也见过ARPANET。他们在网上看到了美国，还有其他一些国家。但是直到网络出现互联网的全部发展潜力才真正得到体现。突然之间，你就进入了这个巨大的互联世界。这是一个出乎意料的事情。
 
-Michael Stevenson is an Associate Professor in Media Studies at the University of Amsterdam. He described that earlier web for us. People had seen Usenet, and they'd seen the ARPANET. They'd seen America Online, and a few others. But the internet's full development potential really hadn't been expressed until the web came along. Suddenly, you're pointing and clicking your way into this vast, connected world. It was a revelation.
 
 **03:09** - _Michael Stevenson_
 
-你必须记得1993年，当网络开始崭露头角的时候，也就是连线杂志开始出版的那一年。在那之前，你有Mondo 2000，这些杂志真的让电脑看起来像神秘知识的来源，让电脑看起来很酷。
-
-You have to remember that 1993, kind of when the web peeked its head up, that was the same year that Wired Magazine started publishing. Before that you had things like Mondo 2000, these magazines that really made computers look like a source of mystical knowledge that made computers seem cool.
+你一定会记得1993年，那一年正是网络开始崭露头角的时候，也是《连线》杂志开始出版的那一年。在那之前类似《Mondo 2000》这类的杂志真的让电脑看起来像神秘知识的来源，让电脑看起来很酷。
 
 **03:32** - _Michael Stevenson_
 
-因此，从这个意义上说，网络也到达了一个相当特定的时期人们已经准备好对这样的技术感到兴奋。
+因此从这个意义上说，网络也到达了一个相当特定的时期，那时候人们已经准备好对这样的网络技术感到兴奋。
 
 And so, the web, in that sense, also arrived at a pretty specific time where people were ready to be excited about technology in that way.
 
 **03:43** - _Saron Yitbarek_
 
-现在，事情是这样的。Larry Wall在1987年创建了Perl。那是在所有关于万维网的兴奋之前的四年。Larry Wall最初提供给世界的Perl就是这种通用的Unix脚本语言。这当然很有帮助，但是Perl还有一些秘密元素，这些元素将使它成为即将到来的web开发世界的理想语言。
+故事在这个时候开始了：Larry Wall在1987年创建了Perl，4年后人们才对万维网开始兴奋起来。Larry Wall最初提供给世界的Perl就是一种通用的Unix脚本语言。这当然很有帮助，但同时Perl还有一些秘密元素，这些元素将使它成为即将到来的web开发世界的理想语言。
 
-Now, here's the thing. Larry Wall created Perl in 1987. That's four years before all this excitement about the World Wide Web. The Perl that Larry Wall first gave the world was just this general-purpose Unix scripting language. Totally helpful for sure, but Perl also had these secret elements that were going to make it an ideal language for a world of web development that was just around the corner.
 
 **04:14** - _Michael Stevenson_
 
