@@ -8,50 +8,62 @@
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
 Command Line Heroes Season 3: The Infrastructure Effect
+命令行英雄第三季: 基础设施效应
 ======
 **00:00** - _Saron Yitbarek_
 
 When the New York City subway first started running in 1904, it was a marvel of the modern age. But ... what happens when today's commuter depends on infrastructure that was designed more than a century ago? Trains are packed and often late. Two billion subway rides take place each year in New York, and nobody's marveling anymore. We are tied to yesterday's crumbling infrastructure, and we have to find smart, new ways to make it work.
+1904年，纽约市地铁首次开始运营时，它被认为是现代的一个奇迹。但是……当今天的通勤者仍依赖一个多世纪前设计的基础设施时，会发生什么？ 火车挤满了人，而且常常晚点。 纽约每年有20亿人次地铁出行，再也没有人感到惊叹了。 我们还在紧密依赖昨日过时的基础设施，我们必须找到使其工作的明智的新方法。
 
 **00:44** - _Saron Yitbarek_
 
 It used to be that infrastructure projects were these big, concrete things we could see—that subway, for example. And because of that physical presence, it was also pretty obvious when they broke down. Highways crack, telephone poles fall over. We know when those things need fixing. Big efforts are necessary to get our lives in sync with aging infrastructure.
+基础设施项目通常是些可见的大而具体的事物，例如地铁。 而且由于这种物理可见性，它们损坏时也显而易见。 高速公路开裂，电线杆跌落。 我们很清楚这些东西何时需要维修。 为了使我们的生活与老化的基础设施保持协调，大量的工作是必不可少的。
 
 **01:12** - _Saron Yitbarek_
 
 But things aren't always so obvious. Today we also have IT infrastructure, server farms humming in isolated fields, fiber optic cables spanning oceans, and software infrastructure, too. Like legacy operation system, or shell scripts that nobody dares to replace. When all that IT infrastructure gets old and creaky, we can't see it for ourselves. And yet, the infrastructure that makes today's development work possible is aging, just like an old subway track. And that can mess with our modern lives. Massive new challenges emerge as today's command line heroes work to make sure we're not being boxed in by the past.
+但是事情并不总是那么明显。 如今，我们还拥有IT基础设施，在偏僻地区嗡嗡作响的服务器农场，跨越海洋的光纤电缆以及软件基础设施。 像老的操作系统或没人敢替换的shell脚本。 当所有这些IT基础设施变得陈旧和破旧时，我们自己是看不到的。 但是，造就了今日开发工作的基础设施却正在老化，就像旧的地铁轨道一样。 这可能会扰乱我们的现代生活。 如今命令行英雄们正努力确保我们不会被过去束缚，因此出现了大量新的挑战。
 
 **02:02** - _Saron Yitbarek_
 
 This is episode 5 of our season-long journey into the world of programming languages. We're looking at 2 languages that have intimate ties to the infrastructure they were first designed for. COBOL is a language native to mainframe computing, and Go is native to the cloud. They're both deeply influenced by their origins. Understanding that might save tomorrow's developers from ending up like a New Yorker crammed into Penn Station.
+这是我们编程语言世界探索季的第5集。 我们正在研究2种(编程)语言，它们与最初设计的目标基础设施密切相关。 COBOL是大型机的原生语言，而Go是云计算的原生语言。 他们都深受其起源的影响。 了解这一点可能会拯救将来的开发者，避免他们像挤在宾州车站的《纽约客》那样走到最后。
 
 **02:33** - _Saron Yitbarek_
 
 I'm Saron Yitbarek, and this is season 3 of Command Line Heroes, an original podcast from Red Hat.
+我是Saron Yitbarek，这是Red Hat的原创播客，命令行英雄的第3季。
 
 **02:43** - _Grace Hopper_
 
 So many things ahead that we have to do, but we need tremendous amounts of information, correlated, easy to access. We're only at the beginning.
+我们面前有很多事情需要去做，但是我们首先需要大量相关的且易于访问的信息。 我们才刚刚开始。
 
 **02:53** - _Saron Yitbarek_
 
 Admiral Grace Hopper pioneered high-level programming languages in the 1940s and 50s. And she was able to make that great leap forward because of the infrastructure of her time, mainframe computers.
+海军上将Grace Hopper在1940年代和50年代率先开发了高级编程语言。 当时的基础设施大型计算机使得她能够取得巨大的飞跃。
 
 **03:08** - _Chris Short_
 
 Hi, my name's Chris Short.
+嗨，我叫Chris Short.
 
 **03:10** - _Saron Yitbarek_
 
 Chris is a principal product marketing manager at Red Hat, and he's a bit of a history buff, too.
+Chris是红帽（Red Hat）的首席产品营销经理，而且他也是一位历史爱好者。
 
 **03:17** - _Chris Short_
 
 Admiral Hopper in the 40s made FLOW-MATIC, and she's widely considered the grandmother of COBOL, which was revolutionary at the time. So being able to sit there and say, "Hey, just put it on the mainframe," or, "Hey, just store it on the mainframe."
+40年代的Hopper上将创造了FLOW-MATIC，在当时是革命性的，她被广泛认为是COBOL的祖母。 因此，她能够坐在那里说：“嘿，只需将其放在大型机上”，或“嘿，只需将其存储在大型机上”即可。
 
 **03:31** - _Saron Yitbarek_
 
 It was a major game changer. Suddenly, you've got this machine-independent language, COBOL, that's native to the mainframe environment. Possibilities started opening up.
+这是一个重大的游戏改变者。 突然，您有了这种独立于机器的语言，即COBOL，它是大型机环境特有的。 可能性开始逐步打开。
 
 **03:42** - _Chris Short_
 
