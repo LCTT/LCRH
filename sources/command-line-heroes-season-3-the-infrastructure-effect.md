@@ -68,6 +68,7 @@ It was a major game changer. Suddenly, you've got this machine-independent langu
 **03:42** - _Chris Short_
 
 COBOL with mainframes really gave every organization the capability to say instead of having a room full of people with pencils, and paper, and calculators, and slide rules, they could just have half a room with a mainframe in it. And then they could have a few people write some applications in COBOL to do all of the math, and logic, and ledgering that their entire finance team could do. So the team of people that you needed to do your finances became a lot less, just because a lot more of the input could be digital as opposed to all hand jam in manually.
+大型机上的COBOL实际上使每个组织都具有发言权，而不是拥有一个装满铅笔，纸，计算器和滑尺的人的房间，而他们可能只有一个装有大型机的房间。 然后，他们可以让一些人用COBOL编写一些应用程序来完成所有的数学和逻辑运算，并分类整个财务团队可以做到的。 因此，您需要进行财务工作的团队数量减少了，仅仅是因为更多的输入可以数字化，而不是手动进行手动操作。
 
 **04:17** - _Saron Yitbarek_
 
