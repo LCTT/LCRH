@@ -63,44 +63,52 @@ Admiral Hopper in the 40s made FLOW-MATIC, and she's widely considered the grand
 **03:31** - _Saron Yitbarek_
 
 It was a major game changer. Suddenly, you've got this machine-independent language, COBOL, that's native to the mainframe environment. Possibilities started opening up.
-这是一个重大的游戏改变者。 突然，您有了这种独立于机器的语言，即COBOL，它是大型机环境特有的。 可能性开始逐步打开。
+这是一个重大的游戏改变者。 突然，您有了这种机器无关的语言，即COBOL，它是大型机环境特有的。 可能性开始逐步打开。
 
 **03:42** - _Chris Short_
 
 COBOL with mainframes really gave every organization the capability to say instead of having a room full of people with pencils, and paper, and calculators, and slide rules, they could just have half a room with a mainframe in it. And then they could have a few people write some applications in COBOL to do all of the math, and logic, and ledgering that their entire finance team could do. So the team of people that you needed to do your finances became a lot less, just because a lot more of the input could be digital as opposed to all hand jam in manually.
-大型机上的COBOL实际上使每个组织都具有发言权，而不是拥有一个装满铅笔，纸，计算器和滑尺的人的房间，而他们可能只有一个装有大型机的房间。 然后，他们可以让一些人用COBOL编写一些应用程序来完成所有的数学和逻辑运算，并分类整个财务团队可以做到的。 因此，您需要进行财务工作的团队数量减少了，仅仅是因为更多的输入可以数字化，而不是手动进行手动操作。
+大型机和COBOL真正使得每个组织能够说它们不再需要充满了带着铅笔，纸，计算器和滑尺的人的办公室，他们可能只需要半个办公室来安装大型机。 然后，他们可以雇人用COBOL来编写一些应用程序来完成整个财务团队做的所有的数学，逻辑运算以及账目分类。 因此，您需要的财务团队人数少了，仅仅是因为更多的输入可以被数字化，而不是全手动操作。
 
 **04:17** - _Saron Yitbarek_
 
 If you were one of those new COBOL programmers, it would've felt like you have a job for life. Because the infrastructure that your work was based on, all those mainframes, they weren't going anywhere.
+如果你是新的COBOL程序员之一，那感觉你将有一份终生的工作。 因为您的工作所基于的基础设施(所有那些大型机)，始终会在那里。
 
 **04:30** - _Chris Short_
 
 Moore's Law wasn't around back then, so you could go an entire decade working on the same mainframe, potentially, right? Like you didn't have to worry about the next operating system, or the next type of container orchestrator, or the next thing that comes along and AI, or whatever. You could probably spend your whole career working on COBOL. And you knew you were going to be pretty safe.
+那时侯摩尔定律还未到来，所以您可能可以整整十年都在同一个大型机上工作，对吧？就像您不必担心下一个操作系统，或者下一个类型的容器编排器，又或者下一个随之而来的东西以及AI一样。 您可能会整个职业生涯都在从事COBOL。 而且您知道自己将会非常稳定。
 
 **04:55** - _Saron Yitbarek_
 
 But, Moore's Law did arrive eventually. New infrastructures showed up, too. And these days, programmers are less likely to learn a half-century old language. But here's the thing, those old mainframes aren't actually gone. And that means our need for COBOL developers hasn't vanished either.
+但是，摩尔定律最终到来了。 新的基础设施也出现了。 现如今，程序员不太可能去学习一种半个世纪前的旧语言。 但实际上，那些旧的大型机并没有消失。 这意味着我们对COBOL开发人员的需求也没有消失。
 
 **05:17** - _Chris Short_
 
 It's getting a lot harder to find COBOL developers. What ends up happening is these mainframes have been here for 50 years, potentially. And these COBOL developers that still can write good COBOL will get paid exorbitant amount of monies to help with projects, and reorganization of data within mainframes. And that skillset is definitely dying off and becoming a highly lucrative career field if you ... you can definitely make a lot of money writing COBOL nowadays.
+寻找COBOL开发者变得越来越困难。 最终会发生的事情是这些大型机可能已经存在了50年。 这些仍然可以编写出色COBOL程序的COBOL开发人员将获得巨额收入，以帮助项目运行并完成大型机中的数据重组。 而且，该技能肯定会绝迹，并且正在成为一个利润丰厚的职业领域，如果您……您现在绝对可以靠写COBOL赚很多钱。
 
 **05:49** - _Saron Yitbarek_
 
 Especially in the manufacturing and finance industries. You can't outrun all that infrastructure that was laid down decades ago. Legacy code permeates work all around the world. It'd be a huge mistake to ignore that old infrastructure and the languages tied to it.
+尤其是在制造业和金融业。 您无法超越几十年前建立的所有基础设施。 老代码遍及全球。 忽略旧的基础设施及其相关的语言，将是一个巨大的错误。
 
 **06:08** - _Chris Short_
 
 With 200 billion lines of code laying around, it's going to be really hard to refactor all that. No, I don't think we'll ever see it disappear in our lifetimes, for sure.
+由于存在2000亿行代码，因此很难重构所有这些代码。 不，我认为在有生之年我们肯定不会看到它消失。
 
 **06:21** - _Saron Yitbarek_
 
 Chris Short is a principal product marketing manager at Red Hat.
+Chris Short是Red Hat的首席产品营销经理。
 
 **06:28** - _Saron Yitbarek_
 
 I want to drive Chris's point home for a sec. Consider this. COBOL is baked into 95% of all ATM transactions. That's how tied we are to this language. And yet, the average COBOL programmer isn't much younger than the language itself. They are 45, maybe 55 years old. The newbies aren't interested. Which is why I want to introduce you to someone.
+我想把克里斯的观点带回家一秒钟。 考虑一下。 COBOL已纳入95％的ATM交易中。 那就是我们与这种语言的紧密联系。 但是，普通的COBOL程序员并不比该语言本身年轻得多。 他们今年45岁，也许55岁。 新手不感兴趣。 这就是为什么我想向您介绍某人。
 
 **06:56** - _Ritika Trikha_
 
