@@ -108,51 +108,62 @@ Chris Short是Red Hat的首席产品营销经理。
 **06:28** - _Saron Yitbarek_
 
 I want to drive Chris's point home for a sec. Consider this. COBOL is baked into 95% of all ATM transactions. That's how tied we are to this language. And yet, the average COBOL programmer isn't much younger than the language itself. They are 45, maybe 55 years old. The newbies aren't interested. Which is why I want to introduce you to someone.
-我想把克里斯的观点带回家一秒钟。 考虑一下。 COBOL已纳入95％的ATM交易中。 那就是我们与这种语言的紧密联系。 但是，普通的COBOL程序员并不比该语言本身年轻得多。 他们今年45岁，也许55岁。 新手不感兴趣。 这就是为什么我想向您介绍某人。
+我想花一秒钟解释一下Chris的观点。 想象一下，COBOL已经纳入了95％的ATM交易中。 那就是我们与这种语言的紧密联系。 但是，COBOL程序员的平均年龄并不比该语言年轻。 他们45岁，或者55岁。 新人并不感兴趣。 这就是为什么我想向您介绍某人。
 
 **06:56** - _Ritika Trikha_
 
 Hi, my name is Ritika Trikha.
+嘿，我是Ritika Trikha。
 
 **06:59** - _Saron Yitbarek_
 
 Ritika's a technology writer, formerly with HackerRank. And she's fascinated by this question of COBOL, and the assumption people make that it's a kind of pointless leftover from the mainframe days.
+Ritika是一名技术编辑，曾在HackerRank工作。 她对这个COBOL问题，以及人们对它是后大型机时代无意义的残留品的假设着迷。
 
 **07:12** - _Ritika Trikha_
 
 Developers today are really not thinking about COBOL, it's out of sight, out of mind.
+如今的开发人员根本没有考虑过COBOL，见也没见过，想也没想过。
 
 **07:17** - _Saron Yitbarek_
 
 But that could be a recipe for disaster.
+但这可能是灾难的根源。
 
 **07:21** - _Ritika Trikha_
 
 There's a huge volume of COBOL lines of code that are still powering businesses today. At least 1.5 billion new lines of code in COBOL every single year. And I think when you look at the specific industries, it's really interesting. Like there's 50 million lines of code at the IRS. There's 60 million lines of code at the Social Security Administration. And so these businesses and entities are handling some of the most sensitive, important information today, and if we don't continue to power and maintain these mainframes, it could be really destructive.
+如今，仍然有大量的COBOL代码在为驱动企业的业务。 每年至少新增15亿行新COBOL代码。 我认为当您查看特定行业时，非常有趣。 就像美国国税局有5000万行代码。 社会保障局有6000万行代码。 因此，这些单位和实体正在处理一些如今最敏感，重要的信息，如果我们不继续为大型机提供支持和维护，那么它可能真的会被破坏。
 
 **08:04** - _Saron Yitbarek_
 
 So if we can't escape our old infrastructure, and we can't wave a magic wand to rebuild the whole mainframe universe, what do we do? How do coders, who sometimes only think about the future, start coming to terms with the past? We need to start by facing the problem head on.
+因此，如果我们无法摆脱旧的基础设施，又无法挥舞魔杖来重建整个大型机业务，我们该怎么办？ 有时仅仅考虑未来的编码人员该如何开始适应过去？ 我们首先需要直面该问题。
 
 **08:25** - _Ritika Trikha_
 
 You know, younger generations are going to have to pick up these skills. Or, there has to be some sort of modernization of these mainframes. Either way, this problem isn't going to go away. That's why COBOL is relevant.
+您知道，年轻一代将不得不重拾这些技能。 或者，必须对这些大型机进行某种现代化。 无论哪种方式，这个问题都不会消失。 这就是为什么COBOL是相关的。
 
 **08:35** - _Saron Yitbarek_
 
 It's not going to be easy. Ritika figures we've ignored the problem for too long already.
+这并不容易。 Ritika认为我们已经忽略这个问题太长时间了。
 
 **08:42** - _Ritika Trikha_
 
 It's incredibly expensive, hard, and the risk is incredibly high to replace billions of lines of COBOL. It's mission-critical code like Social Security and financial information. And COBOL was specifically designed for these types of large volumes of transactions. So it was designed for business transactions by Grace Hopper in the 60s. And “if it's not broken, why try to fix it” has been the mentality since the 60s, and now we're at a point where we just have decades of very valuable, high volumes of data running on COBOL.
+这非常昂贵，艰巨，并且替换数十亿行COBOL代码的风险也非常高。 它是关键任务代码，像社会保障和财务信息。 COBOL是专门为此类大交易量而设计的。 因此，它由Grace Hopper在60年代为商业交易而设计。 自60年代以来，一直存在“如果没有损坏，为什么要修复它”的说法，现在我们处于这样一个关头，即延续了数十年的大量的高价值数据运行在COBOL上。
 
 **09:22** - _Saron Yitbarek_
 
 In a way, Ritika's calling for a cultural shift. A change in attitude about what's in and what's out. As the world of development starts to actually gain a deeper and deeper past, we have to become more in touch with our own history. You can't escape the aging infrastructure. And that means you can't ignore the history of languages either.
+从某种意义上说，Ritika呼吁文化转变。内在和外在的态度发生变化。 由于发展的世界开始获得越来越久的历史，我们必须更加与自己的历史保持联系。 您无法摆脱老化的基础设施。 这意味着您也不能忽略语言的历史。
 
 **09:47** - _Ritika Trikha_
 
 Something has to be done. When I was at HackerRank, I saw firsthand how many banks and financial institutions are hurting, and desperate almost, for COBOL developers. It's not a problem that's going to go away, and I think either there has to be some sort of modernization of the systems, or we need to keep training folks and incentivizing it. I personally think there's going to be a day where COBOL is actually in again. Really, what's going to happen when all of the developers with COBOL knowledge retire, and no new younger generations of developers are learning COBOL? Something has to give, right? So there needs to be more of a systematic and institutionalized change when it comes to shifting away from COBOL and into the new cloud-based infrastructures.
+有些事情必须得做。 当我在HackerRank时，我亲眼看到了多少银行和金融机构对COBOL开发人员造成伤害，并且几乎绝望了。 这不是一个将被解决的问题，我认为要么对系统进行某种现代化，要么我们继续培训人员并激励他们。 我个人认为将会有COBOL再次出现的一天。 真的，当所有拥有COBOL知识的开发人员退休并且没有新一代的开发人员学COBOL时，将会发生什么？ 一定要付出，对吧？ 因此，还需要进行更多的系统化和制度化的变革才能开始从COBOL转向新的基于云的基础设施。
 
 **10:37** - _Saron Yitbarek_
 
