@@ -7,23 +7,23 @@
 [#]: via: (https://www.redhat.com/en/command-line-heroes/season-4/personal-computers)
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
-Command Line Heroes: Season 4: Personal Computers: The Altair 8800 and the Dawn of a Revolution
+代码英雄：第4季：个人电脑：牛郎星 8800 和革命的曙光
 ======
 **00:04** - _Saron Yitbarek_
 
-It's a cold and frosty December afternoon in 1974. Two young men are walking across Harvard Square. They're probably having a conversation about their favorite subject, computers.
+1974年12月一个严寒的下午，两个年轻人穿过哈佛广场，他们很可能在谈论他们最感兴趣的话题，电脑。
 
 **00:19** - _Saron Yitbarek_
 
-As the men pass a newsstand, they see the blue lettering of Popular Electronics peeking out from the other magazines. They stop and check it out. On the cover is a photo of a metal box, with a dozen switches and small lights on the front. The headline reads, "World's first minicomputer kit. Altair 8800." The box doesn't look like much. Bare bones really, meant for hobbyists and tinkerers. But it looked like something more to these two guys. It looked like the machine they'd been waiting for, because they had the perfect software for this new hardware. At the same time, they were a little freaked out. What if others had the same idea they did and were working on it already? They had to move fast. The names of those two command line heroes? Bill Gates and Paul Allen. Little did they know that the Altair 8800 would be the gateway machine to a personal computer revolution. It would change their lives, and ours, forever. That new machine would do one other thing. It would kickstart the debate between free and proprietary software, with the help of a mysterious thief. Stay tuned.
+当他们经过报摊，看到杂志上露出了流行电子产品的蓝色字体。他们停了下来，封面上是一张金属盒子的照片，在它的前面有十几个开关和小灯。标题上写着：“世界上第一台小型计算机套件，牛郎星 8800。” 这盒子看上去并不怎么样，就像是给业余爱好者和修理工准备的。但是对这两个家伙来说意味更多，它就像他们一直等待的机器，因为他们正好有完美契合这种新硬件的软件。同时，他们也有一些惊慌，如果有其他人也有相同的想法并且已经开始实施的话怎么办呢？他们必须尽快行动起来了。那两个代码英雄是谁呢？比尔·盖茨和保罗·艾伦。他们并不知道牛郎星 8800 将会是个人电脑革命的门户设备，它将永远的改变我们和他们的生活。那台新机器还能做另外一件事，在一个神秘的小偷的帮助下，它将引发自由软件和专有软件之间的争论，敬请期待。
 
 **01:50** - _Saron Yitbarek_
 
-In episode 1 of our season on hardware, we learned about timesharing minicomputers, like the Eagle. In episode 2, we heard about the GE-225 mainframe. But both those machines were still limited by their size, cost, and processing power. This episode is about everything shrunk down, to the micro computer. It all starts with the DIY kits that were mailed to hobbyists, like the one that graced that fateful cover of Popular Electronics.
+在我们硬件这一季的第一集，我们学习了分时小型计算机，比如老鹰。在第二集，我们听说了GE-225主机。但这些机器仍然受制于它们的尺寸、价格以及处理能力。这一集讲的是所有关于可以缩小到微型计算机的东西。这一切都是从寄给业余爱好者的DIY套件开始的，就像是给流行电子产品未来影响锦上添花。
 
 **02:23** - _Saron Yitbarek_
 
-Those simple kits inspired the revolutionary idea that computers could sit inside your own home. That computers were yours to own and experiment with. It was the birth of a new mass market piece of hardware. The personal computer. I'm Saron Yitbarek, and this is Command Line Heroes. An original podcast from Red Hat.
+这些简单的套件激发了一种革命性的想法，电脑可以放在你自己的家里。这台电脑是你的，并且可以用来做实验。这是一个全新的面向大众硬件部件的诞生，个人电脑。我是 Saron Yitbarek，代码英雄，红帽的原创播客。
 
 **02:51** - _Saron Yitbarek_
 
