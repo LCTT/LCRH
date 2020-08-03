@@ -200,55 +200,67 @@ Pike，Griesemer和Thompson在Google工作之后，他们发现了一个严重�
 **12:59** - _Carmen Andoh_
 
 The problems were being introduced by things like multicore processors, and network systems, and massive computation clusters, and the web programming model. And then, also, just the growth of the industry and the number of programmers which were going into the thousands and the tens-of-thousands by 2010. And so all of the programming languages up until that point were being worked around, rather than addressing things head on.
-多核处理器，网络系统，海量计算集群和Web编程模型等问题正在引入这些问题。 然后，也就是这个行业的增长和到2010年将要发展到成千上万的程序员数量。因此，直到那时所有的编程语言都在研究而不是在解决。 直面事情。
+多核处理器，网络系统，海量计算集群和Web编程模型等正在引入这些问题。 而且，也就是这个行业的增长和程序员数量在2010年将要达到成千上万。因此，直到那时所有的编程语言都是在规避问题而不是在正面解决问题。
 
 **13:24** - _Saron Yitbarek_
 
 Eventually, you reach a breaking point and something's got to give.
+最终，将达到一个临界点，必须开始改变。
 
 **13:30** - _Carmen Andoh_
 
 Hey, we hated C++ and I said, "Well, let's see if we could invent something new."
+嘿，我们讨厌C++，我说：”好吧，让我们看看我们是否能发明些新的东西“。
 
 **13:37** - _Saron Yitbarek_
 
 That new language would need to be exquisitely adapted to our latest infrastructure.
+新语言需要完美地适应我们最新的基础设施。
 
 **13:43** - _Carmen Andoh_
 
 What happened with the cloud, which was starting to come of age in 2005, was that you now no longer had to handle your own computes, you sort of were renting it elsewhere, and you get a distributed system. But what happens in a distributed system, and in a cloud, is that you have problems of concurrent messaging between distributed systems. You need to make sure that you have no problems with asynchronicity. Go is a programming language that is asynchronous by default. Basically this means that every operation you perform, like sending all these different messages to another in the system, it's done without waiting for the other system to respond back to you. So it can handle multiple messages at any given time.
+2005年云技术到来以后，您不再需要自己的计算机，任意地方只需要租用它，您就可以得到一个分布式系统。 但是分布式系统和云的问题是，在分布式系统之间存在并发消息传递问题。 您需要确保采用异步对您来说没有问题。 Go缺省就是异步的编程语言。 基本上，这意味着您执行的每个操作（例如将所有这些不同的消息发送给系统中的另一个计算机）都无需等待另一个机器对您的响应即可完成。 因此，它可以在任何给定时间处理多个消息。
 
 **14:28** - _Carmen Andoh_
 
 And that said, cloud computing is distributed. And so Go was developed to address this exact need. Go became, early on, one of the standard ways of doing this kind of distributed computing. And that's why I think that it picked up a lot of the developer mindshare immediately. Go absolutely is the language of cloud infrastructure, both in its design, but also in the ecosystem of all the cloud infrastructure tooling, and building blocks that have sprung up in the last decade.
+就是说，云计算是分布式的。 因此开发了Go来满足这一确切的需求。 Go早就成为进行这种分布式计算的标准方法之一。 这就是为什么我认为它立即引起了开发人员的广泛关注。 Go绝对是云基础设施的语言，无论是其设计，还是所有云基础设施工具以及在过去十年中如雨后春笋般出现的模块的生态。
 
 **15:06** - _Saron Yitbarek_
 
 Soon, major applications like Kubernetes were being written in Go. Google also created Go Cloud, an open source library and set of tools that made Go even more attractive. It became clear, this was the language of a brand new ecosystem. It was the language of the cloud. And it definitely didn't hurt that the creators had reputations for developing languages that lasted.
+很快，诸如Kubernetes之类的关键应用都用Go编写了。 谷歌还创建了Go云，这是一个开源库和一系列工具，使得Go更具吸引力。 很显然，它是新生态系统的语言。 它是云的语言。 创造者因开发持久的语言而享有声誉，这绝对没有坏处。
 
 **15:33** - _Carmen Andoh_
 
 I think that the rest of the industry said, "Hey, I don't think that this is going to be going away anytime soon," and the inventors of the language also happen to invent languages that are now in their 50th year, or 60th year.
+我认为业界的其他人会说：“嘿，我认为这不会很快消失。”这种语言的发明者恰巧也发明了已经有50年或60年历史的语言。
 
 **15:47** - _Saron Yitbarek_
 
 Carmen Andoh is a program manager for the Go team at Google.
+Carmen Andoh是谷歌Go团队的项目经理。
 
 **15:54** - _Saron Yitbarek_
 
 So we have a new language, Go, designed to deliver the concurrency that cloud infrastructure makes necessary. Sounds great. And Go’s designers tend to create languages that last for a good half century. Also great. But my question is, what will that really mean 50 years from now when Go is more like COBOL? What will it mean when the world is teeming with legacy Go code that only older developers understand? Are we going to be prepared for a time when today's cloud infrastructure is aging? Are we learning lessons from COBOL and the world of mainframe that could help us design a better future for Go and the cloud?
+因此，我们有了一种新的语言Go，旨在提供云基础设施必需的并发性。 听起来不错。 Go的设计师倾向于创造可以持续半个世纪的语言。 也很棒。 但是我的问题是，从现在起50年后，当Go更像是COBOL时，这到底意味着什么？ 当世界上充满了只有老开发人员才能理解的旧版Go代码时，这意味着什么？ 在当今的云基础设施老化的时候，我们是否会做好准备？ 我们是否正在从COBOL和大型机领域吸取教训，可以帮助我们为Go和云设计更美好的未来？
 
 **16:40** - _Saron Yitbarek_
 
 Luckily, I found exactly the right person to ask all these questions. And that's next.
+幸运的是，我找到了问所有这些问题的合适人选。 下面就来看看。
 
 **16:51** - _Saron Yitbarek_
 
 How do we future-proof our languages? We know they're tied to the infrastructure of their day. And we know that new infrastructures are bound to replace the old ones as decades roll by. So what are we doing today to keep things running smoothly tomorrow?
+我们如何使我们的语言能面向未来？ 我们知道他们与当今的基础设施息息相关。 而且我们知道，随着数十年的发展，新的基础设施必将取代旧的基础设施。 那么，我们今天做些什么以确保将来能平滑演进？
 
 **17:10** - _Kelsey Hightower_
 
 I'm Kelsey Hightower, I'm at Google, I'm a developer advocate and I work bringing open technologies and turning them to products on Google Cloud.
+我是Kelsey Hightower，我在Google是一名开发人员拥护者，我致力于引入开放性技术并将它们应用于Google Cloud上的产品。
 
 **17:19** - _Saron Yitbarek_
 
