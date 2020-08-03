@@ -168,30 +168,39 @@ Something has to be done. When I was at HackerRank, I saw firsthand how many ban
 **10:37** - _Saron Yitbarek_
 
 Ritika Trikha is a technology writer based in San Francisco.
+Ritika Trikha是一名旧金山的技术编辑。
 
 **10:49** - _Saron Yitbarek_
 
 So what about those cloud-based infrastructures Ritika mentioned? Are the infrastructures we're building today going to chain future generations to particular languages, the way we're still tied to COBOL? Amazon Web Services (AWS) may be the biggest single piece of cloud infrastructure, launched in 2006. Google Cloud Platform arrived in 2008, and Microsoft Azure started in 2010. The Go language, with its focus on concurrency, was made to thrive inside all that new cloud infrastructure. It's a language of its time.
+那么Ritika提到的那些基于云的基础设施又会怎么样呢？ 我们今天建立的基础设施是否会将后代绑定到特定的语言，像我们仍绑定到COBOL一样？ 亚马逊2006年推出的Web Services（AWS）可能是最大的单片云设施。Google云平台于2008年问世，微软Azure于2010年问世。Go语言以并发为重点，定位于在新的云基础设施上蓬勃发展。 这是这个时代的语言。
 
 **11:26** - _Carmen Andoh_
 
 Hi, my name is Carmen Andoh, and I am a program manager for the Go team at Google.
+嗨，我叫Carmen Andoh，我是谷歌Go小组的项目经理。
 
 **11:34** - _Saron Yitbarek_
 
 Carmen has an insider's understanding of how Go is tied to today's infrastructure. It starts with the creators of Go having some strong ties to the history of languages.
+Carmen对Go语言与今天的基础设施有怎么的联系有内幕消息。 它起源于Go的创作者和语言历史的紧密联系。
 
 **11:47** - _Carmen Andoh_
 
 Robert Pike, Robert Griesemer, and Ken Thompson. Those names have kind of come through ever since the 1960s. So Ken Thompson invented the programming language B, and then he would go on to invent the UNIX operating system on a summer off. And Rob Pike invented UTF-8, which is a string in coding. He also invented ASCII. He helped co-author the UNIX programming environment. So these two had been coworkers for a very, very long time, and they had been looking at and inventing operating systems in previous programming languages, including C, which Ken Thompson would eventually help write with Dennis Ritchie.
 
+Robert Pike，Robert Griesemer和Ken Thompson。 自从1960年代以来，这些名字就已经出现了。 Ken Thompson发明了B语言，然后他在夏天休假后继续发明UNIX操作系统。 Rob Pike发明了字符串编码UTF-8和ASCII。 他帮助Ken Thompson共同编写了UNIX编程环境。 因此，这两个人已经合伙很长时间了，他们一直在用以前的编程语言(包括Ken Thompson和Dennis Ritchie最终帮助编写的C在内)研究和发明操作系统。
+
 **12:28** - _Saron Yitbarek_
 
 Once Pike, Griesemer, and Thompson were all working at Google, they discovered a serious problem. Getting concurrency at scale just wasn't happening. People were waiting hours for a bill to compile. They were working in C++, and had to write all these callbacks and event dispatchers. It was 2009, and our infrastructure was changing again. Languages like C++ were becoming less and less in tune with that new reality.
 
+Pike，Griesemer和Thompson在Google工作之后，他们发现了一个严重的问题。 并没有产生大规模并发。 人们等待了几个小时来汇总草案。 他们使用的是C++，并且不得不编写所有这些回调和事件派发器。 那是2009年，而且我们的基础设施再次发生了变化。 诸如C++之类的语言与新的现状越来越不协调。
+
 **12:59** - _Carmen Andoh_
 
 The problems were being introduced by things like multicore processors, and network systems, and massive computation clusters, and the web programming model. And then, also, just the growth of the industry and the number of programmers which were going into the thousands and the tens-of-thousands by 2010. And so all of the programming languages up until that point were being worked around, rather than addressing things head on.
+多核处理器，网络系统，海量计算集群和Web编程模型等问题正在引入这些问题。 然后，也就是这个行业的增长和到2010年将要发展到成千上万的程序员数量。因此，直到那时所有的编程语言都在研究而不是在解决。 直面事情。
 
 **13:24** - _Saron Yitbarek_
 
