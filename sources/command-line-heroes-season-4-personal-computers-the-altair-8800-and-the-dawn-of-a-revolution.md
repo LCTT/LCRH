@@ -15,83 +15,83 @@
 
 **00:19** - _Saron Yitbarek_
 
-当他们经过报摊，看到杂志上露出了流行电子产品的蓝色字体。他们停了下来，封面上是一张金属盒子的照片，在它的前面有十几个开关和小灯。标题上写着：“世界上第一台小型计算机套件，牛郎星 8800。” 这盒子看上去并不怎么样，就像是给业余爱好者和修理工准备的。但是对这两个家伙来说意味更多，它就像他们一直等待的机器，因为他们正好有完美契合这种新硬件的软件。同时，他们也有一些惊慌，如果有其他人也有相同的想法并且已经开始实施的话怎么办呢？他们必须尽快行动起来了。那两个代码英雄是谁呢？比尔·盖茨和保罗·艾伦。他们并不知道牛郎星 8800 将会是个人电脑革命的门户设备，它将永远的改变我们和他们的生活。那台新机器还能做另外一件事，在一个神秘的小偷的帮助下，它将引发自由软件和专有软件之间的争论，敬请期待。
+当他们经过报摊，看到杂志上露出了流行电子产品的蓝色字体。他们停了下来，封面上是一张金属盒子的照片，在它的前面有十几个开关和小灯。标题上写着：“世界上第一台小型计算机套件，牛郎星 8800。” 这盒子看上去并不怎么样，就像是给爱好者和修理工准备的。但是对这两个家伙来说意味更多，它就像他们一直等待的机器，因为他们正好有完美契合这种新硬件的软件。同时，他们也有一些惊慌，如果有其他人也有相同的想法并且已经开始实施的话怎么办呢？他们必须尽快行动起来了。那两个代码英雄是谁呢？比尔·盖茨和保罗·艾伦。他们并不知道牛郎星 8800 将会是个人电脑革命的门户设备，它将永远的改变我们和他们的生活。那台新机器还能做另外一件事，在一个神秘的小偷的帮助下，它将引发自由软件和专有软件之间的争论，敬请期待。
 
 **01:50** - _Saron Yitbarek_
 
-在我们硬件这一季的第一集，我们学习了分时小型计算机，比如老鹰。在第二集，我们听说了GE-225主机。但这些机器仍然受制于它们的尺寸、价格以及处理能力。这一集讲的是所有关于可以缩小到微型计算机的东西。这一切都是从寄给业余爱好者的DIY套件开始的，就像是给流行电子产品未来影响锦上添花。
+在我们硬件这一季的第一集，我们学习了分时小型计算机，比如老鹰。在第二集，我们听说了GE-225主机。但这些机器仍然受制于它们的尺寸、价格以及处理能力。这一集讲的是所有关于可以缩小到微型计算机的东西。这一切都是从寄给爱好者的DIY套件开始的，就像是给流行电子产品未来影响锦上添花。
 
 **02:23** - _Saron Yitbarek_
 
-这些简单的套件激发了一种革命性的想法，电脑可以放在你自己的家里。这台电脑是你的，并且可以用来做实验。这是一个全新的面向大众硬件部件的诞生，个人电脑。我是 Saron Yitbarek，代码英雄，红帽的原创播客。
+这些简单的套件激发了一种革命性的想法，电脑可以放在你自己的家里。这台电脑是你的，并且可以用来做实验。这是一个全新的面向大众硬件部件的诞生，个人电脑。我是沙隆·伊特巴雷克，代码英雄，红帽的原创播客。
 
 **02:51** - _Saron Yitbarek_
 
-Let's go back to the late '60s. Out to the New Mexico desert, where the Altair 8800 was born. A man named Ed Roberts had co-founded a small electronics parts company, MITS, which stood for Micro Instrumentation and Telemetry Systems. Through hobbyist magazines, they could sell gadgets to the new market obsessed with radio controlled airplanes and model rockets.
+让我们回到60年代末，在新墨西哥沙漠，牵牛星 8800 诞生了。一个名叫埃德·罗伯茨的人与人合伙创立了一家立足于微型仪器和遥测系统的小型电子零件公司，MITS。通过爱好者杂志，他们可以向痴迷于无线电控制飞机和火箭模型的新市场出售工具。
 
 **03:21** - _Saron Yitbarek_
 
-By 1971, Ed was running the company solo. He decided to pivot toward electronic calculators—a brand new market at the time. MITS would offer the first hobbyist calculator. But Ed had miscalculated. Here's his original co-founder, Forrest Mims.
+1971年，埃德独立经营着公司。他决定将重心转向电子计算器-在当时这是一个全新的市场。MITS将提供第一台爱好者计算器。但是埃德失算了，他最初的联合创始人，阿甘·米姆斯。
 
 **03:42** - _Forrest Mims_
 
-Companies like Sony and Sharp and Texas Instruments, they were building professional pocket calculators, and selling them for cheaper than Ed could sell them. That created a near disaster. He was nearly bankrupt, and he didn't know what to do.
+像索尼、夏普和德州仪器这样的公司，他们正在制造专业的袖珍计算器，并以低于埃德的价格出售。这几乎造成了一场灾难。他濒临破产并且不知道该怎么办。
 
 **03:57** - _Forrest Mims_
 
-Well, one day he learned about a new microprocessor that had been developed by Intel. It was advertised in Electronics Magazine. I still remember the ad. The microprocessor was called the Intel 8080.
+有一天，他了解到英特尔公司开发了一种新型的微处理器并在电子杂志上登了广告。我还记得那则广告，微处理器叫做英特尔 8080。
 
 **04:09** - _Saron Yitbarek_
 
-Ed got a great deal on a bulk purchase of Intel microprocessors, because nobody else was buying them at that point. Then he designed a full scale computer around that microprocessor.
+埃德大批量采购英特尔微处理器，因为当时没有人买。然后他通过微处理器设计了一台全尺寸计算机。
 
 **04:23** - _Forrest Mims_
 
-He called me one night and said, "Look, I've got a new product I want you to see." So I got on the bicycle and rode over to MITS. There was this blue box on a table. He said, "Well, here it is." I said, "Well, what is it?" He said, "It's a micro computer." I said, "You're kidding." He says, "Nope, it's a micro computer, and Popular Electronics has accepted it, and they want an article on it."
+一天晚上，他给我打电话说：“我有一个新产品想让你看看。”于是我骑上自行车，骑到了MITS。桌子上有一个蓝色的盒子。他说，“它在这儿。”我说，“这是什么？”他说，“这是一台微型计算机。”我说，“你在开玩笑吧。”他说，“不，这是一台微型计算机，流行电子已经接受它了，并且他们想要一篇关于它的文章。
 
 **04:43** - _Saron Yitbarek_
 
-Ed's goal was to create a very basic computer kit, for the same hobbyist market that had been into model airplanes and rockets. He would sell it mail order through Popular Electronics Magazine. When you received the kit, inside would be a bag full of metal parts, including a special tube that contained the all-important Intel 8080 microprocessor chip. Ed priced the whole kit at around $400.
+埃德的目标是为那些曾经在模型飞机和火箭的爱好者市场创造一个非常基本的计算机套件。他会通过流行电子杂志邮购这个套件。当你收到这个套件时，里面会有一个装满金属零件的袋子，其中包括一个包含了非常重要的英特尔 8080 微处理器芯片的特殊管子。埃德把整套设备的价格定在400美元左右。
 
 **05:14** - _Forrest Mims_
 
-He had one question. He said, "How many do you think will sell?" Based on all the previous things that we sold through Popular Electronics, I said, "Well Ed, golly. Maybe a few hundred." He looked so sad when I said that. To this day I feel guilty. After that was in Popular Electronics Magazine, his parking lot in front of their little building was jammed with cars. They sold 5000 of those computers. It was named the Altair 8800. The name was dreamed up by the staff at Popular Electronics Magazine. Ed didn't know what to call it.
+他有一个问题，他说，“你觉得能卖多少？”基于之前我们通过流行电子销售的所有东西，我说，“好吧，埃德，天哪，也许几百台吧。”当我这么说的时候他看起来很伤心。直到今天我都感到内疚。在流行电子杂志刊登之后，在他们那幢小楼前的停车场里挤满了汽车。他们卖了5000台那种电脑。它被命名为牛郎星 8800。这个名字是流行电子杂志的工作人员想出来的。埃德不知道该怎么称呼它。
 
 **05:50** - _Saron Yitbarek_
 
-The Altair 8800 was Ed Roberts' hail mary move to save his company, and it was the best decision he'd ever make. He didn't realize it at the time, but he'd done something truly significant. Because by placing the Altair in the open market, at an affordable price, he'd exposed his machine to a much larger audience than the hardcore electronic hobbyist crowd. His Altair opened up the potential for a whole new group of consumers—those who never imagined they could own a computer of their own.
+牛郎星 8800 是埃德·罗伯茨为了拯救他的公司而采取的一项重大举措，这是他做过的最好的决定。他当时没有意识到，但他做了一些真正有意义的事情。因为通过将A牛郎星以一个可承受的价格投放到公开市场，他让自己的机器暴露在比铁杆电子爱好者更多的观众面前。他的牛郎星打开了一个全新的从未想过能拥有自己电脑的消费者群体的潜能。
 
 **06:28** - _Saron Yitbarek_
 
-More than that, a computer of their own that they could tinker with. It was the start of something huge. But there was still one missing ingredient. Software. This hardware needed the right software to come alive.
+更重要的是，他们可以修补自己的电脑。这是一件大事的开始。但还有一个缺少的成分，软件。这个硬件需要正确的软件才能存活。
 
 **06:51** - _Saron Yitbarek_
 
-Back in Cambridge, Massachusetts, Bill Gates and Paul Allen had just spotted the Altair 8800 on the cover of the latest issue of Popular Electronics. Before they took that fateful walk across Harvard Square, Paul had been bugging Bill about those new Intel chips, the 8080s. He was looking for a way to create software using those chips.
+回到马萨诸塞州的剑桥，比尔·盖茨和保罗·艾伦刚刚在最新一期流行电子的封面上发现了牛郎星 8800。在他们进行哈佛广场的那次决定性的散步之前，保罗一直烦恼于比尔关于那些英特尔 8080 的新芯片，他在寻找一种使用这些芯片来创建软件的方法。
 
 **07:16** - _Saron Yitbarek_
 
-Bill and Paul programmed in BASIC. As we learned in our last episode, BASIC would never have been created and made popular if it hadn't been for the GE-225 mainframe. For Bill and Paul, BASICs’ simplicity made it an ideal language for something with restricted memory and processing power, like the 8080.
+比尔和保罗用BASIC编程。正如我们在上一集中了解到的，如果没有GE-225主机，BASIC永远不会被创建并流行起来。对于比尔和保罗来说，BASIC的简单性使得它成为受限于内存和处理能力对象的理想语言，比如8080。
 
 **07:38** - _Saron Yitbarek_
 
-When they saw that magazine cover, saw the Altair wrapped around that 8080 chip, they realized they could write software in BASIC that gave that machine legs. They quickly reached out to Ed Roberts at MITS. Forrest Mims remembers that call.
+当他们看到杂志封面，看到8080芯片包裹的牵牛星时，他们意识到他们可以用BASIC编写软件来支撑机器。他们很快联系了MITS的埃德·罗伯茨。阿甘·米姆斯记得那个电话。
 
 **07:56** - _Forrest Mims_
 
-Paul says, "We've got to call the company and tell them we've got BASIC," and Gates agreed. But Gates didn't want to do the phone call, because he had a much younger voice, and he looked like he was a teenager. Paul Allen makes the call to Ed and said, "We've got BASIC for your Altair." Ed says, "Well everybody's telling me they've got BASIC. If you've got BASIC, deliver it, and I'll consider it."
+保罗说，“我们得给公司打电话，告诉他们我们已经拥有BASIC了,”盖茨同意了。但盖茨不想来打这个电话，因为他的声音太年轻了，而且他看起来像个青少年。保罗·艾伦打电话给埃德说：“我们已经为你的牛郎星准备了BASIC。”埃德说，“每个人都告诉我他们已经拥有BASIC了。”。如果你有BASIC，把它送过来，我会考虑的。”
 
 **08:17** - _Forrest Mims_
 
-They didn't have BASIC. So they spent a month borrowing computer time without anybody's knowledge from either MIT or Harvard, and they developed BASIC for the Altair without ever seeing one.
+他们并没有BASIC。因此他们在麻省理工学院和哈佛大学都不知情的情况下花了一个月借用了计算机的时间，为牛郎星开发了从未见过的BASIC软件。
 
 **08:27** - _Saron Yitbarek_
 
-Bill and Paul knew they could program the code for the Altair. But in reality, they hadn't even started. So yes, they worked day and night in marathon sessions to adapt BASIC for the machine. Using the published specifications, they created a simulator on a DEC PDP-10 mainframe, to emulate the Altair. Then they developed a BASIC interpreter.
+比尔和保罗知道他们可以为牛郎星编写代码。但实际上，他们还没有开始。所以，是的，他们以马拉松的模式日以继夜地为了机器改写BASIC。使用发布的规范，他们在DEC PDP-10主机上创建了一个模拟器，以模拟牛郎星，然后他们开发了一个BASIC解释程序。
 
 **08:53** - _Saron Yitbarek_
 
-The Altair 8800 without a BASIC interpreter was essentially a metal box with switches and lights. Not very useful. With the addition of that BASIC interpreter though, suddenly the machine had a real future.
+没有BASIC解释的牵牛星 8800 基本上就是一个带有开关和灯的金属盒，没什么用。然而随着BASIC解释程序的加入，这台机器突然有了真正的未来。
 
 **09:10** - _Saron Yitbarek_
 
