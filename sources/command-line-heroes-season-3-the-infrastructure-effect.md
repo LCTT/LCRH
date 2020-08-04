@@ -275,50 +275,52 @@ Kelsey花了大量时间思考编程的未来。 我很好奇，是否有一天�
 **18:15** - _Saron Yitbarek_
 
 So in that case then, do we need to actively push people towards COBOL? If we're developing these new languages for these new problems and they're highly specialized, and COBOL's still sticking around, do we need to encourage folks to pick it up so we can maintain our legacy code?
-那么，在那种情况下，我们是否需要积极推动人们走向COBOL？ 如果我们正在为这些新问题开发这些新语言并且它们是高度专业化的，并且COBOL仍在坚持，我们是否需要鼓励人们选择它，以便我们可以维护我们的旧代码？
+那么，在那种情况下，我们是否需要积极推动人们走向COBOL？ 如果我们正在为这些新问题开发新语言并且它们是高度定制化的，并且COBOL仍在坚持，我们是否需要鼓励人们选择它，以便我们可以维护我们的旧代码？
 
 **18:32** - _Kelsey Hightower_
 
 Well, I think that's going to be a challenge for the enterprise, right? So you've invested 10, 20 years in COBOL, and there is no one actively thinking about learning some new COBOL. Or you don't come out of college just like, "I'm going to double-down..."
-好吧，我认为这将对企业构成挑战，对吗？ 因此，您已经在COBOL上投入了10到20年的时间，没有人积极考虑学习一些新的COBOL。 否则您就不会像“我要加倍努力……”那样从大学毕业。
+好吧，我认为这将对企业构成挑战，对吗？ 如此，您已经在COBOL上发展了10到20年，没有人会主动想学习一些新的COBOL。 或者您不会像“我要加倍努力……”那样从大学毕业。
 
 **18:45** - _Saron Yitbarek_
 
 Right.
+是的。
 
 **18:46** - _Kelsey Hightower_
 
 "...on this language that's older than my parents." So in that world, you have to ask yourself, what is the risk of continuing on with COBOL? Is it still relevant going forward? I think it is still relevant for certain types of workloads, but we have to ask ourselves a question, is it time to progress? Is it time to evolve a little bit? So if you still have billions of lines of COBOL, you're in the situation where you're going to have to try to find all the COBOL talent that's remaining and bring them in house, but maybe we start to think about what can other languages learn from COBOL, and incorporate some of that functionality and libraries into other languages.
-“ ...这种语言比我父母的年龄大。” 因此，在那个世界上，您必须问自己，继续使用COBOL的风险是什么？ 未来是否仍然有意义？ 我认为它仍然与某些类型的工作负载相关，但是我们必须问自己一个问题，现在是时候了吗？ 是时候发展一点了吗？ 因此，如果您仍然有数十亿行的COBOL，那么您将不得不寻找剩余的所有COBOL人才并将其纳入内部，但是也许我们开始考虑其他 语言从COBOL学习，并将某些功能和库合并到其他语言中。
+“ ...这种语言比我父母的年龄都大。” 因此，在那个领域，您必须问自己，继续使用COBOL的风险是什么？未来是否仍然有意义？我认为它仍然有益于某些类型的工作负载，但是我们必须问自己一个问题，是时候推进了吗？ 是时候发展一点了吗？ 因此，如果您仍然有数十亿行的COBOL代码，那么您将必须寻找所有剩余的COBOL人才并将其招进来，但也许我们该开始考虑其他语言能从COBOL学习些什么，并将某些功能和库加入到其他语言中。
 
 **19:26** - _Saron Yitbarek_
 
 Life after COBOL, that would be an enormous infrastructure project all on its own. To use my New York subway analogy, it'd be like replacing every underground tunnel. So, going forward, I wanted to know whether we could anticipate those issues, and even do our future selves some favors.
-COBOL之后的生活，那将是一个巨大的基础设施项目。 用我在纽约地铁的比喻，就像要替换每条地下隧道。 因此，展望未来，我想知道我们是否可以预见到这些问题，甚至将来对自己也能有所帮助。
+COBOL终止以后的日子，将会是一个巨大的基础设施项目。用我对纽约地铁的比喻，就像是要替换每条地下隧道。因此，展望未来，我想知道我们是否可以预见到这些问题，甚至将来对自己也能有所帮助。
 
 **19:48** - _Saron Yitbarek_
 
 If we compare the cloud today to mainframes, are we going to end up in the same boat where we have these legacy code bases that are using kind of old but very stable languages, and we have to kind of reach this new point of figuring out if we should move on or stay the same?
-如果我们将今天的云与大型机进行比较，我们是否会在同一条船上最终得到这些旧代码库，这些旧代码库使用的是旧的但非常稳定的语言，因此我们必须达到解决这一新问题的目的。 我们应该继续前进还是保持不变？
+如果我们将今天的云与大型机进行比较，我们是否会在最终到达同一条船上, 有着这些旧代码库, 使用着旧的但非常稳定的语言，而且我们也不得不做出选择的时候。 我们应该继续前进还是保持不变？
 
 **20:05** - _Kelsey Hightower_
 
 So the thing that makes the cloud a bit different, it's not from one manufacturer, right? A lot of cloud providers typically bundle up collections of technology so you have your choice of programming language, you have your choice of programming paradigm, whether you want to event-driven, or it's all web services based on \[HTTP\]. So what that means is you get to choose what you want to program in, and just kind of focus on what gets solved. So data will come in, data will come out, but you choose how you want to process that data.
-所以使云有点不同的是它，不是来自一个制造商的，对吗？ 许多云提供商通常捆绑技术集合，因此您可以选择编程语言，编程范式，无论您是要事件驱动还是基于\ [HTTP \]的所有Web服务。 因此，这意味着您可以选择要编程的内容，而只是专注于要解决的问题。 因此，数据将输入，数据将输出，但是您可以选择处理数据的方式。
+云有点不同的是它不是来自一个制造商，对吗？许多云提供商通常提供了一系列技术集，这样您就可以选择编程语言，编程范式，无论您是要事件驱动还是基于\[HTTP\]的全Web服务。 这意味着您可以选择编程的方式，然后只需专注于要解决的问题。 因此，数据将会输入，数据将会输出，但是您来选择处理数据的方式。
 
 **20:36** - _Kelsey Hightower_
 
 The mainframe typically just kind of had one main interface, right? Like you write this job, and this is how you submit the job, here's how you monitor the job, and here's where it comes out. So that's very limiting of itself. So if you think about some of the newer mainframes, they also support some of the newer technology, so even in the world of mainframe, you start to see the expansion of programming languages you can use to run your jobs.
-大型机通常只有一个主界面，对吗？ 就像您编写这份工作一样，这就是您提交工作的方式，这就是您监控工作的方式，这就是结果。 因此，这本身就是一个限制。 因此，如果您考虑一些较新的大型机，它们也支持某些较新的技术，因此即使在大型机领域，您也开始看到可用于运行作业的编程语言的扩展。
+大型机通常只有一个主界面，对吗？ 就像您编写一份任务一样，这就是您提交任务的方式，这就是您监控任务的方式，这就是结果。 这本身就是一个限制。 如果您考虑一些较新的大型机，它们也会支持些较新的技术，因此即使在大型机领域，您也会开始看到可用于运行任务的编程语言扩展。
 
 **20:58** - _Kelsey Hightower_
 
 So then we start to ask ourselves, okay, given that I have my new choice, when is it time to move on from this particular programming paradigm? So I think we don't get stuck.
-因此，既然我有了新的选择，那么我们开始问自己，好了，什么时候该离开这种特定的编程范例了？ 所以我认为我们不会陷入困境。
+那么我们开始问自己，好吧，假设我有了新的选项，该什么时候离开这种特定的编程范式？ 我认为我们不会陷入困境。
 
 **21:08** - _Saron Yitbarek_
 
 Right.
+是的。
 
 **21:08** - _Kelsey Hightower_
 
