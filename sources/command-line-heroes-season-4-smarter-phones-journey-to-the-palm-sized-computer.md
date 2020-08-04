@@ -1,5 +1,5 @@
 [#]: collector: (bestony)
-[#]: translator: ( )
+[#]: translator: (KeaneQy)
 [#]: reviewer: ( )
 [#]: publisher: ( )
 [#]: url: ( )
@@ -7,11 +7,13 @@
 [#]: via: (https://www.redhat.com/en/command-line-heroes/season-4/smarter-phones)
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
-Command Line Heroes: Season 4: Smarter Phones: Journey to the Palm-Sized Computer
+Command Line Heroes: Season 4: 更智能的电话: 掌上电脑的旅程
 ======
 **00:02** - _Saron Yitbarek_
 
 In the early 90s, a handy software developer took a stack of wood, and carved it into small blocks of various sizes. He carefully compared the weight of each block. And when he found one that felt pocket-sized, he taped a printout of a tiny monitor onto it. Then he tucked the block in his shirt pocket, and walked around with it, to see how it would feel to be attached to a device. He was imagining, in a not so distant future, where we'd all be doing the same thing. If you think that guy's name was Steve Jobs, you're wrong. His name was Jeff Hawkins, and he co-created the PalmPilot. When the iPhone hit the market in 2007, critics and competitors questioned whether a smartphone would succeed.
+
+在20世纪90年代早期，一位心灵手巧的软件开发者将一堆木头分割成不同尺寸的小木块。他仔细的比较了每个木块的重量，找到了一块口袋大小的木块，并把一个极小的显示器捆在这个木块上。随后，
 
 **00:55** - _Saron Yitbarek_
 
