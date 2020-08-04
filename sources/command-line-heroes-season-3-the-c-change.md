@@ -1,5 +1,5 @@
 [#]: collector: (bestony)
-[#]: translator: ( )
+[#]: translator: (QwQ2000)
 [#]: reviewer: ( )
 [#]: publisher: ( )
 [#]: url: ( )
