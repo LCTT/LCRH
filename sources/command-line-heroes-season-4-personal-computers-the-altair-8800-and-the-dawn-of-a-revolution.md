@@ -95,183 +95,183 @@
 
 **09:10** - _Saron Yitbarek_
 
-Just a few weeks later in March, 1975, the code was ready. Paul flew to Albuquerque to hand deliver the demo to Ed Roberts. Bill was up the night before, to make sure they hadn't mis-coded anything. He punched out the final code onto paper tape, and gave it to Paul right before his flight. But 30,000 feet in the air, Paul realized, they forgot one thing.
+就在几个星期后的1975年3月，代码准备好了。保罗飞往阿尔伯克基，亲手将演示文稿交给埃德·罗伯茨。前一天晚上比尔一夜没睡，以确保他们没有任何的代码错误。他将最终代码打在纸带上，并在航班起飞前交给保罗。但是在三万英尺的高空，保罗意识到，他们忘了一件事。
 
 **09:39** - _Forrest Mims_
 
-He realizes he had not developed the coder, or the bootstrap logger, that allows the computer to read the program. He wrote that code on the airplane. That's how brilliant Paul Allen was.
+他意识到他没有开发出允许计算机读取程序的编码器或引导记录器。他在飞机上写下了代码。保罗·艾伦就是这么才华横溢。
 
 **09:53** - _Saron Yitbarek_
 
-Now he was ready. The next day was the demo. Paul was going to test their code on a real Altair for the very first time. Here's Bill Gates in an old video from 1994, talking about the moment Paul Allen loaded that paper tape at MITS.
+现在他准备好了。第二天是演示。保罗将第一次在一台真正的牛郎星上测试他们的代码。1994年比尔·盖茨在一段旧影片中，谈到保罗·艾伦在MITS读取纸带的那一刻。
 
 **10:13** - _Bill Gates_
 
-The first time, for some reason it didn't work. The second time they loaded it in, it worked. Of course the simulator, it's very slow. Because you go through lots of instructions to a single instruction. So actually, the real machine, even though it's such a simple little microprocessor, was faster than our PDP-10 simulator. About five times faster.
+第一次尝试，因为某种原因代码没有工作。当他们第二次尝试读取它，它工作了。当然这是模拟器，速度非常的慢。因为你将通过大量的指令才能得到一条指令。所以实际上，真正的机器，即使它是一个简单的微处理器，也比PDP-10模拟器要快，大约要快五倍。
 
 **10:32** - _Bill Gates_
 
-So to Paul, when it finally came up and it said, "Ready," and he typed in a program, "Print two plus two," it worked. He had it print out squares and sums, and things like that. He and Ed Roberts, the head of this company, sat there. They were amazed by, this thing worked. I mean, Paul was amazed that our part had worked, and Ed was amazed that his hardware worked.
+当它最终出现“准备好了”的提示时，保罗输入了一个程序，“打印二加二”，它成功了。他让它打印出类似于平方和求和之类的结果。他和公司负责人埃德·罗伯茨坐在那里。他们对这件事都很惊讶。我的意思是，保罗于他们的工作，而艾德惊讶于他的硬件能够工作。
 
 **10:55** - _Saron Yitbarek_
 
-Yes. Paul Allen and Bill Gates' BASIC interpreter worked like a charm on the Altair. An amazing accomplishment.
+是的，保罗·艾伦和比尔·盖茨的BASIC编译器在牛郎星上发挥了巨大的作用。这是一个惊人的成就。
 
 **11:02** - _Saron Yitbarek_
 
-Ed Roberts was impressed. He was so impressed that...
+埃德·罗伯茨对此印象深刻。他对此是如此的印象深刻。。。
 
 **11:08** - _Forrest Mims_
 
-He hired Paul Allen on the spot to be his vice president for software development.
+他当场聘请保罗·艾伦担任他的软件开发副总裁。
 
 **11:13** - _Saron Yitbarek_
 
-Paul Allen moved to New Mexico pretty soon after that to start his new job. As for Bill, he went back to Harvard. He was still a student after all.
+保罗·艾伦开始他新的工作后不久就搬到新墨西哥州。至于比尔，他回到了哈佛。毕竟他还是个学生。
 
 **11:23** - _Forrest Mims_
 
-But Paul Allen convinced Gates to come back the summer of '75 and work with BASIC, and that's when they developed a company—they called it Micro-soft with a hyphen, Micro-soft. They eventually left out the hyphen.
+但是保罗·艾伦还是了说服盖茨在75年的夏天回来和为BASIC工作，他们开了一家公司，使用了一个连字符，将它命名为Micro-soft。最终他们省略了连字符。
 
 **11:36** - _Saron Yitbarek_
 
-MITS became Bill and Paul's very first customer when it licensed their BASIC interpreter and agreed to distribute their code with the machine. They called the software Altair BASIC and it became the first piece of software bundled with a personal computer. Now they just have to sell the thing.
+当MITS授权了他们的BASIC解释器并同意将他们的代码与机器一起发布时，MITS成为了别人和保罗的第一个客户。他们称这套软件为牛郎星 Basic，它成为第一个与个人电脑捆绑的软件。现在他们只需要出售它就好。
 
 **11:57** - _Forrest Mims_
 
-What did Ed do? Well, they bought a big motorhome and made it into a traveling sales device, a traveling office to sell their computers. And they would drive this thing around the country and stop at different cities and have demonstrations and that attracted huge numbers of people.
+埃德做了什么？嗯，他们买了一辆大型房车，把它做成一个移动销售的设备，一个销售电脑的移动办公室。他们把它开到全国各地，在不同的城市停下来，举行展示并以此吸引了大量的人。
 
 **12:12** - _Saron Yitbarek_
 
-MITS-Mobile, as it was called, took the traveling road show out west. Up and down the California coast, in conference rooms packed with curious engineers and tinkerers. The team showed off the Altair and Altair BASIC. Then, at a stop in Palo Alto, in one particularly crowded hotel conference room, something unexpected happened. Something that changed the course of software history.
+它被称为移动MITS，把移动路演带到了西部。在加利福尼亚海岸，会议室里挤满了好奇的工程师和修理工。这个团队展示了牛郎星和牛郎星 BASIC。然后，在帕洛阿尔托，在一个特别拥挤的酒店会议室里，发生了一件意想不到的事情。这件事改变了软件历史的进程。
 
 **12:46** - _Saron Yitbarek_
 
-Okay, hold up. Before we get to that unexpected something, I need to tell you about a group of electronic enthusiasts and hobbyists in the Bay area. They call themselves the Homebrew Computer Club. They trade parts, circuits and ideas, basically support each other as they explored this new world of personal computing.
+好的，让我们先等一下。在我们开始这件意想不到的事情之前，我需要向你介绍一下海湾地区的电子爱好者们。他们称自己为自制电脑俱乐部。他们交换零件、电路和想法，并在探索个人电脑的新世界时互相支持。
 
 **13:11** - _Dan Sokol_
 
-Everyone was curious. Most of the people, they were engineers of one type or another. There were only 2 or 3 people who had any knowledge of computer programming at all. I remember a survey, how many people here had a computer versus how many people intended to get one. And that was really interesting because everyone was interested, and there were only 1 or 2 people who actually had them. And they would bring them to the club meeting and show them off. And I remember that the embarrassing question of the era was, "What are you going to do with it?" And nobody had an answer.
+每个人都很好奇。他们其中的大多数都是某个领域的工程师。其中只有两三个人对计算机编程没有任何了解。我记得有一项调查，这里多少人有一台电脑，而有多少人打算买一台。这真的很有趣，因为每个人都对此很感兴趣，但是其中只有一两个人真正拥有它们。这些人会把它们带到俱乐部会议上炫耀。我记得那个时代令人尴尬的问题是，“你打算用它做什么？”没有人有答案。
 
 **13:46** - _Saron Yitbarek_
 
-That's Dan Sokol, one of the original members of the Homebrew Computer Club. Their first meeting took place in a garage in Menlo Park and that meeting happened because everyone wanted to feast their eyes on the Altair 8800.
+丹·索科尔，自制电脑俱乐部最初的成员之一。因为每个人都想在牛郎星 8800 上大饱眼福，在门罗公园的一个车库里举行了他们的第一次会议。
 
 **14:08** - _Lee Felsenstein_
 
-So 30 people arrived at this garage on a rainy night on March 5, 1975. And there was the Altair sitting for us to look at. It was turned on, but of course it had nothing to connect to and didn't do anything.
+在1975年3月5日的一个雨夜，有30个人来到了这个车库。这里有一个为他们展示的牛郎星。它是打开着的，但它没有连接任何东西，也没有做任何事情。
 
 **14:22** - _Saron Yitbarek_
 
-And that's Lee Felsenstein, another original member of the club.
+李·费尔森斯坦，俱乐部的另一个初始成员。
 
 **14:27** - _Lee Felsenstein_
 
-We just went around the room and found out what we could learn. We've had a kind of more of a report from Steve Dompier, a fellow who had ordered an Altair computer and it was announced in the January issue of the Popular Electronics Magazine. And he had actually driven down to Albuquerque to check on his order, then reported back to us what he had found.
+我们在房间里转圈并尝试发现能学到些什么。我们得到了一些来自于史蒂夫·多姆皮尔的报告，他订购了一台牛郎星电脑，并在一月份的流行电子杂志上公布了这一消息。实际上他是开车到阿尔伯克基检查他的订单，然后向我们报告了他发现的情况。
 
 **14:48** - _Dan Sokol_
 
-Dompier brought one in and he sat there programming it through this front panel of switches to get it to play music. And after spending about an hour doing it, somebody tripped on the power cord, and he had to start over. But at the time this was, "Look a computer—and you can afford it."
+多姆皮尔带来了牛郎星，他坐在那并通过前面板的开关编程，让它能够播放音乐。大约尝试了一个小时的样子，有人把电源线绊倒了，他不得不重新开始。但在当时来看，“使用电脑，你就要承担得起。”
 
 **15:08** - _Saron Yitbarek_
 
-There was someone else at that inaugural meeting. When he saw the Altair, it blew his mind, but not because he couldn't believe a machine like that existed. Quite the opposite. Because a machine like that, and much more than that, already existed. He'd built it. That man was the young Steve Wozniak. A friend of his had coaxed him to go to that meeting so that Steve could show off a video terminal he built. But everyone was fixated on the Altair instead. Steve had never heard of it. And he also hadn't heard of the Intel 8080 microprocessor that was making it hum. So he took home a datasheet, and it led to an incredible eureka moment.
+在成立会议上还有其他人。当他看到牛郎星的时候，它让他大吃一惊，但这并不是因为他不相信有这样一台机器的存在。恰恰相反，因为类似比它大得多的机器已经存在了，而且是他造的。那个人就是年轻的史蒂夫·沃兹尼亚克。他的一个朋友劝他去参加那个会议，以便让史蒂夫展示他自己制作的视频终端。但是每个人都被牵牛星所吸引。史蒂夫从未听说过它，而且他也没听过英特尔 8080 微处理器发出的嗡嗡声。他带回了一份数据表，这带来了不可思议的惊喜。
 
 **16:01** - _Saron Yitbarek_
 
-Here’s Steve Wozniak, “the Woz,” was speaking at the Homebrew Computer Club reunion back in 2013.
+史蒂夫·沃兹尼亚克，“沃兹”是他在2013年自制计算机俱乐部聚会上的讲话。
 
 **16:10** - _Steve Wozniak_
 
-I took it home and studied it, and I said, “Oh my God, these microprocessors are one chip.” Might sell for $400, that was scary. One chip, that is all the computers I used to design on paper back in high school, and I'd actually built one of those five years before, myself, when I had to build a processor myself. There were no microprocessors.
+我把它带回家研究了一下，然后我说，“天哪，这些微处理器是一个芯片。”尽然能卖到400美元，这太可怕了。一个芯片，那是我高中时用电脑在纸上设计的。实际上，我在五年前就自己制造了一个，当时我不得不自己制造一个处理器。因为当时没有微处理器。
 
 **16:31** - _Saron Yitbarek_
 
-In our last episode, we learned how Woz started writing his own software in BASIC on the GE-225 computer in high school. Well, ever since high school, Woz had wanted a computer all his own. But to do that, he had to include a programming language that meant dedicating at least 4K of memory and human input and output to type in the programs. His machine had 256 bytes of solid state RAM and the chips for that were really expensive. So he designed a processor, refining it over and over while still in high school. It had switches to enter in ones and zeros, just like the Altair. But now he realized the Altair's microprocessor was the culmination of his vision.
+在上一集中，我们学习了沃兹高中时是如何在GE-225计算机上用BASIC编写他自己的软件的。从高中开始，沃兹就想要一台自己的电脑。但要做到这一点，他必须包括一种编程语言，这意味着至少要投入4K内存和用于程序的人员输入和输出功能。他的机器有256字节的固态RAM，芯片非常的昂贵。所以他设计了一个处理器，在高中的时候就不断地改进。它有输入1和0的开关，就像牛郎星一样。但现在他意识到牛郎星的微处理器是他梦想的顶峰。
 
 **17:24** - _Steve Wozniak_
 
-You press the buttons one, zero, one, zero, one, zero, and you press a button and it goes into an address register and press some more ones and zeros, and it goes into memory and it goes into memory. You fill up memory and it's so exciting to hear how we did that with the Altair that was playing the music in our club, but I was past that and wanted a machine ready to use, but now what I would do is type the data in and it would go straight into memory. How much easier that was. I said, "Oh my gosh, my dream of having my own computer." That night, I saw the formula.
+你按下按钮一，零，一，零，一，零，当你按下一个按钮，它进入一个地址寄存器，输入几个1和0，然后写入内存。你填满了内存，并对听到我们使用牛郎星在俱乐部播放音乐感到兴奋，但我已经不再在意这些了，我想要一台随时可以使用的机器，现在我要做的是更简单的将输入的数据直接写入内存。我说：“欧，天哪，我的梦想是拥有一台自己的电脑。”那天晚上，我看到了这个公式。
 
 **17:56** - _Saron Yitbarek_
 
-That night, the image of the Apple 1 popped into Steve Wozniak's head. He could build his own fully usable computer for next to nothing by adding in a microprocessor to his terminal. And he had this idea that when his computer started up, it would run a program that would take in data that you typed into it, like a typewriter. No more switching ones and zeros. Add to that the video terminal he’d built to let programmers see what they were typing in and voila, a computer that felt more human. A useful personal computer that worked for normal people. Here's Lee Felsenstein again.
+那天晚上，史蒂夫·沃兹尼亚克的头像突然出现在苹果的形象展示里。他可以通过在终端上添加一个微处理器来制造可以完全可用的计算机。他有一个想法，当他的电脑启动时，它会运行一个程序去接收你输入的数据，就像打字机一样。不需要再交换1和0了。加上他让程序员可以看到他们输入的内容而设计的视频终端，一台更人性化的电脑，为普通人工作的有用的个人电脑。这时李·费尔森斯坦又来了。
 
 **18:42** - _Lee Felsenstein_
 
-He had already developed a little video terminal kind of adapter, which the generic term was a TV typewriter. You would hook it to a TV. And he was introduced to the processor chip, which was being sold for $25 each, and realized, "If I put this on a board with some memory, I could put that TV terminal on the board, too, and I'd have a computer that would have a video display," which he did and he was working on that while he would be in the meetings. When we moved to the Stanford Linear Accelerator Auditorium, he grabbed the only seat with an electrical outlet. He would always be there before everyone else. He was writing the BASIC program for the Apple 1. He started the Apple family of computers there.
+他已经开发出一种小型视频终端适配器，通用术语是电视打字机。你可以把它挂在电视上。他介绍了只要25美元就可以实现的处理芯片，“如果我把它放在主板上并配上一些内存，我也能在主板上推出电视终端并且我将有一台拥有视频显示的电脑。”当他在开会时也在做这些事情，当我们搬到斯坦福直线加速器礼堂时，他抢走了唯一一个有电源插座的座位。他总是比别人先到那儿。他正在为 Apple 1 编写 BASIC 程序。他在那里开创了苹果电脑家族。
 
 **19:34** - _Saron Yitbarek_
 
-Once Woz finished building his computer, he was excited to show everyone at the club. He explained how a handful of chips could make an affordable personal computer. Woz was a big proponent of freedom of information, the sharing of knowledge to help build better systems and a better society. This echoed the club's open values and the social liberation movements of the time.
+每次沃兹完成了他的电脑制作，他就很兴奋地向俱乐部的每个人展示。他解释了如何用几块芯片制造出一台价格适中的个人电脑。沃兹是信息自由、分享知识以帮助建立更好的系统和更好的社会的大力支持者。这与当时俱乐部的开放价值观和社会解放运动相呼应。
 
 **19:59** - _Saron Yitbarek_
 
-So at the end of the meeting, he passed out the blueprints to his design, the hardware and the software, for free to everyone. He figured they could each use his plans to build their own $300 computer. But Woz's friend and business partner, a guy named Steve Jobs, quickly put an end to that idea. You see, Jobs had been traveling all this time and didn't realize Woz was giving away the design to the Apple 1. Jobs didn't share Woz's hacker mindset. He was more proprietary. Jobs soon convinced Woz that they should sell the computers instead.
+在会议结束的时候，他拿出了他的设计蓝图，硬件和软件，免费发给每个人。他认为他们可以利用他的计划来建造自己拥有的价值300美元的电脑。但沃兹的朋友兼商业伙伴，一个名叫史蒂夫·乔布斯的人，很快就结束了这种想法。你看，乔布斯一直在旅行，并且没有意识到沃兹会把设计赠送给 Apple 1。乔布斯并不认同沃兹的黑客思维。他更为专横。乔布斯很快说服沃兹，他们应该卖掉电脑。
 
 **20:42** - _Saron Yitbarek_
 
-That ethical struggle between free and proprietary technology happened more than once at the Homebrew Computer Club. In fact, a few months after that inaugural club meeting, which had everyone gawking at the Altair, there was one more meeting that would light the fuse to this debate. It happened in the auditorium of the Stanford Linear Accelerator Center. At the end of that meeting, dozens of attendees rushed the stage to collect a program on paper tape, fresh copies of Microsoft's Altair BASIC, the new software that everyone was excited about.
+自由技术和专有技术之间的道德斗争不止一次发生在自制计算机俱乐部。事实上，在俱乐部的开幕会议之后几个月，每个人都盯着牛郎星，还有一次会议点燃了这场辩论的导火索。它发生在斯坦福直线加速器中心的礼堂里。会议结束时，数十名与会者冲上台去获取一份纸带程序，这是微软公司牛郎星 Basic 的新拷贝，这是一款让所有人都很兴奋的新软件。
 
 **21:21** - _Saron Yitbarek_
 
-But how did those copies even exist? The software hadn't been fully released yet, so how did it end up at that Homebrew meeting? Turns out the original paper tape had been stolen. It was the great software heist of the decade.
+但是这些复制品为什么会存在？这个软件还没有完全发布，那么它是如何在那个自制会议上出现的呢？原始的纸带被偷了。这是十年来最大的软件抢劫案。
 
 **21:44** - _Saron Yitbarek_
 
-Okay. Let's dig into how this all came to be. Remember I told you about MITS-Mobile traveling out west to show off the Altair and Altair BASIC?
+好的，让我们深入了解一下这一切是如何发生的。还记得我告诉过你的关于移动MITS到西部去展示牛郎星和牛郎星 BASIC 的事吗？
 
 **21:54** - _John Markoff_
 
-The company was demonstrating their computer with their software in Palo Alto on June 10, 1975.
+1975年6月10日，该公司在帕洛阿尔托演示搭载他们软件的电脑。
 
 **22:03** - _Saron Yitbarek_
 
-That's John Markoff, journalist for The New York Times.
+约翰·马科夫，纽约时报的记者。
 
 **22:06** - _John Markoff_
 
-And the hotel was called Rickeys. Remember, the personal computer industry didn't really exist then, and most of the people who were interested in personal computers weren't really business people, because there was really no business software, and so they were demonstrating the computer to a real eclectic group. There were lots of people around in the new Silicon Valley then who were electrical engineers, they were programmers. There were all kinds of people who were interested in technology and interested in computers.
+这家旅馆叫瑞奇。请记住，在当时个人电脑行业并不存在，对个人电脑感兴趣的大多数人并不是真正的商务人士，因为那时实际上没有商业软件，所以他们向一个真正不拘一格的团体展示电脑。在新硅谷，有很多作为电气工程师的人，他们是程序员。这里有很多人对技术和计算机感兴趣。
 
 **22:39** - _Saron Yitbarek_
 
-During that demonstration, one of the MITS crew was having trouble loading the software onto the machine. Keep in mind that at that time, software was punched onto paper tape and the tape had to be pulled through a mechanical reader to install the program. So while that employee was distracted and all eyes in the room were on the shiny new Altair, someone in the crowd spotted something else, a nearby cardboard box, and the opportunity of a lifetime. Inside that box were rolls of Altair Basic on paper tape. This person slid his hand into the box and wrapped his fingers around a long roll of paper tape. He pocketed it and left. No one saw a thing.
+在演示过程中，MITS的一名工作人员在将软件加载到机器上时遇到了麻烦。请注意，在当时，软件是打在纸带上的，纸带必须通过一个机械阅读器来安装程序。当那名员工心烦意乱时，所有房间里的目光都集中在闪亮的新牛郎星上，人群中有人发现了一些其他的东西，旁边的一个纸板箱，这是一个千载难逢的机会。在那个箱子里是一卷卷牛郎星的纸带。这个人把手伸进箱子里并用手指缠住了一卷长长的纸带。他把它装进口袋带走了。没人看见这些。
 
 **23:36** - _John Markoff_
 
-Somehow that paper tape got to a semiconductor engineer who worked at a company called Signetics, whose name was Dan Sokol, and Dan, he was very technical and he was also someone who had gone to the original Homebrew Computer Club meetings. So Dan had access to a relatively high speed paper tape copying machine, and he made a bunch of copies. Dan to this day insists that he was not the person who took the original paper tape, but that he got a copy of it and then he brought it to the next meeting of the Homebrew Computer Club and he shared it with the members there.
+不知怎么的，那卷纸带被一位半导体工程师得到了，他在一家名为Signetics的公司工作，他的名字叫丹·索科尔，他技术能力很强而且他也是参加过最初自制计算机俱乐部会议的人。所以丹有了一台相对高速的纸带复印机，他做了一堆拷贝。丹直到今天仍然坚称，他不是拿走原始纸带的人，他只是拿到了一份拷贝，然后把它带到自制计算机俱乐部的下一次会议上，与那里的会员们分享。
 
 **24:17** - _Dan Sokol_
 
-Amongst my nefarious activities, I am known as the world's first software pirate, and for a damn good reason. I'm the one who duplicated the MITS BASIC, the Microsoft BASIC paper tape. And how that came about was someone stood up at Homebrew and said, "Does anybody here have the capability to copy paper tapes?" And I raised my hand, and that's how I ended up with that tape and copied it.
+由于我不道德的行动，我被称为世界上第一个软件盗版者，这是有原因的。我是复制了MITS BASIC，微软 BASIC 纸带的人。当时有人在自制软件里站出来说，“这里有人有能力复制纸带吗？”我举起了我的手，这就是为什么我最终得到了纸带并复制了它。
 
 **24:45** - _Saron Yitbarek_
 
-Lee was at that Homebrew meeting when Dan handed out his pirated copies.
+当丹分发他盗用的拷贝时，李正在那个自制会议上。
 
 **24:51** - _Lee Felsenstein_
 
-So what happened was that Dan Sokol made up 10 copies, we had it at the next meeting and said, "Here's copies of Altair BASIC. Now bring back more copies than you took."
+所以发生的事情就是丹·索科尔做了10份拷贝，我们在下一次会议上拿到了它并且说到，“这是牛郎星 BASIC 的拷贝。现在带回来比你制作的更多的复印件。”
 
 **25:02** - _John Markoff_
 
-The deal was that if you got a copy, you had to make a copy yourself and share it with a friend. This was sort of uncharted territory. There was no personal computer software companies at that point, and so it was really kind of the wild west and people sold computers and they shared software at that point.
+这个协议是，如果你有一个拷贝，你必须自己做一个拷贝，并与朋友分享。这是一个未知的领域。当时还没有个人电脑软件公司，这真的是一个无法控制的西部，当时人们出售电脑，共享软件。
 
 **25:19** - _Saron Yitbarek_
 
-This was 1975, and software was simply the stuff that you used to make computers work. Personal computing was a brand new concept. Hackers back then didn't have all the baggage associated with that word now. They just wanted to share their work to foster an open community with the free exchange of ideas and software. The heist and giveaway had set the stage for a debate that still resonates today. Should software be freely shared or should it be bought and sold? Well, Bill Gates certainly had an opinion on that. When he found out what happened to his software, he was furious.
+1975年，软件只是你用来让电脑工作的东西。个人电脑是一个全新的概念。当时的黑客们并没有把所有的想法都和这个词联系在一起。他们只是想分享他们的工作去促进一个拥有自由交流的想法和软件的开放的社区。抢劫和赠品事件为一场至今仍能引起共鸣的争论奠定了基础。软件应该免费共享还是应该买卖？比尔·盖茨对此肯定有自己的看法，当他发现自己的软件发生了什么时，他大发雷霆。
 
 **26:03** - _John Markoff_
 
-When he realized that his BASIC programming language was being widely shared by the hobbyists, he wrote this irate letter to them accusing them of stealing his software and undercutting his ability to make a living.
+当他意识到他的 BASIC 编程语言正被爱好者广泛使用时，他写了一封及其愤怒的信给他们，指责他们窃取了他的软件，削弱了他的谋生能力。
 
 **26:18** - _Lee Felsenstein_
 
-Well, we got that letter. We read it in the meeting and there was one line in it saying, "It cost us a lot of money to develop this. We used almost $40,000 in computer time." Everybody in the room knew that computer dollars like that were phony. They were just an accounting trick. You didn't pay real money for them, and we were onto that, so we figured, "Complain away. We're going to keep doing what we're doing."
+我们收到了那封信。在会议上读了这封信，里面有一句话：“它花费了我们大量的近钱去开发。我们在电脑时间里花了将近4万美元，“房间里的每个人都知道那样的电脑美元是假的，这只是一个会计把戏。你没有为它们花真正的钱，而我们也知道了，所以我们想，“抱怨吧。我们要继续做我们正在做的事情。”
 
 **26:45** - _Dan Sokol_
 
-He called us pirates and thieves. We tried to be reasonable and rational and explain to him that you can't sell a piece of software for $400 for a computer that costs $400. It's very difficult now in this day and age to look back and try and explain the mentality that they were working under, which was the minicomputer mentality, and minicomputers were used in industry, and we were just a bunch of hobbyists building our own computers from kits. The only piece of functional software was this BASIC interpreter, which pretty much acted as an operating system. There was no such thing as an operating system back in 1974 in these personal computers, and we couldn't get through to him. We couldn't explain to him that, "Sell us the manual for 100 bucks, and let us just take the software." He wasn't hearing any of this, and for years Microsoft software was overpriced and pirated, pirated terribly.
+他叫我们盗版者和小偷。我们尝试合理且理性的向他解释说，一台400美元的电脑是不能卖一个400美元软件的。在那个时代，回首过去并试图解释他们当时的工作心态是非常困难的，那就是微型计算机的思维，微型计算机被用于工业，而我们只是一群用套件来制造我们自己计算机的爱好者，。唯一的功能性软件就是这个 BASIC 解释器，它几乎充当了一个操作系统。早在1974年，这些个人电脑里还没有操作系统，我们也无法联系到他。我们无法向他解释，“把手册100块钱卖给我们，我们就拿软件吧。”他没有听到任何关于这些的信息，多年来微软软件价格过高，盗版严重。
 
 **27:51** - _Saron Yitbarek_
 
