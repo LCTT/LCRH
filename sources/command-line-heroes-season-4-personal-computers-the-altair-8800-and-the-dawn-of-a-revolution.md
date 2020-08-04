@@ -275,51 +275,51 @@
 
 **27:51** - _Saron Yitbarek_
 
-The club members chose to ignore the letter. That's because back in 1975, copyright laws didn't cover software. There was no penalty for copying the software from one paper tape to another. That would change in 1977, but for a couple of years there, no law was being violated.
+俱乐部成员选择无视这封信。因为早在1975年，当时的版权法并没有涵盖软件。将软件从一个纸带复制到另一个纸带上不会有任何的惩罚。在1977年这种情况有所改变，但在那几年里，没有法律被违反。
 
 **28:12** - _John Markoff_
 
-The irony here of course is that Bill Gates didn't create the BASIC language. He simply created a copy of it, taking it from its original designer who was a professor at Dartmouth University and basically making a copy and then selling it, so it all had its roots in sharing.
+讽刺的是，比尔盖茨并没有创造 BASIC 语言。他只是从达特茅斯大学教授这位最初的设计师那里得到了它并且简单地创造了一个拷贝，这基本上就是是做了一个复制品，然后再拿来出售。这一切都是源于分享。
 
 **28:31** - _Saron Yitbarek_
 
-The heist, the tape, sharing, the angry letter. All of that led to a decades long war between the burgeoning software industry and those they considered pirates, but out of that struggle grew the open source software movement. Its core values are cut from the same cloth as those early hobbyists who ignited the personal computer revolution, because those hobbyists realized that the key to the future of personal computing lay in unleashing the potential of software.
+抢劫，录音，分享，愤怒的信件。所有这些都导致了新兴软件业和那些被他们视为盗版者的人们之间长达数十年的战争，但在这场斗争中，开源软件运动也随之兴起。它的核心价值观与那些点燃个人电脑革命的早期爱好者是一模一样的，因为这些爱好者意识到，个人计算机未来的关键点在于释放软件的潜能。
 
 **29:07** - _Lee Felsenstein_
 
-The process of passing the tapes around and encouraging and building upon each other's results is really what made the personal computer industry.
+通过传递磁带、鼓励和建立彼此成果的过程才真正造就了个人计算机产业。
 
 **29:17** - _Saron Yitbarek_
 
-Now, we never did say who the original thief was, the one who made the heist of that precious paper tape. That's because it's still a mystery to this day. Those who know prefer to keep it that way.
+现在，我们再也不提起谁是原来的那个小偷，谁偷了那珍贵的纸带。因为它至今仍是个谜。那些知道答案的人们也希望通过这种方式来保存这个谜。
 
 **29:32** - _Dan Sokol_
 
-As far as how it was liberated, if you want to use that word, I know who did it, and I will not say because that person has asked a long time ago, to remain anonymous because it was safer, and so I have honored that and I will continue to honor that. So no, I was not at Rickey's, but the paper tape found its way to me.
+至于它是如何被摆脱束缚的，如果你想用这个词的话，我知道是谁干的，但是我不会说，因为那个人很久以前就出于对安全的考虑要求匿名，我尊重这种选择并且我也会继续尊重下去。所以我不在瑞奇旅馆，但纸带发现了通向我的路。
 
 **30:01** - _Saron Yitbarek_
 
-In time, the personal computer revolution gave way to Silicon Valley and multitudes of VC-backed tech startups, but those tinkerers, those electronic enthusiasts and hobbyists, they never went away. In fact, they're stronger than ever.
-
+随着时间的推移，个人电脑革命给硅谷和众多风投支持的科技创业公司让了位，但那些修补程序人员，电子爱好者们却从未离开。事实上，他们比以往任何时候都更强大。
 **30:20** - _Limor Fried_
 
-Hi, my name is Limor Fried, and I'm lead engineer and founder of Adafruit Industries.
+嗨，我叫利莫·佛里德，是阿德弗里特工业公司的首席工程师兼创始人。
 
 **30:26** - _Saron Yitbarek_
 
-Adafruit is an open source hardware company, part of a new revolution that started up in the past few years, the open source hardware movement, and this movement shares the same values of those early hobbyists. But it's gotten even better.
+阿德弗里特是一家开源硬件公司，是过去几年开始的那场新革命的一部分，即开源硬件运动，这场运动与那些早期的爱好者有着同样的价值观。但它变得更好了。
 
 **30:43** - _Limor Fried_
 
-The Homebrew Computer Club, I think, had that philosophy where people were coming in with their computers, and it was a little bit like, "Check this cool hack I did," and then everyone was like, "Damn, that's cool. Okay, next month I got to bring something better." And that is a positive feedback cycle that brings really good technological innovation. I think that hacker philosophy still exists. People have just more background and so what they think of as a cool hack has really, I want to say improved, but it has diffused, and I think that's good. But I think the values of sharing are still there and helping each other and working together and cooperation. That thread has passed through. I mean, it's in the entire open source community.
+自制电脑俱乐部，我认为，人们带着他们的电脑加入进来是有一种理念的，这就像，“来看看我做的这个很酷的黑客程序”，然后每个人都会说，“该死，这太酷了。下个月我会带来一个更好的。”这是一个积极的反馈，它带来了非常好的技术创新。我认为黑客哲学仍然存在。人们只是有更多的背景，所以他们认为作为一个黑客真的很酷，我想说的是改进，但它已经扩散，我认为这是好的。但我认为分享的价值仍然存在，相互帮助，共同努力工作与合作。那根线贯穿始终。我的意思是，它存在于整个开源社区。
 
 **31:32** - _Saron Yitbarek_
 
-We're going to dedicate a whole episode to the emergence of the open source hardware movement so we can see how we've evolved and made space for modern makers like Limor Fried. Stay tuned for that, episode 6, in a few weeks time. But next episode, it's the discs that changed the world—floppies.
+我们将用一整集来讲述开源硬件运动的兴起，这样我们就可以看到我们是如何进化的，并为利莫·佛里德这样的现代制造商创造空间。请继续关注，在几周后的第六集。但下一集，是改变了世界软驱的磁盘。
 
 **31:56** - _Saron Yitbarek_
 
-Command Line Heroes is an original podcast from Red Hat. Head on over to [redhat.com/commandlineheroes](https://www.redhat.com/commandlineheroes "redhat.com/commandlineheroes") for some great research on the personal computer revolution. There's a beautiful anecdote you can read there about Bill Gates visiting Ed Roberts on his deathbed, and if you want to know what happened during that PC revolution, check out our very first couple of Command Line Heroes episodes for the whole story, [the OS wars](https://www.redhat.com/en/command-line-heroes/season-1 "the OS wars"). I'm Saron Yitbarek. Until next time, keep on coding.
+代码英雄是红帽的原创播客。前往[redhat.com/commandlineheroes]
+（https://www.redhat.com/commandlineheroes "redhat.com/commandlineheroes"）对个人电脑革命的一些伟大研究。这里有一个美丽的轶事，你可以读到关于比尔·盖茨在临终前拜访埃德·罗伯茨的故事，并且如果你想知道在那次PC革命期间发生了什么，请阅读整个故事中第一对代码英雄剧集，[操作系统的战争(https://www.redhat.com/en/command-line-heroes/season-1 “the OS wars”）。我是萨隆·伊特巴雷克,直到下一次，继续编写着代码。
 
 --------------------------------------------------------------------------------
 
