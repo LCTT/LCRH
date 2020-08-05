@@ -50,7 +50,6 @@ Perl语言是不是轻松地超越了COBOL、Visual Basic和Python?Larry Wall开
 
 Michael Stevenson是阿姆斯特丹大学媒体研究的副教授。他为我们描述了早期的Web。人们见过Usenet，也见过ARPANET。他们在网上看到了美国，还有其他一些国家。但是直到网络出现互联网的全部发展潜力才真正得到体现。突然之间，你就进入了这个巨大的互联世界。这是一个出乎意料的事情。
 
-
 **03:09** - _Michael Stevenson_
 
 你一定会记得1993年，那一年正是网络开始崭露头角的时候，也是《连线》杂志开始出版的那一年。在那之前类似《Mondo 2000》这类的杂志真的让电脑看起来像神秘知识的来源，让电脑看起来很酷。
@@ -59,48 +58,35 @@ Michael Stevenson是阿姆斯特丹大学媒体研究的副教授。他为我们
 
 因此从这个意义上说，网络也到达了一个相当特定的时期，那时候人们已经准备好对这样的网络技术感到兴奋。
 
-And so, the web, in that sense, also arrived at a pretty specific time where people were ready to be excited about technology in that way.
-
 **03:43** - _Saron Yitbarek_
 
 故事在这个时候开始了：Larry Wall在1987年创建了Perl，4年后人们才对万维网开始兴奋起来。Larry Wall最初提供给世界的Perl就是一种通用的Unix脚本语言。这当然很有帮助，但同时Perl还有一些秘密元素，这些元素将使它成为即将到来的web开发世界的理想语言。
 
-
 **04:14** - _Michael Stevenson_
 
-很有名的是在拉里·沃尔参与的一个秘密国家安全局项目中发明的。基本上，他所做的就是为Usenet创建一个被黑的新闻版本。Usenet运行的软件。因此，语言从一开始就是关于文本操作，以及将数据从一个地方移动到另一个地方。这完全符合web的需求，而Perl作为一种易于使用的脚本语言，更接近于自然语言。它可以用来快速开发东西。所有这些都让它成为了一个完美的组合，不仅适合专业用户，也适合新加入的业余用户。
-
-... quite famously was invented in a kind of secret NSA project that Larry Wall was working on. Essentially what he was doing was creating a hacked version of news that Usenet ... the software that Usenet ran on. And so, the language from the beginning was about text manipulation, and moving data from one spot to another. This just completely fit in with what was going to be needed for the web, and Perl, as a scripting language that was easy to use, that more closely resembled natural language. It could be used to develop things quite quickly. All these things made it a perfect fit, not just for the professional users, but also this new group of amateurs that came in.
+令我们比较周知的是Perl是在Larry Wall参与的一个秘密国家安全局项目中发明的，基本上他所做的就是创建一个类似Usenet新闻类的破解版本，因此Perl语言从一开始只是文本操作和将数据从一个地方移动到另一个地方，这完全符合web的需求。而Perl作为一种易于使用的脚本语言，更接近于自然语言。它可以用来快速开发东西，所有这些都让Perl成为了一个完美的组合，不仅适合专业用户，也适合新加入的业余用户。
 
 **05:09** - _Saron Yitbarek_
 
-几乎是出于偶然，Perl在出现时就准备利用web。拉里·沃尔不可能知道网络即将出现。但当它出现时，事情就吻合了。但我认为还有一点很关键。Perl是一种自由语言。拉里·沃尔在GPL下发布了它，即由自由软件基金会开发的通用公共许可证。
-
-Almost by accident Perl was ready to capitalize on the web when it came along. Larry Wall couldn't have known that the web was about to show up. But when it did, things dovetailed. But here's something else that I think is key. Perl was a free language. Larry Wall released it under the GPL, the General Public License, that had been developed by the Free Software Foundation.
+很偶然得是Perl在出现时就能适用于网络。Larry Wall不可能知道网络即将出现。但当它出现时事情就相互吻合了。但我认为还有一点很关键：Perl是一种自由语言。拉里·沃尔在GPL协议下发布了它，而GPL是由自由软件基金会开发的通用公共许可证。
 
 **05:37** - _Saron Yitbarek_
 
-Wall让他的语言免费的决定完全符合一种新的基于web的思维方式，这种思维方式刚刚开始出现，而Perl在其他方面也具有前瞻性。
-
-Wall's decision to make his language free was totally in line with a new web-based way of thinking that was just starting to emerge, and Perl was forward-thinking in other ways, too.
+Larry Wall让他的语言自由开源的决定完全符合一种新的基于web的思维方式，这种思维方式刚刚开始出现，同时Perl在其他方面也很有前瞻性。
 
 **05:50** - _Michael Stevenson_
 
-Perl在某种意义上是非常开放的，它总是愿意集成其他的东西，新的东西。这和拉里·沃尔的身份很相配。他是个很开放的人，会…他很谦虚，总是仔细考虑别人的想法，并试着设身处地为别人着想。对我来说，Perl作为一种语言和一个社区的特性如何在很长一段时间内真正适应这种特性是很有趣的。
-
-Perl was incredibly open in a sense that it was always willing to integrate something else, something new. This really goes with who Larry Wall is. He's a very open person who will ... he was very humble, and will always carefully consider what others think, and try to put himself in their shoes. It's interesting how, for me, Perl's character as a language, and as a community, really fit that for a long time.
+Perl在某种意义上是非常开放的，它总是愿意集成其他新的东西。这和Larry Wall的身份很相配。他是个很开放谦虚的人，总是仔细考虑别人的想法，并试着设身处地为别人着想。对我来说Perl作为一种语言和一个社区的特性如何在很长一段时间内真正适应这种特性是很有趣的。
 
 **06:27** - _Saron Yitbarek_
 
-同样，Perl非常适合web早期的狂野西部阶段，也就是黑客时代。实际上，Perl的座右铭之一是，“有不止一种方法可以做到这一点。
+同样Perl非常适合网络早期的狂野西部阶段，也就是黑客时代。实际上Perl的座右铭之一就是“有不止一种方法可以做到这一点”。
 
-Again, Perl was ideally suited to that early, wild west phase of the web, that hacker moment. In fact, one of Perl's mottos is, "There's more than one way to do it."
 
 **06:39** - _Michael Stevenson_
 
-在Perl的鼎盛时期和这个试验性的开放web的鼎盛时期之间，存在着一种近乎浪漫的联系，在它被几个平台主宰之前。
+在Perl的鼎盛时期和试验性的开放网络的鼎盛时期之间存在着一种近乎浪漫的联系，而在此之后网络就被几个平台所主导支配了。
 
-There's a kind of almost romantic connection between the heyday of Perl and the heyday of this experimental open web, before it became so dominated by just a couple of platforms.
 
 **06:56** - _Saron Yitbarek_
 
