@@ -90,135 +90,104 @@ Perl在某种意义上是非常开放的，它总是愿意集成其他新的东�
 
 **06:56** - _Saron Yitbarek_
 
-请记住，90年代是互联网历史上的一个时刻，那时人们还在争先恐后地想知道什么是可能的。这是对编程的巨大需求。每个人都必须有一个网页，这意味着一群全新的开发人员，他们都对做事的新方法持开放态度。问题变成了，“好吧，我们有了一个全新的领域，但用什么语言来完成这项工作呢?”
+还记得90年代是互联网历史上的一段启蒙时期，那时人们还在争先恐后地想知道还有哪些是可能的。那时对编程的需求是巨大的，每个人都需要有一个网页，这意味着一群全新的开发人员，他们都对新的做事方法持开放态度。问题变成了“好吧，我们有了一个全新的领域，但用什么语言来完成这项工作呢?”
 
-Remember that the 90s was a moment in the web's history when people were still rushing to figure out what was possible. There was this huge new need for programming. Everybody had to have a web page, and that meant a whole new army of developers, all of them open to new ways of doing things. The question became, "Okay, we've got a brand-new territory to play in, but what language is going to get the job done?"
 
 **07:26** - _Saron Yitbarek_
 
-Perl并不是这个问题的最终答案。但是，对于很多人来说，Perl是首选。
+Perl虽然并不是这个问题的最终答案，但对于很多人来说Perl是他们首选的语言。
 
-Perl didn't turn out to be the final answer to that question. But, for lots of people, Perl was the first answer.
 
 **07:34** - _Michael Stevenson_
 
-我并不是说我宁愿使用加载速度超慢的网页，也不使用谷歌搜索引擎，但当时有一些人，在他们的宿舍里，创建了一个类似slashdot的东西，这当然很不错。那个时代有一些特别的东西，我确实认为，由于web已经变得如此主流和专业化，如此集中在几个大公司，我们确实错过了。对我来说，Perl比那个早期的任何其他故事更能象征这一点。
+我并不是说我宁愿使用加载速度超慢的网页，也不使用谷歌搜索引擎，但当时有一些人在他们的宿舍里创建了一个类似slashdot的东西，这个东西当然很不错。我确实认为那个时代有一些特别的东西，而现在随着网络已经变得如此主流、专业化和被集中在几个大公司中，我们确实怀念那个时代。对我来说，Perl语言的出现比那个早期的任何其他故事更有代表性。
 
-I'm not saying that I would rather have super slowly loading web pages, and no Google search engine, but there is something of course really nice about that time when a couple of guys would, from their dorm room, create something like slashdot. There's something special about that time that I do think that as the web has become so mainstream and professionalized, and so concentrated around a few big companies, that we do miss. And for me, Perl symbolizes that more than any other story from that early period.
 
 **08:15** - _Saron Yitbarek_
 
-迈克尔·史蒂文森是阿姆斯特丹大学媒体研究的副教授。
+Michael Stevenson是阿姆斯特丹大学媒体研究的副教授。
 
-Michael Stevenson is an Associate Professor in Media Studies at the University of Amsterdam.
 
 **08:24** - _Saron Yitbarek_
 
-因此，随着90年代的到来，Perl作为一种适应早期web可能性的语言出现了。它是当时的一种语言。拉里·沃尔(Larry Wall)和扩展后的Perl了解了web的本质。
+之后随着90年代的到来Perl作为一种能适应早期互联网发展潜力的语言出现了，Perl是适应那个年代的语言。Larry Wall和他所创造的Perl正好了解到了网络的的本质。
 
-So, as the 90s rolled around, Perl emerged as the language that fit in with the early web's possibilities. It was a language of its time. Larry Wall, and Perl by extension, got what the web was all about.
 
 **08:40** - _Mike Bursell_
 
-你可以做搜索。你可以在飞行中创建网页，这是互联网的美丽新世界，你可以实时地做这些事情。
-
-You could do searches. You could create pages on the fly, and this is the brave new world of the internet, of the web, that you could do this stuff in real time.
+在网上你可以随意搜索，也可以创建即时网页，这是互联网的美丽新世界，你可以实时地做这些事情。
 
 **08:52** - _Saron Yitbarek_
 
-这位是Mike Bursell，红帽公司的首席安全架构师。Mike是90年代中期发现Perl的黑客之一。
+这位是Mike Bursell，红帽公司的首席安全架构师。Mike是90年代中期发现和使用Perl的黑客之一。
 
-That's Mike Bursell, Chief Security Architect over at Red Hat. Mike was one of those hackers who discovered Perl in the mid-90s.
 
 **09:00** - _Mike Bursell_
 
-对于web来说，Perl是许多人的起点。Java™\>还处于早期阶段，它在文本输入/输出方面并不是很出色，如果您想进行查询和生成页面，Perl就是人们使用的工具。
+对于早期的互联网来说，Perl是许多人的起点。Java语言还处于早期阶段，它在文本输入输出方面并不是很出色。如果您想进行查询和生成页面，Perl正是人们使用的工具。
 
-For the web, Perl was the starting point for many people. Java™\> was early days, it wasn't really fantastic at text input/output, and if you wanted to be taking queries and generating pages, well Perl was what people were using anyway.
 
 **09:22** - _Mike Bursell_
 
-Perl非常适合，因为它擅长获取文本，并使用文本做其他事情。这就是万维网。
+Perl非常适合，因为它擅长获取文本，并使用文本做其他事情，而这正是互联网所需要的。
 
-Perl was just a good fit, because it's good at taking text, and doing other things with text. And that's what the web was.
 
 **09:31** - _Saron Yitbarek_
 
-顺便说一下，Larry Wall有语言学背景，这解释了Perl强大的文本解析能力。正如Mike Bursell提到的，这是一笔巨大的红利，因为在早期，网络主要是一种基于文本的媒体。
+顺便需要说一下的是Larry Wall有语言学背景，这就解释了为什么Perl有强大的文本解析能力。正如Mike Bursell提到的，这是一笔巨大的红利，因为在早期网络主要是一种基于文本的媒介，因为那时候人们没有足够的带宽来处理图像。
 
-Larry Wall has a background in linguistics, by the way, which explains Perl's strong text parsing. And that was a huge bonus, as Mike Bursell mentioned, because the web was largely a text-based medium in those early days.
-
-**09:47** - _Saron Yitbarek_
-
-人们没有足够的带宽来处理图像。
-
-People didn't really have the bandwidth for graphics.
 
 **09:51** - _Mike Bursell_
 
-它很容易使用。很容易模仿。人们在分享方面非常开放，而且很快就产生了成果，这些都是好东西。
+那时候网络很容易使用，也很容易复制资料。人们在分享方面非常开放，而且很快就产生了成果，这些都是好东西。
 
-It was easy to use. It was easy to copy. People were very open with sharing, and it produced output quickly, and that was all good stuff.
 
 **10:02** - _Mike Bursell_
 
-哦，还有一件事，当然，你可以用管道来输送东西。所以，这是人们已经很习惯的，即使是离线测试也很容易，这些都非常有用。
-
-Oh, and the other thing, of course, is you could pipe things from it. So, it was very much what people are used to, and very easy to test even offline, and that was all very useful.
+哦，当然还有一件事，那时候你可以在网络上来收发东西。人们已经很习惯了，即使是离线测试也很容易，这些都非常有用。
 
 **10:13** - _Saron Yitbarek_
 
-尤其对那些在基于web的世界中重新规划自己生活的系统管理员来说非常有用。
+尤其对那些在基于互联网世界中重新规划自己生活的系统管理员来说非常有用。
 
-Useful especially for all those sysadmins, who were reimagining their lives in a web-based world.
 
 **10:21** - _Mike Bursell_
 
-Perl是系统管理员的真正礼物。即使在那个年代，如果你在做一些有趣的事情，你也会得到很多日志。管理这些日志，分解它们，搜索它们，并能够以不同的方式显示它们，或获取任何其他大型文本库，这基本上就是日志，甚至调试。除非您要在命令行上通过管道传输orc, sed和其他东西，以及ed，这很快会变得非常痛苦，否则Perl是您的首选。
+Perl是系统管理员的真正礼物。即使在那个年代，如果你做一些有趣的事情，你将会得到很多日志。管理这些日志，分解它们，搜索它们，并能够以不同的方式显示它们，或获取任何其他大型文本库，这基本上就是日志，甚至可以对他们进行调试。除非您要在命令行里用管道方式传输orc, sed，stuff以及ed命令，那样的话你很快就会变得非常痛苦，而Perl正好适合让你去处理这些事情。
 
-Perl was a real gift for sysadmins. Even in those days, you're getting lots of logs if you are doing anything interesting. Managing those logs, breaking them down, searching them, and being able to present them in different ways, or taking any other large corpus of text, which basically is what logs are, or even debug. Unless you were going to pipe orc, and sed and stuff, and ed on the command line, which gets very painful very quickly, Perl was your go-to for that.
 
 **10:55** - _Saron Yitbarek_
 
-到90年代后期，Perl 5已经团结了一个强大的用户社区。旧的语言，如Fortran和C，依赖于庞大而昂贵的硬件。但是Perl更有生命力，也更容易移植。它被设计成在一个硬件成本急剧下降的世界里蓬勃发展，让所有的新程序员快速而轻松地工作。这是因为拉里·沃尔牺牲了CPU和内存的需求，使他的语言更接近人类。所有这些元素组合在一起使Perl成为一种欢迎新的开发社区的语言。
-
-By the late 90s, Perl 5 had pulled together a powerful community of users. Older languages, like Fortran and C, had relied on big, expensive hardware. But Perl was scrappier and more portable. It was designed to thrive in a world where hardware costs were dropping dramatically, letting all those new programmers work fast and easy. That's because Larry Wall made his language more human-like at the expense of CPU and memory requirements. All those elements combined to make Perl a language that welcomed the new development community.
+到90年代后期，Perl 5已经团结起来一个强大的用户社区。像Fortran和C这样的旧语言依赖于庞大而昂贵的硬件，而Perl更有生命力，也更容易移植。在那样一个硬件成本急剧下降的世界里Perl正好得到了蓬勃发展，Perl让所有的新程序员快速而轻松地工作。这是因为拉里·沃尔牺牲了CPU和内存的需求，使Perl语法更人性。所有这些元素组合在一起使Perl成为一种很受新开发社区欢迎的语言。
 
 **11:36** - _Mike Bursell_
 
-那里的人越来越多你可以去和他们聊聊那里有什么。珀尔蒙克斯来了，这是一个讨论的好地方，知道发生了什么。
+在一个正在壮大的社区里，你可以去和社区的人聊聊社区里的事情，然后PerlMonks论坛出现了，那里是一个讨论的好地方，能在论坛里知道正在发生的事情。
 
-There was very much a growing community of people out there who you could go and talk to about what there was. PerlMonks started to arrive, it was a great place to discuss things, find out what was going on.
 
 **11:50** - _Saron Yitbarek_
 
-这个社区确实拥有网络所能提供的最好的东西。他们发现了一个巨大的软件模块库，一个叫做CPAN的银行，这些系统管理员都很喜欢它。它给Perl提供了更多的灵活性，许多人可以部署由几个超级巨星编写的代码。
+这个社区确实拥有网络所能提供的最好的东西。他们发现了一个巨大的软件模块库，一个叫做CPAN的银行，这些系统管理员都很喜欢它。它给Perl提供了更多的灵活性，许多人都可以部署由几个超级编程大师编写的代码。
 
-That community really did have the best the web could offer. They discovered a huge repository of software modules, a bank called CPAN, which those sysadmins loved. It gave Perl even more flexibility, lots of people could deploy code written by a few superstars.
 
 **12:15** - _Mike Bursell_
 
-它有很多库可以做你想做的事情，如果你找不到它，你就去问，然后有人写了它。
-
-It had libraries to do pretty much anything you wanted, and if you couldn't find it, you asked, and someone wrote it.
+它有很多库可以做你想做的事情，如果你找不到你想要的库，你可以去提问，然后就会有好心人写出你想要的库的。
 
 **12:21** - _Saron Yitbarek_
 
 Mike Bursell是红帽公司的首席安全架构师。
 
-Mike Bursell is the Chief Security Architect at Red Hat.
 
 **12:28** - _Saron Yitbarek_
 
-因此，Perl是免费的，它受到不断增长的模块库的支持，它是可移植的，而且它有一个蓬勃发展的社区。事情看起来不错。Perl可以充分利用上世纪90年代web开发的所有优势。但是，就在90年代即将结束时，发展前景又一次发生了变化。改变了。
+正是由于Perl的自由开源，它受到不断增长的模块库的支持，它是可移植的，而且它有一个蓬勃发展的社区。事情看起来不错。Perl可以充分利用上世纪90年代互联网发展中的所有优势，但就在90年代即将结束时互联网的发展前景又一次发生了变化，时代来了一个大的转变。
 
-So, Perl was free, it was supported by a growing library of modules, it was portable, and it had a booming community. Things were looking good. Perl could exploit all the best in that new 1990s world of web development. But, just as the 90s came to a close, as if on queue, the development landscape changed again. Changed big time.
 
 **12:57** - _Alan Greenspan_
 
-但我们如何知道，非理性繁荣何时已过度推高了资产价值，进而导致了意料之外的长期收缩?
+但我们又能如何知道非理性繁荣何时已过度推高了资产价值，进而导致了意料之外的长期经济收缩?
 
-But how do we know when irrational exuberance has unduly escalated asset values, which then become subject to unexpected and prolonged contractions?
 
 **13:12** - _Saron Yitbarek_
 
