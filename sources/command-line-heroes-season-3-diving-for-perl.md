@@ -191,289 +191,238 @@ Mike Bursell是红帽公司的首席安全架构师。
 
 **13:12** - _Saron Yitbarek_
 
-非理性繁荣。这是时任美联储主席艾伦•格林斯潘在1996年对美国企业研究所说的话。他那句“非理性繁荣”是对90年代人人都经历过的网络泡沫的警告。所有早期使用Perl的web开发人员都在那个泡沫中乘风破浪，但正如格林斯潘预测的那样，泡沫在2000年破裂了。
-
-Irrational exuberance. That's Alan Greenspan, then Chair of the Federal Reserve, talking to the American Enterprise Institute in 1996. And that phrase of his, irrational exuberance, was a warning about the dot-com bubble everybody rode through the 90s. All those early web developers using Perl were riding high on that bubble, but it all burst in 2000, just like Greenspan predicted.
+“非理性繁荣”是时任美联储主席Alan Greenspan在1996年对美国企业研究所说的话。他那句“非理性繁荣”是对90年代人人都经历过的网络泡沫的警告。所有早期使用Perl的网络开发人员都在那个泡沫中乘风破浪，但正如Greenspan预测的那样，泡沫在2000年破裂了。
 
 **14:11** - _Conor Myhrvold_
 
-大家好，我是康纳·梅尔沃德。在过去的五六年里，我一直在编程，现在我在技术领域为Uber工作。
-
-Hi, I'm Conor Myhrvold. I've been programming for the last five or six years, and I'm currently in the technology space working for Uber.
+大家好，我是Conor Myhrvold。在过去的五六年里我一直在编程，现在我在技术领域为Uber工作。
 
 **14:20** - _Saron Yitbarek_
 
-2000年代初，当Conor还在高中的时候，Perl仍然是一个非常重要的东西。但他越来越意识到一种与之竞争的语言，叫做Python。
+2000年代初当Conor还在高中的时候，Perl仍然是一个非常重要的东西。但他越来越意识到一种与之竞争的语言，叫做Python。
 
-When Conor was in high school in the early 2000s, Perl was still a pretty big deal. But he was increasingly aware of a competing language, called Python.
 
 **14:31** - _Conor Myhrvold_
 
-Python所做的一件事是，它是一种更结构化的语言，因为有一种明显的方式来做很多不同的事情，它就是这样设置的。而Perl喜欢做的事情不止一种。但是很多初学者都很困惑。
+Python所追求的是一种更结构化的语言，用一种明显的方式来做很多不同的事情。Python就是那样设置的，而Perl做某件事有不止一种方法，这使得很多初学者都很困惑。
 
-One thing that Python had going for it, is it's a much more structured language in that there's one obvious way to do a lot of different things, and it's set up that way. Whereas Perl kind of relished in being the fact that there's more than one way to do something. But that was confusing to a lot of beginners.
 
 **14:49** - _Saron Yitbarek_
 
-Perl有这样一句座右铭:“实现它的方法不止一种。”Python的投资实际上是相反的。Python为每个问题都提供了一个明显的解决方案，这意味着查看别人的Python代码很容易。另一方面，查看其他人的Perl代码可能会令人困惑。Perl作为人的第三或第四种语言是有意义的。正是因为它是一种脚本语言。那是互联网的管道胶带。
+Perl有这样一句座右铭“实现它的方法不止一种。” 而Python的理念实际上是相反的，Python为每个问题都提供了一个明显的解决方案，这意味着查看别人的Python代码很容易；而另一方面查看其他人的Perl代码可能会令人困惑。Perl作为一个程序员的第三或第四种语言是有意义的，而正是因为它是一种脚本语言，而脚本是互联网管道连结的基础。
 
-Perl had that motto, "There is more than one way to do it." Python was actually invested in the opposite. Python gave you one obvious solution for each problem, and that meant looking at somebody else's Python code was easy to do. Looking at somebody else's Perl code, on the other hand, could be confusing. Perl made sense as a person's third, or fourth, language. Precisely because it was a scripting language. It was the duct tape of the internet.
 
 **15:23** - _Saron Yitbarek_
 
-但是Python是一种你可以真正深入研究的语言，即使你是一个新手。Perl有一组特定的优势;搜索文本，生物信息学。但是Python就是这种简单的、通用的语言。作为人们首先想学的语言，Python获得了越来越多的信任。这是一件大事。
+但是Python是一种你可以真正深入研究的语言，即使你是一个新手。Perl有一组特定的优势，比如在搜索文本和生物信息学上。但是Python就是这样一种简单通用的语言。作为人们首先想学的语言，Python获得了越来越多的信任。这是一件大事。
 
-But Python was a language you could really dig into, even as a newcomer. Perl had a specific set of strengths; searching for text, bioinformatics. But Python was this easy, general-purpose language. Python gained more and more cred as the language people wanted to learn first. That was a huge deal.
 
 **15:47** - _Conor Myhrvold_
 
-越来越多的人开始上网，越来越多的人开始学习如何编程。Python从中受益的一件事(尤其是在这个时期相对于Perl而言)是，它相对容易学习，因为它更结构化。因此，在一个饼增长很快的世界里，如果你能得到更多的饼增长，那将最终意味着有更多的教程和更多的东西可供你使用。
+越来越多的人开始上网，越来越多的人开始学习如何编程。尤其是在这个时期相对于Perl而言，Python从中受益的是Python相对容易学习，因为它更结构化。因此就像在一个增长很快的果馅饼里，如果你能得到更多增长的果馅饼，那将最终意味着有更多的教程和更多的东西可供你使用。
 
-A lot more people were going online, and a lot more people are learning how to program. One thing that Python benefited from, especially relative to Perl during this time period, is that it was relatively easy to learn because it was more structured. And as a consequence of that, in a world where the pie is increasing quickly, if you can get more of that increase in pie, that will eventually mean that there are tutorials and more stuff available to you.
 
 **16:10** - _Saron Yitbarek_
 
-我之前提到过CPAN，它是Perl用户可以使用的强大的中央存储库。这在90年代是一个主要的吸引。但CPAN的价值也在变化。
+在之前提到过的CPAN，它是Perl用户可以使用的强大的中央存储库。这在90年代是一个主要的侧重点，但CPAN的重要性也在变化。
 
-I mentioned CPAN before, that awesome central repository that Perl users could pull from. It was a major draw in the 90s. But the value of CPAN was also changing.
 
 **16:24** - _Conor Myhrvold_
 
-这也不能真正帮助你学习一门语言，因为你是在“复制”，只是用最少的方式替换你需要的东西。从长远来看，这是一个劣势，因为如果你让一些人通过自己进行原始开发来学习如何使用一种编程语言，即使这需要花费更长的时间，他们也会觉得自己对它投入了更多，而且他们了解发生了什么。
+这也不能真正帮助你学习一门语言，因为你是在“复制”，只是用最少的方式替换你需要的东西。从长远来看这是一个劣势，因为如果你让人们通过自己进行原始开发来学习如何使用一种编程语言，即使这需要花费更长的时间他们也会觉得自己对它投入了更多，而且他们了解在这中间发生了什么。
 
-That also doesn't really help you learn a language, because you're “copypastaing” and just replacing what you need to in the minimum amount of fashion. That became a disadvantage over the long run, because if you have people that learn how to use a programming language by doing original development of everything themselves, even if it takes a lot longer, they feel like they're more invested in it, and they understand what's going on.
 
 **16:48** - _Saron Yitbarek_
 
-Python没有像CPAN那样的集中式存储库，但是对于那些在新千年来到这里的开发人员来说，在一个web搜索功能强大得多的世界里，存储库并没有那么大的价值。
+Python没有像CPAN那样的集中式存储库，但是对于那些在新千年时代来到这里的开发人员来说，在一个互联网搜索功能强大得多的世界里存储库并没有那么大的价值。
 
-Python didn't have a centralized repository, like CPAN, but the kind of developers coming to the table in the new millennium, in a world where search on the web was so much more powerful, that repository didn't have as much value anyway.
 
 **17:05** - _Saron Yitbarek_
 
-ython最终有了大量的教程，当然，现在也有了像GitHub这样的平台。
+所以最终Python在网络上有了大量的教程，当然现在也有了像GitHub这样的平台。
 
-Python eventually had loads of tutorials, and of course, today you also have platforms, like GitHub.
 
 **17:13** - _Conor Myhrvold_
 
 最终发生的事情是Perl拥有的许多优势是来自一个已经过时的时代的网络效应。
 
-What ended up happening is a lot of advantages that Perl had were these network effects from an era that was outgrown.
 
 **17:24** - _Saron Yitbarek_
 
-康纳·梅尔沃德(Conor Myhrvold)是Uber的一名工程师。
+Conor Myhrvold是Uber的一名工程师。
 
-Conor Myhrvold is an engineer at Uber.
 
 **17:30** - _Saron Yitbarek_
 
-然而，语言的兴衰很少是由外部力量单独决定的，Perl的内部问题是，在它的发展过程中，它似乎遇到了障碍。Python正在以一种相当有序的方式发布新的迭代，但是在Perl，正如我们在本季度第一集中所了解到的，在2000年，dot-com泡沫正在破裂，Python开始吞噬新的开发人员。
+然而语言的兴衰很少是由外部力量单独决定的，而Perl的内部问题是在它的发展过程中它似乎遇到了障碍。Python正在以一种相当有序的方式发布新的迭代，而正如我们在本季度第一集中所了解到的，Perl在2000年互联网泡沫破裂之时，Python开始获得更多新开发人员的青睐。
 
-Languages rarely rise and fall by external forces alone though, and the internal issue over at Perl was that as it was evolving, it seemed to hit a roadblock. Python was releasing new iterations in a pretty orderly fashion, but over at Perl, well as we learned in episode 1 of this season, in 2000 that dot-com bubble was bursting, and Python started gobbling up new developers.
 
 **17:59** - _Saron Yitbarek_
 
-每个人都期待着Perl 6的发布，人们都很兴奋。他们等啊，等啊，等啊。他们等了14年。
+每个人都期待着Perl 6的发布，人们都很兴奋。他们等啊，等啊，等啊……他们等了14年。
 
-Everyone was expecting the release of Perl 6, and people were excited. They waited, and waited, and waited. They waited for 14 years.
 
 **18:15** - _Elizabeth Mattijsen_
 
 人们提出了大约300多件Perl 6应该能够完成的事情，当然其中很多事情基本上是相互排斥的。
 
-People came up with about 300 plus things that Perl 6 should be able to do, and of course a lot of these things were basically, mutually exclusive.
 
 **18:26** - _Saron Yitbarek_
 
-这是Elizabeth Mattijsen，她是Perl 6的核心开发人员。伊丽莎白在2000年参加了蒙特雷的Perl会议。这时，开发人员认为他们已经停滞不前了，所以Perl 6是必要的。Larry Wall同意了，但是如果Perl 5是他对Perl的重写，那么他希望Perl 6是社区对Perl的重写。而团队合作可能需要更长时间，甚至14年。对于那些开发者来说，这是一条漫长而艰难的道路。
+这是Elizabeth Mattijsen，她是Perl 6的核心开发人员。伊丽莎白在2000年参加了蒙特雷的Perl会议。那时开发者认为他们已经停滞不前了，所以Perl 6是必要的。Larry Wall同意了，但是如果说Perl 5是他对Perl的重写，那么他希望Perl 6是由社区来对Perl进行重写。由于团队合作可能需要更长时间，甚至14年，这对于那些开发者来说这是一条漫长而艰难的道路。
 
-That's Elizabeth Mattijsen, who works as a core developer on Perl 6. Elizabeth was at the Perl conference in Monterey in 2000. That's when developers decided they were stagnating, and Perl 6 was necessary. Larry Wall agreed, but if Perl 5 was his rewrite of Perl, he wanted Perl 6 to be the community's rewrite of Perl. And group work can take longer, even 14 years. It was a long and difficult road for those developers.
 
 **19:01** - _Elizabeth Mattijsen_
 
-我们可以说，Perl 6的当前实现实际上是实现它的第三次尝试。
+我们可以说当前实施的Perl 6项目实际上是实现它的第三次尝试。
 
-We could argue that the current implementation of Perl 6 is actually the third attempt of implementing it.
 
 **19:07** - _Saron Yitbarek_
 
-按照伊丽莎白的说法，在这14年里有过多次尝试。那些经历了漫长而痛苦的深度的尝试。人们烧坏;人们陷入了死胡同。到2015年圣诞节那天Perl 6终于问世时，世界上的许多地方已经开始了新的发展。需要注意的是，Perl 6并没有升级为一些革命性的新东西，从而对Python进行反击。Perl 6是对原始版本进行了深思熟虑的重新设计。
+按照Elizabeth的说法，在这14年里有过多次尝试。中间经历了漫长而痛苦的深度的尝试。开发者们心力交瘁;人们陷入了死胡同。到2015年圣诞节那天Perl 6终于问世时，世界上的许多地方已经开始了新的发展。而需要注意的是Perl 6并没有升级为一些革命性的新东西，从而实现对Python的反击。Perl 6是对原始版本进行了深思熟虑的重新设计。
 
-The way Elizabeth tells it, there were attempts throughout those 14 years. Attempts that had long, agonizing depths. People burnt out; people ran into dead ends. By the time Perl 6 finally arrived on Christmas Day, 2015, much of the world had already moved on. And it's important to note that Perl 6 wasn't ramping up into some revolutionary new thing that would strike back at Python. Perl 6 was more a thoughtful reworking of the original.
 
 **19:43** - _Elizabeth Mattijsen_
 
-我认为拉里·沃尔在他的《洋葱州》演讲中使用了一个很好的比喻。对他来说，Perl 5就像霍比特人，而Perl 6就像指环王。如果你仔细看《霍比特人》和《指环王》的故事，你会发现它们基本上是同一个故事。只是《霍比特人》比《指环王》小得多，有更多的情节漏洞，没有《指环王》那么多。我认为这很好地描述了Perl 5和Perl 6之间的区别。它基本上是……同样的想法，同样的心态，同样的环境，只是对它的重新想象
+我认为Larry Wall 在他的演讲中使用了一个很好的比喻。对他来说，Perl 5就像霍比特人，而Perl 6就像指环王。如果你仔细看《霍比特人》和《指环王》的故事，你会发现它们基本上是同一个故事。只是《霍比特人》比《指环王》小得多，有更多的情节漏洞，没有《指环王》那么宏大的背景。我认为这很好地描述了Perl 5和Perl 6之间的区别。它基本上是同样的想法，同样的心态，同样的环境，只是对它的重新构想。
 
-I think Larry Wall actually used a very nice metaphor in one of his State of the Onion speeches. Perl 5 to him is like The Hobbit, and Perl 6 is like Lord of the Rings. If you really look at the stories of The Hobbit and Lord of the Rings, they basically are more or less the same story. It's just that The Hobbit is much smaller and has more plot holes than Lord of the Rings and isn't as extensive. I think that describes very well what the difference is between Perl 5 and Perl 6. It is basically ... it's the same idea, it's the same mindset, it's the same environment, but a re-imagination of it.
 
 **20:26** - _Saron Yitbarek_
 
 Elizabeth Mattijsen是Perl 6的核心贡献者。
 
-Elizabeth Mattijsen is a core contributor to Perl 6.
 
 **20:32** - _Saron Yitbarek_
 
-今天，Perl甚至可能不在前20种语言之列。在外部竞争和内部延迟之间，它并没有向大多数新开发人员证明自己。但这提出了一个大问题，我们真的应该如何判断我们的编程语言的受欢迎程度吗?或者，我们应该看看其他的值吗?当超级巨星成为密友时，这到底意味着什么呢?
+现在Perl甚至可能不在前20种语言之列。在外部竞争和内部延迟之间，它并没有向大多数新开发人员证明自己。但这提出了一个大问题，我们真的应该根据一种语言的受欢迎程度来判断我们的编程语言吗?或者说我们应该根据其他方面来判断一种编程语言的价值?当昔日的超级巨星成为现在的密友时，这到底意味着什么呢?
 
-Today, Perl might not even place on a list of the top 20 languages. Between external competition, and internal delays, it just hasn't proven itself for most new developers. But that raises a big question, is popularity really how we should judge our programming languages? Or, should we be looking at other values? What does it really mean when the megastar becomes a sidekick?
 
 **21:06** - _Saron Yitbarek_
 
-在世纪之交，当dot-com泡沫破裂，Perl的统治地位开始衰退时，Larry Wall发表了一个有趣的声明。他认为，尽管Perl永远不会再成为世界上最流行的编程语言，但它可以成为较小类别中的领先者。拉里·沃尔说，这才是真正的目标。成为同类中最好的，而不是世界上最好的。他说，SUV永远比不上赛车。
+在世纪之交时互联网泡沫破裂，Perl的统治地位开始衰退时，Larry Wall发表了一个有趣的声明。他认为尽管Perl永远不会再成为世界上最流行的编程语言，但它可以成为较小类别中的领先者。Larry Wall说那才是真正的目标。成为同类中最好的，而不是世界上最好的。正如他所说的SUV永远比不上赛车。
 
-Around the turn of the century, as the dot-com bubble was bursting, and Perl's dominance began to wane, Larry Wall made an interesting statement. He argued that, while Perl would never again be among the world's most popular programming languages, it could be a leader within a smaller category. And that, said Larry Wall, was the real goal. To be best in category, not best in the world. An SUV, he said, would never compete with a race car.
 
 **21:38** - _Saron Yitbarek_
 
-我想深入研究这个想法。我想了解在类别中最好对编程语言的真正含义。
+我想深入研究这个想法，我想了解在类别中做到最好才是对编程语言的真正含义。
 
-I wanted to dig into that idea. I wanted to understand what best in category really means for a programming language.
 
 **21:48** - _John Siracusa_
 
-我是John Siracusa，我是一个程序员，我是一个播客。
+我是John Siracusa，我是一个程序员，也是一个播客。
 
-I am John Siracusa I am a programmer, and I'm a podcaster.
 
 **21:53** - _Saron Yitbarek_
 
-约翰实际上共同主持了三个播客，《意外技术播客》，《可调和的差异》和《机器人还是不是》我们聊到了Perl在当今世界的地位。
+John实际上共同主持了三个播客：《意外技术播客》，《可调和的差异》和《是机器人还是？》。我们聊到了Perl在当今世界的地位。
 
-John actually co-hosts three podcasts, Accidental Tech Podcast, Reconcilable Differences, and Robot or Not? We got chatting about Perl's position in the world today.
 
 **22:06** - _Saron Yitbarek_
 
-今天怎么样?它仍然是班里最好的吗?
+Perl在当今世界排名怎么样了?它仍然是最好的计算机语言吗?
 
-What about today? Does it still hold up as being best in class?
 
 **22:10** - _John Siracusa_
 
-Perl 6具有其他语言没有的、其他语言应该具有的东西，我一直在等待其他语言窃取它的东西。例如，语法是概念化常见任务的一种好方法，而在我看来，使用语法解决解析问题比使用现有的工具更令人愉快、更干净、更好。
+Perl 6具有其他语言没有的、其他语言应该具有的东西，我一直在等待其他语言窃取它的东西。例如语法是概念化常见任务的一种好方法，而在我看来使用语法解决解析问题比使用现有的工具更令人愉快、更干净、更好。
 
-Perl 6 has things that no other language has, that other languages should have, and I keep waiting for other languages to steal from it. Grammars, for example, is a great way to conceptualize a common task, and using grammars to solve parsing problems is, in my opinion, more pleasant, cleaner, and nicer than using the existing tools that we have.
 
 **22:31** - _John Siracusa_
 
-在Perl中，对象系统的许多部分看起来很琐碎，但我完全希望其他语言最终能够采用，就像其中许多语言最终采纳了Perl 5中的许多思想一样。因此，我认为Perl 6在许多类别中都是最好的。遗憾的是，很少有人会发现自己有机会使用它。
+在Perl中对象系统的许多部分看起来很琐碎，但我完全希望其他语言最终能够采用，就像许多语言最终采纳了Perl 5中的许多思想一样。因此我认为Perl 6在许多类别中都是最好的。遗憾的是很少有人会发现自己有机会使用它。
 
-There's lots of parts of the object system in Perl that might seem frivolous, but that I fully expect other languages to eventually adopt just as many of those languages eventually adopted a lot of the ideas that were in Perl 5. So, I think Perl 6 is best in class in many categories. It's just such a shame that so few people will find themselves with an opportunity to use it.
 
 **22:52** - _Saron Yitbarek_
 
-您认为Perl 6社区的发展需要做些什么?要让人们更多地参与到Perl 6中，需要发生什么?
+您认为Perl 6社区的发展需要做些什么?想让人们更多地参与到Perl 6中，需要做些什么?
 
-What do you think needs to happen for the Perl 6 community to grow? What needs to happen for people to be more involved in Perl 6?
 
 **23:00** - _John Siracusa_
 
-这有点像Perl 6的故事，就像它一直在寻找一个真正奇妙的实现一样。这是第二体系问题的一部分……第二系统综合症，我想他们叫它-
-
-It's kind of been the story of Perl 6, like it's always been looking for a really fantastic implementation. That was part of the second-system problem ... second-system syndrome, I think they call it-
+这有点像Perl 6的故事，就像它一直在寻找一个真正奇妙的实现一样。这是第二体系问题的一部分……我认为他们称呼它为第二系统综合症……
 
 **23:11** - _Saron Yitbarek_
 
-Mm-hmm.
+唔.
 
 **23:12** - _John Siracusa_
 
-…在Perl 6中，您希望修复世界上的所有问题。他们想要解决的一个问题是运行时。是什么在运行我们的代码?运行Perl 5和之前的Perl 4的东西是一个巨大的C程序，是由具有非常特殊的编码风格和大量宏的人编写的。这有点难以理解。
+在Perl 6中人们希望修复世界上的所有问题。他们想要解决的一个问题是运行时的环境。是什么在运行我们的代码?运行Perl 5和之前的Perl 4的东西是一个巨大的C程序，这是由具有非常特殊的编码风格的开发者和大量宏来编写的，这是相当难以理解的。
 
-... of Perl 6, where you want to fix all the problems of the world. One of the problems they wanted to fix was the runtime. What is it that runs our code? The stuff that runs Perl 5, and Perl 4 before it, is a gigantic C program, written by people with very idiosyncratic coding styles and a ton of macros. It's kind of inscrutable.
 
 **23:33** - _John Siracusa_
 
-Perl 6的思想是，让我们不要再那样做了，让我们不要制造大量的C代码。相反，让我们想出一个虚拟机，这是当时的时尚，有很多关于它如何工作的伟大想法。最后，我们得到了几个中等到合格的虚拟机实现版本，它们有时会相互竞争，但没有一个真正交付语言需要支持的性能、稳定性和特性。
+Perl 6的思想是让我们不要再那样做了，让我们不要制造大量的C代码。相反，让我们使用一个虚拟机，这是当时的时尚，有很多关于如何实现它的伟大想法。最终我们得到了几个中等到合格的虚拟机版本，这些版本有时会相互竞争，但没有一个达到真正交付语言使用时需要的性能、稳定性和特性。
 
-The idea with Perl 6 is let's not do that again, let's not make a giant wad of C code. Instead, let's come up with a virtual machine, which was the fad at the time, and there were so many grand ideas about how it was going to work. In the end, we got several medium-to-okay implemented versions of virtual machines, sometimes competing with each other, none of them really delivering on the performance, and stability, and features that the language needed to support it.
 
 **24:01** - _Saron Yitbarek_
 
-现在Perl到底发生了什么?你对此有什么看法?
+现如今Perl到底发生了什么?你对此有什么看法?
 
-What is actually going on with Perl today? What's your take on it?
 
 **24:06** - _John Siracusa_
 
-显然，Perl 5似乎正在走下坡路，因为与Perl 5同时代的所有其他语言都采纳了它的大多数最佳思想，并获得了更多的支持。也就是说，因为它在很长一段时间内都是王者，所以有很多Perl 5代码在运行一些大型的、重要的站点，人们需要维护和扩展这些代码。
+显然Perl 5似乎正在走下坡路，因为与Perl 5同时代的所有其他语言都采纳了它的大多数最佳思想，并获得了更多的支持。也就是说因为它在很长一段时间内都是王者，所以有很多Perl 5代码在运行一些大型的、重要的站点，人们需要维护和扩展这些代码。
 
-Perl 5 definitely seems like it's on the downward slope, because all the other languages that are contemporaries with Perl 5 took most of its best ideas and have gotten more support. That said, because it was the king for a long time, there's a lot of Perl 5 code out there running some big, important sites, and people need to maintain and expand that code.
 
 **24:29** - _John Siracusa_
 
-这需要很长时间才能消失。只要看看仍然存在的COBOL，人们是如何仍然雇佣人来研究COBOL的，对吗?
+这需要很长时间才能消失。只要看看现今仍然存在的COBOL，人们仍需要然雇佣人来在COBOL上做维护的，对吗?
 
-It's going to take a long time for that to fade away. Just look at COBOL that's still out there, and how people are still hiring people to work on COBOL, right?
 
 **24:35** - _Saron Yitbarek_
 
 嗯哼。这是真的。
 
-Mm-hmm. That's true.
 
 **24:36** - _John Siracusa_
 
-您问它是不是一种垂死的语言，我提到了COBOL，这听起来不太好。因为Perl 6本身会成为主导语言吗?看起来不太好。围绕其他语言有如此多的投资，如果Perl 6现在还没有得到这样的投资，我不确定将会发生什么变化来让它流行起来。
+你刚才问Perl是不是一种垂死的语言，我提到了COBOL，这听起来不太好。因为Perl 6本身会成为主导语言吗?看起来可能性不大。现在对其他语言有非常多的关注，如果Perl 6现在还没有得到开发者的关注，我不知道将会需要发生什么变化来让它流行起来。
 
-You're asking about if it's a dying language, and I mention COBOL, that doesn't sound good. Because will Perl 6 itself ever become a dominant language? It's not looking good. There's so much investment surrounding the other languages, and if Perl 6 hasn't gotten that investment now, I'm not sure what's going to change to make it catch on.
 
 **24:54** - _Saron Yitbarek_
 
 如果按照您的方式，您对Perl的希望是什么?您希望在Perl 5或Perl 6中看到什么，以及希望看到将来发生什么?
 
-If you had it your way, what are your hopes for Perl? What would you like to see in Perl 5, or Perl 6, and what would you like to see happen in the future?
 
 **25:04** - _John Siracusa_
 
-我对Perl 5的希望是，人们不会忽视它，因为尽管有其他更流行的语言，但今天仍然存在Perl 5是最佳解决方案的问题。通常这些都是胶水类型的问题。如果您发现自己曾经编写过shell脚本，并且您可能会说:“好吧，我不会用我的‘真正的编程语言’来做这件事。”不管是Python，还是Ruby，还是别的什么。但是shell脚本可以让我把一堆东西连接起来。Perl是完成这项工作的更好工具。编写正确的Perl脚本要比编写正确的shell脚本容易。
+我对Perl 5的希望是人们不会忽视它，因为尽管有其他更流行的语言，但今天仍然存在采用Perl 5是最佳解决方案的事。通常这些都是胶水类型语言的问题。如果您发现自己曾经编写过shell脚本，并且您可能会说:“好吧，我不会用我的‘真正的编程语言’来做这件事。”不管是Python，还是Ruby，还是别的什么。但是shell脚本可以让我把一堆东西连接起来（胶水类型语言）。Perl是完成这项工作的更好工具。编写正确的Perl脚本要比编写正确的shell脚本更容易。
 
-My hope for Perl 5 is that people don't dismiss it, because despite all the other more popular languages, there are still problems today to which Perl 5 is the best solution. Very often those are sort of glue type problems. If you find yourself ever writing a shell script, and you're like, "Well, I'm not going to use my 'real programming language' for this." Whether it's Python, or Ruby, or whatever. But a shell script can let me connect together a bunch of stuff. Perl is a better tool for that job. It is easier to write a correct Perl script than it is to write a correct shell script.
 
 **25:40** - _Saron Yitbarek_
 
-我认为，归根结底，Perl可能不再是入门点，但对于经验更丰富的多语言开发人员来说，您永远不希望扔掉工具箱中的小工具。指定的工具有时允许您升级。
-
-I think what it all comes down to is that Perl might not be the entry point anymore, but for a more seasoned, polyglot developer, you never want to throw out that niche tool in your toolbox. The specified tools are sometimes what allow you to level up.
+我认为归根结底Perl可能不再是一个适合入门的语言，但对于经验更丰富的多语言开发人员来说你永远不希望扔掉工具箱中的小工具，而且特定的工具有时使你更有境界的提升。
 
 **25:58** - _John Siracusa_
 
-有时我为Perl 6感到难过和沮丧，认为它不会有任何进展，有时我想，“您知道吗?这是个不错的小社区。”每个社区都不需要称霸世界，也不需要成为整个行业的主导语言。实际上，你可以这样无限地进行下去。这就是开源和编程语言的伟大之处。没人能阻止你。您可以像以前一样继续在Perl 6上工作。
+有时我为Perl 6感到难过和沮丧，认为它不会有任何进展，有时我想“您知道吗?这是个不错的小社区”。每个社区都不需要称霸世界，也不需要成为整个行业的主导语言。实际上你就可以这样，这就是开源和编程语言的伟大之处。没人能阻止你，你可以像以前一样继续在Perl 6上工作。
 
-Sometimes I'm sad, and depressed about Perl 6 and think it's going nowhere, and sometimes I'm like, "You know what? This is a nice little community." And every community doesn't need to take over the world and be the language that dominates the entire industry. And maybe you can just go along like this, essentially, indefinitely. That's the great thing about open source, and programming languages. No one's going to make you stop. You can just keep working on Perl 6 the same way you have been.
 
 **26:27** - _Saron Yitbarek_
 
 John Siracusa是一名程序员，也是三个科技播客的共同主持人。
 
-John Siracusa is a programmer, and the co-host of three tech podcasts.
 
 **26:34** - _Saron Yitbarek_
 
-语言有生命周期。当新的语言出现时，它们能够精确地适应新的现实，像Perl这样的选择可能会占据更小、更小的领域。但这并不是一件坏事。我们的语言应该随着我们需求的变化而扩大或缩小它们的群体。在web开发的早期历史中，Perl是一个至关重要的角色，它以各种方式与我们联系在一起，只要看一看它的历史就会发现它的存在。
+语言都有生命周期。当新的语言出现时它们能够精确地适应新的现实，像Perl这样的选择可能会占据更小、更小的领域，但这并不是一件坏事。我们的语言应该随着我们需求的变化而扩大或缩小它们的群体。在互联网开发的早期历史中，Perl是一个至关重要的角色，它以各种方式与我们联系在一起，只要看一看它的历史就会发现它的存在。
 
-Languages have life cycles. When new languages emerge exquisitely adapted to new realities, an option like Perl might occupy a smaller, more niche area. But that's not a bad thing. Our languages should expand and shrink their communities as our needs change. Perl was a crucial player in the early history of web development, and it stays with us in all kinds of ways that become obvious with a little history and a look at the big picture.
 
 **27:11** - _Saron Yitbarek_
 
-下次讨论命令行英雄时，是什么将一种语言变成了一种标准?在基于云的开发世界中，一种新标准将如何出现?
+下次在命令行英雄中，我们将讨论：是什么将一种语言变成了一种标准?以及在基于云的开发世界中一种新标准将如何出现?
 
-Next time on Command Line Heroes, what turns a language into a standard, and how might a new standard emerge in a world of cloud-based development?
 
 **27:26** - _Saron Yitbarek_
 
-命令行英雄是红帽原创播客。如果你想深入了解Perl的故事，或者任何我们在第三季中正在探索的编程语言，请访问redhat.com。我们的网页是打包奖金材料，供您探索。
+命令行英雄是红帽原创播客。如果你想深入了解Perl的故事，或者任何我们在第三季中探索的编程语言，请访问 [redhat.com/commandlineheroes](//redhat.com/commandlineheroes) 。我们的网站里有许多精彩内容等你去探索。
 
-Command Line Heroes is an original podcast from Red Hat. If you want to dive deeper into the story of Perl, or any of the programming languages we're exploring in season 3, head on over to [redhat.com/commandlineheroes](//redhat.com/commandlineheroes). Our web page is packed with bonus material for you to explore.
 
 **27:49** - _Saron Yitbarek_
 
-我是Saron Yitbarek。在下节课之前，请继续编码。
+我是Saron Yitbarek。下节课让我们继续谈编码人生。
 
-I'm Saron Yitbarek. Until next time, keep on coding.
 
 --------------------------------------------------------------------------------
 
@@ -481,7 +430,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-3/diving-for-perl
 
 作者：[Red Hat][a]
 选题：[bestony][b]
-译者：[译者ID](https://github.com/译者ID)
+译者：[Mikedkmilk](https://github.com/Mikedkmilk)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
