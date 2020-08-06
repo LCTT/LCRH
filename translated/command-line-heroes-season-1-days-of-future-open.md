@@ -1,6 +1,6 @@
 [#]: collector: (bestony)
 [#]: translator: (laingke)
-[#]: reviewer: ( )
+[#]: reviewer: (Northurland)
 [#]: publisher: ( )
 [#]: url: ( )
 [#]: subject: (Command Line Heroes: Season 1: Days of Future_Open)
@@ -341,7 +341,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-1/days-of-future-open
 作者：[Red Hat][a]
 选题：[bestony][b]
 译者：[LaingKe](https://github.com/laingke)
-校对：[校对者ID](https://github.com/校对者ID)
+校对：[Northurland](https://github.com/Northurland)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 [a]: https://www.redhat.com/en/command-line-heroes
