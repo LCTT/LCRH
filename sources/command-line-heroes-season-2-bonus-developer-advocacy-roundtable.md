@@ -1,4 +1,3 @@
-jianglaiya is translating.
 [#]: collector: (bestony)
 [#]: translator: ()
 [#]: reviewer: ( )
