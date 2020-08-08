@@ -9,14 +9,14 @@
 
 Command Line Heroes: Season 4: 更智能的电话: 掌上电脑的旅程
 ======
-**00:02** - _Saron Yitbarek_
 
-In the early 90s, a handy software developer took a stack of wood, and carved it into small blocks of various sizes. He carefully compared the weight of each block. And when he found one that felt pocket-sized, he taped a printout of a tiny monitor onto it. Then he tucked the block in his shirt pocket, and walked around with it, to see how it would feel to be attached to a device. He was imagining, in a not so distant future, where we'd all be doing the same thing. If you think that guy's name was Steve Jobs, you're wrong. His name was Jeff Hawkins, and he co-created the PalmPilot. When the iPhone hit the market in 2007, critics and competitors questioned whether a smartphone would succeed.
+**00:02** - _Saron Yitbarek_
 
 在20世纪90年代早期，一位心灵手巧的软件开发者将一堆木头分割成不同尺寸的小木块。他仔细的比较了每个木块的重量，找到了一块口袋大小的木块，并把一个极小的显示器捆在这个木块上。随后，这名开发者将该木块放进他T恤的口袋中，并绕着T恤走，以便观察怎样才能让这个木块看起来像某种附加的设备。他开始想象，在不久的将来我们都会做相同的事情。如果你认为这位开发者的名字是Steve Jobs，那么你就错了。他的名字是Jeff Hawkins，曾合作创造了PalmPilot掌上电脑。当IPhone在2007年上市时，批评家们和竞争者们就曾经质疑智能手机是否能够成功。
 
 **00:55** - _Saron Yitbarek_
 
+十年后，问题则变成了一个人没有智能手机如何成功？智能手机无处不在，
 A decade later, the question is, how can a person succeed without one? Smartphones are ubiquitous. Their apps allow us to do pretty much anything. And the hardware running them says a lot about who we are. But as central as the iPhone has been to the rise of our mobile lives, it wasn't the catalyst. This is the epic story of how an earlier handheld device paved the way for the smartphone. And it's the story of a devoted team that stuck with that device for its entire journey. I'm Saron Yitbarek, and this is Command Line Heroes, an original podcast from Red Hat.
 
 **01:38** - _Saron Yitbarek_
