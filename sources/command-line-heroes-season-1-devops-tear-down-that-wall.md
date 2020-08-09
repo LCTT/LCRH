@@ -7,347 +7,347 @@
 [#]: via: (https://www.redhat.com/en/command-line-heroes/season-1/devops-tear-down-that-wall)
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
-Command Line Heroes: Season 1: DevOps_Tear Down That Wall
+代码英雄：第一季：DevOps_拆掉那堵墙
 ======
 _Saron Yitbarek_
 
-I want you to imagine a wall. The wall stretches as far as you can see to the right and all the way off to the left. It's taller than you, you can't see over it, and you know there are people on the other side, lots of people. But you just don't know if they're anything like you. Are they enemies or friends?
+请你想象这样一堵墙：这堵墙从你目之所及的最右侧延伸到最左侧。墙比你高，你无法看见墙背后，你知道墙的另一侧有很多很多人。但你不清楚他们是否和你一样，不清楚他们是敌是友。
 
 **00:30** - _Gordon Haff_
 
-Developers created their code and threw it over the wall to operations, and then it was operations' problem.
+开发者创造他们自己的代码，然后把代码扔过墙给运维，以后的问题都交给运维了。
 
 _Richard Henshall_
 
-Just doing whatever they feel like, not really caring about the quality of the service.
+只是随心所欲，并不是真正关心服务质量。
 
 _Sandra Henry-Stocker_
 
-These two sides have almost opposing jobs—one to make changes and one to resist those changes as much as possible.
+墙这两面的人几乎做着相反的工作——一方做出改变，另一方尽可能抵制那些改变。
 
 _Richard Henshall_
 
-But there's no talking on the same page about what it actually is they're trying to achieve.
+但对于他们到底想共同达成什么目的，却没有在同一幅蓝图规划过。
 
 **01:00** - _Saron Yitbarek_
 
-I'm Saron Yitbarek and this is Command Line Heroes, an original podcast from Red Hat. Episode 4, DevOps, tear down that wall.
+我是 Saron Yitbarek，这里是《代码英雄》，由红帽公司推出的原创播客栏目。第四期，我们想谈谈《DevOps，拆掉那堵墙》。
 
-So yeah, for decades the IT world was defined by that division of roles. You had developers on one side. They were incentivized to create as much change as quickly as possible. And then you had the operations team on the other side. They were incentivized to prevent too much change from happening. In the meantime, code was getting tossed blindly over that wall with no real empathy o r communication between these two worlds. What would it take to tear down a wall like that? It would take a seismic shift.
+是的，数十年来，IT 界由各种划分的角色来定义。一边是开发者，他们被激励尽快尽可能地去创造更多变化。然后另一边是运维团队，他们被鼓励去阻止太多改变发生。与此同时，代码在没有充分共鸣和沟通的条件下，被盲目扔过两方之间的墙。怎样才能拆掉这堵墙呢？这需要一个重大的转变。
 
 **01:30** - _Saron Yitbarek_
 
-The open source movement shook the battlefield. Last episode, we saw how new a gile methodologies put a premium on constant iterative improvements, and that need for speed would force us to change the way we work with each other. There's a limit to how fast a bunch of siloed people can work, and that limit became a problem because…
+开源运动震撼了争论主题。上一期，我们看到了新的 gile 方法论如何重视不间断的迭代改进，而这种对速度的需求将迫使我们改变彼此的工作方式。一群孤立的人工作的速度是有极限的，而这个极限成为了一个问题，因为……
 
 **02:00** - _Richard Henshall_
 
-It's all about faster time to market, increased agility, doing more iterative, rather than longer - term big pieces of work.
+因为都是为了更快的上市、提高敏捷性、更多的迭代，而不是长期而大量的工作。
 
 _Saron Yitbarek_
 
-Richard Henshall is an Ansible product manager.
+Richard Henshall 是 Ansible 的一位产品经理。
 
 _Richard Henshall_
 
-You know, I remember the days when you put in an order for a server and it turned up four months later. Everything was converged together, so that the entire stack was one thing and it took years for those to be designed and built. That doesn't fly anymore and it's just disappeared, to the point that it is just… it’s up, try it, bring it back down again, for a lot of organizations.
+是的。我还记得你以前下单购买服务器，四个月后货到了。所有东西都整合在一起，所以整个堆栈是一个整体，还要花几年时间来设计和建造那些东西。现在这种情况已经不存在了，对于很多组织来说，它已经……已经寿终正寝，偶尔试试，然后放弃。
 
 **02:30** - _Saron Yitbarek_
 
-These days, a company like Amazon will deploy new code several times every minute. Imagine trying to get that done using some step-by-step waterfall workflow. It's just impossible. Soon enough, those ops concerns about stability, security, reliability, will get pushed to the side in favor of moving fast.
+如今，像亚马逊这样的公司每分钟都会部署几次新的代码。想象一下，想要使用一些按部就班的瀑布式工作流来完成这些工作，这简直是不可能的。很快，为了继续快速工作，那些关于稳定性、安全性、可靠性的顾虑都会被运维丢到一边不管。
 
 **03:00** - _Saron Yitbarek_
 
-Developers meanwhile didn't see it as their responsibility to produce code that worked in the real world. Developers had little interest in stability and security issues, but those are very real issues that we need to address. So, we end up with a lot of needless revisions down the pipe, back and forth across the divide.
+同时，开发者也没有意识到他们的责任是创造真实环境可用的代码。开发者对稳定性和安全性毫无兴趣，但这些恰恰是我们需要解决的问题。所以，我们最终会有很多无谓的修改，在双方之间来来回回。
 
-Think how much that division can slow a company down. Think how inefficient that could get. But developers were rarely encouraged to look beyond their own command line.
+想想过度分工使一个公司多么效率低下和缓慢。但开发法者很少被鼓励思考除代码之外的其他事务。
 
 _Sandra Henry-Stocker_
 
-The size of their directories would just grow and grow, and they would never clean up, unless they wouldn't be able to get any work done without cleaning up.
+他们的目录规模只会越来越臃肿，但他们从不清理，除非已经无法工作才不得不清理。
 
 **03:30** - _Saron Yitbarek_
 
-Sandra Henry-Stocker is a retire d sysadmin who write s for the IDG magazines.
+Sandra Henry-Stocker 是位退休的系统管理员，为 IDG 杂志撰稿。
 
 _Sandra Henry-Stocker_
 
-I was kind of often having a debate, saying, "Hey look, you're using this much disk space . Isn't there something you can get rid of so that we have more space to work, because we're running out of space on this server." And yeah, we'd go through that a lot.
+我过去经常劝说别人，说，"嘿，你看，你用了这么多的磁盘空间。是不是有什么东西你可以整理一下，这样我们就有更多的空间来工作了，因为我们在这个服务器上的空间快用完了。" 是的，我们经常经历这些事。
 
 _Saron Yitbarek_
 
-Ultimately, this is a mindset problem. This divisive attitude between developers and operations, where one didn't have to understand the concerns of the other. Well, in the past that had been just fine, but as speed became a premium that culture became more and more unstable. Being siloed in your work bubble was just way too inefficient.
+归根结底，这是一个心态问题。这种开发者和运维之间的分裂态度，一方不理解另一方的担忧。好吧，在过去这还没太大问题，但随着速度成为一种优势，这种分裂现象变得越来越不稳定。孤立在自己的工作圈子里，效率太低了。
 
-Jonah Horowitz works for the Reliability Engineering team at Stripe. He describes how, even if developers and operations had wanted to work together, they couldn't have because in a sense they'd been placed on opposite teams.
+Jonah Horowitz 在 Stripe 的可靠性工程团队工作。他描述了即使开发人员和运维人员想一起工作，他们也无法做到，因为从某种意义上说，他们被安排在对立的团队中。
 
 **04:30** - _Jonah Horowitz_
 
-The operations team is often measured by uptime and reliability, and one of the biggest ways to increase uptime is to decrease the amount of change in the system. But of course, releasing new features is changing the system, and the software engineers who are doing product work are incentivized to ship as many features as quickly as possible. So you set up this conflict between dev and ops when you've got these separate roles.
+运维团队经常以正常运行时间和可靠性来衡量，而提高正常运行时间的最大方法之一就是减少系统的变化量。但当然，发布新功能就是在改变系统，而做产品工作的软件工程师也有动力去尽快发布尽可能多的功能。所以，当你有了这些独立的角色，你就会在开发和运维之间设置这种冲突。
 
 **05:00** - _Saron Yitbarek_
 
-Developers committed to building features. Operations committed to keeping the site working. Two goals at odds with each other. But like I said, because of the increasing need for speed, for iterative rapid-fire releases, this disconnect between dev and ops was reaching a crisis point and something had to give.
+开发者致力于建设功能，运营致力于维持网站的运行，两者目标相互矛盾。但就像我说的，由于对速度的需求越来越大，对快速迭代发布的需求越来越大，开发和运维之间的脱节已经到了一个危机时刻，必须要有所改变。
 
 **05:30** - _Saron Yitbarek_
 
-Around 2009, the wall dividing dev and ops was looking a lot more like a prison wall than anything else. What we needed was a new methodology that would smooth the transition from development to operations, allowing both sides to work in a faster, more holistic way.
+在2009年左右，将开发和运维分开的那堵墙看起来更像是监狱的墙。我们需要的是一种新的方法论，它能使开发向运维平稳过渡，让双方以更快、更全面的方式工作。
 
-Patrick Debois, CTO of the video platform Small Town Heroes, launched a conference for people who wanted to tear down that wall. He called his brain child DevOps Days. He shortened it to DevOps for the hashtag, and thus the movement was given a name.
+视频平台 Small Town Heroes 的首席技术官 Patrick Debois 为想要拆掉这堵墙的人发起了一场会议。他把这个的脑洞叫做 DevOps Days（开发运维日）。为了便利，他将其缩短为 DevOps，于是这场改革就有了名字。
 
 **06:00** - _Saron Yitbarek_
 
-But a name is not a process, it was clear why DevOps was needed, but how would it work? How are we supposed to bring dev and ops together without starting a war? Thankfully, I have Scott Hanselman to walk me through this. Scott's the principal program manager for .NET and ASP.NET at Microsoft.
+不过有名字并不代表改革进行了，明知道为什么需要 DevOps，但究竟如何运作？我们应该如何将开发和运维结合起来而不引发战争？幸运的是，我有 Scott Hanselman 来指导我。Scott 是微软 .NET 和 ASP.NET 的首席项目经理。
 
-So Scott, I've known you for, I feel like I've known for forever, definitely a few years.
+所以，Scott，我认识你确实有几年了，但感觉还是相见恨晚啊。
 
 **06:30** - _Scott Hanselman_
 
-Forever.
+我也是，相见恨晚哈。
 
 _Saron Yitbarek_
 
-Forever. I want to talk to you about the relationship between being a developer and what DevOps has looked like over the years. How does that sound?
+我想和你聊聊作为一个开发者和 DevOps 这些年的关系。觉得如何？
 
 _Scott Hanselman_
 
-Yeah, that sounds like a plan.
+嗯，听上去挺有意思。
 
 **07:00** - _Saron Yitbarek_
 
-Okay. So I think a good place to start is just defining what DevOps is. How would you describe it?
+好的。我认为好的开始应该是定义究竟什么是 DevOps。你会怎么定义呢？
 
 _Scott Hanselman_
 
-The Wikipedia entry from 2008 that defines DevOps is actually very good. So, it's a set of practices that is intended to reduce the time between committing a change and that change going into production while ensuring quality. So if you think about, hey, I checked in some code. It's Tuesday and that will be going out in the June release. That sucks. That would be not continuous integration. That would be a couple-of-times-a-year integration.
+2008年，维基百科有个关于 DevOps 的定义确实很棒。它说，这是一套「惯例」，目的是在保证质量的前提下，缩短提交变更和变更投入生产之间的时间。所以，如果你想想，假如今天是周二，我检查了一些代码，而代码将在 6 月的版本中上线。这就很糟糕了，因为这不是持续集成，而是一年几次的集成。
 
 **07:30** - _Scott Hanselman_
 
-If you have a good healthy DevOps system, if you've done the set - up practices, then you are going to be continuously integrating into production. So it's, what can you do? What best practices can you define, can you create, that will allow you to get it? So, I checked in some code on Tuesday and it's in production on Thursday. Now here's the important part—pause for effect—while ensuring high quality.
+如果你有一个健康的 DevOps 体系，如果你已经有「设置——上线」的惯例，那么你就可以不断地集成到生产中去。那么，你能做什么，你可以定义、创造怎样的最佳「惯例」，这将决定你能否成功。所以，我在周二检查了一些代码，周四就能上线了。那么现在，为了保证高质量，最重要的事情就会是——谨慎上线。
 
 **08:00** - _Saron Yitbarek_
 
-So what's really interesting about that definition is it's a set of practices, but I feel like when I hear people talk about DevOps , it's a little bit more crystallized, I guess. They talk about it like it's a role, a job, a position, a title. Does that conflict with the idea that it's a set of practices?
+这个定义真的很有趣呢，是个「惯例」，但我觉得当我听人们谈论 DevOps 时，它更具体化一点。他们谈论它就像它是一个角色、一个工作、一个职位或一个头衔。你觉得这与它是一套「惯例」的观点是否有冲突？
 
 _Scott Hanselman_
 
-I think that when a new set of practices or a new buzzword comes out, people like to put it on a business card. No disrespect to people who are listening to this podcast and now are offended and looking at their business card and going, "This sucks." And now they're going to like, I don't know, slam their laptop shut, rage, quit this podcast.
+我认为，当一套新的方法或一个新的流行语出现时，人们喜欢把它加在名片上。我不是不尊重那些正在收听这个播客，并且感到被我冒犯、正骂骂咧咧把名片掏出来看的人们。虽然，他们现在可能正要怒盖笔电、退出这个播客。
 
 **08:30** - _Scott Hanselman_
 
-There was a really great thread by Brian Guthrie, who is a thought worker, and he worked at SoundCloud. He's just a super smart individual. He talked about DevOps and he said in this thread a couple of days ago on Twitter that DevOps is a set of practices, period. It's not a job title. It's not a software tool. It's not a thing you install. It's not a team name.
+有一个帖子写得非常好，作者是 Brian Guthrie，他是一个脑力劳动者，在 SoundCloud 工作。他是一个超级聪明的人，几天前他在 Twitter 上的帖子中说到 DevOps。他说 DevOps 就是一套惯例，不是一个工作头衔、不是一个软件工具、不是一个你安装的东西、也不是一个团队的名字。
 
 **09:00** - _Scott Hanselman_
 
-The way he phrased it was, "It's not magic enterprise fairy dust." If you don't have best practices, if you don't have good practices, you have no DevOps . So it's more a mindset than it is putting out a job title and like, "We're going to a hire DevOps engineers and then we're going to sprinkle these magical DevOps engineers into the organization, without the organization having organizational willpower and buying into the mindset that is DevOps ." So, if you think it's a toolkit or a thing you install, then you've missed the point.
+他的原话是：「DevOps 不是神奇的『企业万能药』」。如果你没有最佳惯例，如果你没有良好的习惯，你就没有 DevOps。所以，这更多的是一种心态，而不是摆出一个工作头衔，然后「我们要雇佣一个 DevOps 工程师，然后我们要把这些神奇的 DevOps 工程师撒到组织中，而组织没有组织意志力，也没有信从 DevOps 的心态。」 所以，如果你认为 DevOps 是一个工具或者是你安装的东西，那么你就完全理解错了。
 
 **09:30** - _Saron Yitbarek_
 
-Okay, so let's go back in time, before DevOps was a term, before we had DevOps on our business cards or talked about it as a set of practices. 10 years ago, how would you describe the relationship between developers and those people who are on the ops side of things?
+好吧，让我们回到过去，在 DevOps 这个名词出现之前，在我们往名片上写 DevOps 或者把它作为一套「惯例」来讨论之前。10年前，你会如何描述开发者和那些运维人员之间的关系？
 
 _Scott Hanselman_
 
-It was rather combative. Like, the people in ops controlled production, and developers never got near production. We were on different sides of a wall that was an opaque wall. We, over in development, tried as much as we could to make something that looked like production, but you never actually ... it never looks like production.
+那是相当水火不容的，举个例子，运维控制着生产，而开发人员从来没有接近过生产。我们站在一堵不透明的墙的两侧。我们在开发部的时候，尽可能地去做一些看起来像生产的东西，但实际上从来没有……从来没有像样的产品。
 
 **10:00** - _Scott Hanselman_
 
-We had a couple of issues. We had development environments that didn't look or feel or smell like production, so inevitably you'd have those, "Hey, it works different in production than it does in development," kind of environments. And then, the distance between the check-in and when it got into production was weeks and weeks and weeks, so your brain wasn't even in the right headspace . Because I worked on that feature in January and it's just now rolling out in April, so then when the bug inevitably comes down, it's not going to be fixed until June and I don't even remember what we were talking about.
+我们有相当多问题。我们的开发环境从各个方面来说都不像生产环境，所以你不可避免地会遇到那些 「嘿，它在生产环境中的工作原理和在开发环境中的工作原理不同 」的环境。然后，从开发到投入生产之间的间距是几周几周长久，所以你的大脑甚至不在正确的频道上。比如说，我在一月份的时候就在研究这个功能，现在四月份才刚刚上线，那么当 bug 不可避免地出现的时候，要到六月份才能修复，我甚至不记得我们之前在干嘛。
 
-So people in ops, their jobs was to... It was almost like their job was to consciously slow us down. Like, they existed to make developers slower, and then of course they felt that we wanted to break production at all times.
+所以运维组的人，他们的工作是……他们的工作几乎就是有意识地让我们慢下来。好像他们的存在是为了让开发人员更慢，然后他们还觉得我们随时要让生产崩坏。
 
 **11:00** - _Saron Yitbarek_
 
-So why was it like that? Was it just a fundamental misunderstanding of what developers wanted and were trying to do? Was it a trust issue? Why was it so combative?
+那么为什么会这样呢？是对开发者的需求和努力的根本性误解吗？还是是信任问题？为什么会有这么大的冲突？
 
 _Scott Hanselman_
 
-I think that you answered, you nailed that. You answered it all correctly. There was a trust issue. There was a sense I think that developers thought they were special, or somehow better than IT people, and IT people thought that developers had no respect for production.
+我觉得你已经回答了，你回答得很到位。你说的很对，确实有信任的问题。有一种感觉，我认为开发人员认为他们是特殊的，或者某些方面比 IT 人员更优越，而 IT 人员认为开发人员不尊重生产。
 
 **11:30** - _Scott Hanselman_
 
-I think that that culture came kind of from the top, the idea that we were different orgs and that somehow our goals were different. I think that there's some maturity that's happened in software, where we all realized that we write software in order to move the business forward, whatever that business is.
+我认为这种文化部分来自于高层，认为我们是不同的组织，而且我们的目标也不同。我认为软件业已经成熟了，我们都意识到，我们写软件是为了推动业务发展，无论业务是什么。
 
-So that sense of, "We're all pushing in the right direction," as they say, "all the wood behind the same arrow." But it was definitely trust, because DevOps engineers don't trust product engineers to deploy, right?
+所以那种「我们都在往正确的方向推进」的感觉，就像他们说的，「专注一件产品并做到极致」。但这是需要绝对的信任，可 DevOps 工程师不信任产品工程师来部署，对吧？
 
 **12:00** - _Scott Hanselman_
 
-And DevOps engineers didn't traditionally write code, so they didn't understand what got changed. So there was a lack of trust at all the levels. And no one understood the deployment process, and people trusted only themselves, and they also ... Like, "I only trust myself to go into production. I can't trust Saron to go into production, she doesn't know what she's talking about. I'll do it."
+而 DevOps 工程师传统上并不写代码，所以他们并不了解什么被修改了。所以在各个层面都缺乏信任。没有人理解部署过程，人们只信任自己，他们的心态……举个例子，就像「我只信任自己的工作。我不能相信 Saron 的工作，她甚至不知道她在干些什么。只有我能做到。」
 
 **12:30** - _Scott Hanselman_
 
-So if no one truly understood the system, like the idea of a full stack engineer was a mythic thing. But now, we are starting to think about the whole stack as an organization. We've had terms like full product ownership, and the agile methodology has come along saying that everyone should own the product, and that sense of community ownership and community around the code all slowly changed, changes things to bring an environment of trust.
+所以如果没有人真正理解这个系统，就像全栈工程师的概念是一个神话。但是现在，我们开始把全栈作为一个组织来考虑。我们已经有了全产品所有权这样的名词，敏捷方法论也出现了，也就是说每个人都应该拥有产品，这种社区所有权和社区围绕代码的意识都慢慢发生了变化，改变带来了一个信任的环境。
 
 **13:00** - _Saron Yitbarek_
 
-I'm Saron Yitbarek and you're listening to Command Line Heroes, an original podcast from Red Hat. So, for DevOps to hit its potential we were going to need a lot of trust on both sides, and that means a lot more communication. Back to Richard Henshall. He sees empathy for both sides as the cornerstone of DevOps .
+我是 Saron Yitbarek，你现在收听的是《代码英雄》，来自红帽公司的一档原创播客栏目。所以，要想让 DevOps 发挥出它的潜力，我们就需要双方都有很多的信任，这就意味着要有更多的沟通。回到 Richard Henshall 身上。他认为双方的共情是 DevOps 的基石 。
 
 **13:30** - _Richard Henshall_
 
-Some of the DevOps practitioners, some of the really good ones, have done both roles. I think that is where the real power comes, is when people actually get to do both roles, rather than just seeing the other side. So you don't keep the separation, you're actually... You go and live in their shoes for a period of time. I think that's what brings the empathy back.
+一些 DevOps 的从业者，一些真正优秀的从业者，都参与过这两种角色。我认为这才是真正的力量所在，是当人们真正做到了两种角色，而不是只看到其中一种。所以，你不该保持孤立，你实际上……你应该去和双方都一起工作一段时间。我想这才是让人恢复同理心的原因。
 
 _Saron Yitbarek_
 
-Now this isn't just communication for the sake of warm fuzzies. What Richard Henshall is describing is the industry swerving toward that focus Scott mentioned.
+现在，这不仅仅是为了温情而进行的沟通。Richard Henshall 所描述的是行业转向 Scott 提到的焦点。
 
 **14:00** - _Saron Yitbarek_
 
-A focus on continuous integration. Software was going to be, not just written and released in small rapid-fire batches, but also tested in small rapid-fire batches. And that meant, developers needed instant feedback on the code they were writing, and how it would perform in the real world.
+一个关于持续集成的焦点。软件不仅要以小批量快速编写和发布，还要以小批量快速测试。这意味着，开发人员需要即时反馈他们正在编写的代码，以及它在现实世界中的表现。
 
-As time to market shrank from months to days, to hours, we cast around for a new set of tools that could automate any element that could be automated.
+随着上市时间从几个月到几天，再到几个小时，我们四处寻找一套新的工具，可以将任何可以自动化的元素自动化。
 
 **14:30** - _Gordon Haff_
 
-You really need a whole new ecosystem of tooling to do DevOps most effectively.
+你真的需要一个全新的工具生态系统来最有效地进行 DevOps。
 
 _Saron Yitbarek_
 
-Gordon Haff is a senior manager at Red Hat.
+Gordon Haff 是一位红帽公司高级工程师。
 
 _Gordon Haff_
 
-What we see is this huge collection of new types of tooling and platforms that DevOps can make use of. They're really all coming out of open source.
+我们看到的是有很多巨大的新类型的工具和平台的集合，DevOps 可以利用。它们真的都是来自于开源。
 
 _Saron Yitbarek_
 
-Gordon's right. The collection of new tools is huge, and he's right about the open source angle too. The growth of automation tools never would have been possible in a strictly proprietary system.
+Gordon 是对的。新工具的集合是庞大的，关于开源这点他说的也对。在一个严格的专有系统中，自动化工具的发展是不可能的。
 
 **15:00** - _Gordon Haff_
 
-Lot of monitoring tools out there. Prometheus is a common one. STO for service orchestration is starting to interest a lot of people, so that's out there.
+其中有很多监控工具。Prometheus 是一个常见的工具。用于服务协调的 STO 开始引起很多人的兴趣，也出自这里。
 
 _Saron Yitbarek_
 
-GitHub let's you track changes. PagerDuty manages digital operations. NFS mounts file systems across a network. Jenkins lets you automate testing on your build.
+GitHub 让你跟踪变化。PagerDuty 管理数字业务。NFS 可以跨网络挂载文件系统。Jenkins 让你自动测试你的构建。
 
 **15:30** - _Saron Yitbarek_
 
-So many tools, so much automation. The end result, developers can push their changes live, the build is automatically created, compilation is managed, and automated tests are run against it. Sandra Henry-Stocker describes what a change this made.
+这么多工具，这么多自动化。最终的结果是，开发人员可以将他们的变更推送到现场，构建是自动创建的，编译是管理的，自动测试也是针对它运行的。Sandra Henry-Stocker 描述了这是一个怎样的变化。
 
 _Sandra Henry-Stocker_
 
-So I could take something that I was working on and rapidly deploy it, and I could control many systems just from the command line on one, rather than having to work at a lot of different places or wonder how I was going to get something that I was working on sent across a network and deployed on a lot of different machines.
+因此，我可以把我正在工作的东西快速部署，我可以只在一个系统上通过命令行控制许多系统，而不是必须在很多不同的系统工作，或者不知道如何将我正在研究的东西通过网络发送并部署在很多不同的机器上。
 
 **16:00** - _Sandra Henry-Stocker_
 
-It became easier to basically sit in one spot, and yet make my changes across a wide range of computer systems.
+基本上坐在一个地方，却能在各种计算机系统中进行我的改动，这变得更加容易。
 
 _Saron Yitbarek_
 
-Automation tools had solved the speed problem. But I don't want us to just praise tools at the expense of the actual methodology, the cultural shift. Scott Hanselman and I talked about that fine line.
+自动化工具已经解决了速度问题。但我不希望我们只赞美工具而忽略了实际的方法论，文化的转变。斯科特-汉塞尔曼和我谈到了这个细微的界限。
 
 **16:30** - _Saron Yitbarek_
 
-You started this conversation by saying DevOps is a set of practices, it's a mindset, it's a way of thinking. It sounds like the tools that we created are the manifestation, the code version of the way we should be thinking and we should be operating.
+你在这次谈话开始时说，DevOps 是一套惯例，是一种心态，是一种思维方式。听起来，我们创造的工具是我们应该思考的方式和我们应该操作的方式的体现和代码版本。
 
 _Scott Hanselman_
 
-I love that, you're a genius. Exactly. We used to have the product owners write in these Word documents about how the code should work. They write the spec, right? When was the last time a Word document broke the build?
+我喜欢这样，你是个天才。没错，我们以前让产品所有者在 Word 文档中写下代码应该如何工作。他们写的是规范，对吧？上次 Word 文档破坏构建是什么时候？
 
 **17:00** - _Saron Yitbarek_
 
-Right.
+对的。
 
 _Scott Hanselman_
 
-Right?
+对吗？
 
 _Saron Yitbarek_
 
-Okay, partly I just wanted you to hear Scott calling me a genius. But I do think those tools are almost like symbols of our cultural shift. They encourage us to broaden our roles. We developers have been forced to look, at least occasionally, from the command line. That way the priorities of dev and ops partly come into alignment. In fact, what the rise of DevOps has made clear is that in a world of ever-increasing speed, nobody can afford to remain siloed.
+好吧，部分原因是我想让你听到 Scott 刚才说我是天才。但我确实认为这些工具几乎就像我们文化转变的象征。它们鼓励我们拓宽我们的角色。我们开发者已经被迫至少偶尔从命令行中寻找。这样一来，开发和运维的优先级就部分地统一了。事实上，DevOps 的兴起让人明白的是，在一个速度不断提升的世界里，没有人能够承受保持孤岛状态。
 
 **17:30** - _Saron Yitbarek_
 
-Jonah Horowitz has worked for a number of Bay-area companies, including Quantcast and Netflix. He explains how even some of the largest companies in the world have re-imagined their culture in this light.
+Jonah Horowitz 曾在湾区多家公司工作，包括 Quantcast 和 Netflix。他解释了即使是世界上一些最大的公司也是如何从这个角度重新塑造他们的文化。
 
 _Jonah Horowitz_
 
-We had sort of this cultural buy-in from the entire company, that was like, "This is how we're going to deploy software. We're going to do it in these small batches. We're going to do it using these deployment procedures." I don't think DevOps can be... I don't think it can be successful if it's just being driven by the ops team.
+我们在文化上得到了整个公司的认同，就像，「这就是我们要部署软件的方式。我们将以小批量的方式进行部署。我们将使用这些部署程序。」 我不认为 DevOps 可以……我不认为它可以成功，如果它只是被运营团队所驱动。
 
 **18:00** - _Jonah Horowitz_
 
-It has to be something that the management and leadership at the company buy into. It's very much a cultural shift.
+这必须是公司的管理层和领导层所认同的东西。这在很大程度上是一种文化转变。
 
 _Saron Yitbarek_
 
-When MacKenzie surveyed 800 CIOs and IT executives, 80% said they were implementing DevOps in some part of their organization, and more than half planned to implement it company-wide by 2020. Executives are realizing that automation tools ramp up the speed of delivery.
+当 MacKenzie 对 800 名 CIO 和 IT 高管进行调查时，80% 的人表示他们正在组织的某些部分实施 DevOps，超过一半的人计划到 2020 年在全公司范围内实施。高管们意识到，自动化工具可以提升交付速度。
 
 **18:30** - _Saron Yitbarek_
 
-These are the same people who used to be okay with having a pallet arrive in a datacenter, and then have it sit there for a whole month before a new machine was brought online. Today, if you're waiting longer than 10 minutes to have something provisioned, you're doing something wrong. With competitors hitting speeds like that, nobody can afford to be left behind.
+这些人过去也是这样的人，他们习惯于让一个托盘到达数据中心，然后在新机器上线之前让它在那里放上整整一个月。今天，如果你等待的时间超过 10 分钟，就说明你做错了什么。随着竞争对手的速度达到这样的程度，没有人能够承受得起落后。
 
 **19:00** - _Saron Yitbarek_
 
-I can imagine that ops teams must have been nervous, handing all those tools over to developers. Ops was used to being the grownup, and now they were supposed to hand over the keys to the car? Yikes. I think we developers are learning to move fast without breaking things. But as the dust settles on the DevOps revolution, the biggest changes may be for the ops team.
+我可以想象，运维团队一定很紧张，把所有的工具都交给开发人员。运维团队习惯了做大人，而现在他们应该把车钥匙交给开发人员？呀，我想我们开发人员正在学习如何快速移动而不破坏东西。但随着 DevOps 革命的尘埃落定，最大的变化可能是运维团队。
 
 **19:30** - _Saron Yitbarek_
 
-Does DevOps actually threaten the role of operations? Is dev using its shiny new tools to eat ops? Cindy Sridharan is a developer who wrote a long investigative piece about all this. In your article and your blog post, you mentioned that operations people were not necessarily happy with the way things were going. What was going on? What would you say?
+DevOps 是否真的威胁到了运维的作用？开发是否在用它闪亮的新工具来吃掉运维？Cindy Sridharan 是一位开发者，他写了一篇长篇调查文章来讨论这些问题。在你的文章和你的博客文章中，你提到运维人员对事情的发展并不一定满意。到底发生了什么？你会怎么说？
 
 _Cindy Sridharan_
 
-Let's put it this way, the DevOps ideal was that responsibilities will be shared. That developers and operations would have, like you know, more of a 50-50 split, for really ensuring the holistic delivery of software.
+这么说吧，DevOps 的理想是责任共享。开发者和运维将有，就像你知道的，更多的是五五分成，以真正确保软件的整体交付。
 
 **20:00** - _Cindy Sridharan_
 
-I think a lot of the unhappiness from engineers, from operations engineers, stems from the fact that that is not really the reality on the ground, and that they're still the ones who are always picking the short straw. They're still the ones who are sort like always doing the grunt work. They're still the ones who are primarily shouldering responsibility for actually running the applications, and the developers aren't necessarily doing enough.
+我认为很多运维工程师的不快乐，源于这样一个事实，那就是这些都没有实际功效，他们仍然是总被鸡蛋挑骨头的人，他们仍然是总做苦力工作的那些人，他们还是那些主要肩负着实际运行应用的责任的人，而开发者不一定要做得足够好。
 
 _Saron Yitbarek_
 
-The question will be a crucial one over the next few years. How opsy is DevOps going to be? As we automate, does the role of ops get diminished, or does it transform?
+这个问题将是未来几年至关重要的问题。DevOps 的作用到底有多大？随着我们的自动化，运维的作用是会被削弱，还是会发生转变？
 
 **20:30** - _Saron Yitbarek_
 
-But we have to remember, DevOps isn't just about the tools and the application of new technologies. This methodology is actually shaping the tech, and in turn the tech is shaping the methodology. There's this amazing feedback loop. Culture makes the tools, and the tools reinforce the culture.
+但是我们要记住，DevOps 不仅仅是工具和新技术的应用。这种方法论实际上是在塑造技术，反过来技术也在塑造方法论。有这样一个神奇的反馈循环。文化造就了工具，而工具又强化了文化。
 
 **22:00** - _Saron Yitbarek_
 
-In the end, that wall we described at the top of the episode, the one dividing dev from ops, I don't even know if the whole throw - your - code - over - the - wall analogy is going to make sense to a developer in five years, and that's sort of a great thing. Already, when I talk to folks today, I'm hearing a new story.
+最后，我们在节目开头描述的那堵墙，也就是把开发和运维划分开来的那堵墙，我甚至不知道五年后「把——你的——代码——扔过——墙」的比喻对一个开发者来说是否有意义，这也算是一件好事。今天，当我与人们交谈时，我已经听到了一个新的故事。
 
-Cloud architect Richard Henshall.
+云架构师 Richard Henshall
 
 _Richard Henshall_
 
-I think it is starting to make people realize what the other side of the equation was concerned about more. I've seen a lot more understanding.
+我觉得这开始让人们意识到对方更关心的是什么。我看到了更多的理解。
 
 **23:00** - _Saron Yitbarek_
 
-Sysadmin Jonah Horowitz.
+系统管理员 Jonah Horowitz
 
 **23:00** - _Jonah Horowitz_
 
-I think there's a craft to writing really good software, and one thing that I see in the best developers that I work with, is that they really, they push the craft of software engineering, or software development, forward.
+我认为写出真正好的软件是有技巧的，我在与我合作的最好的开发者身上看到了一件事，那就是他们真的，他们推动了软件工程的技巧，或者说软件开发的发展。
 
 _Saron Yitbarek_
 
-Sysadmin, Sandra Henry-Stocker.
+系统管理员 Sandra Henry-Stocker
 
 _Sandra Henry-Stocker_
 
-I think that developers are becoming much more astute and much more careful. They're consistently having to up their skills, and I know that takes a lot of work.
+我认为，开发者变得更加精明、更加谨慎。他们始终要提升自己的技能，我知道这需要很多工作。
 
 **23:30** - _Saron Yitbarek_
 
-It's a love-in. Turns out, there were some friends on the other side of that wall. Nice to meet you. So, a confession, I always used to think DevOps was boring, just a bunch of hardcore automation scripts and scaling issues. My resistance was partly just practical. As developers, every week there's some new tool coming out, some new framework. DevOps has been part of those scary, fast changes. But now, especially after hearing these stories, I get it.
+这是个爱的结晶。原来，在那堵墙的另一边还有一些朋友，很高兴认识你。所以，坦白一下，我以前总觉得 DevOps 很无聊，就是一堆硬核的自动化脚本和扩展问题。我的抵触情绪有一部分只是出于实际。作为开发者，每周都会有一些新的工具出来，一些新的框架。DevOps 一直是那些可怕的、快速变化的一部分。但现在，尤其是听了这些故事之后，我明白了。
 
 **24:00** - _Saron Yitbarek_
 
-DevOps is more than its tools. It's how we can work together to build better products faster.
+DevOps 不仅仅是其工具。它是「我们如何共同合作，更快地构建更好的产品」。
 
-Here's the good news, as we develop new platforms for developers like you and me, my work is becoming better, faster, and more adaptive to different environments. The circle of interest can keep expanding too. You see people widening DevOps to include security, so we get Sec DevOps , or they include business, so we get B iz DevOps . The debate we're going to have now is, how important is it for a developer to understand not just how to use these tools but how all that DevOps stuff even works, and how realistic is it to expect developers to understand that new world?
+好消息是，随着为你我这样的开发者开发的新平台出现，我的工作变得更好、更快、更适应不同的环境。兴趣圈也可以不断扩大。你会看到人们将 DevOps 扩大到包括安全，所以我们得到 Sec DevOps，或者他们包括业务，那我们就得到 Business DevOps。我们现在要讨论的是，对于一个开发者来说，不仅要了解如何使用这些工具，还要了解所有 DevOps 的东西是如何工作的，以及期望开发者了解这个新世界的现实性是多么重要。
 
 **24:30** - _Saron Yitbarek_
 
-The way we settle that debate is going to define the work of tomorrow's Command Line Heroes.
+我们解决这场辩论的方式将定义未来一期的《代码英雄》。
 
-You might have noticed that in all that talk about tools and automation I left out some big ones. Well, I'm saving those for next time, when all this DevOps automation hits lightspeed and we track the rise of containers.
+你可能已经注意到，在所有关于工具和自动化的谈话中，我漏掉了一些大的工具。好吧，我把这些留到下一期，当所有这些 DevOps 自动化达到光速时，我们将追踪容器的崛起。
 
 **25:00** - _Saron Yitbarek_
 
-It's all in episode 5.
+都会留到第五期。
 
-Command Line Heroes is an original podcast from Red Hat. For more information about this and past episodes, go to redhat.com/commandlineheroes. Once you're there, you can also sign up for our newsletter, and to get new episodes delivered automatically for free, make sure to subscribe to the show.
+《代码英雄》是红帽公司推出的原创播客栏目。想要了解更多关于本期节目和以往节目的信息，请访问 redhat.com/commandlineheroes。在那里，你还可以注册我们的新闻通讯，想免费获得新的剧集自动推送，请务必订阅该节目。
 
 **25:30** - _Saron Yitbarek_
 
-Just search for Command Line Heroes in Apple Podcasts, Spotify, Google Play, CastBox, or however you get your podcasts. Then hit subscribe, so you'll be the first to know when new episodes are available. I'm Saron Yitbarek. Thanks for listening, and keep on coding.
+只要在苹果播客、Spotify、Google Play、CastBox 中搜索《代码英雄》，或者通过其他方式收听，并点击订阅，这样你就能在第一时间知道最新剧集。我是 Saron Yitbarek。感谢您的收听，编程不止。
 
 --------------------------------------------------------------------------------
 
@@ -355,7 +355,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-1/devops-tear-down-tha
 
 作者：[Red Hat][a]
 选题：[bestony][b]
-译者：[译者ID](https://github.com/译者ID)
+译者：[LikChung](https://github.com/LikChung)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
