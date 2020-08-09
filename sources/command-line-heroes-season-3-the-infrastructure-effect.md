@@ -8,12 +8,12 @@
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
 Command Line Heroes Season 3: The Infrastructure Effect
-命令行英雄第三季: 基础设施效应
+命令行英雄第三季: 基础设施影响
 ======
 **00:00** - _Saron Yitbarek_
 
 When the New York City subway first started running in 1904, it was a marvel of the modern age. But ... what happens when today's commuter depends on infrastructure that was designed more than a century ago? Trains are packed and often late. Two billion subway rides take place each year in New York, and nobody's marveling anymore. We are tied to yesterday's crumbling infrastructure, and we have to find smart, new ways to make it work.
-1904年，纽约市地铁首次开始运营时，它被认为是现代的一个奇迹。但是……当今天的通勤者仍依赖一个多世纪前设计的基础设施时，会发生什么？ 火车挤满了人，而且常常晚点。 纽约每年有20亿人次地铁出行，再也没有人感到惊叹了。 我们还在紧密依赖昨日过时的基础设施，我们必须找到使其工作的明智的新方法。
+1904年，纽约市地铁首次开始运营时，它被惊叹为现代的一个奇迹。但是……当今天的通勤者仍依赖一个多世纪前设计的基础设施时，会发生什么？ 火车挤满了人，而且常常晚点。 纽约每年有20亿人次地铁出行，再也没有人感到惊叹了。 我们还在依赖昨日过时的基础设施，我们必须找到新的聪明的方法来使用它。
 
 **00:44** - _Saron Yitbarek_
 
@@ -23,7 +23,7 @@ It used to be that infrastructure projects were these big, concrete things we co
 **01:12** - _Saron Yitbarek_
 
 But things aren't always so obvious. Today we also have IT infrastructure, server farms humming in isolated fields, fiber optic cables spanning oceans, and software infrastructure, too. Like legacy operation system, or shell scripts that nobody dares to replace. When all that IT infrastructure gets old and creaky, we can't see it for ourselves. And yet, the infrastructure that makes today's development work possible is aging, just like an old subway track. And that can mess with our modern lives. Massive new challenges emerge as today's command line heroes work to make sure we're not being boxed in by the past.
-但是事情并不总是那么明显。 如今，我们还拥有IT基础设施，在偏僻地区嗡嗡作响的服务器农场，跨越海洋的光纤电缆以及软件基础设施。 像老的操作系统或没人敢替换的shell脚本。 当所有这些IT基础设施变得陈旧和破旧时，我们自己是看不到的。 但是，造就了今日开发工作的基础设施却正在老化，就像旧的地铁轨道一样。 这可能会扰乱我们的现代生活。 如今命令行英雄们正努力确保我们不会被过去束缚，因此出现了大量新的挑战。
+但是事情并不总是那么明显。 如今，我们还拥有IT基础设施，在偏僻地区嗡嗡作响的服务器农场，跨越海洋的光纤电缆以及软件基础设施。 老的操作系统或没人敢替换的shell脚本。 当所有这些IT基础设施变得陈旧和破旧时，我们是无法看出的。 但是，造就了今日发展的基础设施却正在老化，就像旧的地铁轨道一样。 这可能会扰乱我们的现代生活。 如今命令行英雄们正努力确保我们不会被过去束缚，因此出现了大量新的挑战。
 
 **02:02** - _Saron Yitbarek_
 
@@ -33,7 +33,7 @@ This is episode 5 of our season-long journey into the world of programming langu
 **02:33** - _Saron Yitbarek_
 
 I'm Saron Yitbarek, and this is season 3 of Command Line Heroes, an original podcast from Red Hat.
-我是Saron Yitbarek，这是Red Hat的原创播客，命令行英雄的第3季。
+我是Saron Yitbarek，这里是Red Hat的原创播客，命令行英雄的第3季。
 
 **02:43** - _Grace Hopper_
 
@@ -88,7 +88,7 @@ But, Moore's Law did arrive eventually. New infrastructures showed up, too. And 
 **05:17** - _Chris Short_
 
 It's getting a lot harder to find COBOL developers. What ends up happening is these mainframes have been here for 50 years, potentially. And these COBOL developers that still can write good COBOL will get paid exorbitant amount of monies to help with projects, and reorganization of data within mainframes. And that skillset is definitely dying off and becoming a highly lucrative career field if you ... you can definitely make a lot of money writing COBOL nowadays.
-寻找COBOL开发者变得越来越困难。 最终会发生的事情是这些大型机可能已经存在了50年。 这些仍然可以编写出色COBOL程序的COBOL开发人员将获得巨额收入，以帮助项目运行并完成大型机中的数据重组。 而且，该技能肯定会绝迹，并且正在成为一个利润丰厚的职业领域，如果您……您现在绝对可以靠写COBOL赚很多钱。
+寻找COBOL开发者变得越来越困难。 最终会发生的事情是这些大型机可能已经存在了50年。 这些仍然可以编写出色COBOL程序的COBOL开发人员将获得巨额收入，以帮助项目运行并完成大型机中的数据重组。 而且，该技能肯定会绝迹，并且正在成为一个利润丰厚的职业领域，如果您(您知道的)……您现在绝对可以靠写COBOL赚很多钱。
 
 **05:49** - _Saron Yitbarek_
 
@@ -143,7 +143,7 @@ So if we can't escape our old infrastructure, and we can't wave a magic wand to 
 **08:25** - _Ritika Trikha_
 
 You know, younger generations are going to have to pick up these skills. Or, there has to be some sort of modernization of these mainframes. Either way, this problem isn't going to go away. That's why COBOL is relevant.
-您知道，年轻一代将不得不重拾这些技能。 或者，必须对这些大型机进行某种现代化。 无论哪种方式，这个问题都不会消失。 这就是为什么COBOL是相关的。
+您知道，年轻一代将不得不重拾这些技能。 或者，必须对这些大型机进行某种现代化。 无论哪种方式，这个问题都不会消失。 这就是为什么COBOL还活着。
 
 **08:35** - _Saron Yitbarek_
 
@@ -183,7 +183,7 @@ Hi, my name is Carmen Andoh, and I am a program manager for the Go team at Googl
 **11:34** - _Saron Yitbarek_
 
 Carmen has an insider's understanding of how Go is tied to today's infrastructure. It starts with the creators of Go having some strong ties to the history of languages.
-Carmen对Go语言与今天的基础设施有怎么的联系有内幕消息。 它起源于Go的创作者和语言历史的紧密联系。
+Carmen对Go语言与今天的基础设施有怎样的联系有内幕消息。 它起源于Go的创作者和语言历史的紧密联系。
 
 **11:47** - _Carmen Andoh_
 
@@ -345,12 +345,12 @@ Yep.
 **21:54** - _Kelsey Hightower_
 
 For libraries like Tensorflow. So if we use just time alone, I think that's probably not the right way to look at it. It's like how relevant is that community? How relevant is that language willing to adapt? And I think what Python did really, really well, it ... that community saw the ability to make other languages easier to use. For example, Tensorflow's a lot of C++ underneath it, so programming in such a language is probably not as user friendly as something like Python. And you could take Python and use it to generate some of the stuff that people are using for, example, Tensorflow. So now that machine learning is hot, people have brung Python into that new space, so guess what? Python continues to be relevant, and will be relevant for some time to come. And the same thing's going to be true for Go. If Go can continue to be relevant, right, it's like at the foundation of many of our infrastructure tools, many of the cloud libraries, it too will remain relevant. So I think it's all about those communities ensuring that they have a place in the future, and when the future shows up, making sure that they have a story there.
-对于Tensorflow之类的库，如果我们仅用时间来衡量，我认为这可能不是看待它的正确方式。如社区和它是否相关？语言的适配意愿和它是否相关？我认为Python做得确实非常出色……社区看到了应该使其他语言更易于使用。例如，Tensorflow底层有很多C ++，使用这种语言编程可能没有Python这样的用户友好性。您可以用Python并用它来生成人们正在使用的一些东西，例如Tensorflow。现在机器学习非常热门，人们将Python引入了这个新领域，那么您猜怎么着？ Python仍然是重要的，并且在未来的一段时间内都是重要的。对于Go来说，这同样适用。如果Go能够继续保持相关性，那么，它就像许多基础设施工具和许多云库的基层一样，它也将保持相关性。因此，我认为都是那些社区确保了它们将来占有一席之地，并且当未来出现时确保那里有它们的故事。
+对于Tensorflow之类的库，如果我们仅用时间来衡量，我认为这可能不是看待它的正确方式。还应该有社区是否活跃？语言的适配意愿是否活跃？我认为Python做得确实非常出色……社区看到了应该使其他语言更易于使用。例如，Tensorflow底层有很多C++，使用这种语言编程可能没有Python这样的用户友好性。您可以用Python并用它来生成人们正在使用的一些东西，例如Tensorflow。现在机器学习非常热门，人们将Python引入了这个新领域，那么您猜怎么着？ Python仍然是活跃的，并且在未来的一段时间内都是活跃的。对于Go来说，这同样适用。如果Go能够继续保持活跃度，那么，它就像许多基础设施工具和许多云库的基层一样，它也将保持活跃。因此，我认为都是那些社区确保了它们将来占有一席之地，并且当未来出现时确保那里有它们的故事。
 
 **22:58** - _Saron Yitbarek_
 
 Yeah. So how do we future-proof our languages? Meaning, how do we intentionally design a language to make it last, and make it relevant 20, 30 years from now?
-是的。 那么，我们如何对语言进行过时的验证？ 就是说，我们如何有意地设计一种语言能使其持续存在并在20、30年内都保持重要呢？
+是的。 那么，我们如何对语言进行过时的验证？ 就是说，我们如何有意地设计一种语言能使其持续存在并在20、30年内都保持活跃呢？
 
 **23:10** - _Kelsey Hightower_
 
@@ -390,7 +390,7 @@ I'm imagining a future that's rich with classic programming languages, along wit
 **25:07** - _Speaker_
 
 Stand clear of the closing doors, please.
-请远离关闭的门。
+请离关着的门远一点。
 
 **25:12** - _Saron Yitbarek_
 
