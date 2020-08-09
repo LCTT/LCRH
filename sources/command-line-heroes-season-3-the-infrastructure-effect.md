@@ -325,52 +325,52 @@ Right.
 **21:08** - _Kelsey Hightower_
 
 But I think it is going to be nice that there's going to be a new machine that's going to be distributed, maybe there's a lower cost of entry, you don't have to buy the whole mainframe to get started. But we still want that ease of use of here's my job, you run it for me, tell me when it's done.
-但是，我认为将要发布的新机器将是一件很不错的事，也许入门成本更低，您不必购买整个大型机即可上手。 但是我们仍然希望这是我的工作的易用性，您为我运行，告诉我完成的时间。
+我认为新的分布式机器很不错，可能起步成本更低，您不必购买整个大型机即可开工。 但是我们仍然希望易用性和之前一样：给您我的工作，您为我运行它，完成后告诉我。
 
 **21:24** - _Saron Yitbarek_
 
 Absolutely. Do you see what's happening, or what's happened to COBOL, happening to any of today's languages? Like for example, Go, do you see us struggling to maintain Go and getting folks who want to write Go in 30 years?
-绝对。 您看到当今任何语言都发生了什么，或者COBOL发生了什么？ 例如Go，您是否看到我们在努力维护Go并在30年内吸引想要编写Go的人们？
+当然。您看看当今的语言都发生了什么，或者COBOL发生了什么？ 以Go语言做例子，您看到我们在努力地改进Go从而吸引人们在30年内都还想用Go？
 
 **21:38** - _Kelsey Hightower_
 
 I think all languages can suffer that fate, right? So if you think about it, Python's been around for a very long time. I think it's, what, close to 20 years if not more. So I think what happens ... and Python's had a resurgence in its usage, right, it's kind of the foundation of language for machine learning.
-我认为所有语言都会遭受这种命运，对吗？ 因此，如果您考虑一下，Python已经存在了很长时间。 我认为这差不多是20年，甚至更长。 因此，我认为会发生什么……Python的使用重新流行了，对，它是机器学习语言的基础。
+我认为所有语言都会遭受这种命运，对吗？ 如果您想一下，其实Python已经存在很长时间了。 我认为接近20年，甚至更久。 因此，我认为会发生……Python重新流行起来了，它是机器学习的基础语言。
 
 **21:53** - _Saron Yitbarek_
 
 Yep.
-
+嗯。
 
 **21:54** - _Kelsey Hightower_
 
 For libraries like Tensorflow. So if we use just time alone, I think that's probably not the right way to look at it. It's like how relevant is that community? How relevant is that language willing to adapt? And I think what Python did really, really well, it ... that community saw the ability to make other languages easier to use. For example, Tensorflow's a lot of C++ underneath it, so programming in such a language is probably not as user friendly as something like Python. And you could take Python and use it to generate some of the stuff that people are using for, example, Tensorflow. So now that machine learning is hot, people have brung Python into that new space, so guess what? Python continues to be relevant, and will be relevant for some time to come. And the same thing's going to be true for Go. If Go can continue to be relevant, right, it's like at the foundation of many of our infrastructure tools, many of the cloud libraries, it too will remain relevant. So I think it's all about those communities ensuring that they have a place in the future, and when the future shows up, making sure that they have a story there.
-对于Tensorflow之类的库。因此，如果我们仅使用时间，我认为这可能不是正确的方法。就像那个社区有多重要？该语言愿意适应的相关性如何？而且我认为Python确实非常出色地做到了……社区看到了使其他语言更易于使用的能力。例如，Tensorflow在其下面有很多C ++，因此使用这种语言进行编程可能不像Python这样的用户友好性。您可以使用Python并用它生成人们正在使用的一些东西，例如Tensorflow。因此，既然机器学习非常热门，人们就将Python引入了这个新领域，那么您猜怎么着？ Python仍然是重要的，并且在未来的一段时间内将是重要的。对于Go来说，这同样适用。如果Go能够继续保持相关性，那么，就像在我们许多基础架构工具，许多云库的基础上一样，它也将保持相关性。因此，我认为这些都是关于确保未来社区占有一席之地，以及在未来出现时确保他们在那里有故事的一切。
+对于Tensorflow之类的库，如果我们仅用时间来衡量，我认为这可能不是看待它的正确方式。如社区和它是否相关？语言的适配意愿和它是否相关？我认为Python做得确实非常出色……社区看到了应该使其他语言更易于使用。例如，Tensorflow底层有很多C ++，使用这种语言编程可能没有Python这样的用户友好性。您可以用Python并用它来生成人们正在使用的一些东西，例如Tensorflow。现在机器学习非常热门，人们将Python引入了这个新领域，那么您猜怎么着？ Python仍然是重要的，并且在未来的一段时间内都是重要的。对于Go来说，这同样适用。如果Go能够继续保持相关性，那么，它就像许多基础设施工具和许多云库的基层一样，它也将保持相关性。因此，我认为都是那些社区确保了它们将来占有一席之地，并且当未来出现时确保那里有它们的故事。
 
 **22:58** - _Saron Yitbarek_
 
 Yeah. So how do we future-proof our languages? Meaning, how do we intentionally design a language to make it last, and make it relevant 20, 30 years from now?
-是的 那么，我们如何对语言进行过时的验证？ 意思是，我们如何有意地设计一种语言以使其持久存在，并使之与现在相距20、30年？
+是的。 那么，我们如何对语言进行过时的验证？ 就是说，我们如何有意地设计一种语言能使其持续存在并在20、30年内都保持重要呢？
 
 **23:10** - _Kelsey Hightower_
 
 The people that use the language, so this is something that's really unique I think, in the open source space. Now that we've moved away from commercial languages, right, languages used to come from Microsoft, or Sun Microsystems in the case of Java™, and at that point everyone relied on the vendor to do all the heavy lifting about what the language would be able to do, any new improvements in the run time. Now what we see with things like Go, Node.js, Ruby, all of these are community backed and focused runtimes and languages. So anyone can add new libraries, right? There was a new \[HTTP\] spec, right, \[HTTP/2\] came out a few years ago and each of the respective communities just had contributors add those particular libraries, and now guess what? All of those languages are now compatible with the future of the ... kind of the web for the most part.
-使用这种语言的人，所以我认为这在开源空间中确实是独一无二的。 现在，我们已经不再使用商业语言了，对，过去曾经来自Microsoft或Java™的Sun Microsystems的语言，到那时，每个人都依靠供应商来尽一切努力 能够在运行时进行任何新的改进。 现在，我们可以看到诸如Go，Node.js，Ruby之类的东西，所有这些都是社区支持的并且专注于运行时和语言。 这样任何人都可以添加新库，对吗？ 有一个新的\ [HTTP \]规范，对，\ [HTTP / 2 \]几年前问世，每个社区都有贡献者添加了这些特定的库，现在猜猜是什么？ 现在，所有这些语言现在大部分都与网络的未来兼容。
+使用语言的人，我认为这在开源世界中确实是独一无二的。 现在，我们已经不再使用商业语言了，对吧，过去曾经来自Microsoft的语言或Sun Microsystems的如Java™，那时侯，每个人都依赖供应商来尽心尽力来对语言能干什么以及在运行时进行新的改进。 现在，我们看到的诸如Go，Node.js，Ruby之类的东西，所有这些都是社区支持的，并且社区专注于运行时和语言。 这样任何人都可以添加新库，对吗？ 有一个新的\[HTTP\]规范，对，\[HTTP/2\]几年前问世，每个社区都有贡献者添加了那些特定的库，猜猜现在怎么样？ 所有这些语言现在都兼容与大部分的未来网站。
 
 **24:01** - _Kelsey Hightower_
 
 So I think it's really now that individuals have more control if they want their language to be relevant for new use cases by just contributing that functionality themselves. So we're not restricted to one or two companies. If the company goes out of business, then maybe the runtime dies with it. We don't have that problem as much anymore.
-因此，我认为现在才是个人拥有更大的控制权，只要他们自己通过自己的功能来使自己的语言与新用例相关联。 因此，我们不仅限于一两家公司。 如果公司倒闭，那么运行时可能会因此而消亡。 我们不再有这个问题了。
+我认为现在是个人真正地拥有了更多的控制权，如果他们想让语言适用于新的用例，只需要自己实现即可。 因此，我们不再受限于一两家公司。 如果公司倒闭，那么运行时可能会因此而消亡。 我们不再有这个问题了。
 
 **24:23** - _Saron Yitbarek_
 
 We've said it on this podcast before. The future is open. But it's fascinating to consider how in another couple decades, the past will be open too. They'll be inheriting infrastructure and languages that are able to morph and evolve.
-我们之前在这个播客上已经说过了。 未来是开放的。 但是，令人着迷的是，再过几十年，过去也将是开放的。 他们将继承能够变形和发展的基础架构和语言。
+我们之前在这个播客上已经说过了。 未来是开放的。 但是，令人着迷的是考虑怎样能做到再过几十年，过去也将是开放的。 他们将继承能够变形和演进的基础设施和语言。
 
 **24:39** - _Kelsey Hightower_
 
 Awesome, thanks for having me, and I look forward to what people do and mainframe is still relevant. So we don't call it legacy, these are classic technologies.
-太棒了，感谢您的加入，我期待人们的工作并且大型机仍然有意义。 所以我们不称其为遗产，它们是经典技术。
+太棒了，感谢您的加入，我期待人们的工作而且大型机仍然有意义。 它们是经典技术，因此我们不称其为遗产。
 
 **24:47** - _Saron Yitbarek_
 
@@ -395,22 +395,22 @@ Stand clear of the closing doors, please.
 **25:12** - _Saron Yitbarek_
 
 You know, in 2017 Governor Andrew Cuomo declared a state of emergency about the New York City subway. His government set aside 9 billion dollars to invest in the aging infrastructure. And that should remind us, sooner or later, we have to take care of the systems we inherit. You don't just race onward to whatever comes next. You bring the past with you.
-要知道，2017年州长安德鲁·库莫（Andrew Cuomo）宣布纽约市地铁进入紧急状态。 他的政府拨出90亿美元投资于老化的基础设施。 这应该提醒我们，迟早要注意我们继承的系统。 您不仅会继续前进，接下来还会发生什么。 您带来了过去。
+要知道，2017年州长安德鲁·库莫（Andrew Cuomo）宣布纽约市地铁进入紧急状态。 他的政府拨出90亿美元投资于老化的基础设施。 这应该提醒我们，迟早我们得注意遗留的系统。 您不仅需要继续前进，面向未来。您还背着历史包袱。
 
 **25:37** - _Saron Yitbarek_
 
 n the world of development, we tend to have a bias towards the future. We think our languages are only useful in the moment, when they're the hot new thing. But, as informational infrastructure continues to age, the history of development becomes more and more real. The past, it turns out, isn't past at all. And it's our job to remember that.
-在发展世界中，我们倾向于对未来抱有偏见。 我们认为我们的语言仅在当之时流行时才有用。 但是，随着信息基础架构的不断老化，发展的历史变得越来越真实。 事实证明，过去根本没有过去。 记住这一点是我们的工作。
+在开发世界中，我们倾向于偏向未来。 我们认为我们的语言仅在它们流行时才有用。 但是，随着信息基础架构的不断老化，开发的历史变得越来越真实。 事实证明，过去根本没有过去。 记住这一点是我们的工作。
 
 **26:05** - _Saron Yitbarek_
 
 You can learn more about COBOL, or Go, or any of the languages we're covering this season, by heading over to [redhat.com/commandlineheroes](//www.redhat.com/en/command-line-heroes). There's a bunch of great bonus material waiting for you.
-您可以前往[redhat.com/commandlineheroes](//www.redhat.com/zh-CN/command-line-heroes），以了解有关COBOL或Go或本季我们要介绍的任何语言的更多信息。 。 有很多很棒的奖励材料在等你。
+您可以前往[redhat.com/commandlineheroes](//www.redhat.com/zh-CN/command-line-heroes），以了解有关COBOL或Go或本季我们要介绍的其他语言的更多信息。 那里有很多很棒的材料在等你。
 
 **26:19** - _Saron Yitbarek_
 
 Next episode is all about Bash. We're exploring the origins of shell scripts, and the key to automation.
-下一集与Bash有关。 我们正在探索shell脚本的起源以及自动化的关键。
+下一集谈Bash。 我们将探索shell脚本的起源以及自动化的关键。
 
 **26:30** - _Saron Yitbarek_
 
@@ -423,7 +423,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-3/the-infrastructure-e
 
 作者：[Red Hat][a]
 选题：[bestony][b]
-译者：[译者ID](https://github.com/译者ID)
+译者：[messon007](https://github.com/messon007)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
