@@ -16,8 +16,7 @@ Command Line Heroes: Season 4: 更智能的电话: 掌上电脑的旅程
 
 **00:55** - _Saron Yitbarek_
 
-十年后，问题则变成了一个人没有智能手机如何成功？智能手机无处不在，它们的App使我们能够做几乎所有的事情，并且它们的硬件也在不断的诉说我们是谁。但是就像主流的IPhone提升了我们的移动生活质量一样，这并不是一个促进因素。
-A decade later, the question is, how can a person succeed without one? Smartphones are ubiquitous. Their apps allow us to do pretty much anything. And the hardware running them says a lot about who we are. But as central as the iPhone has been to the rise of our mobile lives, it wasn't the catalyst. This is the epic story of how an earlier handheld device paved the way for the smartphone. And it's the story of a devoted team that stuck with that device for its entire journey. I'm Saron Yitbarek, and this is Command Line Heroes, an original podcast from Red Hat.
+十年后，问题则变成了一个人没有智能手机如何成功？智能手机无处不在，它们的App使我们能够做几乎所有的事情，并且它们的硬件也在不断的诉说我们是谁。但是就像主流的IPhone提升了我们的移动生活质量一样，其并不是一个促进因素。这便是早期掌上设备如何为智能手机铺路的史诗般的故事，并且也是一个一直坚持这种设备的可敬团队的故事。我是Saron Yitbarek，这里是代码英雄，Red Hat的原创博客。
 
 **01:38** - _Saron Yitbarek_
 
