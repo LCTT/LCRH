@@ -14,7 +14,7 @@ Command Line Heroes: Season 2: Open Curiosity
 
 On August 6, 2012, a car-size rover called Curiosity fell from the top of the Martian atmosphere to the planet's surface. The fall took seven minutes. Down, down. The rover carried a precious cargo, 500,000 lines of code, 76 pyrotechnic devices, and a series of tools for conducting never-before-possible experiments. After releasing a supersonic parachute, after heat shield separation, after power descent, and even a sky crane deployment in mid-air, Curiosity at last touched down.
 
-在2012年8月6号这一天，一个汽车大小的探测器，好奇者号，从火星大气层最上层降落到了这颗星球的地表。这次下降持续了7分钟，一直下降，下降。探测器携带了宝贵的货舱，500,000行代码，76个顶尖的科学仪器，以及一系列工具用来开展一些前所未有的实验。在展开一个超音速降落伞后，隔热护盾分离，动力减小，半空中像是有一台起重机一样，好奇者号最终平稳着陆。
+在2012年8月6号这一天，一个汽车大小的探测器，好奇者号，从火星大气层最上层降落到了这颗星球的地表。这次下降持续了7分钟，一直下降，下降。探测器携带了宝贵的货舱，500,000行代码，76个精妙的科学仪器，以及一系列工具用来开展一些前所未有的实验。在展开一个超音速降落伞后，隔热护盾分离，动力减小，半空中像是有一台起重机一样，最终好奇者号平稳着陆。
 
 **00:59** - _NASA engineers_
 
@@ -23,7 +23,7 @@ Time to see where Curiosity will take us.
 **01:13** -_Saron Yitbarek_
 
 Hear that sound? That's what it sounds like when a room full of engineers land a rover on Mars. In a few days, they'll be getting a congrats phone call from President Barack Obama. But for now it's all about the team. A room full of people who know they've just accomplished something together that they could never have accomplished on their own.
-听见那个声音了吗？听起来就像是堆满发动机引擎的一个房间着陆在了火星上%%。在几天之后，他们将收到来自总统贝拉克·奥巴马的贺电。但是现在只有他们团队。一屋子的人知道他们刚刚完成了一件他们永远无法独自完成的一件事。
+听见那个声音了吗？听起来就像是一个堆满发动机引擎的房间着陆在了火星上%%。在几天之后，他们将收到来自总统贝拉克·奥巴马的贺电。但是现在只有他们团队。一屋子的人知道他们刚刚完成了一件他们永远无法独自完成的一件事。
 **01:39** - _Saron Yitbarek_
 
 I'm Saron Yitbarek, and this is Command Line Heroes, an original podcast from Red Hat. All season long, we've seen how open source technology remakes the way we work and what we're capable of accomplishing. The through-line for me has always been community. It's always about discovering better ways to work together, better ways to learn from the pros, while listening to fresh voices, too. Better ways to connect.
@@ -31,7 +31,7 @@ I'm Saron Yitbarek, and this is Command Line Heroes, an original podcast from Re
 **02:11** - _Saron Yitbarek_
 
 For our season two finale, we're holding on to all those lessons, while we discover how open source powers some of our grandest projects. You might've been watching last November when NASA's InSight Lander touched down on the surface of Mars. Hugs all around. Well, it turns out that shooting for the stars or the red planet only works when you bet everything on collaboration.
-在我们第二季的终章，我们暂停所有的课程，来看看开源是如何为那些伟大的项目赋能的。你也许在去年的十一月观看了NASA的insight号着陆器抵达火星地表。彼时四周皆是欢呼与拥抱。看来向这颗红色星星球发射探测器的任务只有把宝压在众人合作时才能实现。
+在我们第二季的终章，我们暂停所有的课程，来看看开源是如何为那些伟大的项目赋能的。你也许在去年的十一月观看了NASA的insight号着陆器抵达火星地表。彼时四周皆是欢呼与拥抱。看来这项向星星或是这颗红色星球发射探测器的任务，只有把宝压在众人合作时才能实现。
 **02:45** - _Saron Yitbarek_
 
 Did I mention that rover on Mars has its own Twitter account? Four million followers. No big deal. And it recently tweeted a message to earthlings, an invitation to build a rover of their own, complete with open source instructions and code, courtesy of NASA's Jet Propulsion Lab. We caught up with some folks called the SGVHAK Group. They're one of the first to build their own rover.
@@ -95,7 +95,7 @@ Building one of these rovers isn't exactly a Lego project. It takes actual rocke
 **04:19** - _Saron Yitbarek_
 
 Meanwhile, I wanted to learn more about why NASA gave the world an open source rover in the first place. And I found just the person to ask.
-与此同时，我想了解更多关于为什么一开始NASA要给我们开源探测器。不过我刚刚找到了回答这个问题的最佳人选。
+与此同时，我想了解更多关于为什么一开始NASA要将探测器的技术和代码开源给我们。不过，我刚刚找到了回答这个问题的最佳人选。
 **04:29** - _Tom Soderstrom_
 
 My name is Tom Soderstrom. I am chief technology and innovation officer for IT at NASA's Jet Propulsion Laboratory.
@@ -103,7 +103,7 @@ My name is Tom Soderstrom. I am chief technology and innovation officer for IT a
 **04:37** - _Saron Yitbarek_
 
 JPL is a group of about 6,000 people. It's NASA's federally-funded research center, and they focus on robotic exploration in space.
-NASA的喷气动力实验室总共有大约6000人。他是NASA里一个由联邦资助的研究中心，专注于如何在太空中稳定地进行探测任务。
+NASA的喷气动力实验室总共有大约6000人，它是NASA里一个由联邦资助的研究中心，专注于如何在太空中稳定地进行探测任务。
 **04:48** - _Tom Soderstrom_
 
 We look for is there life out there? How did the universe originate, where is it going? And in addition to that, should we ever need to export humanity, we're trying to find Earth 2.0. The earth-like planets that one day we could inhabit.
@@ -119,7 +119,7 @@ A lot of people are, but when I found this site, I'm like, oh man, maybe I can m
 **05:55** - _Tom Soderstrom_
 
 We built it for the public and schools to learn, and we're realizing that as we did, it's becoming a wonderful experimentation platform for us. So as we try new things, it's the best place to try it, very easy, very quick, and then we can put it on the real rovers. So we're hoping that people will incorporate things like solar panels, accelerometers, the science payloads, very advanced artificial intelligence programming, and we just want the experiences to proliferate and the people get interested in this and eventually interested in space. Because space is way cool.
-我们打造他是为了能让公众和学校能够从中学习，而且我们意识到我们所做的，正在成为我们超棒的实验平台。所以当我们想尝试新鲜事物的时候，这里就是最佳的演练场，很简单，很快，而且我们能把它应用到实际的探测器上面去。所以我们希望人们能够参与合作像太阳能面板，加速度传感器，%%科学有效载荷，先进的人工智能程序，我们只是想快速获取经验，在这些方面感兴趣的人们最终也能对太空感兴趣。因为太空真的是太酷了。
+我们打造他是为了能让公众和学校能够从中学习，而且我们意识到我们所做的，正在成为我们超棒的实验平台。所以当我们想尝试新鲜事物的时候，这里就是最佳的演练场，很简单，很快，而且我们能把它应用到实际的探测器上面去。所以我们希望人们能够参与合作像太阳能面板，加速度传感器，%%科学有效载荷，以及先进的人工智能程序，我们只是想快速获取经验，在这些方面感兴趣的人们最终也能对太空感兴趣。因为太空真的是太酷了。
 **06:32** - _Saron Yitbarek_
 
 So besides the ideas that you have listed, things that people can do, what have people done with it that you were really excited about or impressed by?
@@ -135,11 +135,11 @@ Really cool.
 **06:55** - _Tom Soderstrom_
 
 And something we're thinking about.
-以及我们正在考虑的一些。
+以及我们正在考虑的一些。%%
 **06:58** - _Saron Yitbarek_
 
 So it sounds like this project is open on all angles, right? I mean the hardware is a list of parts that are suggested and it sounds like you can use your own thing, make it cheaper, make it more expensive also, I guess if you wanted to. The software is completely open. Is there any part of this that isn't open?
-听起来这个项目像是全方位开放的，不是吗？我的意思是硬件是一份建议零部件的清单，不过你也可以自行替换，换成更廉价的或者更高档的，我猜只要你想的话。软件部分是全部开放的。这其中有什么部分不是开源的吗？
+听起来这个项目像是全方位开放的，不是吗？我的意思是硬件方面，是一份建议零部件的清单，不过你也可以自行替换，换成更廉价的或者更高档的，我猜只要你想的话。软件部分是全部开放的。这其中有什么部分不是开源的吗？
 **07:17** - _Tom Soderstrom_
 
 No, it's all completely open.
@@ -163,7 +163,7 @@ So all of a sudden, we have now a very simple platform to experiment with. So I 
 **08:50** - _Saron Yitbarek_
 
 So, theoretically you could have created your own mobile playground, a place to experiment and not made it open source, right? It could have just been like an internal thing. How has the fact that it's been open source affected what you've been able to learn?
-所以理论上来说你们可以创建一个你们自己的移动试验场，一个闭源的进行实验的地方，对吧？他本可以成为一个内部项目。现在将其开源能怎样影响到你们本身就能学习去做的事？
+所以理论上来说你们可以创建一个你们自己的移动试炼场，一个闭源的进行实验的地方，对吧？他本可以成为一个内部项目。现在将其开源能怎样影响到你们本身就能学习去做的事？
 **09:08** - _Tom Soderstrom_
 
 So, that's a really good question. Why open source? For us, it was more difficult to make it open source, but that's kind of the challenge. So we wanted to make it open source so that other schools and all that could adopt it and build it. It created a lot more work to create a manual that other people could use who are not already robotics experts. But the bottom line is, I think when we release something into open source, it's cleaner, it's tighter, it's better-documented, because people know other people are going to reuse this, and it has to be built to be extended. So the quality is higher. I talked to Netflix, and they had found the same thing, that the code, once it was released open source, was cleaner. It was better.
@@ -183,7 +183,7 @@ By creating this platform, you've kind of enabled and empowered a lot of people 
 **10:57** - _Tom Soderstrom_
 
 Yes, and that's actually a very strong point, because what I have noticed is if I can even think of something, somebody is already doing it. It's a matter of finding them, and whatever we came up with to start, once the end users get their hands on it, they're gonna improve it tenfold, in ways that we never even imagined. So giving them toys to play with makes for a much stronger and better place with more advanced missions in the future.
-是的，这是很重要的一点。因为我注意到我能想到的主意都已经有人做过了。想出这些是一回事，可无论我们开始做什么，一旦到最终用户手上，他们就能以我们无法想象的方式提升十倍。所以打造这样一个试验场是面向未来的一项伟大的使命。%%
+是的，这是很重要的一点。因为我注意到我能想到的主意都已经有人做过了。想出这些是一回事，可无论我们开始做什么，一旦到最终用户手上，他们就能以我们无法想象的方式提升十倍。所以打造这样一个试炼场是面向未来的一项伟大的使命。%%
 **11:23** - _Saron Yitbarek_
 
 Beautiful.
@@ -191,7 +191,7 @@ Beautiful.
 **11:29** - _Saron Yitbarek_
 
 f you feel like getting in on the open source rover mission, you can find out how at opensourcerover.jpl.nasa.gov. There is so much fun to be had there. We'll return for more with Tom Soderstrom. But first, I want us to dig a bit deeper into NASA's relationship with open source.
-如果你想了解开源探测器项目，你可以访问opensourcerover.jpl.nasa.gov. ，那里很有趣。我们稍后再与Tom Soderstrom做深入讨论。但首先，让我们来更深入的链链了解NASA与开源之间的关系。
+如果你想了解开源探测器项目，你可以访问 opensourcerover.jpl.nasa.gov，那里很有趣。我们稍后再与Tom Soderstrom做深入讨论。但首先，让我们来更深入的链链了解NASA与开源之间的关系。
 **11:51** - _Hila Lifshitz-Assaf_
 
 Hi, I'm Hila Lifshitz-Assaf. I'm a professor at Stern School of Business, NYU.
@@ -215,7 +215,7 @@ NASA最吸引我的一点在于，他们就某种意义上来说是最勇敢的�
 **13:14** - _Saron Yitbarek_
 
 Starting back in 2009, NASA began using open innovation platforms, like Innocentive and Topcoder. And they weren't playing around. Like Hila mentioned, they were putting their top R &D challenges on those platforms.
-自2009年起，NASA开始使用像Innocentive 和 Topcoder这样的开源创新平台，而且并非戏耍。就像Hila所提到的，他们甚至把他们核心的R &D挑战都放了上去。
+自2009年起，NASA开始使用像 Innocentive 和 Topcoder 这样的开源创新平台，而且并非戏耍。就像Hila所提到的，他们甚至把他们核心的R&D挑战都放了上去。
 **13:29** - _Hila Lifshitz-Assaf_
 
 It didn't even took a full year to see solutions starting to come from crowdsourcing platforms.
@@ -255,7 +255,7 @@ NASA在开放他们的研究课题的道路上受益良多，但另一方面，�
 **16:22** - _Dan Wachspress_
 
 Hi, my name is Dan Wachspress. I'm an aeronautical engineer working at Continuum Dynamics Incorporated.
-大家好，我叫Dan Wachspress，我是一名航空工程师，在Continuum Dynamics Incorporated工作。
+大家好，我叫Dan Wachspress，我是一名航空工程师，在Continuum Dynamics Incorporated工作%%。
 **16:28** - _Saron Yitbarek_
 
 Dan's company, CDI, does R&D related to the rotorcraft industry. So that's helicopters, gyrocopters—anything that uses wings or blades to fly, literally blue sky. They've been working with NASA researching vertical takeoff. Think Jetson-style air taxis.
@@ -295,7 +295,7 @@ These all build to the giant tsunami, which is built-in intelligence everywhere.
 **19:54** - _Saron Yitbarek_
 
 When you imagine this tsunami, this moment when it all comes together and creates something bigger than its individual parts, what does that look like?
-想象这场海啸，当他们同时发生，发生了1+1大于2的情况，会变得怎么样？
+想象一下，如果这些海啸同时发生，发生了1+1大于2的情况，情况会变得怎么样？
 **20:04** - _Tom Soderstrom_
 
 I think it's not gonna be like one day somebody stands up and says, look at this. I am now announcing built-in intelligence everywhere. It's creeping into everything that we do. We say smart, right? The smart TV, a smart conference room. That's really where we will start realizing that it's becoming smarter and smarter and smarter, and for the enterprise it means you can just ask a question by speaking to the room and it searches through petabytes of data in thousands of different data sources and gets you the answer. So it's natural language processing. It's deep learning, it's machine learning, and we're not gonna say all of a sudden, wow we're here. It's just going keep morphing and getting better and better.
@@ -307,7 +307,7 @@ Thinking about this Fourth Industrial Revolution , how does that influence the w
 **20:57** - _Tom Soderstrom_
 
 I think the experimentation, this next industrial revolution is really helping us experiment quicker and to take advantage of much better components, both software and hardware, that perhaps we don't have to build all of it, but we can just be more intelligent about using it. And then open source. Open source is really what's changing a lot of how we work and what we do.
-我认为首先是实验，下一场工业革命可以帮助我们更快地完成实验，而为了同时在软硬件层面更好地利用这一次机遇，即便我们不会全部投入两者，但我们可以更明智地用好它。除此之外，开源，开源真实一项颠覆我们工作方式和工作内容的事业。
+我认为首先是实验，下一场工业革命可以帮助我们更快地完成实验，而为了同时在软硬件层面更好地利用这一次机遇，即便我们不会全部投入两者，但我们可以更明智地用好它。除此之外，开源。开源真是一项颠覆我们工作方式和工作内容的事业。
 **21:23** - _Saron Yitbarek_
 
 How so? Tell me more about that.
@@ -315,7 +315,7 @@ How so? Tell me more about that.
 **21:24** - _Tom Soderstrom_
 
 I think the open source, I'm old enough to have gone through the open source wars, where the open source was a toy. It was bad, it was inferior to commercial. All of that has kind of gone away, at least at JPL. Now it's what's most appropriate for the problem at hand. It's more economical. It's much faster to experiment. Another one is in open sources, we don't have to develop everything ourselves anymore. We can develop it, and then if we can release it open source, we can get help to make it better. And then it helps us retain and attract talent. This one is interesting.
-开源这东西，我的资历足够老，想当年我也是经历了开源战争的男人，当时开源还只是个玩笑。那时的开源很糟糕，比商业还要低级。不过那些都已经是过去了，至少在喷气动力实验室是这样的。现在手头最要紧的问题与经济关联的更多。可以更快地做实验验证。另外一个，开源，现在我们再也不用全部从头造轮子了。我们可以自己开发，然后如果我们希望将其释出并开源，我们能够得到外界的帮助，让他变得更好。之后它能够帮助我们招贤纳才。这就很有趣了。
+说到开源这东西，我的资历足够老，想当年我也是经历了开源战争的男人，当时开源还只是个玩笑。那时的开源很糟糕，比商业还要下贱。不过那些都已经是过去了，至少在喷气动力实验室是这样的。现在手头最要紧的问题与经济关联的更多。可以更快地做实验验证。另外一个，开源，现在我们再也不用全部从头造轮子了。我们可以自己开发，然后如果我们希望将其释出并开源，我们能够得到外界的帮助，让他变得更好。之后它能够帮助我们招贤纳才。这就很有趣了。
 **22:05** - _Saron Yitbarek_
 
 Oh, that is interesting.
