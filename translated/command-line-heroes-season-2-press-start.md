@@ -1,17 +1,17 @@
-[#]: collector: (bestony)
-[#]: translator: (gxlct008)
-[#]: reviewer: ( )
-[#]: publisher: ( )
-[#]: url: ( )
-[#]: subject: (Command Line Heroes: Season 2: Press Start)
-[#]: via: (https://www.redhat.com/en/command-line-heroes/season-2/press-start)
-[#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
+[#]: collector: "bestony"
+[#]: translator: "gxlct008"
+[#]: reviewer: " "
+[#]: publisher: " "
+[#]: url: " "
+[#]: subject: "Command Line Heroes: Season 2: Press Start"
+[#]: via: "https://www.redhat.com/en/command-line-heroes/season-2/press-start"
+[#]: author: "RedHat https://www.redhat.com/en/command-line-heroes"
 
 Command Line Heroes: Season 2: Press Start（按下开始键）
 ======
 **00:01** - _Saron Yitbarek_
 
-一群朋友正在玩 《D&D》 (Dungeons and Dragons，龙与地下城) 游戏。 他们凑在一起，听他们的地下城主说话。
+一群朋友正在玩 《D&D》 <ruby>龙与地下城<rt>Dungeons and Dragons</rt></ruby>  游戏。 他们凑在一起，听他们的地下城主说话。
 
 **00:09** - _D20 Babes dungeon master_
 
@@ -19,7 +19,7 @@ Command Line Heroes: Season 2: Press Start（按下开始键）
 
 **00:26** -_D20 Babes dungeon master_
 
-这就是你所做的，你施了一个魔法包围…
+这就是你所做的，你施了一个魔法包围……
 
 **00:27** - _D20 Babes dungeon master_
 
@@ -67,7 +67,7 @@ Command Line Heroes: Season 2: Press Start（按下开始键）
 
 **02:19** - _D20 Babes player 3_
 
-哪个，druid--
+哪个，druid——
 
 **02:19** - _D20 Babes player 1_
 
@@ -75,7 +75,7 @@ Command Line Heroes: Season 2: Press Start（按下开始键）
 
 **02:27** - _Saron Yitbarek_
 
-好的，接着玩吧。 我是 Saron Yitbarek，这里是红帽原创播客 Command Line Heroes 第二季。今天的节目，《按下开始，游戏和开源社区》。
+好的，接着玩吧。 我是 Saron Yitbarek，这里是红帽原创播客 <ruby>代码英雄<rt>Command Line Heroes</rt></ruby> 第二季。今天的节目，《按下开始键，游戏和开源社区》。
 
 
 **02:45** - _Voice actor_
@@ -84,7 +84,7 @@ Command Line Heroes: Season 2: Press Start（按下开始键）
 
 **02:56** - _Saron Yitbarek_
 
-你认得这些词吗？如果你认得，你的历史就会得到 10 分。 但是，如果你像我一样，他们没有敲响警钟，这些都是 《巨洞探险》 (Colossal Cave Adventure) 的开场白。
+你认得这些词吗？如果你认得，你的历史就会得到 10 分。 但是，如果你像我一样，他们没有敲响警钟，这些都是 <ruby>《巨洞探险》<rt>Colossal Cave Adventure</rt></ruby> 的开场白。
 
 **03:09** - _Saron Yitbarek_
 
@@ -96,7 +96,7 @@ Command Line Heroes: Season 2: Press Start（按下开始键）
 
 **03:51** - _Saron Yitbarek_
 
-这是 Jon-Paul Dyson (乔恩·保罗·戴森)。 他是 Strong National Museum of Play (斯特朗国家游戏博物馆) 的副总裁，也是他们的电子游戏历史中心的主任。 是的，相当有趣的工作。
+这是 Jon-Paul Dyson (乔恩·保罗·戴森)。 他是 <ruby>斯特朗国家游戏博物馆<rt>Strong National Museum of Play</rt></ruby> 的副总裁，也是他们的电子游戏历史中心的主任。 是的，相当有趣的工作。
 
 **04:04** - _Jon-Paul Dyson_
 
@@ -108,15 +108,15 @@ Command Line Heroes: Season 2: Press Start（按下开始键）
 
 **04:22** - _Saron Yitbarek_
 
-在 70 年代中期出现了一种新型游戏，这绝非偶然。当时，互联网的鼻祖--阿帕网 (ARPANET) 正在焕发生机。
+在 70 年代中期出现了一种新型游戏，这绝非偶然。当时，互联网的鼻祖——<ruby>阿帕网 <rt>ARPANET</rt></ruby> 正在焕发生机。
 
 **04:32** - _Jon-Paul Dyson_
 
-事情是这样的，一个在 ARPANET 上工作的人，一个叫 Will Crowther (威尔·克劳瑟) 的人，有了开发这个洞穴探险游戏的想法。现在，他依据他曾探索过的肯塔基州猛犸象洞穴的一部分为基础，松散地创作了这款游戏。
+事情是这样的，一个在 ARPANET 上工作的人，一个叫 Will Crowther 的人，有了开发这个洞穴探险游戏的想法。现在，他依据他曾探索过的肯塔基州猛犸象洞穴的一部分为基础，松散地创作了这款游戏。
 
 **04:50** - _Jon-Paul Dyson_
 
-这真是革命性的，因为它给了玩家一个探索这个环境的机会。 但有趣的是，他去度假了，而另一个人，这位伙计，叫 Don Woods (唐·伍兹)，因为时下 ARPANET 的存在，得以发现这个游戏，然后做出所有这些调整。
+这真是革命性的，因为它给了玩家一个探索这个环境的机会。 但有趣的是，他去度假了，而另一个人，这位伙计，叫 Don Woods，因为时下 ARPANET 的存在，得以发现这个游戏，然后做出所有这些调整。
 
 
 **05:09** - _Jon-Paul Dyson_
@@ -152,7 +152,7 @@ ARPANET 真是一片肥沃的土地。 Jon-Paul Dyson 再次出现：
 
 **06:36** - _Saron Yitbarek_
 
-记住，我们这里不是在谈论 《我的世界》，也不是在谈论 《英雄联盟》，我们谈论的是黑屏上一行行绿色的文字，仅能读出一个基于故事的游戏，并邀请你做出决定。这是一种简单得多的游戏文化。但它给了我们巨大的回报。
+记住，我们这里不是在谈论 <ruby>《我的世界》<rt>Minecraft</rt></ruby>，也不是在谈论 <ruby>《英雄联盟》<rt>League of Legends</rt></ruby>，我们谈论的是黑屏上一行行绿色的文字，仅能读出一个基于故事的游戏，并邀请你做出决定。这是一种简单得多的游戏文化。但它给了我们巨大的回报。
 
 **06:56** - _Jon-Paul Dyson_
 
@@ -164,7 +164,7 @@ ARPANET 真是一片肥沃的土地。 Jon-Paul Dyson 再次出现：
 
 **07:45** - _Saron Yitbarek_
 
-Dennis Jerz (丹尼斯·杰兹) 教授特别研究了游戏的历史，尤其是 《巨洞探险》。对他来说，这些原始开源社区对于所有创造力来说是一次自由释放。 是一个所有人都可以自由创作的社区。
+Dennis Jerz 教授特别研究了游戏的历史，尤其是 《巨洞探险》。对他来说，这些原始开源社区对于所有创造力来说是一次自由释放。 是一个所有人都可以自由创作的社区。
 
 **07:58** - _Dennis Jerz_
 
@@ -172,12 +172,12 @@ Dennis Jerz (丹尼斯·杰兹) 教授特别研究了游戏的历史，尤其是
 
 **08:22** - _Dennis Jerz_
 
-这和同人小说的想法很像，就是人们创造自己的故事，这些故事穿插在 《哈利·波特》 的不同章节之间，或者是 《饥饿游戏》 中 Katniss (凯特尼斯)的世界里的小角色的故事。 这种对主要叙事进行补充、阐述和构建的文化。
+这和同人小说的想法很像，就是人们创造自己的故事，这些故事穿插在 <ruby>《哈利·波特》<rt>Harry Potter</rt></ruby> 的不同章节之间，或者是 <ruby>《饥饿游戏》<rt>the Hunger Games</rt></ruby> 中 Katniss 的世界里的小角色的故事。 这种对主要叙事进行补充、阐述和构建的文化。
 
 **08:44** - _D20 Babes player 1_
 
 
-Okay，所以我现在急切地去找 Van Tyler (范·泰勒) ，看看她的伤口。哦，武器的伤害变成了d8，上面写着。
+Okay，所以我现在急切地去找 Van Tyler ，看看她的伤口。哦，武器的伤害变成了 d8，上面写着。
 
 **08:56** - _Saron Yitbarek_
 
@@ -248,7 +248,7 @@ Saku 的理论认为，与其他领域相比，在游戏开发的传统上，开
 
 **12:33** - _Saron Yitbarek_
 
-另一方面，Web开发人员拥有更多负担得起的选择。
+另一方面，Web 开发人员拥有更多负担得起的选择。
 
 **12:37** - _Saku Panditharatne_
 
@@ -267,10 +267,9 @@ Saku 的理论认为，与其他领域相比，在游戏开发的传统上，开
 
 这一切都归结为建设社区的挑战。 那些最初的游戏，是由开发者自己开发的，比如，在午休时间。
 
-
 **13:38** - _Saron Yitbarek_
 
-另一方面，像 《魔兽世界》 这样的游戏，他们有大量的创意人员和程序员。 社区已经到了极限，达到了他们的极限。 例如，我不认为有任何论坛可以让开发人员向角色设计师提 PR （pull requests）以供审查。
+另一方面，像 <ruby>《魔兽世界》<rt>World of Warcraft</rt></ruby> 这样的游戏，他们有大量的创意人员和程序员。 社区已经到了极限，达到了他们的极限。 例如，我不认为有任何论坛可以让开发人员向角色设计师提 PR （pull requests）以供审查。
 
 
 **13:54** - _Saron Yitbarek_
@@ -279,7 +278,7 @@ Saku 的理论认为，与其他领域相比，在游戏开发的传统上，开
 
 **13:57** - _Saku Panditharatne_
 
-我认为游戏的一个大问题是它是一个跨学科的东西。做任何跨学科的事情都是困难的，因为这几乎就像 C.P.Snow Essay 的文章 《两种文化》，您必须把右脑和创造性思维的人和左脑和逻辑思维的人聚集在一起，让他们共同努力做一些事情。
+我认为游戏的一个大问题是它是一个跨学科的东西。做任何跨学科的事情都是困难的，因为这几乎就像 C.P.Snow Essay 的文章 <ruby>《两种文化》<rt>The Two Cultures</rt></ruby>，您必须把右脑和创造性思维的人和左脑和逻辑思维的人聚集在一起，让他们共同努力做一些事情。
 
 **14:18** - _Saron Yitbarek_
 
@@ -314,8 +313,7 @@ Saku 的理论认为，与其他领域相比，在游戏开发的传统上，开
 
 **15:30** - _Jon-Paul Dyson_
 
-因此，在视频游戏的历史上，确实存在两个流派：一个是人们创造专有产品的地方，即封闭系统。它们通常经过精心打磨，出于商业目的而发布。想想像任天堂这样的公司。任天堂创造了令人赞叹的游戏，您无法真正进行修改。
-
+因此，在视频游戏的历史上，确实存在两个流派：一个是人们创造专有产品的地方，即封闭系统。它们通常经过精心打磨，出于商业目的而发布。想想像<ruby>任天堂<rt>Nintendo</rt></ruby>这样的公司。任天堂创造了令人赞叹的游戏，您无法真正进行修改。
 
 **15:52** - _Jon-Paul Dyson_
 
@@ -429,7 +427,7 @@ Steam 使任何游戏开发者都有可能在数百万人面前发布一款游�
 
 **21:06** - _Saron Yitbarek_
 
-Jared 与他的红帽伙伴 Michael Clayton (迈克尔·克莱顿) 合作制作了游戏 Jams，一群独立游戏开发人员聚集在一起，在很短的时间内开发出游戏。 就像黑客马拉松一样，不过是为了游戏。
+Jared 与他的红帽伙伴 Michael Clayton  合作制作了游戏 Jams，一群独立游戏开发人员聚集在一起，在很短的时间内开发出游戏。 就像黑客马拉松一样，不过是为了游戏。
 
 **21:17** - _Saron Yitbarek_
 
@@ -453,12 +451,11 @@ GitHub 有一个叫做 Game Off 的版本，Jared 的版本叫做 Open Jam。如
 
 **22:18** - _Saron Yitbarek_
 
-Jordan Weisman (乔丹·韦斯曼) 是 Harebrained Schemes 的联合创始人。 《红色天空》、 《战斗技术》、 《机械战士》这些都是他的。 他深入游戏开发有很长时间了。 而现在他看到的是，随着工作室开始意识到收益，人们对开源态度的转变。
+Jordan Weisman 是 Harebrained Schemes 的联合创始人。 <ruby>《血色苍穹》<rt>Crimson Skies</rt></ruby>、 <ruby>《战斗机甲》<rt>Battle Tech</rt></ruby>、 <ruby>《机械战士》<rt>Mech Warrior</rt></ruby>这些都是他的。 他深入游戏开发有很长时间了。 而现在他看到的是，随着工作室开始意识到收益，人们对开源态度的转变。
 
 **22:35** - _Jordan Weisman_
 
-甚至像 Battle Tech 之类的游戏也有相当数量的...我们已经尝试向观众开放尽可能多的游戏数据。而且我们已经看到观众为游戏提供了惊人的 mods。 看看他们的创造力在哪里，以及他们所取得的成就，这真是令人兴奋。它以不同于我们原始内容的方式吸引玩家。
-
+甚至像 <ruby>《战斗机甲》<rt>Battle Tech</rt></ruby> 之类的游戏也有很多…… 我们已经尝试向观众开放尽可能多的游戏数据。而且我们已经看到观众为游戏提供了惊人的 mods。 看看他们的创造力在哪里，以及他们所取得的成就，这真是令人兴奋。它以不同于我们原始内容的方式吸引玩家。
 
 **22:58** - _Jordan Weisman_
 
@@ -482,12 +479,12 @@ Jordan 认为，不断变化的文化有助于他的游戏成为最好的。但�
 
 **24:01** - _Saron Yitbarek_
 
-我也这样认为。至于 Jared Sprague，他将再次与 Michael Clayton 合作，开发一款全新的社区驱动的开源游戏。 它被称为... Command Line Heroes。
+我也这样认为。至于 Jared Sprague，他将再次与 Michael Clayton 合作，开发一款全新的社区驱动的开源游戏。 它被称为…… <ruby>代码英雄<rt>Command Line Heroes</rt></ruby>。
 
 **24:21** - _Saron Yitbarek_
 
 
-是的，我们正式成为一个多平台 IP。当然，Command Line Heroes 游戏将成为一个开源项目。所以我们邀请社区（也就是您）与我们一起打造这款游戏。 我们所要做的就是一个单一的目标。
+是的，我们正式成为一个多平台 IP。当然，<ruby>代码英雄<rt>Command Line Heroes</rt></ruby> 游戏将成为一个开源项目。所以我们邀请社区（也就是您）与我们一起打造这款游戏。 我们所要做的就是一个单一的目标。
 
 **24:40** - _Saron Yitbarek_
 
@@ -505,7 +502,7 @@ Jordan 认为，不断变化的文化有助于他的游戏成为最好的。但�
 **25:22** - _Saron Yitbarek_
 
 
-趣事：还记得 《巨洞探险》 吗？ 好吧，虽然这个游戏的代码总是可以访问的，但 《巨》 游在 40 年后终于完全开源了。2017年，官方版本在BSD Two Clause License 下发布。
+趣事：还记得 《巨洞探险》 吗？ 好吧，虽然这个游戏的代码总是可以访问的，但 《巨》 游在 40 年后终于完全开源了。2017年，官方版本在 BSD Two Clause License 下发布。
 
 **25:39** - _Saron Yitbarek_
 
@@ -513,11 +510,11 @@ Jordan 认为，不断变化的文化有助于他的游戏成为最好的。但�
 
 **25:45** - _Voice actor_
 
-你站在一条路的尽头...
+你站在一条路的尽头……
 
 **25:50** - _Saron Yitbarek_
 
-问题是，我们不是站在路的尽头。这条博彩之路绵延不绝。在此过程中，游戏正在帮助我们联合起来并建立整个宇宙。坦率地说，我们不知道我们的社区将如何安排自己沿着这条路走下去。
+问题是，我们不是站在路的尽头。这条游戏之路绵延不绝。在此过程中，游戏正在帮助我们联合起来并建立整个宇宙。坦率地说，我们不知道我们的社区将如何安排自己沿着这条路走下去。
 
 **26:07** - _Saron Yitbarek_
 
@@ -525,11 +522,11 @@ Jordan 认为，不断变化的文化有助于他的游戏成为最好的。但�
 
 **26:15** - _Saron Yitbarek_
 
-想了解更多关于早期开源社区和开源游戏起源的知识吗？在 Command Line Heroes 网站上有更多的内容等着你。 你可以通过访问 redhat.com/comandlineheros 更深入地挖掘。 在我们告别之前，我想让你知道我们在表演笔记中有一项特殊的款待等着你。 这是 Warren Robinett （沃伦·罗比内特）的故事，他创造了 Atari 游戏冒险，这款游戏的灵感来自于 《巨洞探险》。
+想了解更多关于早期开源社区和开源游戏起源的知识吗？在 <ruby>代码英雄<rt>Command Line Heroes</rt></ruby> 网站上有更多的内容等着你。 你可以通过访问 redhat.com/comandlineheros 更深入地挖掘。 在我们告别之前，我想让你知道我们在表演笔记中有一项特殊的款待等着你。 这是 Warren Robinett 的故事，他创造了 Atari 游戏冒险，这款游戏的灵感来自于 《巨洞探险》。
 
 **26:48** - _Saron Yitbarek_
 
-他告诉我们，与老板的争论是如何导致第一个视频游戏 《复活节彩蛋》 诞生的。 这是一个很棒的故事。我们发展史上很可爱的一部分，但我们想给它应有的空间。
+他告诉我们，与老板的争论是如何导致第一个视频游戏 <ruby>《复活节彩蛋》<rt>Easter egg</rt></ruby> 诞生的。 这是一个很棒的故事。我们发展史上很可爱的一部分，但我们想给它应有的空间。
 
 **27:03** - _Saron Yitbarek_
 
@@ -537,7 +534,7 @@ Jordan 认为，不断变化的文化有助于他的游戏成为最好的。但�
 
 **27:10** - _Saron Yitbarek_
 
-Command Line Heroes 是Red Hat 的原始播客。在 Apple Podcast，Google Podcast 或任何您做事的地方免费收听。
+<ruby>代码英雄<rt>Command Line Heroes</rt></ruby> 是 Red Hat 的原始播客。在 Apple Podcast，Google Podcast 或任何您做事的地方免费收听。
 
 **27:20** - _Saron Yitbarek_
 
