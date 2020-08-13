@@ -7,515 +7,541 @@
 [#]: via: (https://www.redhat.com/en/command-line-heroes/season-2/press-start)
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
-Command Line Heroes: Season 2: Press Start
+Command Line Heroes: Season 2: Press Start（按下开始键）
 ======
 **00:01** - _Saron Yitbarek_
 
-A group of friends is partway through a game of D&D. They lean in together and listen to their dungeon master.
+一群朋友正在玩 《D&D》 (Dungeons and Dragons，龙与地下城) 游戏。 他们凑在一起，听他们的地下城主说话。
 
 **00:09** - _D20 Babes dungeon master_
 
-Okay, so you're casting the, so yeah, you grab your staff and you channel the forces of nature into it. And you can see vines coming out of it and it just bonds to you. And you, it feels differently weighted in your hands now and you feel much more powerful.
+好的，你在选角，嗯，你拿起你的权杖，把自然的力量注入其中。 你可以看到藤蔓从里面伸出来，和你结合在一起。 它在你手中的重量明显不同了，你感觉到了更强大的力量。
 
 **00:26** -_D20 Babes dungeon master_
 
-So that's what you do, you cast a spell that surrounds...
+这就是你所做的，你施了一个魔法包围…
 
 **00:27** - _D20 Babes dungeon master_
 
-Alright, so you do that and you still have an action. What do you do?
+好吧，你这么做了，你仍然有动作。 你要做什么呢？
 
 **00:34** - _Saron Yitbarek_
 
-Okay, a confession: when I was growing up I never sat in a basement playing D&D. I did not long to be a dungeon master, whatever that is. I did not find my first boyfriend while LARPing in the woods or bond with my BFF while cruising the aisles at Comic-Con. It just wasn't me.
+好吧，我承认：在我成长的过程中，我从来没有坐在地下室里玩 《D&D 》 游戏，我也没有渴望成为一名地下城人，不管那是什么。 我在树林里玩耍的时候没有找到我的第一个男朋友，或者在动漫展的过道上和我最好的朋友结交。 那不是我。
 
 **00:52** - _Saron Yitbarek_
 
-But what I do get is that games brought people together into communities. And, for a huge number of developers out there, games were the gateway drug into programming. It was games that taught them about computers and got them in a room where they could geek out with pride for the first time.
+但是我真正得到的是，游戏将人们带入了社区。 而且，对于众多的开发者而言，游戏是编程的入门良药。 正是游戏教会了他们有关电脑的知识，并让他们第一次进入了一个可以自豪地玩极客的房间。
 
 **01:12** - _Saron Yitbarek_
 
-It was the love of gameplay that made them want to build a game themselves. Then go beyond gameplay to just build. And that's something I'm very much into.
+正是对游戏的热爱让他们想自己开发一款游戏。然后超越游戏性去构建。这是我非常喜欢的东西。
 
 **01:23** - _Saron Yitbarek_
 
-In our first season, we explored where open source came from, and how it's shaping every part of the developer's world. This season we're living right on the command line itself: what it means to be a developer today.
+在我们的第一季中，我们探讨了开源从何而来，以及它如何塑造开发人员世界的每一部分。这一季我们就生活在命令行本身：今天成为一名开发人员意味着什么。
 
 **01:39** - _Saron Yitbarek_
 
-And all that starts with finding your people. So let the games begin.
+所有这些都是从找到你的人开始的。所以让游戏开始吧。
 
 **01:51** - _Saron Yitbarek_
 
-Before the terms open source and internet were even coined, there were gamers. And those gamers wanted to connect with each other. When the world started going online, they were at the front of the pack. And they would build whatever it took to connect and share and—
+甚至在开源和互联网这两个术语被创造之前，就已经有了游戏玩家。这些游戏玩家想要相互联系。当世界开始上网时，他们处于领先地位。 他们将建立连接和共享所需的一切，并且——
 
 **02:09** - _D20 Babes player 1_
 
-Oh, and it goes up. Oh nice. And it goes crazy.
+哦，而且它还会上升。哦，太好了。然后它变得疯狂起来。
 
 **02:11** - _D20 Babes player 2_
 
-Yep, the weapon's damage die because 8.
+是的，武器的伤害因为8而死亡。
 
 **02:16** - _D20 Babes dungeon master_
 
-There you go, you were right.
+你去那里，你是对的。
 
 **02:17** - _D20 Babes player 2_
 
-So stab it, yeah.
+所以刺伤它吧，是的。
 
 **02:19** - _D20 Babes player 3_
 
-Which, the druid--
+哪个，druid--
 
 **02:19** - _D20 Babes player 1_
 
-I did it!
+我做到了！
 
 **02:27** - _Saron Yitbarek_
 
-Yeah, and play. I'm Saron Yitbarek and this is season two of Command Line Heroes, an original podcast from Red Hat. Today's episode, Press Start, gaming and open source communities.
+好的，接着玩吧。 我是 Saron Yitbarek，这里是红帽原创播客 Command Line Heroes 第二季。今天的节目，《按下开始，游戏和开源社区》。
+
 
 **02:45** - _Voice actor_
 
-You are standing at the end of a road before a small, brick building. Around you is a forest. A small stream flows out of the building and down a gully.
+你站在一条路的尽头，前面是一座砖砌的小建筑。你周围是一片森林。一条小溪从建筑物里流出，顺着一条沟渠流下。
 
 **02:56** - _Saron Yitbarek_
 
-Do you recognize those words? If you do, ten points for knowing your history. But, if you're like me and they did not ring a bell, those are the opening lines of Colossal Cave Adventure.
+你认得这些词吗？如果你认得，你的历史就会得到 10 分。 但是，如果你像我一样，他们没有敲响警钟，这些都是 《巨洞探险》 (Colossal Cave Adventure) 的开场白。
 
 **03:09** - _Saron Yitbarek_
 
-What is Colossal Cave Adventure? That, my friend, is the 1976 that changed everything. That road, that brick building by the forest, that stream flowing down into a gully, nobody knew it at the time, but this text-based game—yep, no graphics at all—would be a shiny red door that led the way to new forms of community and collaboration.
+什么是 《巨洞探险》？我的朋友，这就是改变了一切的 1976 年。 那条路，森林边的砖房，那条流入沟壑的小溪，当时没有人知道，但这款基于文本的游戏——是的，根本没有图形——将是一扇闪亮的红色大门，通向新形式的社区和合作。
 
 **03:38** - _Jon-Paul Dyson_
 
-Colossal Cave Adventure was a type of game that's known as a text-based adventure. You interact with the computer by typing in commands: go west, get sword, climb mountain.
+《巨洞探险》 是一种以文本为基础的冒险游戏。你可以通过输入命令与计算机交互：向西走，拿剑，爬山。
 
 **03:51** - _Saron Yitbarek_
 
-That's Jon-Paul Dyson. He's a VP at the Strong National Museum of Play and the director of their Center for the History of Electronic Games. So, yeah, pretty fun job.
+这是 Jon-Paul Dyson (乔恩·保罗·戴森)。 他是 Strong National Museum of Play (斯特朗国家游戏博物馆) 的副总裁，也是他们的电子游戏历史中心的主任。 是的，相当有趣的工作。
 
 **04:04** - _Jon-Paul Dyson_
 
-Colossal Cave Adventure was a very different type of game. It was more of a free flowing, exploratory game, like Dungeons and Dragons, which comes out at just this moment in time.
+《巨洞探险》 是一种非常不同类型的游戏。它更像是一款自由流动、探险的游戏，就像 《龙与地下城》 一样，就在此时问世。
 
 **04:17** - _Jon-Paul Dyson_
 
-And so it opens the imagination. So it was a really revolutionary game..
+因此它开启了想象力。 所以这是一场真正革命性的游戏..
 
 **04:22** - _Saron Yitbarek_
 
-It's no accident that a new kind of game appeared in the mid-'70s. Right at that time, the internet's granddaddy, the ARPANET, was coming to life.
+在 70 年代中期出现了一种新型游戏，这绝非偶然。当时，互联网的鼻祖--阿帕网 (ARPANET) 正在焕发生机。
 
 **04:32** - _Jon-Paul Dyson_
 
-What happened is, one of the guys working on ARPANET, a guy named Will Crowther, had this idea for developing this cave exploration game. Now he created this game based loosely on a section of Mammoth Cave in Kentucky that he had explored.
+事情是这样的，一个在 ARPANET 上工作的人，一个叫 Will Crowther (威尔·克劳瑟) 的人，有了开发这个洞穴探险游戏的想法。现在，他依据他曾探索过的肯塔基州猛犸象洞穴的一部分为基础，松散地创作了这款游戏。
 
 **04:50** - _Jon-Paul Dyson_
 
-And it was really revolutionary in the way that it gave players a chance to explore this environment. But what's interesting was because ARPANET was now around, he went on vacation and someone else, this guy, Don Woods, was able to discover the game, and then make all these adjustments.
+这真是革命性的，因为它给了玩家一个探索这个环境的机会。 但有趣的是，他去度假了，而另一个人，这位伙计，叫 Don Woods (唐·伍兹)，因为时下 ARPANET 的存在，得以发现这个游戏，然后做出所有这些调整。
+
 
 **05:09** - _Jon-Paul Dyson_
 
-So almost from the very beginning, the game was a collaborative process because it had been shared on this network. And it was just a good example of how a game could be developed, and modified, improved and then distributed widely because these computers were connected.
+因此，几乎从一开始，游戏就是一个协作过程，因为它已在网络上共享。 这恰是一个很好的例子，说明了游戏是如何被开发、修改、改进，然后广泛传播的，都是因为这些计算机是连接在一起的。
 
 **05:28** - _Saron Yitbarek_
 
-So immediately after computers become networked, we're starting to use those networks to share games. And those games are evolving along the way.
+因此，在计算机联网后，我们可以立即开始使用这些网络共享游戏。而且这些游戏也在不断发展。
 
 **05:38** - _Saron Yitbarek_
 
-Here's the thing, though: it wasn't just networks improving games, it was also games improving networks. Because the more people wanted to share those games, the more they needed usable forums for a community.
+不过，事情是这样的：不仅仅是网络改善了游戏，游戏也改善了网络。因为越多的人想要分享这些游戏，他们就越需要一个社区可用的论坛。
 
 **05:53** - _Saron Yitbarek_
 
-So you've got game technology and the communities that love them sort of egging each other on. A positive feedback loop. Likewise, the game developers are inspired by each other, growing off each other's ideas.
+
+因此，您拥有了游戏技术，以及热爱它们的社区，彼此之间在互相推动。这是一个正反馈回路。同样，游戏开发人员彼此启发，相互借鉴。
+
 
 **06:09** - _Saron Yitbarek_
 
-The ARPANET was hugely fertile ground. Here's Jon-Paul Dyson again:
+ARPANET 真是一片肥沃的土地。 Jon-Paul Dyson 再次出现：
 
 **06:16** - _Jon-Paul Dyson_
 
-So text-based adventures like Adventure operated at this space that was occupied by pioneering technologists who also knew how to be silly, laugh, and to have fun.
+所以像冒险这样的基于文本的冒险活动在这个空间里运作，这个空间被先锋技术专家占据，他们也知道如何无厘头，如何搞笑，知道如何享受乐趣。
+
 
 **06:28** - _Jon-Paul Dyson_
 
-Early games really offer a pattern for how communities of developers can work together.
+早期的游戏确实为开发人员社区如何协同工作提供了一种模式。
 
 **06:36** - _Saron Yitbarek_
 
-Remember, we're not talking about Minecraft here, we're not talking about League of Legends, we're talking about lines of green text on a black screen just reading out a story-based game and inviting you to make your decisions. It's a much simpler gaming culture. But it gave us huge rewards.
+记住，我们这里不是在谈论 《我的世界》，也不是在谈论 《英雄联盟》，我们谈论的是黑屏上一行行绿色的文字，仅能读出一个基于故事的游戏，并邀请你做出决定。这是一种简单得多的游戏文化。但它给了我们巨大的回报。
 
 **06:56** - _Jon-Paul Dyson_
 
-There's this communitarian belief in the benefits of sharing, that more collaboration produces better results than producing proprietary products. And so the result is that you have games developed that emerged out of communities and that are themselves open to being changed and encouraging people to make changes that might alter the game in minor ways or significant ways. But there's a feeling that if the game is made better, then that's all for the good.
+有一种社区主义的信念，认为分享的好处，即与生产专有产品相比，更多的协作可以产生更好的结果。 因此，结果就是你开发出了一些从社区中涌现出来的游戏，这些游戏本身对被改变持开放态度，并鼓励人们做出可能在小方面或重大方面改变游戏的改变。但有一种感觉是，如果游戏变得更好，那么一切都是好的。
 
 **07:31** - _Jon-Paul Dyson_
 
-And so I think there's this early spirit in the history, especially of computer games, that really is important in pushing forth computer communities.
+所以我认为历史上的这种早期的精神，尤其是计算机游戏，在推动计算机社区的发展方面确实很重要。
 
 **07:45** - _Saron Yitbarek_
 
-Professor Dennis Jerz has studied the history of games and Colossal Cave Adventure in particular. For him, these proto-open-source communities were a free for all of creativity.
+Dennis Jerz (丹尼斯·杰兹) 教授特别研究了游戏的历史，尤其是 《巨洞探险》。对他来说，这些原始开源社区对于所有创造力来说是一次自由释放。 是一个所有人都可以自由创作的社区。
 
 **07:58** - _Dennis Jerz_
 
-The culture at the time involved people building upon and sharing their own ideas. And it was very common to find the source code, and then the first thing you would do is add another room to the existing source code.
+当时的文化涉及到人们构建并分享自己的想法。找到源代码是很常见的，然后你要做的第一件事就是在现有的源代码中再添加一个空间。
 
 **08:22** - _Dennis Jerz_
 
-It was pretty much like the idea of fan fiction, the whole idea that you have people who are creating their own stories that fit in between various chapters of Harry Potter books or here's what happened to the minor characters in Katniss' world from the Hunger Games. This culture of adding to, and elaborating and building upon a main narrative.
+这和同人小说的想法很像，就是人们创造自己的故事，这些故事穿插在 《哈利·波特》 的不同章节之间，或者是 《饥饿游戏》 中 Katniss (凯特尼斯)的世界里的小角色的故事。 这种对主要叙事进行补充、阐述和构建的文化。
 
 **08:44** - _D20 Babes player 1_
 
-Okay, so I am rushing over now to Van Tyler and looking at her wounds. Oh, the weapon's damage becomes a d8, it says.
+
+Okay，所以我现在急切地去找 Van Tyler (范·泰勒) ，看看她的伤口。哦，武器的伤害变成了d8，上面写着。
 
 **08:56** - _Saron Yitbarek_
 
-Before image or video-based gaming, these imagination-based game styles paved the way for massive online communities down the road. The relationship between gaming and online communities was symbiotic and powerful.
+在基于图像或视频的游戏出现之前，这些基于想象力的游戏风格为大规模的在线社区铺平了道路。游戏社区和在线社区之间的关系是共生的，而且是强大的。
 
 **09:11** - _Saron Yitbarek_
 
-But if there's one thing the gaming crowd knows, it's that powerful players can swerve the mission in a new direction. As online gaming grew up, its community-based roots have started to erode.
+但如果说有一件事是游戏玩家都知道的，那就是强大的玩家可以将任务转向一个新的方向。随着网络游戏的发展，它以社区为基础的根基开始被侵蚀。
+
 
 **09:24** - _D20 Babes player 1_
 
-And this time try to bring it down on the back of his neck. Yeah!
+这次试着把它放在他的脖子后面。是啊！
 
 **09:33** - _Saron Yitbarek_
 
-Okay, let's fast forward to today. The internet's all grown up. And with it, the online gaming community has leveled up a lot. Gaming today generates more than 100 billion in revenue each year. And that's expected to more than double in the next decade.
+Okay，让我们快进到今天。互联网已经成熟。有了它，在线游戏社区已经有了很大进步。如今，游戏每年的收入超过 1000 亿美元。预计在未来十年，这一数字将翻一番以上。
 
 **09:53** - _Saron Yitbarek_
 
-But all that success has also changed the game. It's not a group of indie developers sharing their work on a rickety forum. Game communities that exist today are radically different from what was going on in the early days of Colossal Cave Adventure.
+但所有这些成功也改变了游戏规则。这不是一群独立开发者在一个摇摇欲坠的论坛上分享他们的作品。今天存在的游戏社区与 《巨洞探险》 早期的情况完全不同。
 
 **10:11** - _Saku Panditharatne_
 
-Hi, my name is Saku, I'm the founder of a startup called Asteroid, which makes augmented reality tools for game developers.
+大家好，我叫 Saku，我是一家名为 Asteroid 的初创公司的创始人，我公司为游戏开发商制作增强现实工具。
 
 **10:19** - _Saron Yitbarek_
 
-Saku Panditharatne wonders if that relationship between the open internet and game development has gotten a bit twisted lately. She's got a point, why aren't parts of code shared between game companies the same way code is sometimes shared between big tech companies?
+Saku Panditharatne 怀疑最近开放互联网与游戏开发之间的关系是否已经扭曲。她说的很清楚，为什么游戏公司之间的部分代码不能像大型科技公司之间共享代码的方式那样呢？
 
 **10:37** - _Saku Panditharatne_
 
-If you’re the only game company that shares your code with everyone, your competitors will just copy you, and they'll take all your secrets and they'll make a better triple-A game than you.
+
+如果您是唯一一个与所有人共享您的代码的游戏公司，那么您的竞争对手只会复制您，他们会拿走您的所有秘密，并且他们会制作出比您更好的 AAA 游戏。
 
 **10:47** - _Saku Panditharatne_
 
-And that was also a problem for big tech companies as well. But it was the efforts of software engineers that actually, I think, broke this equilibrium, I think. Because if no one worked for a company that kept its code source, then everyone was forced to go open source and then you get all the big tech companies sharing as much as they can, which is very good for software as a whole.
+这对大型科技公司来说也是个问题。但实际上，我认为是软件工程师的努力打破了这种平衡。因为如果没有人为一家保留代码源的公司工作，那么每个人都被迫去开源，然后所有的大科技公司都能尽可能地共享，这对软件整体来说是非常好的。
 
 **11:11** - _Saku Panditharatne_
 
-But that never happened with games.
+但这在游戏中从未发生过。
 
 **11:14** - _Saron Yitbarek_
 
-Saku's theory that traditionally in gaming the developers haven't had the same control over decision making compared to other fields. And that's too bad, because it means we're all missing out.
+Saku 的理论认为，与其他领域相比，在游戏开发的传统上，开发者对决策的控制权并不相同。那太糟糕了，因为这意味着我们都错过了。
 
 **11:26** - _Saku Panditharatne_
 
-We basically know exactly how to do rendering and shading and physics to a really high standard. And that shouldn't be something that every single game studio is replicating. But, weirdly enough, it is often the case that games studios still will build engines in-house. Unfortunately, they're stuck in this kind of ...
+我们基本上确切地知道如何将渲染、 着色以及物理操作做到很高的标准。那不应该是每个游戏工作室都在复制的东西。但是，奇怪的是，游戏工作室通常仍会在内部构建引擎。 不幸的是，他们陷入了这种...
 
 **11:46** - _Saku Panditharatne_
 
-I kind of feel like games are a bit more like film than they are like software. You get games stuck in development hell. You get all these problems with producers financing them and stuff like that.
+我觉得游戏更像电影，而不是软件。 你会遇到游戏陷入开发地狱的问题，融资问题。 你遇到的所有这些问题，都和制作人拍电影类似。
+
 
 **11:59** - _Saku Panditharatne_
 
-And I think all these factors work against adopting the best possible software.
+我认为所有这些因素都不利于采用最好的软件。
 
 **12:05** - _Saron Yitbarek_
 
-So, that proprietary approach in game development leads to a lot of redundant work. Every studio is forced to solve the same problems. And most of them aren't optimal solutions, either.
+因此，游戏开发中的专有方法导致了大量重复的工作。每个工作室都被迫解决同样的问题。而且它们中的大多数也不是最佳解决方案。
 
 **12:18** - _Saron Yitbarek_
 
-Meantime, things quickly become unaffordable for indie developers that might have something new to offer. Game developers often have to buy licenses for one of the major game engines. Or, they'll have to buy, say, a lighting script.
+同时，对于可能会提供新功能的独立开发人员，事情很快变得难以承受。游戏开发人员通常必须购买主要游戏引擎之一的许可证。或者，他们将不得不购买照明脚本。
 
 **12:33** - _Saron Yitbarek_
 
-Web developers, on the other hand, have way more affordable options.
+另一方面，Web开发人员拥有更多负担得起的选择。
 
 **12:37** - _Saku Panditharatne_
 
-One fact I find really interesting is that it's more complex to make a movie than it is to make an airplane. That's just because you have all these different people with very different skill sets, they work on a different schedule, they're incentivized by different things.
+我发现一个很有趣的事实是，拍电影比造飞机要复杂得多。那是因为您召集的所有这些不同的人具有非常不同的技能，他们的工作时间表不同，他们受激励的事物不同。
 
 **12:51** - _Saku Panditharatne_
 
-So, then, getting them to work together is like an organizational challenge. And one of the things that game engines and other game software does—it's about bridging that divide almost as much as it is about being the most efficient software for the job.
+因此，让他们一起工作就像是组织上的挑战。 游戏引擎和其他游戏软件所做的一件事就是弥合分歧，同时也要成为最有效率的软件一样。
 
 **13:06** - _Saron Yitbarek_
 
-Game development's problem is a lot like that movie production problem. You've got artists, storytellers, character designers, all wrestling with programmers and sysadmins. Without adopting open source attitudes, without building in ways to share and sync up, that crowd of different people with different roles can get chaotic.
+游戏开发的问题很像电影制作问题。您有文艺工作者，编剧，角色设计师，都在与程序员和系统管理员搏斗。 如果不采取开放源代码的态度，或者没有建立共享和同步的方式，那一群不同角色的人就会变得混乱。
+
 
 **13:27** - _Saron Yitbarek_
 
-It all boils down to the challenge of building community. Those first games, they were being built by the developers themselves, like, during their lunch breaks.
+这一切都归结为建设社区的挑战。 那些最初的游戏，是由开发者自己开发的，比如，在午休时间。
+
 
 **13:38** - _Saron Yitbarek_
 
-Games like World of Warcraft, on the other hand, they've got this mammoth mix of creatives and programmers. The communities get stretched to their limit. For example, I don't think there's any forum where developers make pull requests for character designers to review.
+另一方面，像 《魔兽世界》 这样的游戏，他们有大量的创意人员和程序员。 社区已经到了极限，达到了他们的极限。 例如，我不认为有任何论坛可以让开发人员向角色设计师提 PR （pull requests）以供审查。
+
 
 **13:54** - _Saron Yitbarek_
 
-But maybe there should be. Saku knows what I'm talking about.
+但也许应该有。Saku 知道我在说什么。
 
 **13:57** - _Saku Panditharatne_
 
-I think one big issue for games is that it's a cross-disciplinary thing. And doing anything cross disciplinary is difficult, because it's almost like the C.P. Snow Essay, "The Two Cultures," you have to bring together people who are right-brained and creative-minded and people who are left-brained and logical and get them to work together on something.
+我认为游戏的一个大问题是它是一个跨学科的东西。做任何跨学科的事情都是困难的，因为这几乎就像 C.P.Snow Essay 的文章 《两种文化》，您必须把右脑和创造性思维的人和左脑和逻辑思维的人聚集在一起，让他们共同努力做一些事情。
 
 **14:18** - _Saron Yitbarek_
 
-Can we just take a second to ask the world to build something? If anybody on GitHub wants to figure out a way to do open source game development that translates for developers and artists at the same time, you'd be doing the world a solid.
+我们能不能花点时间让全世界都做点什么？如果有人在 GitHub 上想要找出一种同时为开发者和艺术家翻译的开源游戏开发方法，那么您就会给这个世界带来实实在在的帮助。
+
 
 **14:32** - _Saku Panditharatne_
 
-I kinda think that the limit to games has always been bringing together two groups of people who don't really talk to each other and then trying to build something.
+我觉得游戏的极限总是把两组人聚集在一起，他们彼此不怎么交谈，然后努力去创造一些东西。
 
 **14:42** - _Saron Yitbarek_
 
-To me, that's the story of open source in a nutshell. In particular, though, Saku's imagining something to bridge the gap between two communities to make a larger community.
+对我来说，这就是开放源码的故事。不过，特别值得一提的是，Saku 正在设想一些东西来弥合两个社区之间的差距，从而形成一个更大的社区。
+
 
 **14:53** - _Saku Panditharatne_
 
-Yeah, I think it could actually really improve the industry as a whole. I think those big boom startups around 2007, and a lot of that was because there a ton of open-source stuff you could use. \[inaudible 00:15:06\]you could use.
+是的，我认为这实际上可以真正改善整个行业。我认为 2007 年左右的那些大型的新兴创业公司，很多都是因为你可以使用大量的开源软件。\[听不清00:15:06\]你可以用。
+
 
 **15:07** - _Saku Panditharatne_
 
-And I don't think that startup boom could've happened without developers being able to put their stuff online for free.
+我认为如果开发者不能免费把他们的东西放到网上，创业热潮就不会发生。
 
 **15:13** - _Saku Panditharatne_
 
-If something like that happened in games, I think we'd have way more indie game developers than there are currently.
+如果类似的事情发生在游戏中，我想我们会有比现在更多的独立游戏开发者。
 
 **15:21** - _Saron Yitbarek_
 
-But there's good news. That open source revolution in gaming, it might already be happening. Here's Jon-Paul Dyson again:
+但有个好消息。游戏领域的开源革命，可能已经开始了。Jon-Paul Dyson 又来了：
 
 **15:30** - _Jon-Paul Dyson_
 
-So in the history of video games, there's really been two streams: one is where people create proprietary products, their closed-end systems. They're often highly polished, they release for commercial purposes. Think of a company like Nintendo. Nintendo creates amazing games and you can't really modify.
+因此，在视频游戏的历史上，确实存在两个流派：一个是人们创造专有产品的地方，即封闭系统。它们通常经过精心打磨，出于商业目的而发布。想想像任天堂这样的公司。任天堂创造了令人赞叹的游戏，您无法真正进行修改。
+
 
 **15:52** - _Jon-Paul Dyson_
 
-But there's also been a countervailing trend in the history of video games, computer games, and that's been a more collaborative approach. And something like Minecraft is an example of this, a modern example, where people are making modifications to the game, there's a community that revolves around the game.
+但在视频游戏和电脑游戏的历史上也出现了一种相反的趋势，这是一种更具协作性的方法。像 《我的世界》这样的东西就是一个例子，一个现代的例子，人们正在参与对游戏的修改，那里有一个围绕游戏而生的社区。
 
 **16:14** - _Jon-Paul Dyson_
 
-You download from the internet, somewhere, and this set of mods that you're introducing into the game. And so what you have is a very different, almost more organic way of developing games, as opposed to a more structured, maybe commercial, engineered approach.
+你可以从互联网上的某个地方下载，然后在游戏中引入这套 MOD。因此，你拥有的是一种非常不同的，几乎更有机的开发游戏的方式，而不是一种更结构化的，可能是商业化的，工程化的方法。
 
 **16:35** - _Jon-Paul Dyson_
 
-Minecraft is in many ways the heir to earlier games like Space War or Colossal Cave Adventure that develops in a community and is much more open to people making modifications and changes. And the governing philosophy is that somehow the work of the crowd is going to be better in the long term, than the work of one small selected team or individual.
+《我的世界》 在很多方面都是早期游戏的继承者，比如在社区中开发的 《太空大战》 或 《巨洞探险》，对人们进行修改和改变的开放程度要高得多。管理的理念是，从长远来看，群体的工作将会比一个小团队或个人的工作更好。
 
 **17:04** - _Saron Yitbarek_
 
-I think what we're getting at here is that gaming isn't finished building communities, you're never going to stamp out that open source spirit.
+我认为我们现在要说的是，游戏并没有完成社区的建设，你永远不会消灭这种开源精神。
 
 **17:14** - _Saron Yitbarek_
 
-Here's what we know: gaming still inspires legions of developers. It's what got a lot of Command Line Heroes into this industry in the first place. Command Line Heroes like Josh Berkis.
+这就是我们所知道的：游戏仍然激发着许多开发人员。 这就是最初让许多命令行英雄进入该行业的原因。 像 Josh Berkis (乔什·伯基斯) 这样的命令行英雄。
 
 **17:28** - _Josh Berkus_
 
-Well, I started out on the Atari 800, because you could design your own video games.
+嗯，我从 Atari 800 开的，因为你可以设计自己的视频游戏。
 
 **17:34** - _Saron Yitbarek_
 
-And Ann Barcomb.
+还有 Ann Barcomb（安·巴科姆)。
 
 **17:36** - _Ann Barcomb_
 
-I wrote choose your own adventure games mostly. And it was horrible spaghetti code.
+我写的大多是选择你自己的冒险游戏。这是可怕的意大利面代码。
 
 **17:42** - _Saron Yitbarek_
 
-And Justin Flory.
+还有 Justin Flory（贾斯汀·弗洛里）。
 
 **17:43** - _Justin Flory_
 
-I started doing open source before I realized I was doing open source. I began with a game server, I was running a Minecraft server and at the time I was 15.
+在我意识到我在做开源之前，我就开始做开源了。我从一台游戏服务器开始，运行着一台 《我的世界》 服务器，当时我15岁。
 
 **17:54** - _Saron Yitbarek_
 
-When there's this much love for something, this much community, open source attitudes are going to thrive. Saku's warnings about proprietary gaming elements are really just the hurdle that gaming has to overcome on its journey.
+当人们如此热爱某样东西，如此多的社区，开放源码的态度将会蓬勃发展。 Saku 对专有游戏元素的警告实际上正是游戏在其旅程中必须克服的障碍。
+
 
 **18:09** - _Saron Yitbarek_
 
-A few leaders in gaming are starting to make that leap.
+一些游戏行业的领先者正开始实现这一飞跃。
 
 **18:17** - _Kids playing Fortnite_
 
-We actually did good.p>
+我们实际上做得很好。
 
 **18:18** - _Kids playing Fortnite_
 
-I was on freaking fire, I had 3 kills and they had one.
+我非常激动，我杀了3人，他们只有1人。
 
 **18:21** - _Kids playing Fortnite_
 
-Yeah, Campbell was carrying me.
+是的，Campbell (坎贝尔)背着我。
 
 **18:24** - _Saron Yitbarek_
 
-If you've been anywhere near a 12-year-old this past year, you've likely heard of a little game called Fortnite. Well, little. In its first year, it gained more than 125 million players all interacting in a massive battle royale.
+如果你在过去的一年里接触过一个 12 岁的孩子，你很可能听说过一个叫 《堡垒之夜》 的小游戏。嗯，很小。在它的第一年，它获得了超过1.25亿玩家，所有玩家都在一场大规模的皇家战斗中互动。
+
 
 **18:43** - _Kid playing Fortnite_
 
-I've got to, alright, one sec, I've just got to call my parents.
+我得去，好吧，等一下，我得给我父母打个电话。
 
 **18:47** - _Saron Yitbarek_
 
-So, yeah, games are still pretty good at building community. In fact, Fortnite is the biggest free-to-play console game of all time. The studio behind it, Epic, also created the Unreal game engine, which Fortnite uses.
+是的，游戏在建立社区方面还是很不错的。实际上，《堡垒之夜》 是有史以来最大的免费游戏机游戏。 它背后的工作室 Epic 还创建了 《堡垒之夜》 使用的虚幻游戏引擎。
 
 **19:02** - _Saron Yitbarek_
 
-Lots of other games use Unreal, tool, because Epic released the Unreal engine to the world for free. It's not straight-up open source, but it is source-accessible. And that's well beyond what most studios do.
+很多其他游戏都使用虚幻工具，因为 Epicc 向世界免费发布了虚幻引擎。它不是直接开源的，但它是源代码可访问的。这远远超出了大多数工作室的水平。
 
 **19:16** - _Saron Yitbarek_
 
-With Unreal engine, anybody can grab the source code. They didn't just make the code available though, they committed to building an answer hub, forums, developer support. Epic is doubling down on building as big and broad a community as possible.
+
+有了虚幻引擎，任何人都可以获取源代码。 他们不仅提供代码，还致力于建立一个答案中心、论坛、开发者支持。 Epic 正在加倍努力建设一个尽可能大和广泛的社区。
 
 **19:32** - _Saron Yitbarek_
 
-And they're not alone. You've got full-on open source game engines like Godot and MonoGame, which are spawning their own development communities. Jared Sprague, a software engineer over at Red Hat, is part of a new generation that gets to use all these tools and engines to build amazing games they could never have built without those communities.
+
+而且他们并不孤单。你已经有了像 Godot 和 MonoGame 这样的全面开源游戏引擎，它们正在催生自己的开发社区。Red Hat (红帽公司)的软件工程师 Jared Sprague (杰瑞德·斯普拉格) 是新一代的一员，他们可以使用所有这些工具和引擎来构建令人惊叹的游戏，如果没有这些社区，他们是永远不可能构建出的。
 
 **19:55** - _Jared Sprague_
 
-The indie game industry has grown a lot recently. So you've seen a while ago, like several years ago, most of the games were made by big studios. Those are still all out there, right, Nintendo and stuff.
+独立游戏行业最近发展很快。因此，就像几年前一样，您之前已经看到过，大多数游戏都是由大型工作室制作的。 这些都还在市场上，对吧，任天堂之类的。
+
 
 **20:09** - _Jared Sprague_
 
-The indie industry has exploded. And I think a lot of that is due to Steam, actually.
+独立产业爆炸式增长。 我认为这很大程度上是因为 Steam。
 
 **20:17** - _Saron Yitbarek_
 
-That'd be the Steam platform that lets developers incorporate things like in-game chat functionality, social-networking services, all that good stuff. They've been at this for about 15 years.
+这将是一个 Steam 平台，它可以让开发者整合游戏内聊天功能、社交网络服务等所有好东西。他们已经干了15年了。
 
 **20:29** - _Jared Sprague_
 
-Steam made it possible for any game developer to get a game out in front of millions of people. There've been lots of big games that started as an indie, maybe just one or two people working on it that just exploded.
+Steam 使任何游戏开发者都有可能在数百万人面前发布一款游戏。有很多大型游戏是从独立游戏开始的，也许只有一两个人在做，然后就爆炸了。
+
 
 **20:48** - _Jared Sprague_
 
-Minecraft is a perfect example. Started, just a guy, indie developer. And now it's one of the biggest games ever in history. But it's just an example of how indie has really become a major force in the game industry.
+《我的世界》 就是一个完美的例子。刚开始，只有一个人，独立开发者。现在这是有史以来最大的游戏之一。但这只是一个例子，说明独立游戏是如何真正成为游戏行业的一支主要力量。
 
 **21:06** - _Saron Yitbarek_
 
-Jared's teamed up with his Red Hat pal, Michael Clayton, to produce game jams, where a bunch of indie game developers get together and build games in a short amount of time. Like a hackathon, but for games.
+Jared 与他的红帽伙伴 Michael Clayton (迈克尔·克莱顿) 合作制作了游戏 Jams，一群独立游戏开发人员聚集在一起，在很短的时间内开发出游戏。 就像黑客马拉松一样，不过是为了游戏。
 
 **21:17** - _Saron Yitbarek_
 
-GitHub has one called Game Off. Jared's version is called Open Jam. If you ask him, it's part of a community-based game development future that could get much, much bigger.
+GitHub 有一个叫做 Game Off 的版本，Jared 的版本叫做 Open Jam。如果你问他，他会说这是基于社区的游戏开发未来的一部分，而且会变得越来越大。
 
 **21:31** - _Jared Sprague_
 
-You could use, like Linux, for example. Because it was open source and all these people could contribute to it and add tools and patches and stuff is what it made it so great. Way better than just one person could do on their own.
+例如，您可以使用 Linux。 因为它是开源的，所有人都可以为它做贡献，添加工具，补丁等等，这就是它如此伟大的原因。 比一个人独自完成的要好得多。
 
 **21:47** - _Jared Sprague_
 
-And I think there's still potential for a game or some sort of game system or virtual world that was open source, that thousands of people could contribute to build something bigger than one person could do.
+而且我认为开放源代码的游戏或某种游戏系统或虚拟世界仍有潜力，成千上万的人可以做出比一个人可以做的更大的东西。
 
 **22:03** - _Saron Yitbarek_
 
-It's already starting to happen, a shift towards open source attitudes in the gaming studios.
+这已经开始发生了，游戏工作室对开源态度的转变。
 
 **22:10** - _Jordan Weisman_
 
-I think the power of being able to enable your community to create is unquestioned.
+我认为能够让你的社区开启创造的力量是毋庸置疑的。
 
 **22:18** - _Saron Yitbarek_
 
-Jordan Weisman's the co-founder of Harebrained Schemes. Crimson Skies, Battle Tech, Mech Warrior, those are all his. He's been deep in game development a long time. And what he's seeing now is a shift toward open source attitudes as studios start to realize the benefits.
+Jordan Weisman (乔丹·韦斯曼) 是 Harebrained Schemes 的联合创始人。 《红色天空》、 《战斗技术》、 《机械战士》这些都是他的。 他深入游戏开发有很长时间了。 而现在他看到的是，随着工作室开始意识到收益，人们对开源态度的转变。
 
 **22:35** - _Jordan Weisman_
 
-Even games like Battle Tech, which have a fair amount of ... We've tried to open up as much of the data of the game as possible to the audience. And we've seen the audience come up with amazing mods for the game. And it's super exciting for us to see where their creativity goes and what they've accomplished. And it engages players in different ways than our original content has.
+甚至像 Battle Tech 之类的游戏也有相当数量的...我们已经尝试向观众开放尽可能多的游戏数据。而且我们已经看到观众为游戏提供了惊人的 mods。 看看他们的创造力在哪里，以及他们所取得的成就，这真是令人兴奋。它以不同于我们原始内容的方式吸引玩家。
+
 
 **22:58** - _Jordan Weisman_
 
-And that's a small example of what you can do. And as we go forward with our games, we're leaning on that even heavier, opening up more and more to allow players to express their creativity.
+这是你能做什么的一个小例子。随着我们游戏的发展，我们更加依赖于这一点，越来越开放，让玩家表达他们的创造力。
 
 **23:10** - _Saron Yitbarek_
 
-Jordan figures that a modifying culture helps his games become the best they can be. But, you know, like we hinted at with our D&D opener to this episode, that drive toward community was always there.
+Jordan 认为，不断变化的文化有助于他的游戏成为最好的。但是，您知道，就像我们在本期节目的 《D＆D》 开场白中所暗示的那样，对社区的追求始终存在。
 
 **23:24** - _Jordan Weisman_
 
-They come from tabletop roots where it was a collaborative storytelling experience among the people at the table, between the game master and the players in an RPG. And as we moved into digital forms of those kinds of games, for a period of time, that was very separated.
+它们的根源来自桌面游戏，在桌面上的人们之间，在游戏大师和 RPG 中的玩家之间都是协作的故事讲述体验。在一段时间内，当我们进入这类游戏的数字形式时，那是非常分离的。
 
 **23:41** - _Jordan Weisman_
 
-I think, as modding tools and democratization of the engines and tools that are accessible and moving to open sourcing, it kind of moves us back closer to that collaborative nature of creating this very social form of entertainment.
+我认为，随着改装工具以及可访问的引擎和工具的民主化以及向开放源代码的转变，这使我们更加接近创造这种非常社会化的娱乐形式的协作性质。
 
 **23:58** - _Jordan Weisman_
 
-So I think that's very exciting.
+所以我觉得这很令人兴奋。
 
 **24:01** - _Saron Yitbarek_
 
-I think so too. As for Jared Sprague, he's teaming up with Michael Clayton, again, to build a brand new, community-driven, open source game. And it's called... Command Line Heroes.
+我也这样认为。至于 Jared Sprague，他将再次与 Michael Clayton 合作，开发一款全新的社区驱动的开源游戏。 它被称为... Command Line Heroes。
 
 **24:21** - _Saron Yitbarek_
 
-Yep, we're officially a multi platform IP. And, naturally, the Command Line Heroes game is going to be an open source project. So we're inviting the community, that's you, yes you, to build this game with us. All we're starting with is a single objective.
+
+是的，我们正式成为一个多平台 IP。当然，Command Line Heroes 游戏将成为一个开源项目。所以我们邀请社区（也就是您）与我们一起打造这款游戏。 我们所要做的就是一个单一的目标。
 
 **24:40** - _Saron Yitbarek_
 
-Inspired by NASA, this is going to be a journey to Mars. The details? That's up to all of us, working together to hammer out. It'll be a web-based game, and we'll be working on it throughout this season of the podcast. The GitHub repos will be available to anybody who wants to contribute.
+灵感来自 NASA，这将是一个火星之旅。细节？ 这取决于我们所有人一起努力去努力。这将是一个基于网络的游戏，我们将在整整这一季的播客节里致力于这项工作。GitHub仓库将对任何想要贡献的人开发。
+
 
 **24:59** - _Saron Yitbarek_
 
-And, again, if you're listening to this, you are invited to get involved to build that game with us. Design a character, make a pull request. Or just play the beta and send us your feedback.
+而且，再说一次，如果您正在收听此内容，则邀请您参与，与我们一起开发该游戏。设计一个角色，提一个PR (pull request)。 或者只是玩测试版，然后将您的反馈发送给我们。
 
 **25:21** - _Saron Yitbarek_
 
-We're taking all the open source magic we talk about on this show and using it to build something together.
+我们把我们在本期节目中谈到的所有开源魔法都用在一起构建一些东西。
 
 **25:22** - _Saron Yitbarek_
 
-Fun fact: remember Colossal Cave Adventure? Well, while the code for that game was always accessible, Colossal finally went fully open source after 40 years. In 2017, the official version was released under a BSD Two Clause license.
+
+趣事：还记得 《巨洞探险》 吗？ 好吧，虽然这个游戏的代码总是可以访问的，但 《巨》 游在 40 年后终于完全开源了。2017年，官方版本在BSD Two Clause License 下发布。
 
 **25:39** - _Saron Yitbarek_
 
-Gaming communities have come a long way since those first interactive words.
+自从第一个互动词汇出现以来，游戏社区已经走过了很长一段路。
 
 **25:45** - _Voice actor_
 
-You are standing at the end of a road...
+你站在一条路的尽头...
 
 **25:50** - _Saron Yitbarek_
 
-And the thing is, we're not standing at the end of the road. This gaming road goes on and on. And along the way, games are helping us team up and build whole universes. Frankly, we don't know how our community will arrange themselves down this road.
+问题是，我们不是站在路的尽头。这条博彩之路绵延不绝。在此过程中，游戏正在帮助我们联合起来并建立整个宇宙。坦率地说，我们不知道我们的社区将如何安排自己沿着这条路走下去。
 
 **26:07** - _Saron Yitbarek_
 
-But we do know games will be driving it. Because we never stop pressing start.
+但我们知道游戏将会推动这一进程。因为我们从来没有停止过按开始键。
 
 **26:15** - _Saron Yitbarek_
 
-Want to learn more about early open source community and the origins of open source gaming? There's loads more content waiting for you over at the Command Line Heroes website. You can dig deeper by visiting redhat.com/comandlineheroes. Before we say goodbye, I want to let you know about a special treat we've got waiting for you over in the show notes. It's the story of Warren Robinett, who created the Atari game Adventure, a game inspired by Colossal Cave Adventure.
+想了解更多关于早期开源社区和开源游戏起源的知识吗？在 Command Line Heroes 网站上有更多的内容等着你。 你可以通过访问 redhat.com/comandlineheros 更深入地挖掘。 在我们告别之前，我想让你知道我们在表演笔记中有一项特殊的款待等着你。 这是 Warren Robinett （沃伦·罗比内特）的故事，他创造了 Atari 游戏冒险，这款游戏的灵感来自于 《巨洞探险》。
 
 **26:48** - _Saron Yitbarek_
 
-He tells us how a run-in with his bosses led to the creation of the very first video game Easter egg. It's a great story. A lovely part of our development history, but we wanted to give it the space it deserves.
+他告诉我们，与老板的争论是如何导致第一个视频游戏 《复活节彩蛋》 诞生的。 这是一个很棒的故事。我们发展史上很可爱的一部分，但我们想给它应有的空间。
 
 **27:03** - _Saron Yitbarek_
 
-So take a listen over at redhat.com/commandlineheroes.
+所以请到 redhat.com/commandlineheroes 网站上听一听。
 
 **27:10** - _Saron Yitbarek_
 
-Command Line Heroes is an original podcast from Red Hat. Listen for free on Apple Podcasts, Google Podcasts, or wherever you do your thing.
+Command Line Heroes 是Red Hat 的原始播客。在 Apple Podcast，Google Podcast 或任何您做事的地方免费收听。
 
 **27:20** - _Saron Yitbarek_
 
-I'm Saron Yitbarek, until next time, keep on coding.
+我是 Saron Yitbarek。 直到下期，请继续编码。
 
 --------------------------------------------------------------------------------
 
@@ -523,7 +549,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-2/press-start
 
 作者：[Red Hat][a]
 选题：[bestony][b]
-译者：[译者ID](https://github.com/译者ID)
+译者：[gxlct008](https://github.com/gxlct008)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
