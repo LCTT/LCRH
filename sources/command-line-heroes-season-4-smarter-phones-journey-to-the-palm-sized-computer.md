@@ -12,15 +12,15 @@ Command Line Heroes: Season 4: 更智能的电话: 掌上电脑的旅程
 
 **00:02** - _Saron Yitbarek_
 
-在20世纪90年代早期，一位心灵手巧的软件开发者将一堆木头分割成不同尺寸的小木块。他仔细的比较了每个木块的重量，找到了一块口袋大小的木块，并把一个极小的显示器捆在这个木块上。随后，这名开发者将该木块放进他T恤的口袋中，并绕着T恤走，以便观察怎样才能让这个木块看起来像某种附加的设备。他开始想象，在不久的将来我们都会做相同的事情。如果你认为这位开发者的名字是Steve Jobs，那么你就错了。他的名字是Jeff Hawkins，曾合作创造了PalmPilot掌上电脑。当IPhone在2007年上市时，批评家们和竞争者们就曾经质疑智能手机是否能够成功。
+在20世纪90年代早期，一位心灵手巧的软件开发者将一堆木头分割成不同尺寸的小木块。他仔细的比较了每个木块的重量，找到了一块口袋大小的木块，并把一个极小的显示器捆在这个木块上。随后，这名开发者将该木块放进他T恤的口袋中，并绕着T恤走，以便观察怎样才能让这个木块看起来像某种附加的设备。他开始想象，在不久的将来我们都会做相同的事情。如果你认为这位开发者的名字是 Steve Jobs，那么你就错了。他的名字是 Jeff Hawkins，曾合作创造了 PalmPilot 掌上电脑。当 IPhone 在2007年上市时，批评家们和竞争者们就曾经质疑智能手机是否能够成功。
 
 **00:55** - _Saron Yitbarek_
 
-十年后，问题则变成了一个人没有智能手机如何成功？智能手机无处不在，它们的App使我们能够做几乎所有的事情，并且它们的硬件也在不断的诉说我们是谁。但是就像主流的IPhone提升了我们的移动生活质量一样，其并不是一个促进因素。这便是早期掌上设备如何为智能手机铺路的史诗般的故事，并且也是一个一直坚持这种设备的可敬团队的故事。我是Saron Yitbarek，这里是代码英雄，Red Hat的原创博客。
+十年后，问题则变成了一个人没有智能手机如何成功。智能手机无处不在，它们的 App 使我们能够做几乎所有的事情，并且它们的硬件也在不断的诉说我们是谁。但是就像主流的 IPhone 提升了我们的移动生活质量一样，其并不是一个促进因素。这便是早期掌上设备如何为智能手机铺路的史诗般的故事，并且也是一个一直坚持这种设备的可敬团队的故事。我是 Saron Yitbarek，这里是<ruby>代码英雄<rt>Command Line Heros</rt></ruby>，Red Hat 的原创博客。
 
 **01:38** - _Saron Yitbarek_
 
-The smartphone concept has been around since Star Trek’s tricorder. In real life though, the concept first translated into cell phones in 1984, bulky things that looked like bricks during the 90s they got a bit smaller, small enough for Zack Morris to carry on Saved by the Bell—but they were still just used for phone calls. Remember phone calls? Nothing “smart” was happening on mobile phones, but there was another piece of technology gaining traction. It was called a PDA, a personal digital assistant, a mobile electronic device that acted as your personal information manager. We'll get to that in a moment, but at the time, the tech industry was way more focused on the personal computer, which we learned about in episode 3 when we looked at the Altair 8800.
+智能手机这一概念从<ruby>星际迷航<rt>Star Trek</rt></ruby>三部曲时就已经存在了。在现实生活中，这一概念则在1984年时被解释成为手机。当时的手机还是十分笨重的，就像砖块一样，并且在20世纪90年代中仅仅只是变小了一点。对于 Zack Morris 来说，智能手机变得足够小则是在节目<ruby>救命下课铃<rt>Saved by the Bell</rt></ruby>中。但是此时它们仍旧被用作打电话。还记得打电话么？在移动手机上，没有任何“智能”的部分。但是与此同时，另一种技术则获得了关注，它就是 PDA，一种个人数字助理，即一种可以扮演你的个人信息管家的移动电子设备。有关这种设备的故事我们一会儿再说，但是在那个时候，科技产业更多的关注在个人电脑上。这个故事我们已经在第三集讲 Altair 8800 时学习过了。
 
 **02:33** - _Ed Colligan_
 
