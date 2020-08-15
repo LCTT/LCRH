@@ -24,6 +24,7 @@ Command Line Heroes: Season 4: 更智能的电话: 掌上电脑的旅程
 
 **02:33** - _Ed Colligan_
 
+每个人都过于关注个人电脑是什么样子这个问题。
 Everyone was so caught up in what a personal computer was, this huge, big beige box sitting under your desk. They couldn't imagine that you'd carry this thing around in your pocket.
 
 **02:43** - _Saron Yitbarek_
