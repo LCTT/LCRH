@@ -379,8 +379,8 @@ Ayah Bdeir 的老同学 Limor 是开源峰会的主演讲者之一。
 
 **30:39** - _Saron Yitbarek_
 
-代码英雄是一档来自红帽的原创广播节目。点击 [redhat.com/commandlineheroes] 查看我们对开源硬件的研究。(https://www.redhat.com/commandlineheroes "redhat.com/commandlineheroes")
-如果你已经在这里，注册订阅我们的新闻。
+代码英雄是一档来自红帽的原创广播节目。点击查看我们对开源硬件的研究。(https://www.redhat.com/commandlineheroes "redhat.com/commandlineheroes")                                       
+如果你已经在这里，注册订阅我们的新闻。                                                                                                                                          
 我是Saron Yitbarek，感谢您的收听，请保持编程，我们下次再见。
 
 --------------------------------------------------------------------------------
