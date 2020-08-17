@@ -24,27 +24,27 @@ Command Line Heroes: Season 4: 更智能的电话: 掌上电脑的旅程
 
 **02:33** - _Ed Colligan_
 
-每个人都过于关注个人电脑是什么样子这个问题。
-Everyone was so caught up in what a personal computer was, this huge, big beige box sitting under your desk. They couldn't imagine that you'd carry this thing around in your pocket.
+每个人都存在思维定势，认为个人电脑是一种放在桌子下面的巨大的、米黄色的大箱子。人们无法想象你可以将个人电脑装在自己的口袋中。
 
 **02:43** - _Saron Yitbarek_
 
-Ed Colligan was VP of marketing at a nascent mobile software company called Palm in the early 90s. Palm was founded by Jeff Hawkins, the guy who walked around with a block of wood in his pocket.
+在20世纪90年代早期，Ed Colligan 还是 Plam 公司市场部的<ruby>副总裁<rt>VP</rt></ruby>。这是一家由 Jeff Hawkins创建的初创移动软件公司。即那位口袋装着一块木头到处走动的人。
 
 **02:57** - _Donna Dubinsky_
 
-It was a big vision. It was the future of computing, of personal computing as handheld computing and that there would be more transactions done on handheld computers in the future than on desktop computers.
+这是一个宏大的愿景。这也是计算的未来，甚至于作为手持式计算的个人计算的未来。并且，未来有关手持式计算机的交易将可能回超越桌面式计算机。
 
 **03:11** - _Saron Yitbarek_
 
-That's Donna Dubinsky, Palm’s CEO at the time.
+那是 Donna Dubinsky，Plam 公司那个时期的 CEO。
 
 **03:15** - _Donna Dubinsky_
 
-I know today when I say that it sounds like, “Whatever, that's logical.” But believe me, it was not logical at the time.
+我知道今天我说这听起来像 “随你怎么讲，这就是合理的。”。但是，请相信我，在那个时期，这个并不是合理的。
 
 **03:21** - _Ed Colligan_
 
+我们不能理解为什么别人无法理解它。因为你知道的，这就是计算的发展趋势，对么？
 We didn't understand why other people didn't understand it, because you know, where had computing gone, right? It had gone from computers that filled a room to mainframe computers to minicomputers, which were kind of misnamed to personal computers to desktop computers. And we saw the inevitable march of Moore's Law and more and more power and smaller, smaller packages.
 
 **03:48** - _Saron Yitbarek_
