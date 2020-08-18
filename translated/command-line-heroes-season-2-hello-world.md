@@ -1,6 +1,6 @@
 [#]: collector: (bestony)
 [#]: translator: ( guevaraya)
-[#]: reviewer: ( )
+[#]: reviewer: (acyanbird)
 [#]: publisher: ( )
 [#]: url: ( )
 [#]: subject: (Command Line Heroes: Season 2: Hello, World)
