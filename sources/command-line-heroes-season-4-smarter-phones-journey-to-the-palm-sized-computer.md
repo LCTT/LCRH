@@ -44,8 +44,7 @@ Command Line Heroes: Season 4: 更智能的电话: 掌上电脑的旅程
 
 **03:21** - _Ed Colligan_
 
-我们不能理解为什么别人无法理解它。因为你知道的，这就是计算的发展趋势，对么？
-We didn't understand why other people didn't understand it, because you know, where had computing gone, right? It had gone from computers that filled a room to mainframe computers to minicomputers, which were kind of misnamed to personal computers to desktop computers. And we saw the inevitable march of Moore's Law and more and more power and smaller, smaller packages.
+我们不能理解为什么别人无法理解它。因为你知道的，这就是计算的发展趋势，对么？计算机已经从占一间屋子的大型主机变为微型计算机。微型计算机被误称为个人计算机，而不是桌面计算机。并且，我们看到了<ruby>摩尔定律<rt>Moore's Law</rt></ruby>发展的必然结果，即计算机越来越强大，但是体积越来越小。
 
 **03:48** - _Saron Yitbarek_
 
