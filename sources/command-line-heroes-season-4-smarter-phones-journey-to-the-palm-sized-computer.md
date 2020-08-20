@@ -48,6 +48,7 @@ Command Line Heroes: Season 4: 更智能的电话: 掌上电脑的旅程
 
 **03:48** - _Saron Yitbarek_
 
+Plam 公司着手开发适配PDA的，类似于 Casio 公司正在制作的信息管理软件--Zoomer。这家公司也制作了一些可用于<ruby>惠普<rt>Hewlett Packard</rt></ruby>设备的同步软件。但是那些
 Palm started out developing information management software for a PDA that Casio was making, called the Zoomer. They also made some synchronization software for Hewlett Packard's devices, but those first-gen PDAs weren't taking off. And then the whole personal digital assistant dream looked like a lost cause after the high-profile failure of Apple's efforts. The Newton—they were all too big, too heavy, and the software was too slow. But the Palm team wondered whether a new approach could change the game.
 
 **04:25** - _Donna Dubinsky_
