@@ -1,5 +1,5 @@
 [#]: collector: (bestony)
-[#]: translator: (leemeans)
+[#]: translator: (LikChung)
 [#]: reviewer: ( )
 [#]: publisher: ( )
 [#]: url: ( )
@@ -7,317 +7,317 @@
 [#]: via: (https://www.redhat.com/en/command-line-heroes/season-1/crack-the-cloud-open)
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
-Command Line Heroes: Season 1: Crack the Cloud_Open
+代码英雄：第一季：揭秘云计算
 ======
 _Saron Yitbarek_
 
-Ingrid Burrington wanted to walk inside a cloud. Not just “a cloud.” though. _The_ cloud.
+Ingrid Burrington 想要走进云的世界。不是真实的「一朵云」哟，而是「云计算」的世界。
 
 _Ingrid Burrington_
 
-I don't know what the internet looks like, I don't think it looks like this. I wanted to just kind of find out.
+我不知道互联网真正的样子，我也不认为互联网浅显得一目了然。我只想尝试找出它部分真实的模样。
 
 **00:30** - _Saron Yitbarek_
 
-Ingrid's a journalist. For a series she wrote for the Atlantic, she talked her way into one of the datacenters, where more and more of our online lives play out. What she found there wasn't all fluffy and white, it was downright physical. First up, getting her photo taken for an ID tag. Next, going through security checkpoints and signing a nondisclosure agreement. Finally, she gets to see the machines. The server rooms are basically warehouses, think Costco, but bigger.
+Ingrid 是一名记者。在她为《大西洋》撰写的系列报道中，她讲述了自己曾经参观一个数据中心，一个我们网络生活越来越依赖的地方。她在那里并不是走马观花逛一圈，而是彻头彻尾的复杂体验。首先，她要被拍照登记，要申请访客身份卡。然后，要通过安检站，签署一份保密协议。最后，她才能去看机房。机房基本上就是个仓库，就像好市多，但比好市多大得多。
 
 **01:00** - _Saron Yitbarek_
 
-And there's something beautiful about that warehouse look, because everything's just there on display. Racks of naked servers, and above them all the cables connecting to the world, running along tracks on the ceiling. There's a sort of fancy blue light going on, kind of a tron thing. But mostly, it's rows and rows of very hungry servers.
+整个机房看起来有种别样的美，所有的东西都在那里逐一陈列。一堆堆光鲜的服务器，上面连接着通往世界各地的光缆，光缆沿着天花板上的轨道整齐布线。正在通讯的光电信号闪烁着点点神秘的蓝光，仿佛电子加速器一样。但本质上，它是一排排如猛兽般强劲的服务器堆栈。
 
 **01:30** - _Saron Yitbarek_
 
-Datacenters use up more energy each year than the whole of the United Kingdom. And that means they're throwing off crazy amounts of heat, which is why when Ingrid looks around ...
+数据中心每年消耗的能源比整个英国还要多。这就意味着它会释放惊人的巨大热量，这就是为什么当 Ingrid 环顾四周时……
 
 _Ingrid Burrington_
 
-This is a building that's mostly designed around having the most perfect HVAC system imaginable.
+对的，我发现这座建筑主要的设计思想，是建造最理想最完美的暖通系统。
 
 **02:00** - _Saron Yitbarek_
 
-Ingrid discovered that everything about a datacenter is pragmatic, so yeah just a bunch of machines, a bunch of fans, on lots of cheap land, using lots of cheap water to keep it cool. Not quite what the word "cloud" represents, but on the other hand, it's our lives, our work, our voices bounces around in that warehouse of machines.
+Ingrid 发现围绕数据中心的一切东西都强调经济实用，简单说就是一堆主机、一摞风扇、一大块租金便宜的地皮、用很多费用便宜的工业水来冷却。完全没有「云」这个词本身散发的浪漫隽永，但另一方面，它却承载着我们的生活、我们的工作以及我们的声音，在这个服务器的仓库里搏动着。
 
 **02:30** - _Ingrid Burrington_
 
-Yeah, it can be a little surreal because it's not as though it's like I know that machine has someone's email, and that machine has something else. But realizing kind of just how much is kind of happening around me implicitly that I can't see, but I can kind of hear in the sense of the w hirring of the machines and the larger kind of operation of the space. There is something a little bit eerie about it, and I mean there's sort of like an industrial awe ...
+是的，有点超现实主义，并不是说我就知道那台机器有某人的电子邮件，这台机器又有别的东西。而是我意识到我周围很多看不见的事情正在发生，因为我能听到服务器的呼呼声和大量运算产生的微小噪声。说来奇怪，我的意思是开始对工业又敬又畏……
 
 **03:00** - _Saron Yitbarek_
 
-It's so important to remember that these buildings really are there, somewhere, humming behind the fence. Because here's the thing, when we talk about storing stuff on the cloud, or building an app on the cloud, we sometimes fool ourselves into thinking it's like a cloud in the sky, something nobody can touch. But the reality is exactly the opposite, and once we remember where the cloud lives, we can start talking about who owns the cloud. Who controls all those servers, and cables, and fans?
+更重要的是要记住，这些建筑是真实的存在，在某个隐蔽的角落嗡嗡运作着。以前，当我们谈论在云上存储东西，或在云上创建应用程序时，我们有时会自欺欺人地认为它就像天上的云，是没有人能触碰的存在。但现实恰恰相反，一旦我们认识到云数据中心是存在于某地的，我们就会开始思考谁拥有云了。那么谁控制所有这些服务器、线缆和风扇呢?
 
 **03:30** - _Saron Yitbarek_
 
-And how does that change the way developers build the future? Because in cloud city, we're all living there together.
+如何改变开发者构建未来的方式呢？因为在云端，我们密切生活在一起。
 
-I'm Saron Yitbarek, and this is Command Line Heroes. An original podcast from Red Hat, episode six, Crack the Cloud Open.
+我是 Saron Yitbarek，这里是《代码英雄》，一档由红帽公司推出的原创播客栏目，第六集，揭秘云计算。
 
 _Chris Watterston_
 
-There is no cloud, it's just someone else's computer.
+没有所谓的「云」。那只是别人的电脑。
 
 **04:00** - _Saron Yitbarek_
 
-Chris Watterston is a designer who grew annoyed at the confusion around the cloud. That word had softened the edges of datacenters, like the one Ingrid visited. When he put that slogan on a sticker, he became internet famous. That line "There is no cloud, it's just someone else's computer," is now on t-shirts, hoodies, coffee mugs, posters, coasters, and more than a few keynote presentations.
+Chris Watterston 是一名设计师，他对围绕云的误解很是恼火。这个词模糊了数据中心的具象，就像 Ingrid 参观过的那个一样。当 Chris 把这句口号做成贴纸时，他一下成为网红。「没有所谓的『云』，那只是别人的电脑。」这句话现在出现在T恤、帽衫、咖啡杯、海报、杯垫和许多主题演讲上。
 
 **04:30** - _Chris Watterston_
 
-People sort of still use the cloud as if it's going up there, people that don't understand fully what it is, they can still take it sort of the wrong way and not understand that their data is actually going across copper cables, or fibers, whatever it might be into a storage device that is actually managed and owned by someone else. Which obviously, for some people, if they've got private content they want to hide, could be quite scary.
+人们完全不理解云是什么，还用得欢乐又心安。他们可能完全误解了云，不明白他们的数据实际上是穿过铜轴电缆、或者光纤，来到某一个实际上由他人管理和拥有的存储设备。显然，对于一些人来说，如果他们有需要隐藏的私人内容，这是相当可怕的隐患。
 
 **05:00** - _Saron Yitbarek_
 
-So think of Chris's sticker next time you're tossing something onto the cloud. Where are you really tossing it? Same goes for working on an app, for all the talk of going serverless, there's really no such thing. It's somebody else's server, somebody else's computer. In a sense, this is a story about growing up. All season long, we've been tracking the evolution of open source.
+所以，下次你想把东西扔到云上的时候，想想 Chris 的贴纸吧。想想你到底要扔到哪里去。在 App 上工作也是同样道理，声称 App 跟服务器无关的说法都是骗人的，根本没有无服务器的 App。云就是别人的服务器、别人的电脑。从某种意义上说，这是一个关于成长的故事。整个这一季节目，我们一直在追溯开源的变革。
 
 **05:30** - _Saron Yitbarek_
 
-From its rebellious origins with the free software movement, and the emergence of Linux, all the way to today when open source tools and methods have taken us far from home into the cloud. Think of it this way, when a person finds an apartment to rent, she's going to sign a contract, move in, and make it her own. When developers go looking for a cloud provider, they have to do the same thing. That's the moment we're in right now, the moment when a whole world of developers is making their move onto a series of clouds, and starting to figure out what the rental lease actually says.
+从最初的自由软件运动和 Linux 的诞生，到今天，开源工具和方法把我们带到了远离家园的云端。可以打个比方，一个人找房东租房，她需要签合同、搬进去、把房子整理成自己的居所。当开发者寻找云供应商时，他们也在做着同样的事情。这就是我们现在所处的情况，全世界的开发者都在向各种云上线产品，然后开始明白租赁的真实含义。
 
 **06:00** -_Saron Yitbarek_
 
-Just for the record, why are we in such a rush to hop onto a cloud in the first place?
+严肃地发问一句，为什么我们一开始就急着跳上云端呢？
 
 _Brandon Butler_
 
-Developers don't want to have to manage the infrastructure that is running their applications.
+因为开发者不想被迫维护 App 运行所需的设备。
 
 _Saron Yitbarek_
 
-This is Brandon Butler, he's the senior editor at Network World. And he's been covering cloud computing for years.
+这位是 Brandon Butler，《网络世界》的高级编辑，多年来致力于研究云计算。
 
 **06:30** -_Brandon Butler_
 
-They want to develop apps, and they want to deploy those apps, and they want those apps to just run. And more and more, we've seen things like serverless computing, and functions-as-a-service, and containers, and container management platforms, like Kubernetes.
+开发者想要开发 App，部署 App，并让这些 App 能够正常运行。我们已经看到越来越多的成果，例如无服务器计算、功能即服务、容器和容器管理平台，如 Kubernetes。
 
 _Saron Yitbarek_
 
-Check out episode five, by the way, for a run-down on containers and Kubernetes.
+顺便打个广告，想了解容器和 Kubernetes，请看我们的上期节目。
 
 _Brandon Butler_
 
-All these things are helping to abstract away the underlying infrastructure that applications need to run on. And that's going to be a trend that we're only going to see continue to develop into the future.
+所有的这些成果都有助于抽象化 App 运行所需要的底层基础设施。这将是一个可以预见的、在未来会持续发展的趋势。
 
 **07:00** - _Saron Yitbarek_
 
-A big part of that attraction is summed up by the word hyperscale. With the cloud providing all your infrastructure, you can take a startup and scale it up, or down, as fast as you want. You're not building your own infrastructure anymore, you're just renting out however much of the cloud you need. Brandon explains what hyperscale means for a startup.
+云拥有巨大吸引力的部分原因，可以用「超大规模」这个词来解释。通过云为你提供的所有基础设施，你可以根据自己的需求，快速创建和定制自己的服务器。你不再需要购买自己的设备，你只需要租赁你想要的规模的云。 Brandon 解释了「超大规模」对初创公司的具体帮助。
 
 **07:30** - _Brandon Butler_
 
-This whole model of using the public cloud for application development has been a huge advance for application developers. It's created a whole new range of startups, and companies that have grown past startups and become major publicly funded companies. You think about a company like Netflix that runs much of its backend infrastructure on Amazon's cloud, and other cloud providers as well.
+使用公有云进行 App 开发的整套模型，对开发者来说是一个巨大的进步。它曾经创造了一系列全新的初创公司，这些初创公司也已经成长为主要的公共投资公司。想想 Netflix 这样的公司，它的大部分后端都运行在亚马逊的云上，以及其他云上。
 
 **08:00** - _Brandon Butler_
 
-They were able to turn into what they are, because they are using the cloud. So the impact that the cloud has had on developers cannot be understated. It's been the major shift in application development over the last decade.
+这些公司现在如此壮大，正是因为他们在使用云。因此，云对开发者的影响是不可轻视的。云已经成为过去十年中 App 开发的主要转变。
 
 _Saron Yitbarek_
 
-Nick Bush, a sys admin at Meadowbrook Insurance remembers what a pain infrastructure changes were before the cloud.
+Nick Bash 是 Meadowbrook 保险公司一位系统管理员，他还记得在云计算诞生之前，要调整基础设施是多么痛苦的事。
 
 **08:30** - _Nick Bush_
 
-Before, it was somebody would come up with an idea to do a certain project, and we would say, "That would need hardware to do that." And they would ask, "Well, how do we do that?" So we were always constrained by memory, and VM-ware usually was the hard part. And we would be constrained by how many virtual machines we could spin up at any one given time. So we would have to go get a quote for new processors, new memory, new hardware, $5,000 added space, and stuff like that. And once we get those quotes from a couple of different vendors, it would go to management, and they would take time. It was a long, drawn-out process just to get the hardware in.
+以前，有些人想出点子要做项目，我们会说，「这需要硬件支持，而我们没有。」他们会问，「没有硬件我们怎么能做？」我们以前总是受到内存的限制，尤其虚拟机软件，通常是最困难的部分。我们经常需要在任意时间启动虚拟机，但随时能启动的虚拟机数量总是受限制。所以我们不得不花很多钱买新处理器、新内存、新硬件，或者 5000 美元的额外空间这样的东西。一旦我们从几个不同的供应商得到报价，就得报给管理层，他们要花时间审核。这样，仅仅是购买硬件都需要漫长的过程。
 
 **09:00** - _Nick Bush_
 
-Let alone, then build the VMs and turn them over and test and stuff like that. So I mean there were several months of front-end work versus now we can definitely get that okay within a couple hours usually. And go spin it up, and go turn it over to them the next day. So it is a big turnaround difference.
+更不要说构建虚拟机，再反复考虑和测试等等。所以其实我的意思是，有了云，我们可以在几个小时内完成以往需要几个月完成的前期工作。然后让虚拟机运行起来，第二天交付给其他人。所以这是一个很大的转变。
 
 **09:30** -_Saron Yitbarek_
 
-Between scalability, speed, and price, the cloud can look very tempting. To go back to the apartment rental analogy, cloud options can feel like you're getting a butler and a driver at no additional cost. It's hard to say no, and today we've got four very ambitious cloud providers doing the tempting. They all want to be your new landlord in cloud city. But hold up, everyone who's rented a home knows it's not the same as buying. You can't just knock down a wall, or install a new jacuzzi. You got to go through the landlord.
+在拓展性、速度和价格这些方面，云计算相当吸引人。还是拿租房作比喻，云就像可以让你免费得到一个管家和司机的服务。很难对云计算说不，如今市场上有主要的四家壮志雄心的云供应商在开疆拓土。他们都想成为你在云上的「新房东」。但是且慢，每个租过房子的人都知道，租房和买房不一样。你不能自己拆掉一堵墙，或者安装一个新的按摩浴缸，你得通过房东来干这些事。
 
 **10:00** - _Saron Yitbarek_
 
-In some ways, could we be stuck if we find ourselves beholden to a single proprietary company? Brandon Butler.
+请问 Brandon Butler，在某种程度上，我们使用私有云，还是要受制于一家独资公司，会不会对我们不利？
 
 **10:30** - _Brandon Butler_
 
-When you use a proprietary cloud vendor, there are different ways you can use it. You can use it in a way that embraces open source standards and open source platforms and run those open source platforms on top of a cloud that even may be proprietary, or you can use native tools to those cloud providers that may not be open source, but they may have stronger integrations to the public cloud platform. So, it's a big trade-off that end users have to consider. Do I want to use tools that are native to the cloud provider that may be more heavily integrated with the services this cloud providers offers and other services that I might want to use also on that cloud, or do I want to prioritize using an open source platform that will give me more freedom to run that maybe on my own infrastructure or another cloud provider's infrastructure?
+当你使用云供应商的私有云时，你可以有不同的使用方法：你可以拥抱开源标准和开源平台，并且在云上运行开源软件，即便这是个私有云；你也可以使用不是开源的原生工具，但是这些工具可能和公有云有更好的集成特性。因此，这是终端用户必须考虑的一个重大取舍：我是想使用云供应商的原生工具，这些工具可能与这个云供应商提供的服务，以及我想在该云上使用的其他服务有更好的集成；还是想优先使用一个开源平台，让我有更大的自由度，然后在我自己的基础设施或其他云供应商的基础设施上运行？
 
 **11:00** - _Saron Yitbarek_
 
-As the clouds we rely on keep growing and the big four cloud providers elbow past each other for dominance, we developers have a choice. Do we give up some of our independence, relying on a single cloud provider to protect our work, or could we take another road, maximize the scalability of the cloud while keeping our independence?
+随着我们所依赖的云技术不断发展，四大云供应商相互竞争，我们作为开发者有了新选择。我们是放弃一些独立性，依靠单一的云供应商来保护我们的工作，还是选择另一条路，在保持独立性的同时最大化云的拓展性?
 
 **11:30** - _Saron Yitbarek_
 
-In other words, can we sign a lease that says, "Sure. Do what you want with the place. Knock a wall down. Make it your own?"
+换句话说，我们能否在租房合同上写明，「房客有权任意处置该房 ，例如拆墙或其他装修」？
 
 **12:00** - _Saron Yitbarek_
 
-So, what's the problem with giving up a little independence? If you're a developer, it might not be so obvious. That's because it's mostly been the ops teams who've been encouraging us to tread lightly. They noticed the nuts-and-bolts issues. Here's Major Hayden. He's the principal architect at Rackspace.
+那么，放弃一点点独立性又有什么问题呢？如果你是一名开发者，可能没受到什么影响。因为大多数时候都有运维团队在背后鼓励开发者们小心行事，他们格外留心于具体细节。这位是 Major Hayden，他是 Rackspace 的首席架构师。
 
 **12:30** - _Major Hayden_
 
-Developers will often find that over time they may have requirements for different things like a certain specialized kind of storage, or they may want to have a certain sized VM, or maybe they want a type of offering that the cloud provider doesn't offer, and there's also some of those things that you do have to look at that developers aren't always the first ones to look at, where you have to do that cost benefit analysis to understand, okay, I have a lot of flexibility in public cloud, but how much does that really cost me?
+有些时候，开发者经常发现他们有各种不同的需要，比如某些专门化的存储，或者可能想要一定大小的虚拟机，或者想要一种云供应商未能提供的东西，还有一些东西可能开发者没有第一时间想要，但你认为他们需要的，并且这些东西你还要进行成本效益分析。好吧，虽然我在公有云上有很大的灵活性，但这到底花了我多少钱？
 
 _Saron Yitbarek_
 
-Major points out another issue, one that goes beyond practicalities and speaks to the heart of what developers like me believe in. I'm talking about open source practices. Even if cloud providers allow you to use your open source tools, they're not themselves open.
+Major 指出了另一个问题，这个问题超越了实用性，并且触及了像我这样的开发人员所信奉的核心。那就是开源实践。即使云供应商允许你使用自己的开源工具，但云本身并不是开源的
 
 **13:00** - _Major Hayden_
 
-So, open source in the cloud is an interesting subject to tackle because there's plenty of open source technologies that allow you to take advantage of a public cloud, but not all public clouds have their infrastructure offered as open source. So for example, if you take Amazon, you're not able to actually see what they're using to build VMs or build other services, so if you wanted to make an adjustment for that, you really wouldn't be able to, or if you wanted to look behind the scenes and understand more of how it fits together, that would be difficult.
+因此，开源对于云来说是一个需要处理的有趣议题，因为有大量的开源技术支持用户去高效利用公有云，但并不是所有公有云都把它们的基础设施开源了。举个例子，如果你使用亚马逊，你无法真正知道他们使用的构建虚拟机和其他服务的技术。所以，如果你想对这些东西做点调整是不可能的，或者如果你想了解幕后的机理和运作方法的话将是困难的。
 
 **13:30** - _Saron Yitbarek_
 
-If you listened to our episode on DevOps, you know there's a lot we can gain by tearing down the wall between developers and operations. Architects like Major give us some crucial insights, and then there's sys admin, Nick Bush. He's on a team where people are ready to jump on the cloud. Developers are tired of being stuck with physical hardware that ages every five years, and everyone likes the idea of expanding as fast as they want, but Nick wants to flag things that developers might not be considering.
+如果你听过我们之前关于 DevOps 的节目，你会知道打破开发者和运维之间的壁垒会让我们获益良多。架构师 Major 刚给了我们一些真知灼见，接下来的这位是系统管理员 Nick Bush。他所在的团队正准备向云端迁移。开发者们已经厌倦了每五年一次硬件换代，每个人都喜欢尽可能快地扩展，而 Nick 想指出一些开发者可能没有考虑到的东西。
 
 **14:00** - _Nick Bush_
 
-Yeah. I mean, there is inherent latency. I mean, that is a database server in Montana versus my 10-gig connection down the street, so just doing local database calls is gonna take longer. It is a longer path to get there, and there's other security stuff that's out there that we didn't have to worry about physical premise. Here, we were in control of our hardware and stuff like that. Once you're in the cloud, you gotta think about the other connections coming into that.
+是的。我想说的是，云是存在延迟的。举个例子，就像远在蒙大拿的数据库服务器，对比我在街上用着 10-gig 的网络，本地数据库调用还是会花费更长的时间。要达到低延迟的云内数据库调用还有很长的路要走，还有其他的安全问题，因此我们暂时不需要担心物理上的前提。在本地，我们尚可以控制我们的硬件和其他类似的东西。一旦你进入了云端，你就得考虑其中的连接。
 
 **14:30** - _Nick Bush_
 
-You gotta worry about security, I think, a little bit more, and it is a price thing. Every month you want a sped-up VM, take up storage space. It is a cost per gigabyte transferred as well as stored, where before we had a one-time purchase and we just had it there, and we could store it, use it. We didn't have to pay anymore money as long as we had space for it.
+我认为，你得稍微担心一下安全问题，更多的也是一个成本问题。你想要月租一个云端虚拟机，要求网速快并且带有充足的存储空间。每千兆的传输和存储都是要花钱的，以前我们是一次性买断的，我们只要买好了一个云端虚拟机，就可以存储和使用。只要余额和储存空间都还足够，我们就不用付更多钱。
 
 **15:00** - _Saron Yitbarek_
 
-For the record, Nick does think the pluses outweigh the minuses. He just doesn't want us to pretend it's a perfect system. What happens if your provider has an outage and you want to re-deploy an application in another cloud? Or what if there's a price advantage to using different clouds for different things? A lot of the issues that the ops folks bring up can fit under a single label, vendor lock-in. You're probably familiar with this term.
+声明一下，Nick 确实认为利大于弊。他只是不想让我们假装这是一个完美的系统。如果你的云供应商宕机，而你想在另一个云中重新部署应用程序，会发生什么情况？或者，如果对不同的东西使用不同的云有价格优势呢？运维人员提出的这些问题都可以归为一个标签，即供应商锁定（Vendor lock-in）。你可能对这个术语很熟悉。
 
 **15:30** - _Saron Yitbarek_
 
-It's the concept that building on someone else's server gets you more and more tied to their platform. You get locked in. Suddenly, you're being force fed upgrades, cost changes, new limits you wouldn't have chosen for yourself. You get the idea.
+供应商锁定的意思是，在别人的服务器上构建会让你越来越依赖于他们的平台。你被绑定在这个平台。可能突然之间，你被迫升级、改变成本、设定新限制，你变得身不由己。你懂的。
 
 **16:00** - _Saron Yitbarek_
 
-When we put our DevOps hats on, we can work together to see lock-in coming and plan around it, but when we're buried in our own code, we sometimes forget to look at the whole picture. What about finding the right mix, working on both public and private clouds? The ultimate solution might be in a hybrid cloud, the best of both worlds. I called up Bridget Kromhout to get her perspective. She's a principal cloud developer advocate over at Microsoft, and knows this stuff backwards and forwards.
+当我们都戴上 DevOps 的帽子时，我们开发者和运维就可以一起工作，面对供应商锁定，对症下药，但当我们沉浸在自己的代码中时，我们有时会忘记观览全局。为什么不找个折中组合，同时在公共和私有云上工作呢？终极解决方案可能是混合云，这是两个世界的最佳选择。我给 Bridget Kromhou 打了电话，询问她的看法。她是微软的主要云开发人员，对这方面非常了解。
 
 **16:30** - _Saron Yitbarek_
 
-So, if we think about the hybrid solution having a little bit of that public cloud, but then also some of that private cloud, is that the perfect balance between the two? Is that the ideal solution for developers? If it's hybrid, then I can kind of do whatever I want and use whatever tools that I want on my end, but then still get some of the benefits of the big public cloud providers.
+所以，如果我们考虑一种混合的解决方案，既有一些公有云，也有一些私有云，这是两者之间的完美平衡吗？这是开发者的理想解决方案吗？如果它是混合的，那么我就可以做任何我想做的事情，使用任何我想使用的工具，但仍然可以从大型公有云提供商那里获得一些好处。
 
 **17:00** - _Bridget Kromhout_
 
-Yeah, absolutely. So, for example, I have friends who work in high-performance computing research at manufacturing companies, and they have all sorts of top secret, NDA, whatever stuff that they don't feel comfortable putting on public cloud, and so maybe they're going to work in their datacenters on these workloads, crunching these customer numbers or whatever, these research numbers, and then they may have other...
+是的，当然。举个例子，我有朋友在高性能计算研究制造企业工作，他们有各种各样的绝密资料，像 NDA 这样的东西，他们觉得不适合放在公有云上，也许他们会在他们自己的数据中心使用这些资料工作，像处理客户数据和研究数据等等，然后他们可能有其他……
 
 **17:30** - _Bridget Kromhout_
 
-They do have other workloads that they feel comfortable having out in public cloud, but I think this is kind of a question of... And sometimes there's questions, too, of whether public cloud has suitability for some of the workloads, like if you're planning on using InfiniBand interconnects between your notes, how much of that are you gonna be able to provision in public cloud?
+他们也有其他工作资料适合放在公有云上，但我认为这是一个问题。有时也会有这样的问题，公有云是否适合某些工作资料，比如，如果你计划在笔记之间使用 InfiniBand 同步，你能在公有云中完成多少呢?
 
 _Saron Yitbarek_
 
-But this isn't necessarily the perfect solution. Bridget does think that hybrid clouds come with their own headaches.
+但这并不一定是完美的解决方案。Bridget 确实认为混合云使得他们很头痛。
 
 **18:00** - _Bridget Kromhout_
 
-The problem with hybrid is sometimes people fool themselves and think that they can take something that really wasn't working, so if they had their old processes with a two-week wait time to even get a single VM, if they have a whole scenario like that and it wasn't working well, and then they have a bunch of people who have started taking their credit cards to the public cloud providers because they're frustrated, and then they try to somehow glue those together, but then there's problems with data provenance and latency and, I don't know, de-synced data sets, there's a lot of ways it can go wrong. I think if you work with your cloud provider so you can add some of the direct connection things that are available so that you can sync things better, that can help.
+混合的问题是有时人们欺骗自己，认为他们可以接受一些实际上不工作的东西，所以如果他们之前等待两周来获得一个虚拟机，如果有人经历过一个完整的这样的情况，并且这个虚拟机还不能正常工作的话，就会有一堆的人由于失望而开始和他们的公有云提供商谈论信用卡问题了，然后他们会试着把这些东西粘合在一起，但是还是有数据来源和延迟的问题，我不是很确定，脱同步的数据集有很多出错的方式。我认为如果你和云服务提供商合作你可以有一些可用的直接沟通这样你就可以更好地同步数据，这样是很有帮助的。
 
 **18:30** - _Saron Yitbarek_
 
-Yeah. So, when we talk about the cloud in the context of open source, I feel like as developers we, I think most of us, really like open source, especially if you're listening to this podcast. Right? You want everything to be open and transparent and share the code and all that, but I feel like when we talk about the cloud, because it doesn't feel like its own code base, doesn't feel like its own project, it's the environment, it's the thing that we can use to help us run our code, are developers as insistent on that part of the story being open source and transparent the way that we sometimes feel very strongly about when it comes to our projects and our code base?
+是的。所以，当我们在开源的背景下谈论云的时候，我觉得作为开发者，可能大多数人，真的很喜欢开源，尤其是如果你正在听这个播客的话。对吧？你想要一切都是开放透明的并且共享代码，但我觉得当我们谈到云计算，因为它不会给人感觉是自己的代码库，不会让人觉得是自己的项目，它其实是环境，是我们可以使用它来帮助我们运行代码的东西，是有时感到特别需要开源和透明化我们工程和代码而坚持在开源故事的一部分的开发人员们吗？
 
 _Bridget Kromhout_
 
-I think that's a really reasonable question, and I think that might also come down to exactly where in the stack are you going to pick to care about, because if you think about it, how much access to and info do you have about the chips?
+我觉得这是一个非常合理的问题，我觉得这可能也会归结到你到底要选择在堆栈中的什么位置去关心，因为如果你想一想，你对信息的访问权和芯片的了解有多少？
 
 _Saron Yitbarek_
 
-Yeah, that's true. That's fair.
+是的，这是真的。这是公平的。
 
 _Bridget Kromhout_
 
-They're sitting over there with some silicon and some secrets. They're not necessarily giving that to you.
+他们坐在那里，带着一些硅（芯片的主要原料）和一些秘密。他们不一定会给你。
 
 **19:30** - _Saron Yitbarek_
 
-Yeah, silicon and secrets. That's a good podcast name, by the way.
+是啊，硅和秘密。顺便说一句，这是个好播客的名字。
 
 _Bridget Kromhout_
 
-Right? Maybe the question is not is everything open, but is everything open that you need to be open, and of course, is your provider gonna have transparency with you when things don't operate exactly as they should, because hopefully they will.
+对吧？也许问题不在于是否一切都是开放的，而在于你需要开放的一切是否都是开放的，当然，当事情没有完全按照他们应该的方式运行时，你的服务提供者是否会对你透明，一般来讲他们愿意的。
 
 **20:00** - _Saron Yitbarek_
 
-So, I get Bridget's perspective as a public cloud provider, and she makes an interesting point. How granular does a developer's control need to be on the cloud? As for me, I look at it differently. What don't I want to sacrifice in order to get some of that public cloud goodness? Say an app is running on a public cloud and then, wait a minute, now I've scaled up or there's new compliance requirements and it makes more sense for my app to be in a private cloud.
+所以，我得到了 Bridget 作为一个公有云提供商的观点，她提出了一个有趣的观点。开发者在云上的控制需要多细？至于我，我的看法不一样。为了得到一些公有云的好处，我不想牺牲什么？比如说一个应用在公有云上运行，然后，等一下，现在我已经扩大了规模，或者有新的合规要求，我的应用在私有云上更有意义。
 
 **20:30** - _Saron Yitbarek_
 
-Moving that app point to point, I need to know it's going to work. I need to know things are packaged the same way, configured the same way. In other words, I need to know that jumping from cloud to cloud is always possible.
+把那个应用从一个地方迁移到另一个地方，我需要知道它能工作。我需要知道它是以同样的方式打包，以同样的方式配置。换句话说，我需要知道从一个云跳到另一个云总是可能的。
 
-What's the alternative? Getting locked into just one cloud provider? A provider that might even gain a total monopoly over all the others? Not having the option to move to a different environment, that's like trying to code with one hand tied behind your back.
+我们的选择是什么？仅仅锁定在一家云提供商？一个甚至可能完全垄断所有其他供应商的供应商？不能选择迁移到另一个环境的话，这就像把一只手绑在背后写代码一样。
 
 **21:00** - _Saron Yitbarek_
 
-So, we don't want to be trapped and beholden to any one cloud. We want to be able to cloud hop when it suits us. In the immortal words of rock legend Queen, I want to break free. We want access to that fantastic scalability you find in public clouds, but without giving up the freedoms that we've come to expect from using open-sourced tools and methods.
+所以，我们不想受惠于任何一朵云并且被它困住。我们希望在合适的时候能够云间跳转。用摇滚传奇皇后乐队（Queen）的名言来说，我想要挣脱束缚。我们希望能够获得在公有云中可以找到的那种不可思议的拓展性，但又不放弃使用开源工具和方法所带来的自由。
 
 **21:30** - _Saron Yitbarek_
 
-Here's the good news. The work on those hybrid clouds is well underway. Mike Ferris, VP of Business Architecture at Red Hat gives a great explanation of how hybrid clouds help us maintain that open source ethos.
+有个好消息。这些混合云的工作正在顺利进行中。Mike Ferris，红帽公司的的业务架构副总裁，他给出了一个很好的解释，说明了混合云是如何帮助我们保持开源精神的。
 
 **22:00** - _Mike Ferris_
 
-Open source is really the base for almost every cloud in the world and now many, if not most, of the application infrastructures in the world and the tooling evolves from that, the management capabilities, everything that people are using to build and employ mission-critical applications as well as non-mission-critical applications if it's all based on open source.
+开源是世界上几乎每一个云服务的基础，现在即便不是大多数，也有许多世界上应用程序的基础设施和工具是从这里发展出来的，管理能力，以及人们用于构建和部署任务关键型应用程序以及非关键型应用程序的一切工具都是基于开源的。
 
 **22:30** - _Mike Ferris_
 
-This concept of hybrid really flows alone with it meaning that they have the ability to use these things wherever they are to take advantage of the best feature sets on what infrastructure is there, all based upon this concept that open source is really helping define the standards that are driving this next generation of development while they continue to leverage all the investments that they've made in the past.
+混合云的概念和它的含义——他们有能力在基础设施上使用他们可以使用的最好的特性集——什么都基于这一概念，而开源是真正帮助定义标准，并在人们持续地将他们已经产生的财富作为杠杆投入进来之后推动下一代的开发模式的。
 
 _Saron Yitbarek_
 
-I think the cloud wants to be open. We've spent a lot of time this season talking about the origins of open source. You can even make the case that some version of hybrid would be an extension of those same ideals.
+我认为云计算是想要开放的。本季节目我们花了很多时间讨论开源的起源。你甚至可以证明，某些版本的混合云是这些相同理想的延伸。
 
 **23:00** - _Mike Ferris_
 
-What has changed in the open source development activities over the past several decades has been that many more people have gotten involved, including people like Microsoft, IBM. You know, name a big corporation, they're either using open source for their offerings or they're building open source and contributing that back to the community or some combination of both.
+在过去几十年里，开源开发活动的变化是越来越多的人参与进来了，包括像微软、IBM 这样的行业巨头。你知道，举个大公司的例子，他们要么使用开源软件来提供产品，要么构建开源软件并将其回馈给社区，或者两项都参与。
 
 **23:30** - _Mike Ferris_
 
-This influx of really important needs from customers through those large corporations has really helped evolve open source from being what was originally intended to displace the Solaris and UNIX environments, to something that's the basis for not just community and hobbyist use but also certainly mission-critical enterprise use.
+这些来自客户的重要需求通过那些大公司涌入，确实帮助开源世界从最初打算取代 Solaris 和 UNIX 环境，发展为不仅是社区和业余爱好者使用，而且肯定也是关键任务企业使用的基础。
 
 **24:00** - _Saron Yitbarek_
 
-Open source is growing up, fast. Now, we have the chance to make sure we remember where we come from. As we hop on the cloud, we can claim part of it for ourselves and keep the cloud open. Luckily, building open source bridges between clouds is getting a lot easier thanks to work like the OpenStack® platform. Major Hayden, principal architect at Rackspace, describes its origins.
+开源正在快速成长。现在，我们有机会确保我们记住我们从哪里来。当我们跃上云时，我们可以为自己声明开源的部分并保持云的开放。幸运的是，由于有了 OpenStack® 平台这样的工作，在云之间构建开源桥梁变得更加容易了。Rackspace 的首席架构师 Major Hayden 描述了它的起源。
 
 **24:30** - _Major Hayden_
 
-It really came from Rackspace and NASA getting together and saying, "Hey look, this is a new way to build infrastructure and we should do it out in the open. We should get more of this input. We should talk to more people. We should get more use cases." What OpenStack is, it's a group of applications that work really well together to create infrastructure, to manage infrastructure all across the board. Whether you need complex virtual machines, complex networking, you have strange storage requirements, OpenStack can usually fit most of those.
+OpenStack® 真正来自于 Rackspace 和 NASA 聚在一起说：「嘿，听着，这是一种构建基础设施的新方式，我们应该公开进行。我们应该得到更多的投入。我们应该和更多的人交谈。我们应该得到更多的用例。」 OpenStack® 是什么，它是一组应用，它能很好地协同创建基础设施，全面管理基础设施。无论你需要复杂的虚拟机，复杂的网络，你有奇怪的存储要求，OpenStack® 通常可以满足大部分的要求。
 
 _Saron Yitbarek_
 
-Major is talking about adding something that open source knows how to deliver. Adaptability.
+Major 说的是增加一些开源知道如何提供的东西，适应性地。
 
 **25:00** - _Major Hayden_
 
-When I look at OpenStack, I look at it as an interconnected set of open source applications that allow you to build the infrastructure that you want. If it can't build what you want then you can go in the community and make changes to it. I love the reaction when I go and talk to customers and they say, "Well we want to change this. We want to change this." We say, "Well, you can."
+在我看来，OpenStack® 是一组相互连接的开放源码应用程序，它允许你构建你想要的基础设施。如果它不能建立你想要的，那么你可以进入社区，对它做出改变。我喜欢当我去和顾客交谈时他们的反应，他们说，「我们想改变这个。我们想要改变这一切。」我们会说，「嗯，你可以。」
 
 _Saron Yitbarek_
 
-How do we make sure that level of adaptability is enshrined in the cloud of tomorrow? Like many issues we've talked about in past episodes, it's all about strong communities. Brandon Butler, senior editor at Network World.
+我们如何确保这种程度的适应性被铭记在明天的云中呢？就像我们在之前的节目中谈到的许多问题一样，这都是关于强大的社区的问题。Brandon Butler，《网络世界》的高级编辑。
 
 **25:30** - _Brandon Butler_
 
-For example, we've seen the Cloud Native Computing Foundation be created to create standards and the use of application containers and Kubernetes. We've seen the OpenStack foundation be created to bring OpenStack users together to talk about best practices when creating open source infrastructure service clouds.
+例如，我们已经看到云原生计算基金会被创建，来制定标准以及应用容器和 Kubernetes 的使用。我们已经看到 OpenStack 基金会被创建，以将 OpenStack® 用户聚集在一起，讨论创建开源基础设施服务云时的最佳实践。
 
 **26:00** - _Brandon Butler_
 
-The communities that underpin these open source communities are hugely important for developing the next wave of open source tools, for learning best practices about how to use these open source platforms, and for encouraging these public cloud vendors to embrace these open source standards.
+支撑这些开源社区的社区对于开发下一波开源工具，学习如何使用这些开源平台的最佳实践，以及鼓励这些公有云厂商接受这些开源标准都非常重要。
 
 _Saron Yitbarek_
 
-Once we start building that hybrid cloud, making it as open as possible, the potential really seems endless. Here's Major.
+一旦我们开始构建那朵混合云，让它尽可能的开放，潜力似乎真的无穷无尽。Major，请说。
 
 **26:30** - _Major Hayden_
 
-What I'm most excited about is just to see more things that can come together on top of different clouds. For example, OpenStack provides a great base layer of infrastructure, but then you can do so much on top of it. I think sometimes different companies will adopt OpenStack and then say, "Man, what do I do now? I have all this freedom. I don't know what to do." It's kind of like when you have a refrigerator full of food and you're like, "Ah, I don't know what to make."
+最让我兴奋的是看到更多的东西可以聚集在不同的云之上。例如，OpenStack® 提供了一个很好的基础设施基础层，但是你可以在它之上做很多事情。我想有时候不同的公司会采用 OpenStack®，然后说:「伙计，我现在该怎么办？我的自由程度太高了。我不知道该怎么办。」这就像你有一个装满食物的冰箱，你会想，「啊，我不知道该做什么菜。」
 
 **27:00** - _Saron Yitbarek_
 
-I love having that problem. Chris Watterson might have been right when he told us.
+我喜欢这个问题。Chris Watterson 告诉我们的可能是对的。
 
 _Chris Watterston_
 
-There is no cloud. It's just someone else's' computer.
+没有所谓的「云」，那只是别人的电脑。
 
 **27:30** - _Saron Yitbarek_
 
-But that's not the end of the story. With hybrid clouds, we get to write ourselves back into the next chapter. The key to creating a hybrid cloud app probably hasn't been cracked yet. Managing work across multiple clouds, that's going to be a huge job for today's command line heroes. There'll be a lot of trial and error but it is so worth it, because the one thing we do know is that staying open source means developers can always build the world they want to work in. That kind of flexibility is how we're going to hold on to the rebel spirit that open source does best.
+但这并不是故事的结尾。有了混合云，我们得把自己写到下一章。创建混合云应用的关键可能还没有被破解。跨多云管理任务，对于今天的代码英雄们来说将是一项艰巨的任务。会有很多尝试和错误，但这是值得的，因为我们知道的唯一的一件事是，保持开源意味着开发人员总是可以构建他们想要工作的世界。这种灵活性正是我们如何紧紧抓住开源最擅长的叛逆精神的方法。
 
 **28:00** - _Saron Yitbarek_
 
-Next episode—our season finale—we are zooming out for a big picture view of what open source looks like as a global phenomenon, in ways that are going to surprise you. We'll also look to the future of open source, how our developers preserving the spirit of heroes like Linus Torvalds, even as they reinvent their industry.
+下一集——我们本季的最后一集——我们将以一种让你惊讶的方式，从宏观角度来看开源作为一种全球现象是什么样的。我们也将展望开源的未来，我们的开发人员如何保持像 Linus Torvalds 这样的英雄的精神，即使当他们正在重塑他们的行业时。
 
 **28:30** - _Saron Yitbarek_
 
-Command Line Heroes is an original podcast from Red Hat. For more information about this and past episodes go to RedHat.com/CommandLineHeroes. Once you're there you can also sign up for our newsletter. To get new episodes delivered automatically for free, make sure to subscribe to the show. Just search for Command Line Heroes in Apple Podcasts, Spotify, Google Play, CastBox, and other podcast players. Then hit subscribe so you'll be the first to know when new episodes are available. I'm Saron Yitbarek. Thanks for listening and keep on coding.
+《代码英雄》是一档红帽公司推出的原创播客。想了解更多关于本期和往期节目的信息，请访问 RedHat.com/CommandLineHeroes 。在那里你也可以注册我们的新闻通讯。想免费获得新一期节目推送，请务必订阅我们。只要在苹果播客、Spotify、Google Play、CastBox 和其他播客平台中搜索《代码英雄》，然后点击订阅，你就可以第一时间收听新一期。我是 Saron Yitbarek。感谢你的聆听，编程不止。
 
-The OpenStack® Word Mark and OpenStack Logo are either registered trademarks / service marks or trademarks / service marks of the OpenStack Foundation, in the United States and other countries and are used with the OpenStack Foundation's permission. We are not affiliated with, endorsed or sponsored by the OpenStack Foundation or the OpenStack community.
+OpenStack® 和 OpenStack 标志是 OpenStack 基金会在美国和其他国家的注册商标/服务标志或商标/服务标志，并经 OpenStack 基金会许可使用。我们不是 OpenStack 基金会或 OpenStack 社区的附属机构，也没有得到 OpenStack 基金会或 OpenStack 社区的认可或赞助。
 
 --------------------------------------------------------------------------------
 
@@ -325,7 +325,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-1/crack-the-cloud-open
 
 作者：[Red Hat][a]
 选题：[bestony][b]
-译者：[译者ID](https://github.com/译者ID)
+译者：[LikChung](https://github.com/LikChung)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
