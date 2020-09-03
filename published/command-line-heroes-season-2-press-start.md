@@ -87,8 +87,8 @@
 > **00:02:19 - D20 菜鸟甲**：
 >
 > 我干掉它了！
->
-> **00:02:27 - Saron Yitbarek**：
+
+**00:02:27 - Saron Yitbarek**：
 
 好吧，接着玩吧。我是 Saron Yitbarek，这里是红帽原创播客 <ruby>代码英雄<rt>Command Line Heroes</rt></ruby> 第二季。今天的节目，《按下启动键，游戏和开源社区》。
 
