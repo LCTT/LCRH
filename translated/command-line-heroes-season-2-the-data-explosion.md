@@ -9,6 +9,14 @@
 
 《代码英雄》第二季：数据爆炸
 ======
+
+> 导语：大数据将有助于解决大问题：我们如何种植粮食、如何向需要的人运送物资、如何治疗疾病。但首先，我们需要弄清楚如何处理它。
+
+> 现代生活充满了联网的小工具。我们现在一天产生的数据比几千年来的数据还要多。 Kenneth Cukier 解释了数据是如何发生变化的，以及它是如何开始改变我们的。Ellen Grant 博士告诉我们波士顿儿童医院是如何使用开源软件将堆积如山的数据转化为个性化治疗的。Sage Weil 则分享了Ceph的可扩展和弹性云存储如何帮助我们管理数据洪流。
+
+> 收集信息是了解我们周围世界的关键。大数据正在帮助我们拓展永不停歇的探索使命。
+
+
 **00:03** - _Saron Yitbarek_
 
 如果你把从人类历史早期到 2003 年创建的所有数据计算在内，你将得到大约 500 万 GB 的数据。我们昨天创建了多少 GB 数据？
@@ -491,5 +499,6 @@ via: https://www.redhat.com/en/command-line-heroes/season-2/the-data-explosion
 校对：[Northurland](https://github.com/Northurland)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
+
 [a]: https://www.redhat.com/en/command-line-heroes
 [b]: https://github.com/bestony
