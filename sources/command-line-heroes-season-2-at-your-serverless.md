@@ -7,511 +7,511 @@
 [#]: via: (https://www.redhat.com/en/command-line-heroes/season-2/at-your-serverless)
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
-Command Line Heroes: Season 2: At Your Serverless
+代码英雄（第 2 季）：无服务器
 ======
 **00:03** - _Archival Al Gore_
 
-But now, of course, all over the United States of America and all over the world the internet is revolutionizing our lives.
+现如今，当然了，在全美乃至全世界，互联网正在彻头彻尾地改变着我们的生活。  
 
 **00:13** - _Saron Yitbarek_
 
-It's 1998. Google just hired its first employee, and Vice President Al Gore is talking to the press.
+那是 1998 年。 Google 刚刚雇佣了第一名员工，副总裁 Al Gore 正在与媒体交谈。  
 
 **00:22** - _Archival Al Gore_
 
-This technology is still in its infancy. When president Bill Clinton and I came into the White House there were only 50 sites. And look at it now. I got a bouquet of virtual flowers on my birthday.
+这项技术还处于起步阶段。当我和总统 Bill Clinton 进入白宫时，只有 50 个站点。现在看看，我在生日那天收到了一束虚拟鲜花。  
 
 **00:37** - _Saron Yitbarek_
 
-Okay. I can sense your eyebrow arching already. Why am I playing you some bit of 20-year-old internet history? It's because I want to remind you that the basics of the internet are still the same.
+好的。我已经感觉到你的眉毛皱起了。为什么我要向你展现某些已经有 20 年历史的互联网史？这是因为我想要提醒你，互联网的基础仍然是相同的。  
 
 **00:51** - _Saron Yitbarek_
 
-Sure, there are more than 50 sites now. I get it. But, we're still sending virtual flowers. And from a developer's perspective, if you strip away all our incredible advances, you've still got that same client-server model that started it all. A client-server model that allows for a distributed network.
+当然，现在有不止 50 个站点了。我知道。但是，我们仍然在发送虚拟鲜花。从开发人员的角度来看，如果你剥离我们所有令人难以置信的进步，你得到的仍然是启动这一切的相同的客户端 - 服务器模型。一个允许分布式网络的客户端- 服务器模型。  
 
 **01:16** - _Saron Yitbarek_
 
-Today, developers talk a lot about going serverless, which sounds like Al Gore's client-server internet just got trashed. And if we're not careful, we can abstract away so much infrastructure that we forget there are still servers out there doing their server thing.
+如今，开发人员谈论了很多有关无服务器（ serverless ）的问题，这听起来像是 Al Gore 的客户端 - 服务器互联网被废弃了。而且，如果我们不小心，我们能够抽象出太多的基础架构，以至于忘记了仍然有服务器在那里做着它们的服务工作。  
 
 **01:37** - _Saron Yitbarek_
 
-But does serverless literally mean no servers? Really? Or is the developer's relationship with servers just evolving? In this episode, we are talking with people from around the world to explore this thing called serverless.
+但是，无服务器真的意味着没有服务器吗？真的吗？还是开发人员与服务器之间的关系正在发展？在这一集中，我们将与全世界的人们交谈，以探索这种被称为“无服务器”的东西。  
 
 **01:54** - _Saron Yitbarek_
 
-I'm Saron Yitbarek, and this is Command Line Heroes. An original podcast from Red Hat.
+我是 Saron Yitbarek，这里是代码英雄（ Command Line Heroes ）。一档来自红帽（ Red Hat ）的原创播客节目。  
 
 **02:03** - _Andrea Passwater_
 
-Did you know wireless internet has wires somewhere?
+你知道无线互联网在某些地方有线缆吗？  
 
 **02:06** - _Saron Yitbarek_
 
-Andrea Passwater works for a company called ... Wait for it, Serverless. They created a popular, open source framework for developing serverless applications. Andrea is noticing how organizations are hungry for ways to abstract away infrastructure, which is what that magical word serverless is always promising.
+Andrea Passwater 在一家名为 …… 等等， Serverless 的公司工作。他们创建了一款流行的开源框架来开发无服务器应用程序。 Andrea 注意到了各组织是多么渴望抽象化基础架构的方法，而这正是神奇的“无服务器”一词始终给人以希望的。  
 
 **02:28** - _Andrea Passwater_
 
-I think the term is mostly just supposed to convey the fact that as a developer who works in serverless applications, that's abstracted for you. You don't have to worry about those servers. You just get to code and deploy that code up to a cloud provider and not have to worry about the administration. That's really what serverless means.
+我认为这一术语主要是为了传达一个事实，即作为从事无服务器应用方面工作的开发人员，这对你而言是抽象的。你不必担心那些服务器。你只需要写代码并将代码部署到云提供商即可，而不必担心管理。这就是无服务器的真正含义。  
 
 **02:49** - _Saron Yitbarek_
 
-For Andrea, the attractions of serverless are pretty obvious.
+对于 Andrea 来说，无服务器的吸引力很明显。  
 
 **02:53** - _Andrea Passwater_
 
-If you develop applications in a serverless way, it gives you the ability to not have to think about the mundane parts of deploying that application and maintaining that application. It just means that you can focus on business value. You can focus on being creative.
+倘若你以无服务器的方式开发应用程序，则可以不必去考虑部署和维护该应用程序的日常工作。这意味着你可以专注于商业价值。你可以专注于发挥创造力。  
 
 **03:12** - _Saron Yitbarek_
 
-And another big serverless bonus is you're less likely to find yourself reinventing the wheel.
+而无服务器的另一大好处是，你不太可能发现自己在重复造轮子。  
 
 **03:18** - _Andrea Passwater_
 
-Why would you create your own way to handle authentication when services like Auth0 exist that you can just use and tap into? At the end of the day, serverless is about giving developers the opportunity to be able to more easily and more rapidly build all of these ideas in their heads that they want to get out into the world.
+当有像 Auth0 这样可以直接使用的服务存在时，为什么要创建自己的身份验证方法呢？归根结底，无服务器就是为开发人员提供机会，使得他们能够更加轻松快速的构建起他们脑子里想要带到世界上的所有的主意。  
 
 **03:41** - _Saron Yitbarek_
 
-I did it!
+我做到了！  
 
 **02:27** - _Saron Yitbarek_
 
-Imagine you've got your arms full of groceries, and you're stumbling toward a door. The door slides open in a simple, friendly-
+想象一下，你拿了满手的杂货，正跌跌撞撞地走向一扇门。这扇门以简单而友善的方式打开了。  
 
 **03:50** - _Saron Yitbarek_
 
-Allow me.
+请容我说一句。  
 
 **03:51** - _Saron Yitbarek_
 
-... kind of way. That's serverless. It's opening the door for you, making development a lot less cumbersome. In fact, as organizations flock toward hybrid cloud setups and the serverless movement gets underway, the barriers toward development are vanishing.
+…… 的一种方式。这就是无服务器。它为你打开了大门，使得开发工作不在那么繁琐。事实上，随着各组织趋向于混合云配置以及无服务器运动的进行，发展的障碍正在消失。  
 
 **04:09** - _Saron Yitbarek_
 
-Andrea has been hearing a lot of talk about non-developer development.
+Andrea 听说过很多有关非开发人员开发的话题。  
 
 **04:15** - _Andrea Passwater_
 
-Sort of stories from people who traditionally thought they couldn't code, and who are now actually able to get into the software engineering game because of serverless. And able to make these tools that automate their own workflows and stuff like that. It doesn't matter what job you do.
+传统上认为自己写不了代码，而现如今由于无服务器而得以投身于软件工程游戏的人的故事。并且能够开发这些得以是的他们自己的工作流程和类似的东西自动化的工具。你做什么工作都没关系。  
 
 **04:31** - _Andrea Passwater_
 
-There's something you do on your job that is so rote, like you do it every single day and it's this thing that you're like, "You know, couldn't a computer do this for me?" I started to feel that way. I happened to work at this company called Serverless and they were like, "You realize that the product we make can help you with that. Right?"
+你在工作中做过的事情很死板，就像你每天都在做而且会想，“你知道，计算机不能为我做这件事吗？”我开始有这种感觉。我碰巧在一家名为 Serverless 的公司工作，他们当时认为：“你意识到我们生产的产品可以为你提供帮助。对吗？”  
 
 **04:50** - _Saron Yitbarek_
 
-Andrea figures that pretty soon a lot of people who never considered themselves developers are going to realize they can build simple apps themselves. At essentially no cost.
+Andrea 认为不久之后，许多从未将自己视为开发人员的人将意识到他们能够自己构建简单的应用程序。基本上免费。  
 
 **05:02** - _Andrea Passwater_
 
-With Lambda, I've never had to pay for any of these small applications that I've made. I can make these bots that do part of my job for me, and I can become more efficient at my job, yes. But, I also don't have to do that boring stuff anymore. I can do something that's more fun.
+借助 Lambda，我从不需要为自己制作任何小型应用程序而付费。我可以让这些机器人为我做一部分工作，而且我可以提高工作效率，是的。但是，我也不必再做这些无聊的工作了。我可以做些更有趣的事情。  
 
 **05:17** - _Saron Yitbarek_
 
-Even for pro developers, that automatic door effect is pretty tempting in an arms-full-of-groceries kind of world.
+即使是对于专业开发人员来说，这种自动门效果在满手杂物的世界里也是很诱人的。  
 
 **05:25** - _Andrea Passwater_
 
-I think people are very attracted to the idea that they can get prototypes working with a one- or two-person team in a very short amount of time. Like, a handful of days. They can get a prototype up and running. I think it makes it very exciting for people to start realizing that they get to just focus on what drives business value in their application, or for their product, for their company. They get to focus on that business value.
+我认为人们对于在短时间内就能与一两个人的团队一起工作的原型很感兴趣。就像是几天时间。他们可以启动并运行原型。我认为这使得人们开始意识到自己仅仅关注于在其应用程序或产品中为公司带来业务价值的驱动力，这非常令人兴奋。他们开始关注业务价值。  
 
 **05:54** - _Saron Yitbarek_
 
-I'm going to throw another term at you. Ready? Functions-as-a-service. That's the offering at serverless places like AWS Lambda, or Apache OpenWhisk. Functions-as-a-service means a single function can be executed on demand, only when triggered. And that's a lot more efficient.
+我要再抛出一个术语给你。准备好了吗？功能即服务。这就是像是 AWS Lambda 或 Apache OpenWhisk 之类的无服务器产品。“功能即服务”意味着只有在被触发时才能按需执行单个功能。而这效率更高。  
 
 **06:15** - _Saron Yitbarek_
 
-Plus, I'm way less worried about compute capacity and run time. End of the day, that serverless deal can be a pretty sweet setup. In fact, some folks have even started wondering, are we going all in on serverless? Does it maybe replace containers?
+此外，我全然不担心计算能力和运行时间。最终，无服务器交易可能会是一个相当不错的配置。事实上，有些人甚至开始怀疑，我们是否将要完全都使用无服务器？它可以替代容器吗？  
 
 **06:34** - _Michael Hausenblas_
 
-I see the point.
+我明白了。  
 
 **06:35** - _Saron Yitbarek_
 
-Michael Hausenblas is the developer advocate for the OpenShift® team over at Red Hat.
+Michael Hausenblas 是 Red Hat OpenShift 团队的开发倡导者。  
 
 **06:41** - _Michael Hausenblas_
 
-If you look at all of these things we have here, OpenShift and Cloud Foundry and what not, you have essentially these abstractions. This idea that the Heroku, essentially, bent it more or less. Right? This very simple way of, don't worry about how the execution will run, don't worry about what it looks like. Just give us the code and we take care of the rest.
+如果你看一下我们在这里拥有的所有这些东西，包括 OpenShift 和 Cloud Foundry 一起其他东西，你实质上拥有这些抽象。 Heroku 基本上或多或少地弯曲了这个想法。对吗？这种非常简单的方法，无需担心执行将会如何运行，无需担心它的外观。只需要给我们代码，我们来处理剩下的工作。  
 
 **07:03** - _Saron Yitbarek_
 
-Yeah. That sounds pretty good. It kind of sounds like that dream of a “noops”environment. Where everything is automated and abstracted away. It's like the developer's version of minimalist interior design. Nice, clean surfaces.
+是的。听起来相当不错。这听起来有点儿像是对“小睡”环境的梦想，一切都自动化并且抽象化的地方。就像是开发者的极简主义室内设计版本。很棒、很干净的界面。  
 
 **07:21** - _Saron Yitbarek_
 
-But, Michael wants to give you a little reality check.
+但是， Michael 想要给你一些现实性检查。  
 
 **07:25** - _Michael Hausenblas_
 
-No ops! Right? You know, it magically just will somehow go away. You see these jokes on HackerNews and Twitter, and wherever. Serverless, of course there are servers! I know, of course there are. There's operations.
+没有操作！对吗？你知道，它会以某种方式消失。你可以在 HackerNews 和 Twitter 以及其他任何地方看到这些笑话。无服务器，当然有服务器！我知道，当然有。有操作。  
 
 **07:39** - _Michael Hausenblas_
 
-Someone has to do that, someone has to rack the servers. Someone has to patch the operating system. Someone has to create containerimages, because guess where these functions are executing? Of course, in some kind of computer.
+有人必须这么做，有人必须架设服务器。有人必须修补操作系统。有人必须创建容器镜像，因为，你猜猜这些功能会在哪里执行？当然是在某种计算机上。  
 
 **07:54** - _Saron Yitbarek_
 
-It's not a zero-sum game. Functions-as-a-service don't outright replace containers. Instead, they add a tool to the tool box. And I've got some more news for you. Using that new tool, going serverless doesn't just mean the ops is somebody else's problem. You've still got ops of your own to think about.
+这不是零和博弈。功能即服务无法直接取代容器，而是将工具添加到工具框中。而且我还有更多的新闻要告诉你。通过使用这种新工具，转变成无服务器并不仅仅意味着这些操作时其他人的事情。你仍然需要考虑你自己的操作。  
 
 **08:14** - _Michael Hausenblas_
 
-You see there is operations bits on the infrastructure side. But, also with the developers. If you're in an extreme case, using let's say Lambda, then you have zero access to any kind of administrators. Right?
+你会看到基础架构方面有一些操作位。但是，也和开发人员在一起。如果你处在一个极端情况之下，比如说使用 Lambda，那么你对任何类型的管理员的访问权限为零。对吗？  
 
 **08:29** - _Michael Hausenblas_
 
-You cannot simply call or page an infrastructure administrator. Obviously, someone in your organization has to do it. But, I fear that many organizations only see it's so simple and cheap. We don't need to move this, and this, and this. Then forget about who is on call, and who really is on call? Do you have a strategy for that?
+你不能简单地致电或是寻呼一名基础架构管理员。显然，你组织之中的某一个人必须做这件事。但是，我担心许多组织看到的只是它如此简单而便宜。我们无需移动这个，然后是这个，然后是这个。然后忘记了谁在待命，以及谁真正地在待命？你对此有什么策略吗？  
 
 **08:52** - _Michael Hausenblas_
 
-If no, then you might want to come up with a strategy first before you go all in there.
+如果没有的话，那么你可能会想要在进行所有操作之前，先制定一个策略。  
 
 **09:00** - _Saron Yitbarek_
 
-Someone needs to be on call. Even if you do go "serverless,." you still need to have your head wrapped around that bigger picture. You still need to get your operations in order.
+某个人需要处于待命状态。即使选择了“无服务器”，你仍然需要在头脑中萦绕更大的局面。你仍然需要按照顺序进行操作。  
 
 **09:24** - _Saron Yitbarek_
 
-When I threw out that term earlier, functions-as-a-service, did you cringe a little? Over the last while cloud-based development has brought us an army of “as-a-service”terms. We've got infrastructure-as-a-service, we've got platform-as-a-service, we've got software-as-a-service, data-as-a-service. Database-as-a-service. You get the idea.
+在我早先时候抛出那个术语“功能即服务”时，你有过些许畏缩吗？过去，基于云的开发为我们带来了大量的“ …… 即服务”的术语。我们有基础架构即服务，我们有平台即服务，我没有软件即服务、数据即服务、数据库即服务 …… 你明白了吧。  
 
 **09:48** - _Saron Yitbarek_
 
-If you're having trouble keeping the differences straight, you're not alone. That's why we tracked down Himanshu Pant. He's a tech lead at the Royal Bank of Scotland, over in Delhi, India. He spent years parsing out the differences here.
+如果你难以保持直截了当的差异，那么你并不孤单。这就是我们追踪 Himanshu Pant 的原因。他是位于印度德里的苏格兰皇家银行的技术主管。他花了多年时间来解决那里的差异。  
 
 **10:04** - _Himanshu Pant_
 
-These other computing paradigms are so similar sounding in name to serverless that one tends to forget, or tends to get confused as to why, this is not being called serverless. Or why this is being called a serverless.
+这些其他的计算范例在名称上和无服务器听起来是如此得相似，以至于人们往往会忘记或者困惑于为什么没有将其称为无服务器，或者为什么这被称为无服务器。  
 
 **10:20** - _Saron Yitbarek_
 
-So, serverless is not the same as containers. Serverless is not platform-as-a-service. But Himanshu wanted to nail it down. What can functions-as-a-service provide, exactly? And what can't it?
+因此，无服务器与容器不同。无服务器不是平台即服务。但是 Himanshu 希望将其确定下来。功能即服务能够提供什么？又不能提供什么？  
 
 **10:35** - _Saron Yitbarek_
 
-He shared two anecdotes with us, two times when he figured out when to go with serverless and when to forgo. The first moment came during a 24-hour hackathon. Himanshu was trying to make a chat bot.
+他与我们分享了两件轶事，两次他弄清楚了什么时候该使用无服务器，什么时候应该放弃。第一个时刻来自一次 24 小时黑客马拉松。 Himanshu 当时正试图开发一个聊天机器人。  
 
 **10:49** - _Himanshu Pant_
 
-There were various vectors on which this was going to be a sales. For example, that coverage of logic, the cost which would be incurred and the scalability. I sat down to do this work in serverless.
+有各种各样的媒介将成为商机。例如逻辑的覆盖范围、可能产生的成本以及可伸缩性。我坐下来在无服务器环境下完成这项工作。  
 
 **11:04** - _Himanshu Pant_
 
-As I did, I realized that cost aspect was one aspect, which kind of really tippedthe skill in my favor. So even though all the other participants, they had a much better ... I would say coverage, or maybe coverage of logic. The NLP situations or their scenarios.
+正如我所做的那样，我意识到成本是一个层面，而这确实是我所青睐的技能。因此，即使其他所有的参与者都有更好的技能 …… 我想说的是，覆盖面，或者说是逻辑覆盖面， NLP 情况或是其场景。  
 
 **11:19** - _Himanshu Pant_
 
-But, as far as cost is concerned, and scalability, I was going hands down to win over there because with serverless it all depended on how many invocations people are doing on that chat bot. Accordingly, the functions will be triggered. This was one use case when I was very much happy to do serverless, because of the cost—there was no cost. Faster development time, and to be honest, it was not exactly a production-scale workload at that moment.
+但是，就成本和可伸缩性而言，我之所以想要取胜，是因为借助无服务器，这完全取决于人们在该聊天机器人上所进行调用的次数。因此，功能将被触发。这是一个我十分乐意采用无服务器的用例，因为成本 —— 没有成本。更快地开发时间，而且老实说，当时还并不完全是生产规模的工作量。  
 
 **11:45** - _Himanshu Pant_
 
-I could make do with the somewhat infant tooling of the platform. It was a win for me.
+我可以使用平台上的某些新兴工具。这对我而言是一次胜利。  
 
 **11:52** - _Saron Yitbarek_
 
-Nice. That was a time when serverless madesense. But at the bank Himanshu is working in right now, they're migrating their systems from legacy to cloud. And that's bringing up different kinds of goals.
+很好。那时无服务器才有了意义。但是，在 Himanshu 目前供职的银行里，人们正在将他们的系统从旧版迁移到云端。而这提出了不同的目标。  
 
 **12:07** - _Himanshu Pant_
 
-We are trying to see which workload can go on to which paradigm. I should just go into IS, BAS, FAS, obviously the ones who come down to enterprise space. You need to see that there are no aspects, like number one, let’s say vendor looking. And number two, that technology should be proven, extensively. More so for a risk-averse industry like, you know, the banking sector.
+我们正在尝试查看哪些工作负载可以继续进行那种范例。我应当进入 IS、BAS、FAS，显然是那些进入企业领域的。你需要确保没有其他方面，比如说第一，供应商的寻找，以及第二，该技术应该得到广泛的验证。对于像是银行业这样的规避风险的行业而言更是如此。  
 
 **12:30** - _Himanshu Pant_
 
-This is where a platform-as-a-service, but still has a better proving, and a better capability, and a better tooling kind of takes the upper hand.
+这就是平台即服务，但是仍然具有更好的证明，更好的功能，以及更好的工具占上风的地方。  
 
 **12:40** - _Saron Yitbarek_
 
-Himanshu is looking at his own needs, and his own comfort levels, and curating which workloads make sense in which cloud computing paradigm.
+Himanshu 正在研究自己的需求以及自己的舒适度，并且研究那种工作负载在那种云计算规范中有意义。  
 
 **12:49** - _Himanshu Pant_
 
-Let's say a listener is working on a trading shop, and he wants to build something, just an entry one. For him or her, serverless may not really be apt because the latency may not really be desirable in that kind of a machine-particular application.
+假设某个听众在一家贸易商店工作，他想构建某种东西，只是一个条目。对于他或者她来说，无服务器可能并不是真正合适的选择，因为在那种特定于机器的应用程序中，延迟可能是不该出现的。  
 
 **13:05** - _Saron Yitbarek_
 
-End of the day, it's a measured approach. Instead of throwing everything into one bucket. When we're thinking about which cloud-based architecture is actually right for the work we want to do, there's one more thing to consider. How all that abstracting, all that taking things off your hands, can end up changing not just our work lives, but the finished work itself.
+归根结底，这是一种经过评估的方法。而不是将所有东西都丢进一个桶里。当我们思索哪一种基于云的架构真正是个我们所想要做的工作时，还有一件事情需要考虑。所有这些抽象的东西，所有解放你双手的东西，最终如何不仅仅会改变我们的工作生活，而且会改变已经完成的工作本身。  
 
 **13:31** - _Saron Yitbarek_
 
-Abstracting away part of our workload can mean less ability to customize. Think of a car you bought off the lot. It works. It drives. But then, think of a car you built on your own. That one works the way you decided it would work.
+抽象掉一部分工作负载可能意味着更少的自定义。想象一下你所购买的一辆车。它能工作。它能开。但是接着想象一下你自己构建的一辆车。这辆车会按照你做决定的方式工作。  
 
 **13:48** - _Rania Khalaf_
 
-It comes at a cost.
+这是有代价的。  
 
 **13:50** - _Saron Yitbarek_
 
-Rania Khalaf is the director of AI Engineering at IBM research.
+Rania Khalaf 是 IBM 研究部门的 AI 工程总监。  
 
 **13:56** - _Rania Khalaf_
 
-In using these serverless applications, you may not have full control of everything that's going on. You don't have control of scheduling, or when they'll run, or where.
+在使用这些无服务器应用程序的过程中，你可能无法完全控制所有正在发生的事情。你无法控制计划，或是何时何地运行。  
 
 **14:06** - _Saron Yitbarek_
 
-There's a trade off taking place, right? Fine-grain control may slip when you're using serverless.
+这是一种权衡，对吗？当你使用无服务器时，细粒度控制可能会出错。  
 
 **14:13** - _Rania Khalaf_
 
-It abstracts so much away from the end-user that if you do want to have more control, different scheduling, more checks and balances, different values on how long a function can run for. So on and so forth. Then you really want to be able to get in there and tinker, and maybe create your own deployments.
+它对于终端用户而言抽象化了如此之多，以至于如果你想要拥有更多的控制权、不同的规划、更多的检查与平衡、功能可以运行多长时间的不同值，等等等等。然后，你真的希望能够进入并得以修补，并且可能创建你自己的部署。  
 
 **14:32** - _Saron Yitbarek_
 
-That would require something new, though. A new kind of serverless that open source communities are already building for themselves. Rania and her team of IBMers are part of that movement.
+不过，这将需要一些新东西，一种开源社区已经在为自己构建的新型无服务器。 Rania 和她的 IBM 团队是该运动的一部分。  
 
 **14:44** - _Rania Khalaf_
 
-We first worked on a language that was ... It’s basically JavaScript extensions to let you create these multi-threaded interactive service compositions as a starting point to give you a lighter-weight way. That was around the same time that cloud and microservices and platform-as-a-service were really picking up.
+我们首先使用的语言是 …… 它基本上是 JavaScript 的扩展，可以让你创建这些多线程交互服务组合，以此作为起点，为你提供一种更加轻量的方式。大约在同一时间，云和微服务以及平台即服务开始真正兴起。  
 
 **15:08** - _Rania Khalaf_
 
-Just combining these two trends and saying, there is this idea of being able to build higher order function for many small pieces that may or may not come from you.
+只是将这两种趋势结合起来，就有一种想法，即能够为可能来自于你或不是来自于你的许多小部件构建更为高阶的功能。  
 
 **15:18** - _Saron Yitbarek_
 
-Rania and her team were building Apache OpenWhisk. An open source functions platform.
+Rania 和她的团队正在构建 Apache OpenWhisk，一款开源功能平台。  
 
 **15:23** - _Rania Khalaf_
 
-With OpenWhisk, from the beginning, we made it open source. A big part of that was to really enable the community to participate with us. But also to peel away the covers. And give control to the people that are wanting to operate their own serverless computing environments, so that they can customize it to their needs. Maybe put in their own controls, see how it really works, and control it better.
+借助 OpenWhisk，我们打从一开始就将其开源。其中很大的一部分是真正使得社区能够和我们一起参与。但是还需要剥掉盖子，并且将控制权交给想要运行自己的无服务器计算环境的人们，以便他们能够根据自己的需求对其进行自定义，也许将它们放在自己的控件中，看看它实际上是如何运行的，并且对其进行更好的控制。  
 
 **15:54** - _Rania Khalaf_
 
-But, also provide the kind of finer-grain control that people wouldn't have with it if it was only offered as a service.
+但是，如果仅仅将其作为服务来提供，还可以提供人们无法拥有的更加精细的控制。  
 
 **16:03** - _Saron Yitbarek_
 
-Giving control back to anyone who wants to operate their own serverless environment. It's next-stage serverless. Joining OpenWhisk, you've got other open source platforms like Fission and Gestalt. We start to see the serverless arena evolving into something more adaptable, and more powerful than before.
+将控制权交还给想要运行自己的无服务器运行环境的任何人。这是下一阶段的无服务器。加入 OpenWhisk，你将获得其他像是 Fission 和 Gestalt 之类的开源平台。我们开始看到无服务器领域正在演变得比原先更具适应性，而且功能更为强大。  
 
 **16:31** - _Saron Yitbarek_
 
-To really get why an open source version of serverless matters, I got chatting with one of the founders of OpenWhisk.
+为了真正了解为什么无服务器的开源版本很重要，我与 OpenWhisk 的一位创始人进行了谈话。  
 
 **16:39** - _Saron Yitbarek_
 
-Hi, Rodric. How is it going?
+嗨， Rodric。最近好吗？  
 
 **16:40** - _Rodric Rabbah_
 
-Good. How are you? Thanks for having me on.
+很好。你好吗？谢谢你让我参与节目。  
 
 **16:42** - _Saron Yitbarek_
 
-Rodric Rabbah was one of the three developers who conceived of, and founded, OpenWhisk. Here is our conversation.
+Rodric Rabbah 是构思并创立 OpenWhisk 的三位开发人员之一。这里是我们的谈话。  
 
 **16:54** - _Rodric Rabbah_
 
-It tends to be confusing for others or tends to get snickers, because people tend to think, “How could you possibly compute without servers?”
+别人可能会很困惑，也可能会窃笑，因为人们可能会想：“倘若没有服务器，你要怎么做计算呢？”  
 
 **17:02** - _Saron Yitbarek_
 
-Right. Server is there somewhere, it's just I don't have to worry about it.
+是的。服务器就在某处，只是我不必去费心考虑它。  
 
 **17:05** - _Rodric Rabbah_
 
-Exactly. That's really the beauty of this model. When you start developing in a serverless style, you never really want to go back. You know, I've been in it for close to four years now,and I've developed some production-quality applications.
+完全正确。这就是这个模型的真正美妙之处。当你开始以无服务器风格进行开发时，你从不会真的想要倒退回去。你知道的，如今我已经置身其中接近 4 年了，并且已经开发了一些具有生产质量的应用程序。  
 
 **17:19** - _Rodric Rabbah_
 
-This is the only way I develop now. If you tell me I have to provision a machine and install an OS, it's completely foreignto me. I'm not even sure I'd know how to do it anymore.
+这是我如今惟一的开发方式。如果你告诉我必须要配置一台计算机并且安装操作系统，这对我而言完完全全是陌生的。我甚至都不确定我是不是还知道该怎么做。  
 
 **17:29** - _Saron Yitbarek_
 
-Yeah. When you put it like that, it sounds like a huge load off,you know? Because when you initially hear of serverless, at least I think, "Man, it's yet another thing I have to learn."
+是的。当你这样说的时候，听起来好像负担很重，你知道吗？因为当你最初听说无服务器时，至少我会想：“伙计，这是我必须要去学习的另一件事。”  
 
 **17:38** - _Saron Yitbarek_
 
-But, when you put it that way it sounds nice.
+但是，当你这样说的时候，听起来不错。  
 
 **17:41** - _Rodric Rabbah_
 
-It does sound nice. Then you have to realize that you have to take a little bit of air out of the bubble. It's not a silver bullet.
+这确实听起来很棒。然后，你已经意识到你必须要从气泡中抽出一点儿空气。这不是灵丹妙药。  
 
 **17:50** - _Saron Yitbarek_
 
-What are some of the surprising risks or issues that people may not see or be aware of when they get started?
+人们开始使用时可能看不到或者不知道的一些惊人的风险或是问题是什么呢？  
 
 **17:58** - _Rodric Rabbah_
 
-I think the lack of transparency is possibly the biggest one. It's sort of reminiscent to me of sort of the technology that came about when new languages came about and raised a level of abstraction relative to the computer. It's a similar kind of, sort of, startling effect in serverless today.
+我认为缺乏透明度可能是最大的问题。这有点儿让我想起了新语言问世时出现的那些提高了计算机抽象水平的技术。在当今的无服务器环境中，这是一种类似的令人震惊的效果。  
 
 **18:16** - _Rodric Rabbah_
 
-In that you write, typically a function, then you just deploy that function. It's instantaneously available to run, say on the web as an APIN point. It scales massively. I mean, you can run thousands of instances without any work on your part.
+在这个过程中，你通常会写一个函数，然后只需部署这个函数即可。它可以立即运行，比如在 web 上作为 APIN 点。它可以大规模扩展。我的意思是你无需自己做任何工作即可运行数千个实例。  
 
 **18:32** - _Rodric Rabbah_
 
-But, if something goes wrong, it's like, how do I debug this? Or I actually want to inspect the context within which my function failed. Typically, these functions run within processes, are isolated from you—you can't even log into the machine to see where your code is running. They might run in container environments that are closed off. You don't know what's in them.
+但是，倘若哪里出了问题，那应该如何调试呢？或者我实际上是想要检查我失效的功能的上下文。通常，这些功能在进程内运行，与你隔离 —— 你甚至无法登录计算机查看你的代码在何处运行。它们可能在封闭的容器环境之中运行。你不知道里面有什么。  
 
 **18:53** - _Rodric Rabbah_
 
-It becomes hard for you to get that little bit of transparency. This is where tools will eventually help. But, the lack of tools sort of makes that pretty significant pitfall for people to get their heads around.
+获得一点儿透明度对你而言变得很难。这是工具最终将提供帮助的地方。但是，工具的缺乏某种程度上会让人们陷入一个相当大的陷阱。  
 
 **19:05** - _Saron Yitbarek_
 
-That was really good. Okay. Let's go back to OpenWhisk, alright? Tell me about that.
+这真的很好。好的。让我们回到 OpenWhisk，好吗？告诉我。  
 
 **19:11** - _Rodric Rabbah_
 
-The project started right around the time Amazon Lambda announced their offering, which was really where serverless started to get into the nomenclature and started to gain mindshare in the space. When we saw Lambda, we started thinking, “There is a lot of technology here that has to be developed. Not just at the base layer in terms of a new cloud computer, but really in terms of your programming model that you put on top of it to make it more easily accessible to programmers.”You know, coming out of IBM research, we had pretty strong ... Instead of skills around programming language design, compiler expertise, and run time expertise.
+该项目在 Amazon Lambda 宣布推出产品的那一刻就开始了，这实际上是无服务器开始成为术语并且开始在该领域获得关注的时刻。当我们看到 Lambda 时，我们开始思索：“这里有许多技术需要开发。不仅仅是在新的云计算机的基础层上，而且在你置于其之上的编程模型之上，这实际上都使得它更易于被程序员访问。”你知道，出自于 IBM 研究所，我们拥有相当强大的技术。而不是有关编程语言设计、编译器专业知识以及运行时专业知识的技能。  
 
 **19:54** - _Rodric Rabbah_
 
-A small team of us, basically three people-
+我们的一个小团队，基本上三个人 ——  
 
 **19:57** - _Saron Yitbarek_
 
-Wow.
+哇。  
 
 **19:57** - _Rodric Rabbah_
 
-... got together to essentially do the initial development and prototyped what became, eventually, OpenWhisk, with respect to the command line tools, which is really the programming interface for serverless today. The programming model concepts, and then the actual architecture that it has to support, essentially, this function of the service model and give you all the benefits that serverless espouses.
+…… 聚集在一起，做了最初的开发和原型，最终成为 OpenWhisk，关于命令行工具，这是现如今无服务器实际上的编程接口。编程模型概念，然后是它必须支持的实际架构，本质上，是服务器模型的这个功能，提供了无服务器所支持的所有好处。  
 
 **20:22** - _Rodric Rabbah_
 
-The genesis was really Amazon Lambda coming on the scene and saying there's this new model of computing. Pay attention.
+真正的起源是 Amazon Lambda 的出现，并可以说这是一种新的计算模型。请注意。  
 
 **20:28** - _Saron Yitbarek_
 
-How long did it take? Or the first version anyway.
+花了多长时间？或者说是第一个版本。  
 
 **20:30** - _Rodric Rabbah_
 
-It happened quite fast. In fact, when IBM announced ... Well, it was at the time IBM OpenWhisk. It was one year to the date from our first commit.
+这发生的着实很快。事实上，当 IBM 宣布 …… 好吧，这是在 IBM OpenWhisk 的时候。从我们第一次提交到现在已经一年了。  
 
 **20:39** - _Saron Yitbarek_
 
-Wow. Oh my goodness.
+哇。我的天哪。  
 
 **20:41** - _Rodric Rabbah_
 
-That was quite exciting.
+这着实令人激动。  
 
 **20:43** - _Saron Yitbarek_
 
-That's really impressive. Actually, when it first started, it wasn't OpenWhisk, it was just Whisk. Right?
+这确实很令人印象深刻。事实上，当它第一次启动时，它不是 OpenWhisk，而只是 Whisk。对吗？  
 
 **20:49** - _Rodric Rabbah_
 
-Whisk was the internal name, that's right. I'm responsible for the name. The idea behind the name was to move quickly and nimbly.
+Whisk 是内部名称，没错。我负责这个名字。这个名字背后的想法是迅速而又灵活地行动。  
 
 **21:00** - _Saron Yitbarek_
 
-Nice.
+很好。  
 
 **21:01** - _Rodric Rabbah_
 
-You whip up a function and there it is. You can put it in the oven and bake it.
+你激起了一个功能，就可以了。你可以将其放入烤箱中烘焙。  
 
 **21:07** - _Saron Yitbarek_
 
-That's wonderful, because I was definitely thinking eggs when I saw that. I was thinking, let's whisk some eggs.
+太好了，因为当我看到鸡蛋时，我肯定是在想鸡蛋。我在想，让我们搅拌一些鸡蛋。  
 
 **21:12** - _Rodric Rabbah_
 
-Right. We've done some positives and some negatives on the name. When we open source a technology, and sort of put it out on GitHub, we put the open prefix on it to sort of emphasize that this is open as in open source and free to use, free to download, free to contribute to.
+对。我们对该名称进行了一些肯定与否定。当我们开源一项技术，并将其放到 GitHub 上时，我们会在上面加上 open 前缀，以强调该技术与开源一样开放，可以免费使用、免费下载、免费贡献。  
 
 **21:32** - _Saron Yitbarek_
 
-Yeah.
+是的。  
 
 **21:33** - _Rodric Rabbah_
 
-And our goal in putting it on open source was really to sort of raise the bar in terms of what's available to execute these days as a serverless platform. It was important to us to sort of build a platform that is not only production-ready, and share it with the world,but also to make it possible for academic research or research in general. Maybe coming out of IBM research, we cared about that a little too much.
+我们将其开源的目的实际上是一定程度上提高这些可以在当今无服务器平台上执行的功能。对我们来说，重要的是要建立一个平台，不仅可以用于生产，还可以与全世界共享，而且要使学术研究或一般性研究成为可能。也许出自 IBM 的研究，我们有点儿太过于在意这个了。  
 
 **22:00** - _Rodric Rabbah_
 
-But, it sort of paid off in that I know of universities that actually use OpenWhisk for their own research—from Cornell to Princeton. I've gone to several universities like Brown, Williams College, MIT, CMU, and I've given talks with the purpose of encouraging students to really look at the problems around serverless and functions of the service. The tooling, the programming model, and get them excited about the technology.
+但是，这是有所回报的，我知道一些大学 —— 从 Princeton 到 Cornell —— 在他们的研究中使用 OpenWhisk。我去过 Brown、 Williams College、 MIT、 CMU 等几所大学，并且进行了一些讲座，目的是鼓励学生真正地去研究围绕无服务器以及服务器功能的问题、工具、编程模型，并且是他们对技术感到兴奋。  
 
 **22:26** - _Rodric Rabbah_
 
-Showing them that there's a path to where if they actually contribute to the open source project, it's picked up by IBM cloud functions and run in production, usually within a week.
+向他们显示，如果他们真的为开源项目做出了贡献，那么 IBM 云端函数通常会在一周时间之内将其贡献获取到并且在生产环境中运行。  
 
 **22:34** - _Saron Yitbarek_
 
-Wow. That's so fast.
+哇。这么快。  
 
 **22:36** - _Rodric Rabbah_
 
-That's been surprising to some people.
+这让一些人感到惊讶。  
 
 **22:38** - _Saron Yitbarek_
 
-That's a super-efficient process.
+这是一个非常高效的过程。  
 
 **22:41** - _Rodric Rabbah_
 
-It's really a testament to how we develop a lot of technology in the open. It's not an open core model where there are some components that have been held back. What's running in the IBM cloud is really what's in the Apache OpenWhisk project.
+这确实证明了我们是如何在开放环境下开发许许多多技术的。它不是一个开放核心模型，有些组件有所保留。在 IBM 云之中所运行的实际上就是 Apache OpenWhisk 项目。   
 
 **22:56** - _Saron Yitbarek_
 
-When you think about the future of serverless and the options we may have moving forward, do you feel like they will inevitably be open?
+当你思索无服务器的未来以及我们可能作出的前进选择时，你觉得它们将不可避免地被开放吗？  
 
 **23:08** - _Rodric Rabbah_
 
-I think there's a raging debate these days about the value of open source, especially in the cloud.
+我认为最近关于开源的价值存在一场激烈的争议，尤其是在云计算领域。  
 
 **23:13** - _Saron Yitbarek_
 
-Right, yeah.
+是的，没错。  
 
 **23:15** - _Rodric Rabbah_
 
-If you consider why people go to the cloud, or why they might have aversions to go into the cloud, it's this whole concept of vendor lock-in being ... losing transparency. Open source has played an important role in sort of alleviating some of these issues. Then you look at efforts like Kubernetes, which is just gobbling up the cloud in terms of a container and management system. How successful that's been.
+如果你在思考为什么人们会转向云计算，或者为什么他们可能会厌恶投身于云计算领域，这就是厂商锁定的整个概念 …… 丧失透明度。开源在一定程度上缓解这些问题方面发挥了重要的作用。然后再看看类似 Kubernetes 之类的工作，它在容器和系统管理方面正在吞噬云。那是多么得成功啊。  
 
 **23:41** - _Rodric Rabbah_
 
-If you're doing something that even touches containers, does it even warrant having a discussion about keeping it closed source, giving how dominate it is? I tend to think that openness helps. It's compelling from developers’ perspectives.
+如果你正在做一些甚至接触到容器的事情，它是否有必要讨论保持它的闭源，并给出它的主导程度？我倾向于认为开源是有所帮助的。从开发人员的角度来看，它是引人注目的。  
 
 **23:57** - _Saron Yitbarek_
 
-When you think about the future of the serverless ecosystem and tools, and projects, and services that we're going to see, what does that look like? What does the future of serverless look like for you?
+当你考虑我们将要看到的无服务器生态及其工具、项目以及服务的未来时，这会是什么样的呢？无服务器的未来对你来说是什么样的？  
 
 **24:08** - _Rodric Rabbah_
 
-I think you start to think less and less about the underlying technology, and it becomes more and more about the programming experience, and the tooling around it. The tooling for debugging, the tooling for deployment management, the tooling for performance analysis, the tooling for security.
+我认为你开始对底层技术的思考越来越少，而对编程经验以及有关它的工具的思索越来越多。用于调试的工具、用于部署管理的工具、用于性能分析的工具、用于安全性的工具。  
 
 **24:26** - _Rodric Rabbah_
 
-All of these are sort of fundamentally important, I think. The underlying mechanics of how you run your function, whether they run in a container or some future technology, whether you can run them on one cloud, or multi-cloud, I think fades into the background. Kind of like what Kubernetes did for containers and container management.
+我认为，所有这些都非常重要。我认为你如何运行你的功能的底层机制 —— 无论它们是在容器中还是在一些未来的技术下运行，也无论你是将它们运行在一个云上或是多个云上 —— 淡出了背景。有点儿像是 Kubernetes 在容器以及容器管理方面所做的事情。  
 
 **24:46** - _Rodric Rabbah_
 
-In a similar way there's a layer that's going to come on top, which is the function of the service layering to give you that kind of serverless notion. Then it's really about what's the new middleware that you're putting on top of it. How are you empowering developers to really take advantage of this new cloud computer and the toiling that you're going to put around it to make their experience pleasant.
+以一种类似的方式，在上面还有一个层，是服务层的功能，可以提供那种无服务器概念。然后，它实际上是你在其上所放置的新的中间件的。你是如何授权开发者真正利用这款新的云端计算机，以及你为了使他们有愉快的体验所为之付出的艰苦努力。  
 
 **25:07** - _Saron Yitbarek_
 
-Yeah. What does that empowerment look like?
+是的。这种授权看起来怎么样？  
 
 **25:13** - _Rodric Rabbah_
 
-Efficiency, to put it in one word. It's the ability to just focus on the things that are of value to me as a developer, or the value to my company if I'm working at a corporation. It's more rapid in evasion that, then, you beget out of that, because you freed up your brain cells to not think about infrastructure and how things scale, and how things are secured at the hardware level.
+一言以蔽之，就是高效。这是一种能力，可以只专注于对于我作为一名开发人员而言有价值的东西，或者如果我在公司工作的话，对于我公司的价值。这样能够更快地规避问题，因为你释放了你的脑细胞，而不用去考虑基础设施和事物的规模，以及在硬件层面如何保障事物的安全性。  
 
 **25:38** - _Rodric Rabbah_
 
-Now you can really innovate in terms of rededicating that brain power to just innovating more rapidly, delivering more value to your end-users. I'd lump that all into just better efficiency.
+现在，你可以真正地创新，将脑力重新投入到更快的创新中去，从而为你的终端用户带来更多的价值。我想把这一切都归结于更高的效率。  
 
 **25:55** - _Saron Yitbarek_
 
-Rodric Rabbah is a founder of OpenWhisk. Remember what I said at the top of the show? That old client-server model that the internet is based on really isn't going anywhere. What's changing, and I mean radically changing, is the way we think about those servers.
+Rodric Rabbah 是 OpenWhisk 的一位创始人。还记得我在这一期节目开始的时候所说的吗？互联网所基于的那种老旧的服务器 - 客户端模型事实上是行不通的。我们对这些服务器的看法正在发生着改变，而我的意思是从根本上发生变化。  
 
 **26:19** - _Saron Yitbarek_
 
-In a so-called serverless world, the hope is that we concentrate on the code itself and don't have to worry about infrastructure. But the level of abstraction we select, and how we maintain control over work we don't abstract away, are where that serverless world gets interesting.
+在所谓的无服务器世界之中，希望在于我们专注于代码本身，而不用担心基础架构。但是，我们所选择的抽象等级，以及如何保持对于未被抽象的工作的控制，才是使得无服务器世界变得真正有趣的地方。  
 
 **26:40** - _Saron Yitbarek_
 
-Serverless should, ultimately, be about developer empowerment. The freedom from patching, scaling, and infrastructure management. But, at the same time, we have to stay curious about how that big picture works even as we abstract some tasks away. We're going to be asking, what controls am I giving up and what controls do I want to take back?
+无服务器最终应当是关于开发人员授权的。免于补丁、扩展和基础设施管理。但是，于此同时，即使我们抽象化了一些任务，依然不得不对大局如何工作保持好奇。我们会问，我要放弃的是哪些控制权，而我要收回的又是哪些控制权？  
 
 **27:07** - _Saron Yitbarek_
 
-Next episode it's our epic season two finale. Command Line Heroes is taking a journey to Mars. We're learning how NASA's martian rover is kicking off an open source revolution of its own. And we're hanging out with the CTO at NASA's Jet Propulsion Laboratory. No biggie. To learn how open source is shaping the future of space exploration.
+下一集使我们史诗般的第二季的大结局。代码英雄将要前往火星。我们将会了解 NASA 的火星探测器如何开始自己的开源革命。并且我们将与 NASA 喷气推进实验室的 CTO 进行交流。不要紧。了解开源是如何塑造太空探索的未来的。  
 
 **27:39** - _Saron Yitbarek_
 
-Meantime, if you want to dive deeper into the question of serverless development, or any of the subjects we've explored this season, check out the free resources waiting for you at redhat.com/commandlineheroes. While you're there, you can even contribute to our very own Command Line Heroes game.
+与此同时，如果你想要更加深入地研究无服务器开发的问题，或是在这一季里我们所探索过的任何主题，请访问 [redhat.com/commandlineheroes](redhat.com/commandlineheroes)，查看免费资源。当你在那里时，你甚至可以为我们自己的代码英雄游戏作出贡献。  
 
 **28:00** - _Saron Yitbarek_
 
-I'm Saron Yitbarek. Thanks for listening, and keep on coding.
+我是 Saron Yitbarek。感谢收听，继续写代码吧。  
 
 --------------------------------------------------------------------------------
 
@@ -519,9 +519,10 @@ via: https://www.redhat.com/en/command-line-heroes/season-2/at-your-serverless
 
 作者：[Red Hat][a]
 选题：[bestony][b]
-译者：[译者ID](https://github.com/译者ID)
+译者：[JonnieWayy](https://github.com/JonnieWayy)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
+
 [a]: https://www.redhat.com/en/command-line-heroes
 [b]: https://github.com/bestony
