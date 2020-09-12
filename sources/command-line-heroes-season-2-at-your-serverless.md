@@ -1,6 +1,5 @@
-erlinux is translating
 [#]: collector: (bestony)
-[#]: translator: (erlinux)
+[#]: translator: (JonnieWayy)
 [#]: reviewer: ( )
 [#]: publisher: ( )
 [#]: url: ( )
