@@ -1,6 +1,6 @@
 [#]: collector: 'bestony'
 [#]: translator: 'mrpingan'
-[#]: reviewer: ' '
+[#]: reviewer: 'acyanbird'
 [#]: publisher: ' '
 [#]: url: ' '
 [#]: subject: 'Command Line Heroes: Season 5: Becoming a Coder'
@@ -340,7 +340,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-5/becoming-a-coder
 作者：[Red Hat][a]
 选题：[bestony][b]
 译者：[mrpingan](https://github.com/mrpingan)
-校对：[校对者 ID](https://github.com/校对者ID)
+校对：[acyanbird](https://github.com/acyanbird)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux 中国](https://linux.cn/) 荣誉推出
 [a]: https://www.redhat.com/en/command-line-heroes

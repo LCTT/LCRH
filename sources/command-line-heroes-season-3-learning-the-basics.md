@@ -1,11 +1,11 @@
-[#]: collector: (bestony)
-[#]: translator: (nalidong)
-[#]: reviewer: ( )
-[#]: publisher: ( )
-[#]: url: ( )
-[#]: subject: (Command Line Heroes: Season 3: Learning the BASICs)
-[#]: via: (https://www.redhat.com/en/command-line-heroes/season-3/learning-the-basics)
-[#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
+[#]: collector: "bestony"
+[#]: translator: "erlinux"
+[#]: reviewer: " "
+[#]: publisher: " "
+[#]: url: " "
+[#]: subject: "Command Line Heroes: Season 3: Learning the BASICs"
+[#]: via: "https://www.redhat.com/en/command-line-heroes/season-3/learning-the-basics"
+[#]: author: "RedHat https://www.redhat.com/en/command-line-heroes"
 
 Command Line Heroes: Season 3: Learning the BASICs
 ======
@@ -13,17 +13,25 @@ Command Line Heroes: Season 3: Learning the BASICs
 
 1965 was a year of massive change in America. The Civil Rights Act was signed.
 
+1965 年曾是美国史上发生重大变化的一年。民权法案就在那年签署的。
+
 **00:09** - _Archival news_
 
 Congress passes the most sweeping Civil Rights bill ever to be written into the law.
+
+国会全面通过了民权法案，并写进法律里。
 
 **00:12** - _Saron Yitbarek_
 
 Combat troops were sent to Vietnam for the first time. Men burned their draft cards.
 
+作战部队被第一时间被送往越南。男人烧掉了他们的征兵证。
+
 **00:19** - _Archival news_
 
 Draft cards on the steps of a Boston courthouse. A group of high school boys set upon them with fists.
+
+征兵证设置在波士顿法院的台阶上。一群高中男生在用拳头胖揍它们。
 
 **00:25** - _Saron Yitbarek_
 
