@@ -145,35 +145,49 @@ I'm sure Grace Hopper would've liked seeing more people coding. She probably wou
 
 Tom Cormen is a professor in Dartmouth's computer science department. A new generation of computer programmers was ushered in thanks to a couple of major changes. Simultaneous work made possible by time-sharing, and a new simple language, BASIC. Those two factors combined to create a game-changing spark. Soon, it wasn't just massive institutions that could get into programming. It was mavericks like Bill Gates and Steve Wozniak. It was also everyday programmers just exploring on their personal computers.
 
-
+Tom Cormen 是达特默斯CS专业的一名教授。新一代计算机程序员引入了大量新变化。并发工作因为时间片变得可能，别忘记新的通俗易懂的语言 —— BASIC。这俩个因素结合在一起创建出了改变游戏规则的星星之火。它并不是最大建立可以进行编程。引以为傲的还有比尔盖茨和史蒂夫乔布斯，程序员的他们日常在个人计算机上进行探索。
 
 **07:32** - _Denise Dumas_
 
 To be able to interact with a language to get immediate feedback when something was wrong, that made all the difference in the world, because it sucked you in, it kept you going, and the interaction was meaningful, because it was an interaction.
 
+为了能够互相影响在出问题的时候马上得到语言的反馈，在世界做出了很多不同。因为它吸引了你，这种交互是有意义的，它使你继续前进，因为它是一种交互。
+
 **07:50** - _Saron Yitbarek_
 
 This is Denise Dumas. She runs the Red Hat® Enterprise Linux® engineering team.
+
+这位是 Denise Dumas，她带领 “红帽企业版操作系统” 工程师团队。
 
 **07:55** - _Denise Dumas_
 
 I mean BASIC democratized programming in a big way, because it put it in the hands of students, in the hands of people, in a way that COBOL, FORTRAN, the other languages of the day ... it just wasn't possible. It became really popular at a time when CRTs (cathode ray tubes) became popular, so instead of typing something in and getting it printed on a piece of paper, it displayed on a screen in front of you.
 
+我认为 BASIC 使编程民主化，向前走了一大步。因为 BASIC 把当今的 COBOL，FORTRAN，其他语言以一种方式交到了学生、人民的手上。这曾是不可能的。当 CRTs（阴极射线管）变流行的时候，BASIC 在当时更为火爆。所以，它显示在您前面的屏幕上，而不是输入内容并将其打印在纸上。
+
 **08:26** - _Denise Dumas_
 
 We laugh at command line sometimes now, right? Everything is graphics, but the command line is what there was, and it was such an improvement over what had been. That was huge, just to type something in and get a response. I think that BASIC lowered the bar, and I say this as someone who actually loves assembler, because that's the kind of control freak I am. But I think BASIC made it much more approachable.
+
+我们现在有时候再命令上很高兴，对吧。一切都是图形化了，命令还是一如往常，但它比以前的版本有了很大的改进。命令行曾是重大的，你输入一些内容进去然后得到回应。我认为 BASIC 降低了标准，我是说如我这样的控制狂，一个真正喜欢汇编程序的人， 但 BASIC 使它变得更加平易近人。
 
 **08:59** - _Saron Yitbarek_
 
 The excitement BASIC created in the 1980s lives on today, with a whole fleet of languages that beginners use as shiny red doors into the world of programming. Yet something important has changed, because those entrances don't just show up on university campuses anymore. The way into programming is becoming even more open.
 
+令人兴奋的 BASIC 于1980年被代创造，一直存在到今天。一整套语言被初学者用作进入编程世界的光明大道。 但是重要的事情已经改变了，因为那些入口不再仅仅出现在大学校园里了。 编程方式变得更加开放。
+
 **09:29** - _Saron Yitbarek_
 
 As amazing as BASIC was, Grace Hopper's dream wasn't going to stop there. Today, beginners have a hundred ways to find their start, and for me, learning a first language meant attending an institution called the Flatiron School in New York City. I prepared for months for that program. I read every single programming resource and tutorial that I possibly could to make sure I got the most out of my bootcamp. I wanted to learn about how people today discover that first language. So, I headed back to interview my old teacher.
 
+和BASIC一样神奇，Grace Hopper 的梦想不会止步于此。 如今，初学者有一百种方法可以找到自己的开始（编程语言）。就我而言，我是就读于纽约市一家名为Flatiron的编程学校，学习的第一门语言。 我为那个程序准备了几个月，阅读了每个编程资源和教程，它们也许能让我再训练营中获得最大收益。 我想了解当今人们如何发现第一语言。 所以，我回去采访我的那位年长的老师。
+
 **10:03** - _Avi Flombaum_
 
 I'm Avi Flombaum.
+
+我是 Avi Flombaum.
 
 **10:04** - _Saron Yitbarek_
 
@@ -401,7 +415,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-3/learning-the-basics
 
 作者：[Red Hat][a]
 选题：[bestony][b]
-译者：[译者ID](https://github.com/译者ID)
+译者：[erlinux](https://github.com/erlinux)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
