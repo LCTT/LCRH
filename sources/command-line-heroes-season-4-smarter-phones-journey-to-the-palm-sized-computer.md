@@ -48,11 +48,11 @@ Command Line Heroes: Season 4: 更智能的电话: 掌上电脑的旅程
 
 **03:48** - _Saron Yitbarek_
 
-Plam 公司着手开发适配PDA的，类似于 Casio 公司正在制作的信息管理软件--Zoomer。这家公司也制作了一些可用于<ruby>惠普<rt>Hewlett Packard</rt></ruby>设备的同步软件。但是第一代PDA并没有突飞猛进。并且紧接着，在苹果公司的努力失败以后，整个个人数字助理的梦想似乎已经失去了存在的理由。例如 Newton ，即大，又笨重，并且软件运行速度太慢。但是 Plam 团队担心这种新的方式是否可以改变游戏规则。
+Plam 公司着手开发适配PDA的，类似于 Casio 公司正在制作的信息管理软件--Zoomer 。这家公司也制作了一些可用于<ruby>惠普<rt>Hewlett Packard</rt></ruby>设备的同步软件。但是第一代PDA并没有突飞猛进。并且紧接着，在苹果公司的努力失败以后，整个个人数字助理的梦想似乎已经失去了存在的理由。例如 Newton ，即大，又笨重，并且软件运行速度太慢。但是 Plam 团队担心这种新的方式是否可以改变游戏规则。
 
 **04:25** - _Donna Dubinsky_
 
-
+我们最初讨论的是一个操作系统公司 GeoWorks ， 以及一家硬件供应商公司 Casio 。然而，如果你明白，就会知道产业结构发生的变化沿着我们指出的路径前进。即堆叠硬件对于手持式计算并没有意义。我们从中学到的构建这样的设备的正确方式是硬件和软件的高度集成产品。
 The original deal we worked on was with an operating system company, GeoWorks, and a hardware provider, Casio. However, what happened along the way was we figured out that industry architecture, if you will, that stacked up didn't make sense for handheld computing. What we learned was the right way to build these was with highly integrated hardware and software products. So, what changed our mind was born out of failure, essentially.
 
 **04:55** - _Saron Yitbarek_
