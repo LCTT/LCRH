@@ -11,123 +11,85 @@ Command Line Heroes: Season 3: Learning the BASICs
 ======
 **00:02**-  _Saron Yitbarek_
 
-1965 was a year of massive change in America. The Civil Rights Act was signed.
-
 1965 年是美国史上发生重大变化的一年。民权法案就在那年签署的。
 
 **00:09**-  _Archival news_
 
-Congress passes the most sweeping Civil Rights bill ever to be written into the law.
-
-国会全面通过了民权法案，并写进法律里。
+国会全面通过了民权法案，写进了法律里。
 
 **00:12**-  _Saron Yitbarek_
 
-Combat troops were sent to Vietnam for the first time. Men burned their draft cards.
-
-作战部队被第一时间被送往越南。男人烧掉了他们的士兵证。
+作战部队被第一时间被送往越南，男人们烧掉了他们的预录取证（言外之意可以翻译为"这些男人们是士兵了"）。
 
 **00:19**-  _Archival news_
 
-Draft cards on the steps of a Boston courthouse. A group of high school boys set upon them with fists.
-
-草拟卡放在了波士顿法院的台阶上，一群高中男生在用拳头胖揍它们。
+预录取名单在波士顿法院的台阶上，一群高中男生在用拳头胖揍它们。
 
 **00:25**-  _Saron Yitbarek_
 
-The Beatles delivered the world's first stadium concert in New York. But, far from all those headlines, a revolution of a different kind was underway.
-
-披头士乐队在纽约发出了世界第一场音乐会。但是，远离这些大新闻的地方，一场与众不同的革命正在酝酿。
+在纽约的披头士乐队发出了世界上第一场音乐会。但在这些大新闻很远的地方，一场与众不同的革命正在酝酿。
 
 **00:39**-  _Saron Yitbarek_
 
-4:00 AM, May 1. Professor John Kemeny and an undergrad student were working at a GE 225 computer at Dartmouth. They ran a program they'd been working on, and then the teletypewriter produced three short lines of output. Those three lines changed computer programming forever.
-
-五月一号，上午四点。专家 John Kemeny 和一个大学生正在达特默斯（美国马萨诸塞东南一城镇）的 GE 225 型电脑上忙碌着。他们运行了一个他们已经为之努力了很久的程序，电传打字机打出了三行输出。而这三行输出永远的改变了计算机编程。
+五月一号，上午四点。专家 John Kemeny 和一个大学生正在达特默斯（美国马萨诸塞东南一城镇）的 GE 225 型电脑上忙碌着。他们运行了一个他们已经为之努力了很久的程序，电传打字机打出的三行输出永远的改变了计算机编程。
 
 **01:04**-  _Saron Yitbarek_
 
-Welcome to episode 2 of Command Line Heroes, an original podcast from Red Hat. I'm your host, Saron Yitbarek. In this episode, we continue our season-long journey into the history and future of programming languages. In episode 1, we dove into Python, and learned how open source language communities survive major upheavals in their leadership. But this time, we're getting more personal. We're looking at an experience we've all had, the experience of encountering our very first language. We'll take a look at my first language, Ruby, and we'll learn how some first languages come to us in the form of a game.
-
-欢迎来到红帽播客，命令行英雄的第二集。主持人就是我—— Saron Yitbarek。在这一集，我们继续 “计算机语言的过去与未来” 中完成整季的旅程。在第一集中，我们深入研究了 Python 以及学习到开源社区如何在领导阶层大动荡中生存。但现在，我们要更加私人化。看一些我们已经得到的经验，这些经验遇上了初代语言。我将带领你们看下我的第一门语言 ruby 以及我们将学习到一些初代语言如何以游戏形式来到我们身边。
+欢迎来到红帽播客，命令行英雄的第二集。我是主持人，Saron Yitbarek。在这一集，我们继续在 “计算机语言的过去与未来” 的旅程中完成整季。在第一集中，我们深入研究了 Python 以及学习到开源社区如何在领导阶层大动荡中生存下来。但现在，我们要更加个人化一些。看看我们邂逅初代语言（BASIC）拥有的经验，我将带领你们看下我学习的第一门语言 Ruby 以及我们将学习到一些初代语言如何以游戏形式来到我们身边。
 
 **01:50**-  _Saron Yitbarek_
 
-But we're beginning with an example that can help us understand what "first languages" really means. It's the language that was born in that Dartmouth laboratory with those three short lines of output. At that pre-dawn meeting in 1965, John Kemeny witnessed the birth of his co-creation, BASIC.
-
-让我们从一个可以帮助理解什么是 “初代语言” 真实含义的例子开始吧。初代语言诞生于（上述提到）三行输出的 Dartmouth 实验室。在 1965年黎明前的会议上， John Kemeny 见证了共同创造出来的的 BASIC 的诞生。
+让我们从一个可以帮助理解什么是 “初代语言” 真实含义的例子开始吧。初代语言诞生于（上述提到）Dartmouth 实验室的三行输出。在 1965年黎明前的会议上， John Kemeny 见证了共同创造出来的的 BASIC 的诞生。
 
 **02:14**-  _Saron Yitbarek_
 
-BASIC. It stands for Beginner's All Purpose Symbolic Instruction Code. That first word, “beginner's,” is where the magic lies. In the early days of programming, you pretty much needed a PhD in order to do a little coding. It was an elite pursuit that required major education, not to mention major hardware. But Professor Kemeny and his team wanted to change all that. What would it look like, they wondered, to produce a programming language that anybody could use? While teenage baby boomers were demanding change all across America, the team at Dartmouth proposed a shakeup of another kind.
-
-BASIC，他是初学者的通用符号指令代码的标准。这里面第一个词 “初学者” 是个神奇谎言。在编程早期，你非常需要为了做一些小的编程使用 PhD。这是一个精英对接受专业教育的追求，不是提及硬件就可以的。但是教授 Kemeny 和他的团队希望改变现状。他们想知道:生产一个所有人都可以使用的编程语言是什么样的？当十几岁的孩子们强烈要求美国改变的时候，Dartmouth 团队提出了另一种类型的改变。
+BASIC，他是初学者的通用符号指令代码的标准。这里面的第一个词 “初学者” 是个有意思的事。在编程早期，你非常需要使用 PhD 去完成一些小的编码。让精英追求更好的教育，不提硬件肯定不行。但是教授 Kemeny 和他的团队希望改变现状。他们想知道：生产一个所有人都可以使用的编程语言是什么样的？当十几岁的孩子们剧烈的改变美国时，Dartmouth 团队提出了种另类的改变。
 
 **02:57**-  _Saron Yitbarek_
 
-Their secret weapon was a room-sized mainframe computer, that GE 225. Weighing in at a healthy 2,000 pounds, it was capable of something brand new. The GE 225 was capable of time-sharing. Suddenly, the complicated system of punch cards, or enormous walls of switches, wasn't necessary anymore. Time-sharing meant that a whole bunch of programs could be executed almost simultaneously, with the machine's attention bouncing between users.
-
-他们的秘密武器是房间那么大的大型机 —— GE 225。它重达 2000 磅，它具备全新的功能，具备分时（译者注:也就是时间片，实现了多用户操作）功能。突然间，不再需要复杂的打孔卡系统或庞大的开关墙。分时意味着整个一堆程序可以同时执行了，因为机器的附加弹跳在用户之间。
+他们的秘密武器是房间那么大的大型机 —— GE 225。它重达 2000 磅，具备最新功能，具备分时（译者注：也就是时间片，实现了多用户操作的技术）功能。突然间，不再需要复杂的打孔卡系统或庞大的开关墙。分时意味着程序们可以同时执行了，因为系统在用户的程序之间叠加循环。
 
 **03:31**-  _Saron Yitbarek_
 
-Time-sharing meant that access to computing could expand in amazing new ways. Here's some audio from Dartmouth, featuring one of the undergrad’s studying there when BASIC first appeared. He's John McGeachie, class of '65.
-
-分时意味着访问计算可以以不可思议的新方式扩展。这是来自 Dartmouth 的些许录音，记录了 BASIC 刚诞生的时候，其中一位大学生在那里学习。他是65岁的John McGeachie。
+分时意味着访问计算可以以不可思议的新方式扩展。这是来自 Dartmouth 的些许录音，记录了 BASIC 刚诞生的时候，65 班的一位大学生  John McGeachie 在那里学习。
 
 **03:47**-  _John McGeachie_
 
-We had taken a fairly expensive computer that could only be used by one person at a time, and converted it into something where it wasn't just 30 users who could use it. It was 30 undergraduate students using this computer simultaneously, writing programs, getting answers quickly. It was a combination of immediacy and simplicity that had not previously existed.
-
-我们采取了一个公平扩展计算机的方法，使得一次只能一个人用转换成了 30 个谁都可以用。30的大学生同时使用它也可以了，写程序快速得到回馈。它结合了直接和简朴，这在之前是史无前有的。
+我们使得昂贵的计算机一次只能一个人用变成了三十个人任意用。它让三十个大学生可以同时写程序然后得到回显。它简洁直接，是史无前例的。
 
 **04:15**-  _Saron Yitbarek_
 
-John Kemeny had teamed up with Thomas Kurtz, another evangelist for computer literacy, to develop the BASIC language. They saw how time-sharing democratized things, and knew that the barrier for entry was suddenly so much lower. All that was needed was a language that prioritized simplicity and immediacy. A language like BASIC.
-
-John Kemeny 联合了 Thomas Kurtz, 以及另外对计算机文化的传道者，去开发 BASIC 语言。他们见证了分时如何公平化事务，以及清楚整体供电如何突然骤降这么多。这些都需要简单高效的编程语言，就像 BASIC 的语言。
+John Kemeny 联合 Thomas Kurtz, 以及另外一位对计算机文化的传道者，去开发 BASIC 语言。他们清楚分时如何公平化事务以及懂得大量降低整体供电。这些都需要像 BASIC 这样简单高效的编程语言。
 
 **04:39**-  _Saron Yitbarek_
-
-They developed commands like "hello" and "goodbye" instead of "log on" and "log off." In fact, the first version of BASIC only had 14 simple commands, just easy options like if, then, and go to.
 
 他们开发了类似于 “你好” 和 “再见” 来代替 “登录” 和 “登出” 的命令。事实上，初版的 BASIC 只有 14 个简单指令，像条件if判断，与或操作和跳转的简单选项。
 
 **04:54**-  _Tom Cormen_
 
-I am Tom Cormen. I'm a professor of computer science at Dartmouth College.
-
 我是  Tom Cormen。我是达特默斯大学，计算机科学领域的一名教授。
 
 **04:59**-  _Saron Yitbarek_
 
-Professor Cormen spoke with us about that beginner's revolution, and how the creation of BASIC really did feel like part of a new zeitgeist, a world where computing was exciting to more people. Even a little bit hip.
+Cormen 教授告诉了我们当时那伙人的革命以及 BASIC 的出现如何成为时代精神的一部分。一个计算机激励了更多人的世界，甚至有些时髦。
 
-Cormen 教授告诉我们关于当时那伙人的革命，以及 BASIC 的创造如何像新时代精神的一部分，一个计算机激励了更多人的世界。甚至有点赶时髦了。
+**05:14**-  *Tom Cormen*
 
-**05:14**-  _Tom Cormen_
+据说在1960年时，男学生将约会放在（计算机中心）这里，我真是不能想象现在发生的话。但在那个时候，计算机中心一度是约会的最佳场所。
 
-At the time in the 1960s, it's said that the male students would bring their dates there, and I can't really imagine that happening now. But at the time, the computer center was the cool place to be.
+**05:24**-  *Saron Yitbarek*
 
-在1960年时，据说男学生在这里约会，我真是不能想象现在发生的话。但在那个时候，计算机中心一度是最佳场所。
-
-**05:24**-  _Saron Yitbarek_
-
-This new interest in computing on campus was the immediate result of that first beginner's language.
-
-对大学里运作计算机这种新爱好，是初代使用者语言的直接结果。
+校园编程的新兴爱好是这类初学者编程语言产生的直接原因。
 
 **05:31**-  _Tom Cormen_
 
-BASIC opened up computing to people who weren't just computer jocks, as we used to say back then. Social scientists who really didn't want to get into the weeds of a language like FORTRAN could use BASIC, and people doing work in the arts and humanities, if they were doing text analysis, or even trying to create art, they could use BASIC for that.
-
-就如同我们过去说的那样，BASIC 向那些计算机爱好者开放了计算。不想去除 FORTRAN 这样语言的社会学家可以使用 BASIC，以及人们在人文艺术中工作了。如果他们做文字分析，或仅仅尝试创建技术，他们完全可以使用 BASIC 完成。
+就如同我们过去说的那样，BASIC 向那些计算机爱好者开放了计算。不想重构 FORTRAN 这种编程语言的社会学家可以使用 BASIC。如果在人文艺术中工作的人们正在做文本处理，甚至说想尝试创作，完全可以用 BASIC 来完成。
 
 **05:55**-  _Tom Cormen_
 
 After a few years, people were doing things like writing computer games, and also incorporating computer graphics routinely into their work.
 
-很多年后，人们开始做一些类似写电脑游戏的事情，也开始在他们的工作中常常使用到计算机图形化。
+很多年后，人们开始写电脑游戏，也时常在编程中加上计算机图形化。
 
 **06:03**-  _Saron Yitbarek_
 
@@ -181,7 +143,7 @@ The excitement BASIC created in the 1980s lives on today, with a whole fleet of 
 
 As amazing as BASIC was, Grace Hopper's dream wasn't going to stop there. Today, beginners have a hundred ways to find their start, and for me, learning a first language meant attending an institution called the Flatiron School in New York City. I prepared for months for that program. I read every single programming resource and tutorial that I possibly could to make sure I got the most out of my bootcamp. I wanted to learn about how people today discover that first language. So, I headed back to interview my old teacher.
 
-和BASIC一样神奇，Grace Hopper 的梦想不会止步于此。 如今，初学者有一百种方法可以找到自己的开始（编程语言）。就我而言，我是就读于纽约市一家名为Flatiron的编程学校，学习的第一门语言。 我为那个程序准备了几个月，阅读了每个编程资源和教程，它们也许能让我再训练营中获得最大收益。 我想了解当今人们如何发现第一语言。 所以，我回去采访我的那位年长的老师。
+和BASIC一样神奇，Grace Hopper 的梦想不会止步于此。 如今，初学者有一百种方法可以找到自己的开始（编程语言）。就我而言，我是就读于纽约市一家名为Flatiron的编程学校，学习的第一门语言。 我为那个程序准备了几个月，阅读了每个编程资源和教程，它们也许能让我再训练营中获得最大收益。 我想了解当今人们如何发现初代语言。 所以，我回去采访我的那位年长的老师。
 
 **10:03**-  _Avi Flombaum_
 
@@ -193,7 +155,7 @@ I'm Avi Flombaum.
 
 Avi's one of the founders of the Flatiron School, so it was a treat for me to dig into all these thoughts about first languages, and how our approaches to first languages have changed since the old days of BASIC.
 
-Avi是Flatiron学校的创始人之一。对我来说这就是一种享受，探究所有有关第一语言的思想，以及自有了 BASIC 以后对我们第一语言发生了怎样的变化。
+Avi是Flatiron学校的创始人之一。对我来说这就是一种享受，探究所有有关初代语言的思想，以及自有了 BASIC 以后对我们初代语言发生了怎样的变化。
 
 **10:26**-  _Saron Yitbarek_
 
@@ -227,7 +189,7 @@ Yeah.
 
 **11:44**-  _Saron Yitbarek_
 
-对我来说，我喜欢的第一语言是Ruby。根据经验，我可以告诉你，这是一种非常可爱的母语。当您阅读代码时，感觉就像您在阅读英语。这里有很多很棒的图书馆，这里有一些琐事。 Ruby的创建者Yukihiro Matsumoto通过学习BASIC进入编程领域。
+对我来说，我喜欢的初代语言是Ruby。根据经验，我可以告诉你，这是一种非常可爱的母语。当您阅读代码时，感觉就像您在阅读英语。这里有很多很棒的图书馆，这里有一些琐事。 Ruby的创建者Yukihiro Matsumoto通过学习BASIC进入编程领域。
 
 **12:06**-  _Saron Yitbarek_
 
@@ -247,7 +209,7 @@ Yeah.
 
 **13:44**-  _Saron Yitbarek_
 
-我们可以就这一点达成共识。但是同样，这里没有错误的答案。毕竟，第一语言就是这样。第一。我们所有人都有一生的语言学习生涯，而且，选择一种语言而不是另一种语言并不会阻止您成为注定要成为出色的程序员。
+我们可以就这一点达成共识。但是同样，这里没有错误的答案。毕竟，初代语言就是这样。第一。我们所有人都有一生的语言学习生涯，而且，选择一种语言而不是另一种语言并不会阻止您成为注定要成为出色的程序员。
 
 **14:05**-  _Saron Yitbarek_
 
@@ -267,7 +229,7 @@ Yeah.
 
 **15:09**-  _Saron Yitbarek_
 
-那是个很好的观点。现在，初学者不仅可以选择BASIC，还可以选择FORTRAN，而现在我们已经拥有一整套的第一语言菜单，但总有一种危险，那就是您忘记了这些语言仍然是达到目的的一种手段。语言是工具，不是您要制作的东西。
+那是个很好的观点。现在，初学者不仅可以选择BASIC，还可以选择FORTRAN，而现在我们已经拥有一整套的初代语言菜单，但总有一种危险，那就是您忘记了这些语言仍然是达到目的的一种手段。语言是工具，不是您要制作的东西。
 
 **15:27**-  _Avi Flombaum_
 
@@ -339,7 +301,7 @@ Femi为他打开了一个编码世界，而通往世界的大门是他最喜欢�
 
 **19:30**-  _Saron Yitbarek_
 
-Femi继续创建了南伦敦Raspberry Jam，在那里，他已经能够看到新一代的编码员对人们对第一语言体验的期望没有任何期望。除了那些Minecraft骇客之外，像Scratch或Fruit这样的可视语言也使越来越小的用户可以实现编码的基础知识。
+Femi继续创建了南伦敦Raspberry Jam，在那里，他已经能够看到新一代的编码员对人们对初代语言体验的期望没有任何期望。除了那些Minecraft骇客之外，像Scratch或Fruit这样的可视语言也使越来越小的用户可以实现编码的基础知识。
 
 **19:54**- _Femi Owolade-Coombes_
 
@@ -391,7 +353,7 @@ Femi的妈妈告诉我们，发现游戏并不一定是消极的追求，她感�
 
 **23:51**-  _Saron Yitbarek_
 
-可以追溯到70年代，当时每个人的第一语言都是BASIC，然后也许是C。最近，人们开始使用Java或Python，但是可视语言和游戏为我们带来了编码的未来才开始想象。
+可以追溯到70年代，当时每个人的初代语言都是BASIC，然后也许是C。最近，人们开始使用Java或Python，但是可视语言和游戏为我们带来了编码的未来才开始想象。
 
 **24:10**-  _Robyn Bergeron_
 
