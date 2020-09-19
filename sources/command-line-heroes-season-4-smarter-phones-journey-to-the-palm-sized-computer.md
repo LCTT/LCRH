@@ -52,20 +52,19 @@ Plam 公司着手开发适配PDA的，类似于 Casio 公司正在制作的信�
 
 **04:25** - _Donna Dubinsky_
 
-我们最初讨论的是一个操作系统公司 GeoWorks ， 以及一家硬件供应商公司 Casio 。然而，如果你明白，就会知道产业结构发生的变化沿着我们指出的路径前进。即堆叠硬件对于手持式计算并没有意义。我们从中学到的构建这样的设备的正确方式是硬件和软件的高度集成产品。
-The original deal we worked on was with an operating system company, GeoWorks, and a hardware provider, Casio. However, what happened along the way was we figured out that industry architecture, if you will, that stacked up didn't make sense for handheld computing. What we learned was the right way to build these was with highly integrated hardware and software products. So, what changed our mind was born out of failure, essentially.
+我们最初讨论的是一个操作系统公司 GeoWorks ， 以及一家硬件供应商公司 Casio 。然而，如果你明白，就会知道产业结构发生的变化沿着我们指出的路径前进。即堆叠硬件对于手持式计算并没有意义。我们从中学到的构建这样的设备的正确方式是硬件和软件的高度集成产品。因此，从本质上讲，失败改变了我们的想法。
 
 **04:55** - _Saron Yitbarek_
 
-Palm figured that if they could build their own hardware, something that ran their software, they might be able to build a winning PDA.
+Palm 指出，如果他们可以构建他们自己的硬件，即可以运行他们软件的设备，那么他们也将会构建一款成功的 PDA。
 
 **05:04** - _Ed Colligan_
 
-No, no personal digital assistant actually wasn't our term.
+不，实际上没有任何一款个人数字助理不是我们的任期。
 
 **05:09** - _Saron Yitbarek_
 
-Whoops, sorry Ed.
+哎哟，对不起，Ed。
 
 **05:11** - _Ed Colligan_
 
