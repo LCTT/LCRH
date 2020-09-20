@@ -60,7 +60,7 @@ Palm 指出，如果他们可以构建他们自己的硬件，即可以运行他
 
 **05:04** - _Ed Colligan_
 
-不，实际上没有任何一款个人数字助理不是我们的任期。
+不，实际上个人数字助理是我们的术语。
 
 **05:09** - _Saron Yitbarek_
 
@@ -68,25 +68,26 @@ Palm 指出，如果他们可以构建他们自己的硬件，即可以运行他
 
 **05:11** - _Ed Colligan_
 
-We didn't like PDA. We literally positioned it as a connected organizer. We effectively tried to change the way people looked at it, from being a whole new device that you need to adapt to, to being an accessory to your PC.
+在那个时期，我们并不喜欢 PDA。我们确实曾经将它作为一个 “被连接” 备忘记事本。我们实际上试图改变人们看待它的方式。从你需要适应的一款全新的设备，到成为你的 PC 的一个配件。
 
 **05:29** - _Saron Yitbarek_
 
-When Ed says connected, he means connecting the device to the computer, not connected to the wireless internet. That wasn't happening yet, but even being able to sync your Palm device with your personal computer was a step above what the competition offered.
+当 Ed 说 “被连接” ，他的意思是说将设备连接到电脑，并不是指被无线互联网连接。那种情形从来都没有发生过，但是即使只能够将你的 Palm 设备同步到你的个人电脑，这仍旧是一个具有竞争力的提议。
 
 **05:46** - _Donna Dubinsky_
 
-They didn't connect with anything, so if you had an address book in your Sion and your Casio Wizard, it had nothing to do with your address book on your computer. Instead of a standard handheld standalone computer, we positioned it as an appendage of your computer, a window onto your computer, a way to take a little piece of your computer with you, which put the synchronization function at the center of the positioning.
+它们并没有主动连接任何东西，因此如果你在你的 Sion 以及 Casio Wizard 中有一个通讯簿，那么在你的电脑上将不能对你的地址簿做任何操作。为了替代标准手持单机计算机，我们把它作为你电脑的一个附属物。一个你电脑之上的窗口，一种获得你电脑一小片的方式，并且是以同步功能为核心的。
 
 **06:13** - _Saron Yitbarek_
 
-In addition to building a mobile organizer device, Palm wanted to pair it with a synchronization device that you could plug into your computer to update information.
+此外，为了构建一个移动备忘记事本设备，Palm 想把它（PDA）与一个同步设备搭配使用，这样你就可以将这个移动备忘记事本设备插入你的电脑来更新信息。
 
 **06:24** - _Rob Haitani_
 
-Which seemed very intimidating at the time. There's 25 people, hardware is very... It's capital intensive, you need a lot of investments, you need time, you need procurement, and it was quite an intimidating challenge, frankly.
+这在那时候似乎是非常具有压迫性的。这有25个人，硬件方面非常……坦白地说，它是资本密集型的并且在当时是一个十分令人生畏的挑战，你需要许多投资，你需要时间，你需要采购。
 
 **06:40** - _Saron Yitbarek_
+
 
 That's Rob Haitani, Palm’s product manager. And this was Donna Dubinsky’s challenge to Rob’s team.
 
