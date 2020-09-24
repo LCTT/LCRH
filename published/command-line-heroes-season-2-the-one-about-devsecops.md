@@ -329,3 +329,14 @@ via: https://www.redhat.com/en/command-line-heroes/season-2/the-one-about-devsec
 
 [a]: https://www.redhat.com/en/command-line-heroes
 [b]: https://github.com/bestony
+[1]: https://linux.cn/article-12436-1.html
+[2]: https://linux.cn/article-12494-1.html
+[3]: https://linux.cn/article-12508-1.html
+[4]: https://linux.cn/article-12514-1.html
+[5]: https://linux.cn/article-12529-1.html
+[6]: https://linux.cn/article-12535-1.html
+[7]: https://linux.cn/article-12551-1.html
+[8]: https://linux.cn/article-12557-1.html
+[9]: https://linux.cn/article-12578-1.html
+[10]: https://linux.cn/article-12595-1.html
+[11]: https://linux.cn/article-12625-1.html
