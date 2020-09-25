@@ -1,5 +1,5 @@
 [#]: collector: (bestony)
-[#]: translator: (Flying-FeiFia )
+[#]: translator: ()
 [#]: reviewer: ( )
 [#]: publisher: ( )
 [#]: url: ( )
