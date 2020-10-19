@@ -1,6 +1,6 @@
 [#]: collector: (bestony)
 [#]: translator: (JonnieWayy)
-[#]: reviewer: ( )
+[#]: reviewer: (windgeek)
 [#]: publisher: ( )
 [#]: url: ( )
 [#]: subject: (Command Line Heroes: Season 2: Bonus_Developer Advocacy Roundtable)
@@ -440,7 +440,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-2/developer-advocacy-r
 作者：[Red Hat][a]
 选题：[bestony][b]
 译者：[JonnieWayy](https://github.com/JonnieWayy)
-校对：[校对者ID](https://github.com/校对者ID)
+校对：[windgeek](https://github.com/windgeek)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 
