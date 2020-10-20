@@ -1,6 +1,6 @@
 [#]: collector: (bestony)
 [#]: translator: (Colin-XKL)
-[#]: reviewer: ( )
+[#]: reviewer: (Northurland)
 [#]: publisher: ( )
 [#]: url: ( )
 [#]: subject: (Command Line Heroes: Season 2: Open Curiosity)
