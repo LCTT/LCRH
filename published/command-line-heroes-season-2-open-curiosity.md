@@ -1,8 +1,8 @@
 [#]: collector: (bestony)
 [#]: translator: (Colin-XKL)
 [#]: reviewer: (Northurland, wxy)
-[#]: publisher: ( )
-[#]: url: ( )
+[#]: publisher: (wxy)
+[#]: url: (https://linux.cn/article-12744-1.html)
 [#]: subject: (Command Line Heroes: Season 2: Open Curiosity)
 [#]: via: (https://www.redhat.com/en/command-line-heroes/season-2/open-curiosity)
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
@@ -451,7 +451,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-2/open-curiosity
 作者：[Red Hat][a]
 选题：[bestony][b]
 译者：[Colin-XKL](https://github.com/Colin-XKL)
-校对：[Northurland](https://github.com/Northurland)
+校对：[Northurland](https://github.com/Northurland), [wxy](https://github.com/wxy)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 
