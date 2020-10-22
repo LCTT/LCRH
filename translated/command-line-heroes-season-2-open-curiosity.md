@@ -251,11 +251,11 @@ NASA 在开放他们的研究课题的道路上受益良多，但他们也通过
 
 **16:22** - _Dan Wachspress_
 
-大家好，我叫 Dan Wachspress，我是一名航空工程师，在 Continuum Dynamics 集团工作
+大家好，我叫 Dan Wachspress，我是一名航空工程师，在 Continuum Dynamics 集团工作。
 
 **16:28** - _Saron Yitbarek_
 
-Dan 的公司专注于研究与开发旋翼飞行器，也就是直升机、旋翼飞机这类的飞行器。这可以说从是字面上看就很“<ruby>蓝天<rt>blue sky</rt></ruby>”（此处呼应之前提到的 blue sky projects -- 校对者注）了。他们一直与 NASA 合作，致力于解决垂直升降的问题，让飞行器能变得像是 Jetson 的“空中出租车”(典出 *The Jetsons*，一部始播于 1962 年的系列动画，这里的 Jetson 指动画主角 George Jetson -- 校对者注)那样。
+Dan 的公司专注于研究与开发旋翼飞行器，也就是直升机、旋翼飞机这类的飞行器。这可以说从是字面上看就很“<ruby>蓝天<rt>blue sky</rt></ruby>”（此处呼应之前提到的 blue sky projects -- 校对者注）了。他们一直与 NASA 合作，致力于解决垂直升降的问题，让飞行器能变得像是 Jetson 的“空中出租车”（典出 *The Jetsons*，一部始播于 1962 年的系列动画，这里的 Jetson 指动画主角 George Jetson -- 校对者注）那样。
 
 **16:50** - _Dan Wachspress_
 
