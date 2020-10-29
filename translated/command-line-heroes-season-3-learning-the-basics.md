@@ -1,6 +1,6 @@
 [#]: collector: "bestony"
 [#]: translator: "erlinux"
-[#]: reviewer: " "
+[#]: reviewer: "Northurland"
 [#]: publisher: " "
 [#]: url: " "
 [#]: subject: "Command Line Heroes: Season 3: Learning the BASICs"
