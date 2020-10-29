@@ -88,10 +88,10 @@ Palm 指出，如果他们可以构建他们自己的硬件，即可以运行他
 
 **06:40** - _Saron Yitbarek_
 
-
-That's Rob Haitani, Palm’s product manager. And this was Donna Dubinsky’s challenge to Rob’s team.
+这是 Rob Haitani ， Palm 的产品经理。并且这在当时是 Donna Dubinsky 对 Rob 团队的考验。
 
 **06:47** - _Donna Dubinsky_
+
 
 And we wanted to create from scratch an operating system, application software, hardware synchronization software, any one of these was effectively a company. So, for a little company to take on all of that at one time, and have it all work together, was really audacious as I look back.
 
