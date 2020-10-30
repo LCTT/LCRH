@@ -1,65 +1,65 @@
-[#]: collector: (bestony)
-[#]: translator: (xiao-song-123)
-[#]: reviewer: ( )
-[#]: publisher: ( )
-[#]: url: ( )
-[#]: subject: (Command Line Heroes: Season 4: One More Thing with Steve Wozniak)
-[#]: via: (https://www.redhat.com/en/command-line-heroes/season-4/steve-wozniak)
-[#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
+[#]: collector: "bestony"
+[#]: translator: "xiao-song-123"
+[#]: reviewer: " "
+[#]: publisher: " "
+[#]: url: " "
+[#]: subject: "Command Line Heroes: Season 4: One More Thing with Steve Wozniak"
+[#]: via: "https://www.redhat.com/en/command-line-heroes/season-4/steve-wozniak"
+[#]: author: "RedHat https://www.redhat.com/en/command-line-heroes"
 
-Command Line Heroes: Season 4: One More Thing with Steve Wozniak
+《代码英雄》第四季（8）：史蒂夫·沃兹尼亚克（Steve Wozniak）的另一件事
 ======
 **00:01** - _Saron Yitbarek_
 
-Hello, I'm Saron Yitbarek, host of Command Line Heroes, an original podcast from Red Hat. This season, our fourth season, if you're counting, we took you on a historical journey into the world of hardware and the teams who dare to change the rules to make them. From the Eagle minicomputer to the GE-225 mainframe, the Altair 8800 to the floppy disk, the PalmPilot to the Sega Dreamcast, machines that are now obsolete and largely forgotten, but they all paved the way to the hardware of today and how we've evolved as developers.
+大家好，我是 Saron Yitbarek，红帽原创播客《代码英雄》的主持人。 如果你在数的话，这一季，是我们节目的第四季。在这一季中我们将带你踏上一段历史性的旅程，走进硬件世界以及那些敢于改变硬件制造传统的团队。从 Eagle 微型计算机到 GE-225 大型机，从 Altair 8800 到软盘，从 Palm 的掌上电脑到世嘉的电视游戏机，虽然这些机器现在已经过时，被大家所遗忘，但它们为今天的硬件演变和开发人员的发展铺平了道路。
 
 **00:44** - _Saron Yitbarek_
 
-Along the way, these machines changed the course of computing history by inspiring the personal computer revolution, the open source software movement, and the open source hardware movement. But before we close the doors on Season 4, there's one more thing.
+在此过程中，这些机器通过激发个人计算机革命、开源软件运动和开源硬件运动，改变了计算机历史的进程。但在我们结束第四季之前，还有一件事。
 
 **01:03** - _Steve Wozniak_
 
-I'm Steve Wozniak, co-founder of Apple Computer. Glad to talk to you.
+我是史蒂夫·沃兹尼亚克，苹果电脑公司的联合创始人。很高兴与您交谈。
 
 **01:08** - _Saron Yitbarek_
 
-If you recall from many of our episodes this season, Steve Wozniak's name came up not once, not twice, but on several occasions. That's because the Woz, as he's affectionately known, not only lived that history, but he was instrumental in it. This very special command line hero sat down with us to talk about his lived experience in the annals of hardware. We started by asking him about the first piece of hardware he ever fell in love with.
+如果你能回想下这一季的前面几集，就会发现史蒂夫·沃兹尼亚克的名字不止出现过一次，两次，而是很多次。这是因为沃兹（人们对他亲切的称呼），他不仅经历了那段历史，而且在其中发挥了重要作用。这个非常特别的代码英雄坐在这里和我们谈论他在硬件历史上的亲身经历。我们先从询问他第一件钟爱的硬件开始。
 
 **01:42** - _Steve Wozniak_
 
-When I was very, very young, maybe 10 years old, I fell in love with a transistor radio, and for years I would sleep with it playing music by the side of my head then. So that was kind of a first one, but there were a lot of other steps in there. There were science fair projects that I did that were just hundreds of .incredible parts. Now, when if you get down to computerish stuff, command line stuff, I somehow discovered when I was 10 years old, a manual that talked about logic, digital logic, and I would play games on paper with it. And I said, "Computers are going to be the love of my life."
+在我很小很小的时候，大概10岁，我爱上了一台晶体管收音机，很多年以来，我睡觉的时候都会把它放在脑袋旁边播放音乐。 这算是第一步，在那之后还经历了许多步骤，仅在我做过的科学展览中就有几百个不可思议的部分。现在，如果你谈到计算机化和命令行的东西，我10岁那年，不知何故发现了一本叫做《数字逻辑》的手册，我用它在纸上玩游戏。在那时我就说，“计算机将会是我一生的挚爱”。
 
 **02:19** - _Saron Yitbarek_
 
-In the 1960s, when he was still in high school, Steve Wozniak had an opportunity to try out a time-sharing system via a teletype terminal that GE brought into his school. It was the same system we talked about in episode 2 when we featured the GE-225 mainframe.
+ 20 世纪 60 年代，当史蒂夫·沃兹尼亚克还在上高中的时候，他有机会在通用电气公司（GE）带入他学校的一款电传终端机上试用分时系统。也就是我们在第二集中介绍 GE-225 大型机时讨论过的系统。
 
 **02:37** - _Steve Wozniak_
 
-There were no books, no magazines. You couldn't find out “What is a computer?” And in high school, I got permission to go ... I guess I did, a gadget we had for just a few days, it was a test. It was a teletype connected to a time-sharing system to run some programs in BASIC. And so I did a few things and I said, "Well, this BASIC is kind of neat."
+那时候你是不能从书和杂志中找到“什么是计算机？”这个问题的答案的。在高中时我得到了参与一次测试的许可...我想我得到了，是我们几天前才买的一个小装置。它是一种和时分系统相连的电传打字机，在这上面可以运行一些用 BASIC 语言编写的程序。我在上面做了一些实验并且感叹道：“ BASIC 语言真的是简洁。”
 
 **02:58** - _Saron Yitbarek_
 
-In his last high school year, Wozniak's electronics teacher arranged for him to go to Sylvania, a local company in Sunnyvale, California, to learn how to program their computer.
+沃兹尼亚克上高中的最后一年，他的电子老师安排他去加州森尼维尔的一家当地公司西尔瓦尼亚学习如何编程。
 
 **03:10** - _Steve Wozniak_
 
-My electronics teacher got me to go down to a company and program once a week in Fortran on an IBM 1170, I think was the computer number. And I didn't see its architecture yet. But while I was down there one day, I saw a book on a desk, an engineer's desk, called The Small Computer Handbook, describing the PDP-8 minicomputer.
+我的电子老师让我去一家公司每周用 Fortran 语言在一台 IBM 1170 上编程，我想那是计算机的编号，而且我没有看到它的结构。但是当我有一天去那里的时候，我在一个工程师的桌子上看到有一本书，叫做《小型计算机手册》，它描述的是 PDP-8 微型计算机。
 
 **03:33** - _Saron Yitbarek_
 
-In episode 1, we featured the story told in the book, The Soul of a New Machine, about how Data General's minicomputer, the Eagle, went up against Digital Equipment Corporation's VAX minicomputer. The PDP-8 was a precursor to the VAX and DEC's first commercially successful minicomputer.
+在第 1 集中，我们介绍了《新机器的灵魂》这本书中讲述的故事，该故事讲述了通用数据公司的小型计算机 Eagle 是如何对抗数字设备公司的小型计算机 VAX 的。PDP-8 是 VAX 的前身，并且也是数字设备公司第一个成功商用的微型计算机。
 
 **03:53** - _Steve Wozniak_
 
-They let me have the manual. They gave it to me. I took it home and I studied it. My gosh, it had all the little registers at what different ones and zeroes mean, what instructions they mean, how the data is stored in memory. Oh, my gosh. So I started sitting down on paper saying, "I wonder if I could design a computer." And that was a big start for me. And I got this brochure. I would order brochures to get the parts. How could you ever get a hold of a computer company? How could you get their address?
+他们给了我使用手册，并且让我把它带回家研究。我的天啊，这本手册上记录了所有的微型寄存器中不同的 1 和 0 代表什么意思，那些指令有什么含义，以及数据是如何存储在内存中的。于是我开始坐在纸上说:“我想知道我能不能设计一台电脑。”这对我来说是一个很不同寻常的开始。我拿到了这本小册子，我可以按照这本小册子来订购零件。此时的问题是怎么能找到一家电脑公司，并且得到这家公司的地址呢？
 
 **04:19** - _Steve Wozniak_
 
-Stanford Linear Accelerator Center, I would drive down, and the smartest people in the world don't lock doors. I'd go on a Sunday, I'd go into their main building and just walk around. And I found the library on the second floor, and I'd sit down, and there were computer journals and magazines, and they had little cards you could order manuals from. So I ordered the Data General manual, and it came kind of showing the big, established names of the president and the head of operations and the head of software and engineering. Wow. And you know, but it wasn't what I want.
+我会开车去斯坦福直线加速器中心，世界上最聪明的人不会锁门（所以那里会开着门的）。我会在周日那天去他们的主楼四处走走。我在那里的二楼找到了图书馆坐了下来，那里有计算机方面的期刊和杂志，你也可以在图书馆中的小卡片上订购手册。我订购了一本通用数据公司的手册，拿到它以后，我了解到了更多信息：总裁、运营主管和软件与工程主管的姓名。但是你知道那不是我想要的。
 
 **04:51** - _Steve Wozniak_
 
-I want the guts of ones and zeroes. On the last page, it showed that they had one instruction, one arithmetic instruction. I was used to like—every computer came out with 56 instructions. One instruction, and little bits had individual, small meanings. One bit might mean set the carry before the addition. Another bit, three bits might mean do you add, subtract, or exclusive or, and some other operations. And then another bit said, do you complement the result and do you shift the result? And do you shift the carry in? Wait a minute. Each bit had an individual meaning.
+我想要知道 1 和 0 的内核。在最后一页上有一条指令，那是一条算术指令。我习惯于每台电脑都有 56 条指令。每个指令，每一个小比特，都有各自的小意义。一个比特可能代表在加法之前设置进位。另外三位比特可能意味着你要做加法，减法，异或运算，以及其他一些运算。那么其他的比特就会问：等一下，你是补码运算的结果还是移位运算的结果？移位运算有进位吗？每一个比特都有各自的意义。
 
 **05:21** - _Steve Wozniak_
 
