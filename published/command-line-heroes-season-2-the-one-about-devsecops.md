@@ -339,4 +339,5 @@ via: https://www.redhat.com/en/command-line-heroes/season-2/the-one-about-devsec
 [8]: https://linux.cn/article-12557-1.html
 [9]: https://linux.cn/article-12578-1.html
 [10]: https://linux.cn/article-12595-1.html
-[11]: https://linux.cn/article-12625-1.html
+[11]: https://linux.cn/article-12603-1.html
+[12]: https://linux.cn/article-12625-1.html

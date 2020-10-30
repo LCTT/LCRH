@@ -423,8 +423,8 @@ via: https://www.redhat.com/en/command-line-heroes/season-2/ready-to-commit
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出  
 
-[a]: https://www.redhat.com/en/command-line-heroes  
-[b]: https://github.com/bestony  
+[a]: https://www.redhat.com/en/command-line-heroes
+[b]: https://github.com/bestony
 [1]: https://linux.cn/article-12436-1.html
 [2]: https://linux.cn/article-12494-1.html
 [3]: https://linux.cn/article-12508-1.html
