@@ -92,8 +92,7 @@ Palm 指出，如果他们可以构建他们自己的硬件，即可以运行他
 
 **06:47** - _Donna Dubinsky_
 
-
-And we wanted to create from scratch an operating system, application software, hardware synchronization software, any one of these was effectively a company. So, for a little company to take on all of that at one time, and have it all work together, was really audacious as I look back.
+并且我们希望从一个操作系统、应用软件、硬件同步软件，或者任何对公司有效的软件来开始建立。因此，当我回过头来看时发现，这些对于一家小公司来说，同时使用这些软件，并且让它们一起协同工作则是非常冒险的行为。
 
 **07:14** - _Rob Haitani_
 
@@ -353,7 +352,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-4/smarter-phones
 
 作者：[Red Hat][a]
 选题：[bestony][b]
-译者：[译者ID](https://github.com/译者ID)
+译者：[译者ID](https://github.com/KeaneQy)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
