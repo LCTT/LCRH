@@ -55,7 +55,7 @@
 
 **04:19** - _Steve Wozniak_
 
-我会开车去斯坦福直线加速器中心，世界上最聪明的人不会锁门（所以那里会开着门的）。我会在周日那天去他们的主楼四处走走。我在那里的二楼找到了图书馆坐了下来，那里有计算机方面的期刊和杂志，你也可以在图书馆中的小卡片上订购手册。我订购了一本通用数据公司的手册，拿到它以后，我了解到了更多信息：总裁、运营主管和软件与工程主管的姓名。但是你知道那不是我想要的。
+我会开车去斯坦福直线加速器中心，世界上最聪明的人不会锁门（所以那里会开着门的）。我会在周日那天去他们的主楼四处走走。我在那里的二楼找到图书馆坐了下来，那里有计算机方面的期刊和杂志，你也可以在图书馆中的小卡片上订购手册。我订购了一本通用数据公司的手册，拿到它以后，我了解到了更多信息：总裁、运营主管和软件与工程主管的姓名。但是你知道那不是我想要的。
 
 **04:51** - _Steve Wozniak_
 
@@ -63,39 +63,39 @@
 
 **05:21** - _Steve Wozniak_
 
-When I finally sat down to design that computer, I was designing computers every weekend, minicomputers as they came out. I sat down to design it, and every time they had one bit with one meaning, that bit was a wire that ran to the chip that did exactly that thing, and it wound up with about half as many chips as all my other minicomputer designs, and it was just as good. I had posters of that computer on my wall that they shipped with their brochure. One was of it in a rack, like normal computerish stuff, you know, because it was front panel, switches for ones and zeroes, lights for ones and zeroes, all that geeky stuff.
+从微型计算机问世以后，我终于坐下来，每个周末都在设计计算机。我坐下来设计它，每一个具有意义的比特，其实就是一根连接到芯片上的线，用来实现具体的功能。它的芯片数是我所有其他微型计算机设计的一半，而且效果一样好。我的墙上贴着那张他们和宣传册一起寄来的海报，就像普通的计算机设备一样，它是放在机架中的，因为它是前面板，代表着 0 和 1 的开关和灯，所有的这些东西让人讨厌。
 
 **05:54** - _Steve Wozniak_
 
-But they had another picture that was like a desktop version sitting on a tabletop. How could you ever imagine a computer on a tabletop? Caught my attention. And I decided, I also told my dad, I fell in love with it so much. I told my father, "Someday I'm going to own a 4K Data General Nova computer." Why 4K? You need 4K to run a language like Fortran, which I'd programmed in, or ALGOL or PL/I, any programming language needed 4K. I had never programmed in BASIC, so I told my dad that, and he said it costs as much as a house, and I said, "I'll live in an apartment." I had made up my mind then and there. I was going to have a computer that I could actually use. Even though I'm going to toggle in ones and zeroes all day and push a button to get it into memory, that's what I wanted in my life more than even a home.
+但是他们还有另一张图片，就像那种放在桌面上的台式机那样。这引起了我的兴趣，你怎么能想象出电脑居然可以放在桌上呢？我告诉我的父亲我爱上了它，肯定的对我父亲说：“总有一天我会拥有一台 4 K 大小的通用数据公司的 Nova 牌电脑。”为什么大小是 4 K ？ 因为需要 4 K 的空间才能运行像我编程所使用的 Fortran、ALGOL 或是 PL / I  这样的语言。我之前从来没有用 BASIC 编程过，我把这个告诉我爸爸的时候，他说这个电脑和房子一样贵，我回答道，“那我就住在公寓里。”当时就决定：我要有一台可以真正使用的电脑，尽管要整天切换 1 和 0，用按钮来把它存入内存，但这就是我想要的，它甚至比房子更加重要。
 
 **06:42** - _Saron Yitbarek_
 
-Data General's 16-bit Nova minicomputer was a precursor to the 32-bit Eclipse, code-named Eagle from episode 1. In fact, the Nova minicomputer inspired Woz's engineering design philosophy.
+通用数据公司的 16 位 Nova 牌微型计算机是 Eclipse 公司 32 位微型计算机的前身，就是第一集中代号为 Eagle 的那个。实际上，正是 Nova 微型计算机启发了沃兹的工程设计理念。
 
 **06:59** - _Steve Wozniak_
 
-This computer taught me, you should always architect things to use the parts that are available to have the least structure and the fewest parts. That was something I became very good at. I'd been working and working at designs, always trying to get fewer and fewer chips, and if you design it around chips that already exist, you can use much fewer parts and much cleaner, much less work, in a sense, to understand it. And that became my mantra for design. Always seek simple, straightforward, easily understood, and don't complicate it by coming up with something you want to build and then wind up putting 20 chips together to kind of do the right functions and get the right signals on wires. No, look for the simple, direct approach.
+这台计算机教会了我，应该始终对架构进行设计，以使用最少的结构和零件。那是我非常擅长的事情，我一直在从事设计工作，总是试图得到使用越来越少的芯片的架构。如果围绕已有的芯片进行设计，那么从某种意义上讲，可以用更少的零件、更少的工作量、更少的工作来理解它。后来这也成为我设计的口头禅，始终寻求简单、直接、易于理解的方法。不要构建出这样复杂化的东西：来让一项工作在 20 个芯片上运行，实现正确的功能、得到正确的信号。而是寻找简单、直接的方法。
 
 **07:39** - _Saron Yitbarek_
 
-Woz's design philosophy reminds me of the Zen of Palm, Palm's approach to building apps, which we talked about on episode 5: Make it simple.
+沃兹的设计理念让我想起我们在第五集中提到的 Palm 公司用来开发应用程序的 Zen 方法：让它变简单。
 
 **07:51** - _Saron Yitbarek_
 
-Remember in episode 3 when we talked about the Altair 8800 and the birth of the personal computer? Steve Wozniak had been working on his own version during that time when he went to that fateful first meeting of the Homebrew Computer Club.
+还记得第3集中我们谈到的 Altair 8800 和个人计算机的诞生吗？ 史蒂夫·沃兹尼亚克参加了家酿计算机俱乐部决定性的第一次会议，当时他一直制作自己的计算机版本。
 
 **08:07** - _Steve Wozniak_
 
-I was showing all these designs of video games like Atari games, and I even designed Breakout for Atari, and I saw the ARPANET. That's the forerunner of today's internet, but it started out with like five or six computers spread all across the country. I saw somebody on that, and I knew how to design anything by then. And to use my TV as output, I had done that for video games. So I sat down and built a little terminal with a keyboard that costs 60 bucks. Way back then, that was the most expensive part of any of these things. I had a keyboard and a video display, and I could, over the phone line, contact the ARPANET and go on with very slow texting for very slow over phone line modems in those days, and I could type to a computer in Boston that could type back to me. And I could switch over to a computer at UCLA, and then I could read files and I could run programs. This was so incredible.
+在那里，我展示了这些视频游戏的所以设计，比如雅达利游戏，我甚至为雅达利设计出了“越狱”版。我还看到了当今互联网的前身：ARPANET，它最开始的时候全国大概有五六台计算机。我在会议上见到了许多人，在那时我已经知道如何设计东西了。我把我的电视机作为电子游戏的输出，用一个 60 美元的键盘做了一个小终端。在那时，这个键盘是这些东西中最昂贵的部分。我有一个键盘和一个视频显示器，我可以通过电话线与 ARPANET 联系，在那些日子里，通过电话线调制解调器发送非常缓慢的短信，我可以在波士顿的一台电脑上打字，它可以给我回输。我可以切换到加州大学洛杉矶分校的电脑上，可以在上面阅读文件，运行程序。这太不可思议了！
 
 **08:57** - _Steve Wozniak_
 
-I heard a club was starting. It did not have a name—it was just tech enthusiasts—and I thought, "Oh, my gosh. I'll show off. I have this little design. Nobody knows you can use your own TV that you own. I'll go and show off my design and give it away, and I'll be a hero." I went down to the club, and everybody was talking about this thing called the Altair. It had been on the front of Popular Electronics. I didn't know about it. There were people that had gone and visited the company at the club. They were all talking about now you can buy a computer for $400. It was a machine with only 256 bytes of RAM for that price, and it used static RAM. All it was, was an Intel datasheet, Intel microprocessor, with Intel showing you exactly connected this way to these switches and these lights, and then you could have a little system to punch in ones and zeroes.
+我听说有一家没有名字的俱乐部正在开业，它只是一群技术爱好者组成的。我想，“哦，天哪！我可以在这里炫耀我的这个小设计，没人知道其实可以使用自己的电视来进行显示。我会去展示我的设计并把它传播出去，我将成为英雄。” 我到了俱乐部后，那里的每个人都在谈论这个叫做 Altair 的东西。 它曾出现在《大众电子》杂志的封面上，但我对此一无所知。有些在俱乐部进行参观的人，谈论现在可以花400美元购买一台计算机。 这是一台只有 256 字节内存的机器，它使用了静态 RAM。 它只是一个 Intel 数据手册、一个 Intel 微处理器，Intel 展示你可以用这种方式连接到这些开关和灯，然后你可以有一个小系统来输入 1 和 0。
 
 **09:39** - _Steve Wozniak_
 
-I had designed and built my own computer out of chips I got five years before that. I'd been there and done that. I knew exactly what these people were looking at, and 400 bucks was affordable by a human. They had to design it around static memories, the most expensive part of any computer. That's why it only had 256 bytes of memory. But if you had to put up like 4K of memory to have a programming language, those static memories cost so much. It was just out of the range of any normal human, so we wouldn't have even considered it was a computer that could do useful things. What's a useful thing? Have a problem, type in a program, solve the problem.
+五年前，我用自己买的芯片设计并制造了自己的计算机。我曾经做过这些事，所以很清楚这些人在看什么，400 美元对一个人来说是负担得起的。设计师不得不围绕静态存储器进行设计，静态存储器是计算机中最昂贵的部件，这也是为什么它只有 256 字节的内存的原因。但如果你必须拥有 4 K 的内存才能使用一种编程语言，静态内存的昂贵超出了任何正常人的能力范围，所以我们甚至不会认为它是一台能做有用事情的电脑。什么是有用的事情?遇到问题，输入程序，解决问题。
 
 **10:14** - _Steve Wozniak_
 
