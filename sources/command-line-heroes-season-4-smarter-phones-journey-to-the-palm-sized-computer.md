@@ -96,6 +96,7 @@ Palm 指出，如果他们可以构建他们自己的硬件，即可以运行他
 
 **07:14** - _Rob Haitani_
 
+这就是为什么人们到硅谷去的原因。就像你将要创建一个全新的行业一样。并且，就像IBM、苹果以及微软这样的公司也都曾经在这个东西上失败过。因此，
 This is why people go to Silicon Valley. It's like, okay, you're going to create an entirely new industry. The people like IBM and Apple and Microsoft have failed at this. So, what makes you 25 people think you can succeed? And you know nothing inspires people in Silicon Valley more than telling them they can't do something. We believed in Jeff's vision, and Jeff had a very clear vision. And, what I really... what really resonated to me, was very customer focused. He said, "Don't build technology, build a solution for a customer."
 
 **07:45** - _Saron Yitbarek_
