@@ -203,7 +203,7 @@ Altair 一出现在我们的俱乐部，我们就得到了这个消息。比尔�
 
 **22:21** - _Saron Yitbarek_
 
-《代码英雄》是红帽的原创播客。请访问[redhat.com/commandlineheroes](https://www.redhat.com/commandlineheroes "redhat.com/commandlineheroes") 来看看我们所有关于你在上一季听到的硬件的伟大研究。我是Saron Yitbarek 。
+《代码英雄》是红帽的原创播客。请访问[redhat.com/commandlineheroes](https://www.redhat.com/commandlineheroes "redhat.com/commandlineheroes") 来看看我们所有关于你在上一季听到的硬件的伟大研究。我是 Saron Yitbarek 。
 
 **22:34** - _Steve Wozniak_
 
