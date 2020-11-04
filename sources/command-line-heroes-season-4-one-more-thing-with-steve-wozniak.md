@@ -95,43 +95,43 @@
 
 **09:39** - _Steve Wozniak_
 
-五年前，我用自己买的芯片设计并制造了自己的计算机。我曾经做过这些事，所以很清楚这些人在看什么，400 美元对一个人来说是负担得起的。设计师不得不围绕静态存储器进行设计，静态存储器是计算机中最昂贵的部件，这也是为什么它只有 256 字节的内存的原因。但如果你必须拥有 4 K 的内存才能使用一种编程语言，静态内存的昂贵超出了任何正常人的能力范围，所以我们甚至不会认为它是一台能做有用事情的电脑。什么是有用的事情?遇到问题，输入程序，解决问题。
+五年前，我用自己买的芯片设计制造了自己的计算机。我曾经做过这些事，所以很清楚这些人在看什么，400 美元对一个人来说是负担得起的。设计师不得不围绕静态存储器进行设计，静态存储器是计算机中最昂贵的部件，这也是为什么它只有 256 字节的内存的原因。但如果你必须拥有 4 K 的内存才能使用一种编程语言，静态内存的昂贵超出了任何正常人的能力范围，所以我们甚至不会认为它是一台能做有用事情的电脑。什么是有用的事情?遇到问题，输入程序，解决问题。
 
 **10:14** - _Steve Wozniak_
 
-And now, I'm sitting there thinking. I'm working at Hewlett-Packard on calculators that work with humans, and I have my little machine that can talk to a computer far away on the ARPANET. I said, "Wait a minute." I discovered the price of microprocessors had finally come down. The Intel one was $400. I could not afford that. For a single microprocessor, that's what the Altair was based on: Intel. And then as an HP employee, I could buy a Motorola 6800 for $40. Whoa. So I designed my computer to put a microprocessor and memory. Not expensive static memory that you can't afford, 32 chips worth. Just eight chips of dynamic memory and then five other chips to help cycle it and make it not forget its data. It's called refreshing.
+现在，我坐在那里思考。 我在惠普公司工作，研究能与人类协同工作的计算机，并且我的小机器可以与 ARPANET 上的计算机进行通讯。我说，“等一下。”我发现微处理器的价格终于降下来了。英特尔的那个是 400 美元，我是负担不起的。而对于单一的微处理器，也就是 Altair 的基础: Intel 处理器 。作为惠普的一名员工，我可以花 40 美元买一个摩托罗拉 6800。因此，我设计出了具有微处理器和内存的计算机，它没有使用的昂贵静态存储器，因为你无法负担得起 32 个芯片。 它有 8 块动态内存芯片，然后还有 5 块其他芯片帮助它循环记忆，以致于不会丢失数据，这也被称做为刷新。
 
 **10:56** - _Steve Wozniak_
 
-So I designed that computer around the 6800 from Motorola, and then a company introduced the 6502 microprocessor at a show in San Francisco and, oh, I bought that microprocessor, you know, and I knew—the whole formula was in my head. I'd have my own computer very soon. And I did.
+我围绕着摩托罗拉公司的 6800 设计计算机，之后一家公司在旧金山的一次展览上推出了 6502 微处理器。我买了那个微处理器，你知道的，整个设计计算机的公式都在我的脑海里，我很快就会拥有自己的计算机，而且我确实做到了。
 
 **11:17** - _Saron Yitbarek_
 
-Woz wasn't a big fan of the BASIC language. But with the introduction of Altair BASIC, the start of Microsoft software business, he realized Bill Gates and Paul Allen's version of BASIC would become widespread.
+沃兹并不是 BASIC 语言的忠实粉丝。但是，随着微软软件业务的起步：Altair BASIC 的推出，他意识到比尔 · 盖茨和保罗 · 艾伦的 BASIC 版本将会广泛使用。
 
 **11:31** - _Steve Wozniak_
 
-Now the Altair, once it was out in our club, we knew very well. Bill Gates and Paul Allen had developed a BASIC for it. And I sniffed the wind. The key to computers in the home was going to not be what computers were used for traditionally, which was inventory levels, sales figures, employment, all the stuff big companies did with mainframes. No, it was going to be games. The key to it was games. And the key was BASIC. I had programmed in Fortran, ALGOL, and PL/I, and some assembly languages, the scientific languages. I had never touched BASIC in my life except for those three days in high school because it was a kid's language kind of.
+Altair 一出现在我们的俱乐部，我们就得到了这个消息。比尔·盖茨和保罗·艾伦已经为它开发了 BASIC。我的嗅觉告诉我，家用计算机的关键作用不再是传统意义上的计算机那样，也不再是库存量、销售数据、就业率，这些所有大公司用大型机在做的事情。它的关键将会变为游戏以及 BASIC。  我使用 Fortran，ALGOL 和 PL / I 以及一些汇编语言和科学计算的语言进行编程。除了高中的那三天之外，我一生中从未接触过 BASIC 语言，因为我觉得这是一种还未成熟的语言。
 
 **12:08** - _Steve Wozniak_
 
-It wasn't really the language we scientists use, and I said, "Gotta have BASIC on this machine." And the trouble is I had no one else working with me. I mean, I not only developed the hardware, I had to write the BASIC language. I'd never taken a course in writing languages, so I wrote my own BASIC. I went into Hewlett-Packard at night where I worked, and I opened up the BASIC manual, and I started making notes on paper what all the commands were in BASIC. I didn't realize that BASIC was not BASIC—that the BASIC that digital equipment used that was in all the books and Bill Gates had programmed was totally a different language in how they handled strings of characters, words.
+这不是我们科学家真正使用的语言，我说：“这台机器上必须装有 BASIC 环境。”问题是没有其他人协助我的工作，这意味着，我不仅开发硬件，还必须使用 BASIC 语言来编写程序。我从来学习过关于编程的课程，所以我要靠自己的摸索来进行 BASIC 程序的编写。我在晚上去了我工作的惠普公司，打开 BASIC 手册，在纸上记录 BASIC 中的所有命令。 我没有意识到这个 BASIC 语言并不是在所有的书中提起过的数字设备所使用的那种 BASIC 语言，并且比尔盖茨在处理字符串和单词时所用的语言完全不同。
 
 **12:45** - _Steve Wozniak_
 
-They handled words totally different than Hewlett-Packard. I just thought if you write a BASIC, you make your own computer running BASIC, it's the same everywhere. No, it wasn't. So that was a key of the Altair was realizing that now you have to have a language, and the language is BASIC or people won't want it in their homes.
+他们处理单词的方法和惠普公司完全不同。那时候我认为，你编写一个 BASIC 程序，用你的计算机来运行它，运行的结果在任何地方都是一样的才对，但事实并不是这样。所以 Altair 意识到现在的关键是现在必须要有一种自己的语言，并且该语言是 BASIC 语言，否则人们不会希望它出现在他们的家里。
 
 **13:03** - _Saron Yitbarek_
 
-In episode 4, we learned how the floppy disk came to be, but this portable storage method only became ubiquitous with the invention of the Apple II's disk drive. Steve Wozniak created this beautiful piece of hardware in a high pressure, two-week time frame. Here's his story.
+在第 4 集，我们了解到软盘是如何产生的，但是这种便携式存储方法是随着 Apple II 的磁盘驱动器的发明才变得无处不在。史蒂夫·沃兹尼亚克在高压下，用不到两周的时间创造出这个漂亮的硬件。这是属于他的故事。
 
 **13:25** - _Steve Wozniak_
 
-An issue came up at Apple actually. What we started out with was an Apple II computer with cassette tapes. That means you manually, if you wanted a certain program, you search through the cassette tape, found that program, put it in a tape player and read it into your computer. It wasn't like you could type “run checkbook” to run a checkbook program. I wanted to get to that level someday, and we had a staff meeting, and they were going to allow ... Apple, since we were less than a year old ... Apple, Commodore, and Radio Shack, three personal computer companies, into the CES show in Las Vegas, Nevada.
+实际上，苹果公司遇到了一个问题。 我们的 Apple II 代计算机最初使用的是盒式磁带。 这意味着你要进行手动操作，如果需要某个特定程序，要在盒式磁带中进行搜索，在磁带中找到这个程序，将其放入磁带播放器中，然后再把它读入计算机。这不像你可以输入“run checkbook”命令来运行一个核算程序那样。我希望有一天能够达到那个水平，我们召开了一次员工会议，在会议上他们允许 Apple、Commodore 和 Radio Shack 这三家个人计算机公司进入内华达州拉斯维加斯的 CES 展览，因为 Apple 刚成立还不到一年。
 
 **14:00** - _Steve Wozniak_
 
-Wow. I had never seen Las Vegas except in movies. I wanted to go there, and in our staff meeting it was said, "Well, we're only going to send three marketing people." Mike Markkula, who ran marketing and was our investor, equal stock owner to me and Steve Jobs. Steve Jobs would go, and our sales guy, Gene Carter, would go. And I was thinking, I'm just too shy to say, "Hey, I'm a founder. Let me go see Las Vegas. Pay for me to go." So I raised my hand. I don't know why I did this. The show was in two weeks. I said, "If we have a floppy disk, can we show it?" Mike Markkula said, "Yes," and my wheels are spinning. He was the adult in the company. My wheels are spinning in the back of my head.
+哇哦！除了在电影里，我从来没有见过拉斯维加斯。我想去那里，在我们的员工会议上说，“嗯，我们只会派三个营销人员。”负责市场营销的迈克 · 马克库拉，是我们的投资人，与我和史蒂夫 · 乔布斯拥有同等的股票。史蒂夫 · 乔布斯会去那里，我们的销售人员吉恩 · 卡特也一样会去。 And I was thinking, I'm just too shy to say, "Hey, I'm a founder. Let me go see Las Vegas. Pay for me to go." So I raised my hand. I don't know why I did this. The show was in two weeks. I said, "If we have a floppy disk, can we show it?" Mike Markkula said, "Yes," and my wheels are spinning. He was the adult in the company. My wheels are spinning in the back of my head.
 
 **14:38** - _Steve Wozniak_
 
