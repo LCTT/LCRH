@@ -131,83 +131,83 @@ Altair 一出现在我们的俱乐部，我们就得到了这个消息。比尔�
 
 **14:00** - _Steve Wozniak_
 
-哇哦！除了在电影里，我从来没有见过拉斯维加斯。我想去那里，在我们的员工会议上说，“嗯，我们只会派三个营销人员。”负责市场营销的迈克 · 马克库拉，是我们的投资人，与我和史蒂夫 · 乔布斯拥有同等的股票。史蒂夫 · 乔布斯会去那里，我们的销售人员吉恩 · 卡特也一样会去。 And I was thinking, I'm just too shy to say, "Hey, I'm a founder. Let me go see Las Vegas. Pay for me to go." So I raised my hand. I don't know why I did this. The show was in two weeks. I said, "If we have a floppy disk, can we show it?" Mike Markkula said, "Yes," and my wheels are spinning. He was the adult in the company. My wheels are spinning in the back of my head.
+哇哦！除了在电影里，我从来没有见过拉斯维加斯。我想去那里，在我们的员工会议上说，“嗯，我们只会派三个营销人员。”负责市场营销的迈克 · 马克库拉，是我们的投资人，与我和史蒂夫 · 乔布斯拥有同等的股票。史蒂夫 · 乔布斯会去那里，我们的销售人员吉恩 · 卡特也一样会去。我当时正在思考，只是不好意思说“嘿！我是创始人之一，付钱让我去看看拉斯维加斯！”所以我举起了我的手。我也不知道那时为什么这么做。这场展览在两周以后开始，我问道：“如果我们有了软盘，可以在展览上面展示它吗？”迈克·马克库拉回答道：“当然可以！”他是我们公司中比较成熟稳重的人，此刻我的思路在脑海中飞速的转动着。
 
 **14:38** - _Steve Wozniak_
 
-If I can develop a floppy disk, not knowing a thing about disks, hardware or software, if I can do it in two weeks to where you can say “run checkbook,” they'll have to take me to Vegas. If they're going to show the floppy disk, they'll have to take me. I worked every single day, day and night, New Year's Day, Christmas Day, every day I worked on it.
+如果对磁盘、软件和硬件一无所知的我能开发出一张软盘，在这张软盘上实现 “ run checkbook ”，在两周内做到这一点，他们就会带我去维加斯的。如果他们要在展览会上介绍软盘，就必须要带上我，为此我夜以继日的工作。
 
 **14:59** - _Steve Wozniak_
 
-I first looked at the Shugart five-inch floppy disk. I looked at it, and I sort of reverse engineered it in my head, and I took everything apart and I said, "All it needs is chunks of data, zeroes and ones, four microseconds each. I can supply that from my computer with one wire." So I took out all the Shugart digital chips, all the ones that would step tracks, track to track to track with what's called stepping motor, had phases, A, B, C, D, and every other phase. A would be a track one, and then you go B-C, and now you're on track two. And you go D-A again, you're on track three. I stripped out 20 of their chips to begin with, and then I said, "I'm just going to have the minimum circuits I can."
+最开始我把视线聚焦在 Shugart 公司的五英寸软盘上，我注视着它，在脑海中对它进行逆向工程，把所有的东西都拆开，并且说道：“它每 4 微秒要得到一次内容为 0 和 1 的大量数据块，我可以使用一根线来从我的计算机上提供这些数据。”所以我把所有的 Shugart 数字芯片都拿出来了，所有用步进式电机来进行追踪的芯片，每个阶段都有 A，B，C，D 相位以及其他所有相位。A 是第一轨道，然后第二轨道是 B-C，再之后是第三轨道 D-A 。我从他们的芯片中取出 20 块，对自己说，“我只需要尽可能少的电路。”
 
 **15:36** - _Steve Wozniak_
 
-I came up with, in the end, seven little $1 chips, and I could write those data bits out four microseconds at a time to meet the specs of the floppy disk. And my computer could do the software to figure out what ones and zeroes I had to send that equaled ones and zeroes in a different coded data form. But the more difficult thing was, then I got it to where I could write it, and I could look with an oscilloscope and see the data going up and down, but I don't know where any of it starts and stops. Now I have to read it.
+最后，我想到使用 7 块 1 美元的小芯片，可以在 4 微秒内写入这些数据位，以满足软盘的规格。我的计算机可以通过软件以不同的数据编码形式来计算出我需要发送的 0 和 1 。但更困难的是，当我把它放到我可以写入它的地方时，我可以用示波器看到数据上升和下降，但我不知道它在哪里开始和停止。现在我必须要读取它。
 
 **16:04** - _Steve Wozniak_
 
-To read it, you have one bit coming in, and what you can do is you can wait ... it's going to switch in either four or eight microseconds, so around six microseconds, you could build in little timers and say, "Did the signal go from up to down or down to up in those periods?" It would have taken me so many chips, 10 to 20 chips, who knows, with timers in there to determine when is it really making the decision to flip. And then I said, "I've got a little seven megahertz clock, and I'll make what's called a state machine." I'd had a state machine course in my third year of college, and a state machine basically has an address that says where I am now, or a state number, and I just think of addresses into a little ROM chip, a little 256 by 8 ROM chip that was available now.
+为了去读取它，你需要去输入一个比特，然后需要等待...它将会在 4 或 8 微秒内翻转，所以时间大约在 6 微秒内，你可以内置一些计时器然后说道：“在那段时间内信号从高到低还是从低到高？”我需要很多的芯片，可能是 10 到 20 个，这谁又知道呢？这里面的计时器会最终得出是什时候真正做出的信号翻转决定。我说道：“我有一个 7 MHZ的时钟，我要用它来制作一个状态机。”我在大学三年级的时候就参加过状态机课程，状态机一般会有一个地址来标识着现在所在的位置，或者是一个状态号。我只是想把地址写入到一个可以使用的 256 * 8 的 ROM 芯片中。
 
 **16:48** - _Steve Wozniak_
 
-I'll put an address in that's at state. That's where it is now in deciding things, and in comes this one bit that's coming from the read head of the floppy. I'll put that one read bit in, and then the ROM decides here's what my next state will be, and then here comes the bits the next day. And I could flip it—28 of those cycles at seven megahertz equals a four-microsecond stretch, and I could just have it go to stage one, stage two, stage three, stage 28, and then eventually around stage 40 or something, it makes a decision. Did I get a pulse or not? I'll shift a zero or I'll shift a one into the register that goes to the computer.
+我要把一个地址固定住，它就是现在要决定的事，这个比特来自于软盘的读头。我把那个读取到的比特放进去，ROM 决定这是我的下一个状态，然后下一个状态就出现了这些比特。我可以在 7 MHZ 的条件下翻转 28 个周期，这相当于是 4 微秒的延伸，可以让它进入阶段 1，阶段 2，阶段 3 ... 阶段 28，最后在阶段 40 左右，它将做出决定：我又没有脉冲？我是要把一个 0 还是一个 1 移到寄存器中放入计算机中。
 
 **17:23** - _Steve Wozniak_
 
-This whole thing was two chips just to read all that data. I look back, I do not know where the magic was pouring out of my head in those days. I just looked at what's the problem, what is the absolute minimum number of parts to do that job and not how it's ever ... because I'd never known how it was done before. I had a high school programmer, Randy Wigginton, working on this with me all those days too. When I got all done, I said, "Why are the other boards so big that they sell for Altair and the S-100 computers?"
+整个过程只需要两块芯片来读取所有的数据。我回想起过去，不知道在那些日子脑海中奇妙的想法是如何涌出的。我只是在观察问题出在哪里，做这项工作的零件，它的最小数量是多少，而不是它如何 … 因为我以前从来不知道这是怎么做的。有一个叫做兰迪·威金顿的高中程序员，这些天一直在协助我工作。当我完成了全部的工作以后，不禁说道：“为什么他们卖给 Altair 和 S-100 这些计算机的电路板体型都这么大？”
 
 **17:51** - _Steve Wozniak_
 
-And I pulled out, I think it was a North Star eight-inch floppy disk or something. I looked at their board, and it had like 50 chips on it. I only had eight on mine, and I could handle two floppy drives. And it worked. We introduced it at the show. I got to see Las Vegas, I got to teach my high school friend Randy how to play craps, and he won 35 bucks, and that was a big, important difference. To be able to run a program is a huge step for a user.
+我拿出来一样东西，我想那是北极星公司的 8 英寸软盘什么的。我看了看他们的电路板，上面有 50 个芯片。而我只有 8 个，可以处理两个软盘驱动器，并且正常工作。我们在展会上介绍了它。我去了拉斯维加斯，教我的高中朋友兰迪玩骰子游戏，他还赢了我 35 美元。这是一个很大而且重要的区别，因为对于用户而言，能够运行程序是一个巨大的进步。
 
 **18:21** - _Saron Yitbarek_
 
-In episode 6, we learned about a whole new generation of makers, the people behind the open source hardware movement. This movement has been compared to the Homebrew Computer Club and all the collaboration and innovation that was going on then. We asked Woz what he thinks of the creativity and openness being generated in hardware again.
+在第六集中，我们了解了新一代的制造商，即开源硬件运动背后的人们。这一运动被比作“家酿计算机俱乐部”以及当时进行的所有合作与创新。我们问沃兹，他对硬件领域再次产生的创造力和开放性有何看法。
 
 **18:44** - _Steve Wozniak_
 
-Well, I believe in it. And you should always make things and share what you have and make it possible for others to use their own skills and experience and expand on it and do something new and more than you had even thought of originally and apply it to a lot of different applications in the world. Not just one tiny one that you understand. No, I'm totally for that. And a lot of the embedded processors now, these tiny little processors, here's a guy who actually built a business card, as thin as a business card with a little flat chip on it, you know barely, and it plugs into USB. For $2 he builds it, and it's a full Linux computer.
+是的，我相信这件事。你应该总是制作一些东西，并且分享你所拥有的东西，让其他人能够运用他们自己的技能和经验，对它加以拓展，做出比你原先想象的更新颖的事情，并将其应用到世界上不同的领域中。不仅仅是一个你能理解的小问题。不，我完全赞成。现在很多嵌入式处理器，制造出这些微处理器的人实际上更像是制造了一张名片，它的厚度薄到像是上面只有一块扁平芯片的名片。你都不知道，他还可以插入 USB 接口中。他花 2 美元建造了一台完整的 Linux 计算机。
 
 **19:17** - _Steve Wozniak_
 
-These things are just so exciting. I built a little a PDP-8 kit, PiDP-8 they call it. The Raspberry Pi is the computer, and the kit is just all the lights and switches for the old PDP-8 minicomputer, and it can run some PDP-8 programs from back then. Only has 4K of memory maximum, and it's how do you connect it to something. The processor is now software inside of a Raspberry Pi. And now you can connect Raspberry Pi to sensors and output devices, and people will want to experiment and explore.
+这些事情太令人兴奋了。我做了一个小的 PDP-8 工具包，他们称之为 PiDP-8 。树莓派这种计算机，所有的灯和开关都是旧的 PDP-8 小型计算机的，它还可以运行当时的一些 PDP-8 程序。最大内存只有 4 K，你如何让它与其他事物进行连接。这个处理器现在成了树莓派内部的软件。现在你可以把树莓派与传感器和输出设备连接起来，人们就会想要进行实验和探索。
 
 **19:52** - _Steve Wozniak_
 
-Going back to building some of the retro computers sure teaches you how hardware connects to hardware and how to hook it up and how to do more things with it. What can I do that hasn't been done yet? A little bit differently maybe. That's what I love. The independent person, usually a student. I want to learn, I want to try something. It doesn't have any value in life. I look back to a series of projects, maybe 10 or 15 projects where they didn't have any value. They were just fun things I thought of at the time: "Maybe I can do this. I'll try putting this together. I'll build this up." If you know how a chip is constructed inside, you could figure out how the whole circuit is going to work.
+回到构建某些复古计算机的过程中，肯定会教你如何将硬件连接到硬件，如何将其连接以及如何使用它来做更多的事情。我能做什么还没做的事情?可能有点不同。这就是我喜欢的。独立的人，往往是学生。我想要学习，想尝试一些对生活没有任何价值的东西。我回顾这一系列的项目，可能是 10 或 15 个没有任何价值的项目。它们当时只是我觉得有趣的事情：“也许我可以做到将它们放在一起来构建它。”如果你知道芯片的内部是如何构建的，就可以弄清整个电路如何工作。
 
 **20:28** - _Saron Yitbarek_
 
-As one of the founders of Apple, Steve Wozniak is an icon of modern technology. But for him, success isn't about fame. What's most important is being seen for his work, and that work starts at the command line.
+作为苹果公司的创始人之一，史蒂夫·沃兹尼亚克是现代技术的象征。但是对他来说，成功与名气无关。最重要的是看到他的工作，该工作始于命令行。
 
 **20:45** - _Steve Wozniak_
 
-All my life, even before Apple, I was doing a lot of projects on the side for companies, electronic projects like the first hotel movie system ever, timecodes for the one-inch tape reels that television stations used. I was doing all the circuits, and I was always proud of my engineering. I wanted other engineers to look at my work, as an engineer could see things that a normal person can't. Not what it does, how it's built. And I wanted them to look at it and “Whoa” and be amazed at my engineering skills.
+在我的一生中做过很多工程，甚至在苹果公司之前，也做过一些电子工程，比如第一个酒店电影系统，为电视台使用一英寸磁带卷制作时间记录片。我一直以我的电路工程为荣。我希望其他工程师也能看到我的作品，因为一个工程师能看到正常人看不到的东西。不是它做什么，而是它是如何构造的。我想让他们看到它，惊叹于我的工程技能。
 
 **21:14** - _Steve Wozniak_
 
-Recently, I got an IEEE fellowship. That's the highest electrical engineering kind of acknowledgement by other engineers you can get in your life. I mean, it just almost brings tears to me. That's what I wanted. Not to start a company, not to start an industry as much as I wanted to be known as a great engineer. Now engineers can see what I did. They see the effects of it, but they can't look at my schematics and my code and say, "How did you do that code?"
+最近，我获得了 IEEE 的奖学金。这是其他工程师对电子工程的最高认可。我的意思是，它几乎让我热泪盈眶。这就是我想要的。不是去创立一个公司，不是去开创一个行业，而是成为一个伟大的工程师。现在工程师们可以看到我做了什么。他们看到了功能，但他们看不到我的原理图和代码，而是说，“你是怎么写出来的代码？”
 
 **21:41** - _Steve Wozniak_
 
-It is one of the most meaningful awards I've ever gotten in my life. Because that's what I always wanted. And nobody knows that. Everybody thinks, "Oh, my first computer was an Apple II, and I did this and that on it and ran these programs at school and wow, and you designed it." That's cool. But they aren't looking from the engineering point of view.
+这是我一生中获得的最有意义的奖项之一。因为那是我一直想要的。没有人知道这些。每个人都认为，“哦，我的第一台电脑是 Apple II ，我在上面做这个做那个，在学校里运行这些程序，哇，是你设计了它！”那很酷。但他们不是从工程的角度看问题。
 
 **21:58** - _Saron Yitbarek_
 
-Thank you, Steve Wozniak, for joining us on Command Line Heroes. Before I close out the season, I'd like to bring on another special guest to tell you about season 5.
+谢谢你，史蒂夫·沃兹尼亚克，参加我们的《代码英雄》。在这一季结束之前，我想请一位特别嘉宾来告诉大家第五季的情况。
 
 **22:10** - _Clive Thompson_
 
-I'm Clive Thompson, author of the book, Coders. I'll be Saron's fireside guests during season 5, all about the career life of developers. Don't miss it.
+我是克莱夫·汤普森，《程序员》一书的作者。在第五季中，我将会是Saron旁边的嘉宾，讲述开发者的职业生涯。不要错过它。
 
 **22:21** - _Saron Yitbarek_
 
-Command Line Heroes is an original podcast from Red Hat. Go to [redhat.com/commandlineheroes](https://www.redhat.com/commandlineheroes "redhat.com/commandlineheroes") to check out all our great research on the hardware you heard about this past season. I'm Saron Yitbarek and ...
+《代码英雄》是红帽的原创播客。请访问[redhat.com/commandlineheroes](https://www.redhat.com/commandlineheroes "redhat.com/commandlineheroes") 来看看我们所有关于你在上一季听到的硬件的伟大研究。我是Saron Yitbarek 。
 
 **22:34** - _Steve Wozniak_
 
-I'm Steve Wozniak. Keep on coding.
+我是史蒂夫·沃兹尼亚克。继续编程。
 
 --------------------------------------------------------------------------------
 
@@ -215,7 +215,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-4/steve-wozniak
 
 作者：[Red Hat][a]
 选题：[bestony][b]
-译者：[译者ID](https://github.com/译者ID)
+译者：[xiao-song-123](https://github.com/xiao-song-123)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
