@@ -1,20 +1,3 @@
-[#]: collector: "bestony"
-[#]: translator: "caiichenr"
-[#]: reviewer: " "
-[#]: publisher: " "
-[#]: url: " "
-[#]: subject: "Command Line Heroes: Season 3: Python's Tale"
-[#]: via: "https://www.redhat.com/en/command-line-heroes/season-3/pythons-tale"
-[#]: author: "RedHat https://www.redhat.com/en/command-line-heroes"
-
-代码英雄：第三季：Python 的故事
-======
-
-**00:06** - _Saron Yitbarek_
-
-在 2018 年 7 月 12 日的早晨，世界各地的 Python 社区成员起床之后，他们抓起杯咖啡，打开自己的电脑。随后一个接着一个地，看见了他们仁慈独裁者发布的一条消息。
-
-**00:24** - _Saron Yitbarek_[#]: collector: "bestony"
 [#]: translator: "caiichenr"
 [#]: reviewer: "acyanbird"
 [#]: publisher: " "
