@@ -1,7 +1,7 @@
 [#]: translator: "caiichenr"
-[#]: reviewer: "acyanbird"
-[#]: publisher: " "
-[#]: url: " "
+[#]: reviewer: "acyanbird, wxy"
+[#]: publisher: "wxy"
+[#]: url: "https://linux.cn/article-12795-1.html"
 [#]: subject: "Command Line Heroes: Season 3: Python's Tale"
 [#]: via: "https://www.redhat.com/en/command-line-heroes/season-3/pythons-tale"
 [#]: author: "RedHat https://www.redhat.com/en/command-line-heroes"
@@ -824,7 +824,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-3/pythons-tale
 作者：[Red Hat][a]
 选题：[bestony][b]
 译者：[caiichenr](https://github.com/caiichenr)
-校对：[校对者ID](https://github.com/校对者ID)
+校对：[acyanbird](https://github.com/acyanbird), [wxy](https://github.com/wxy)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 
