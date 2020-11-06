@@ -96,14 +96,14 @@ Palm 指出，如果他们可以构建他们自己的硬件，即可以运行他
 
 **07:14** - _Rob Haitani_
 
-这就是为什么人们到硅谷去的原因。就像你将要创建一个全新的行业一样。并且，就像IBM、苹果以及微软这样的公司也都曾经在这个东西上失败过。因此，
-This is why people go to Silicon Valley. It's like, okay, you're going to create an entirely new industry. The people like IBM and Apple and Microsoft have failed at this. So, what makes you 25 people think you can succeed? And you know nothing inspires people in Silicon Valley more than telling them they can't do something. We believed in Jeff's vision, and Jeff had a very clear vision. And, what I really... what really resonated to me, was very customer focused. He said, "Don't build technology, build a solution for a customer."
+这就是为什么人们到硅谷去的原因。就像你将要创建一个全新的行业一样。并且，就像IBM、苹果以及微软这样的公司也都曾经在这个东西上失败过。因此，是什么让你们这25个人认为你们可以成功？并且你们要知道，对于硅谷中的人们来说，没有什么能比直接告诉他们无法做到更能激发他们的灵感了。我们曾经坚信 Jeff 的愿景，并且 Jeff 对他的愿景有什么清晰的规划。以及，我真正产生共鸣的是以客户为中心。他说，“不要构建技术给客户，客户需要个性化的解决方案。”
 
 **07:45** - _Saron Yitbarek_
 
-It was that customer-first attitude that inspired Jeff Hawkins to carve himself that gadget-sized block of wood.
+这就是客户优先的理念。它激励着 Jeff Hawkins 自己雕刻了小工具大小的木头块。
 
 **07:54** - _Rob Haitani_
+
 
 So, he’d carry this thing around in his pocket, and they would walk into meetings, and he had this little wooden stylus, and he would pretend that he was trying to simulate what the experience would be like. So, we'd pretend to be writing on it, and people would give him these funny looks cause he's, you know... you're writing on a piece of wood, Jeff. I think that really gave him some insights into what it would really... the experience would feel like.
 
