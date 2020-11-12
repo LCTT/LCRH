@@ -817,6 +817,12 @@ Diane Mueller 是 Red Hat 社区发展总监。
 
 如果你想更深入地研究 Python 或你在本集里听到的任何内容，请转至redhat.com/commandlineheroes。 最后，我是Saron Yitbarek。 直到下期，请坚持编程。
 
+> **什么是 LCTT SIG 和 LCTT LCRH SIG**
+>
+> LCTT SIG 是 LCTT <ruby>特别兴趣小组<rt>Special Interest Group</rt></ruby>，LCTT SIG 是针对特定领域、特定内容的翻译小组，翻译组成员将遵循 LCTT 流程和规范，参与翻译，并获得相应的奖励。LCRH SIG 是 LCTT 联合红帽（Red Hat）发起的 SIG，当前专注任务是《代码英雄》系列播客的脚本汉化，已有数十位贡献者加入。敬请每周三、周五期待经过我们精心翻译、校对和发布的译文。
+>
+> 欢迎[加入 LCRH SIG][1] 一同参与贡献，并领取红帽（Red Hat）和我们联合颁发的专属贡献者证书。
+
 --------------------------------------------------------------------------------
 
 via: https://www.redhat.com/en/command-line-heroes/season-3/pythons-tale
