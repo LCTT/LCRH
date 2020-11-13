@@ -1,21 +1,30 @@
-[#]: collector: "bestony"
-[#]: translator: "erlinux"
-[#]: reviewer: "Northurland"
+[#]: collector: (bestony)
+[#]: translator: (erlinux)
+[#]: reviewer: (acyanbird, Northurland)
 [#]: publisher: " "
 [#]: url: " "
 [#]: subject: "Command Line Heroes: Season 3: Learning the BASICs"
 [#]: via: "https://www.redhat.com/en/command-line-heroes/season-3/learning-the-basics"
 [#]: author: "RedHat https://www.redhat.com/en/command-line-heroes"
 
-Command Line Heroes: Season 3: Learning the BASICs
+《代码英雄》第三季（2）：学习 BASIC
 ======
 
-前言
-以前，成为程序员需要博士学位，还要能够接触到像服务器之类有着举足轻重地位的硬件。直到 1965 年，一群工程师有了个激进的想法：让编程变得更易学、亲民。
+> 代码英雄讲述了开发人员、程序员、黑客、极客和开源反叛者如何彻底改变技术前景的真实史诗。
 
-像 BASIC 这样专为初学者设计的语言为许多人打开了编程世界的大门。Tom Cormen 和 Denise Dumas 回忆了 BASIC 是如何改变一切的。Avi Flombaum 和 Saron 则会向软件开发新时代的编程新手们提供关于挑选第一门语言的建议。最后，Femi Owolade-Coombes 和 Robyn Bergeron 会向我们讲述，新一代的程序员们，是如何通过游戏来接触编程的。
+> **什么是《代码英雄》**
+>
+> <ruby>代码英雄<rt>Command Line Heroes</rt></ruby>是世界领先的企业开源软件解决方案供应商红帽（Red Hat）精心制作的原创音频播客，讲述开发人员、程序员、黑客、极客和开源反叛者如何彻底改变技术前景的真实史诗。该音频博客邀请到了谷歌、NASA 等重量级企业的众多技术大牛共同讲述开源、操作系统、容器、DevOps、混合云等发展过程中的动人故事。
 
-这些初学者语言的诞生，让每个人都有机会踏入编程的大门。同时，这也让整个产业欣欣向荣。
+![](https://www.redhat.com/cms/managed-files/img-clh-s3e2-hero_0.gif)
+
+本文是《[代码英雄](https://www.redhat.com/en/command-line-heroes)》系列播客[第三季（2）：学习 BASIC](https://www.redhat.com/en/command-line-heroes/season-3/learning-the-basics)的[音频](http://cdn.simplecast.com/audio/a88fbe/a88fbe81-5614-4834-8a78-24c287debbe6/7ca8389a-086b-490a-b3c6-62e765ea901c/CLH_S3E2_Learning_the_BASICs_vFINAL_tc.mp3)脚本。
+
+> 导语：以前，成为程序员需要博士学位，还要能够接触到像服务器之类有着举足轻重地位的硬件。直到 1965 年，一群工程师有了个激进的想法：让编程变得更易学、亲民。
+>
+> 像 BASIC 这样专为初学者设计的语言为许多人打开了编程世界的大门。Tom Cormen 和 Denise Dumas 回忆了 BASIC 是如何改变一切的。Avi Flombaum 和 Saron 则会向软件开发新时代的编程新手们提供关于挑选第一门语言的建议。最后，Femi Owolade-Coombes 和 Robyn Bergeron 会向我们讲述，新一代的程序员们，是如何通过游戏来接触编程的。
+>
+> 这些初学者语言的诞生，让每个人都有机会踏入编程的大门。同时，这也让整个产业欣欣向荣。
 
 **00:02**  _Saron Yitbarek_
 
@@ -80,7 +89,7 @@ John Kemeny 联合 Thomas Kurtz, 即一位计算机文化的传道者，去开�
 
 **04:59**  _Saron Yitbarek_
 
-Cormen 教授告诉了我们当时那伙人的革命，以及 BASIC 的出现如何成为时代精神的一部分。一个计算机激励了更多人的世界，甚至有些超越时代。
+Cormen 教授将与我们谈论所谓“初学者的革命”，以及 BASIC 的出现如何成为时代精神的一部分。它带来了一个新世界，在其中，计算机技术对更多人来说不仅不再遥不可及，甚至还是激动人心的——编程甚至变得有点时髦了。
 
 **05:14**  *Tom Cormen*
 
@@ -88,19 +97,19 @@ Cormen 教授告诉了我们当时那伙人的革命，以及 BASIC 的出现如
 
 **05:24**  *Saron Yitbarek*
 
-在校园兴起的编程热潮，是“初始语言”诞生之后带来的礼物之一。
+在校园兴起的编程热潮，是“初学者语言”诞生所带来的直接结果。
 
 **05:31**  _Tom Cormen_
 
-就如同我们过去说的那样，BASIC 为那些计算机爱好者降低了准入门槛。不想学习 FORTRAN 这种编程语言的社会学家可以使用 BASIC。从事人文艺术的人们可以用它做文本处理，甚至用来创作艺术作品，这些完全可以用 BASIC 来完成。
+就如同我们过去说的那样，BASIC 为那些计算机爱好者降低了准入门槛。不想学习 FORTRAN 这类编程语言的社会科学家可以使用 BASIC。从事人文艺术的人们可以用它做文本处理，甚至用来创作艺术作品，这些完全可以用 BASIC 来完成。
 
 **05:55**  _Tom Cormen_
 
-很多年后，人们开始写电脑游戏，也时常在编程中实现 GUI。
+没过几年，人们就开始写电脑游戏，也时常在编程中实现 GUI。
 
 **06:03**  _Saron Yitbarek_
 
-所有那些不太可能成为程序员的孩子们，编程领域的大门突然间，以一种近乎直观的方式打开了。它使得我想起来 Grace Hopper 所追求的那种世界。当我们上一季谈到 Hopper 时，我们看到了她的语言创新是如何将编程带入了更大的地方。这是 BASIC 的时刻，它就像是一个 Hopper 梦的后续。
+对于所有那些不太可能成为程序员的孩子们，编程领域的大门突然间，以一种近乎直观的方式打开了。它使得我想起来 Grace Hopper 所追求的那种世界。当我们上一季谈到 Hopper 时，我们看到了她的语言创新是如何将编程带入了更大的地方。这是 BASIC 的时刻，它就像是一个 Hopper 梦的后续。
 
 **06:29**  _Tom Cormen_
 
@@ -367,7 +376,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-3/learning-the-basics
 作者:[Red Hat][a]
 选题:[bestony][b]
 译者:[erlinux](https://github.com/erlinux)
-校对:[acyanbird](https://github.com/acyanbird)
+校对:[acyanbird](https://github.com/acyanbird),[Northurland](https://github.com/Northurland)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 [a]: https://www.redhat.com/en/command-line-heroes
