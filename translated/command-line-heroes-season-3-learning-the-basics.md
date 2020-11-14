@@ -48,7 +48,7 @@
 
 **00:39**  _Saron Yitbarek_
 
-五月一号，上午四点。教授 John Kemeny 和一名本科生正在<ruby>达特茅斯<rt>Dartmouth</rt></ruby>的 GE 225 型电脑上忙碌着。他们运行了一个方才写好的程序。电传打字机的三行输出，永远地改变了计算机编程领域。
+五月一号，上午四点。教授<ruby>约翰·凯梅尼<rt>John Kemeny</rt></ruby>和一名本科生正在<ruby>达特茅斯<rt>Dartmouth</rt></ruby>的 GE 225 型电脑上忙碌着。他们运行了一个方才写好的程序。电传打字机的三行输出，永远地改变了计算机编程领域。
 
 **01:04**  _Saron Yitbarek_
 
@@ -56,11 +56,11 @@
 
 **01:50**  _Saron Yitbarek_
 
-然而，我得先举个例子，好让大家都能明白“新手语言”到底是什么意思。这个例子就是 BASIC，生于之前提到的<ruby>达特茅斯<rt>Dartmouth</rt></ruby>实验室的三行输出。在 1965 年伊始时的会议上， John Kemeny 作为创造者之一，见证了 BASIC 的诞生。
+然而，我得先举个例子，好让大家都能明白“新手语言”到底是什么意思。这个例子就是 BASIC，生于之前提到的<ruby>达特茅斯<rt>Dartmouth</rt></ruby>实验室的三行输出。在 1965 年伊始时的会议上，<ruby>约翰·凯梅尼<rt>John Kemeny</rt></ruby>作为创造者之一，见证了 BASIC 的诞生。
 
 **02:14**  _Saron Yitbarek_
 
-BASIC的意思是“<ruby>初学者的泛用符号指令代码<rt>Beginner's All Purpose Symbolic Instruction Code</rt></ruby>”。这里面的第一个词 “初学者” 正是其不凡之处所在。在那时候，即使是少量的编程工作，也需要一名博士来完成。这是一种极高的要求，需要有人接受专业教育，更不用说那些高级的硬件了。但是教授 Kemeny 和他的团队希望改变现状。他们想知道：如果要编写一种所有人都可以使用的编程语言，那语言会是什么样的？当美国各地的青年们剧烈地抗议，要求变革时，<ruby>达特茅斯<rt>Dartmouth</rt></ruby>团队提出了种另类的革命。
+BASIC的意思是“<ruby>初学者的泛用符号指令代码<rt>Beginner's All Purpose Symbolic Instruction Code</rt></ruby>”。这里面的第一个词 “初学者” 正是其不凡之处所在。在那时候，即使是少量的编程工作，也需要一名博士来完成。这是一种极高的要求，需要有人接受专业教育，更不用说那些高级的硬件了。但是<ruby>凯梅尼<rt>Kemeny</rt></ruby>教授和他的团队希望改变现状。他们想知道：如果要编写一种所有人都可以使用的编程语言，那语言会是什么样的？当美国各地的青年们剧烈地抗议，要求变革时，<ruby>达特茅斯<rt>Dartmouth</rt></ruby>团队提出了种另类的革命。
 
 **02:57**  _Saron Yitbarek_
 
@@ -76,7 +76,7 @@ BASIC的意思是“<ruby>初学者的泛用符号指令代码<rt>Beginner's All
 
 **04:15**  _Saron Yitbarek_
 
-John Kemeny 联合 Thomas Kurtz, 即一位计算机文化的传道者，去开发 BASIC 语言。他们发现，分时让计算机使用变得更亲民，因此准入门槛降低了许多。而剩下的工作则是编写一门简单直白的编程语言。
+<ruby>约翰·凯梅尼<rt>John Kemeny</rt></ruby>联合<ruby>托马斯·卡茨<rt>Thomas Kurtz</rt></ruby>, 即一位计算机文化的传道者，去开发 BASIC 语言。他们发现，分时让计算机使用变得更亲民，因此准入门槛降低了许多。而剩下的工作则是编写一门简单直白的编程语言。
 一门像 BASIC 那样的语言。
 
 **04:39**  _Saron Yitbarek_
@@ -201,7 +201,7 @@ Avi 是 Flatiron 学校的创始人之一。对我来说，探究所有有关入
 
 **14:23**  _Avi Flombaum_
 
-我也不知道。因为我很喜欢你关于笔与作品的比喻,我首先想到的是……在我的设想中，人们死死地抓住工具，恐怕是因为作品并不吸引人。
+我也不知道。因为我很喜欢你关于笔与作品的比喻，我首先想到的是……在我的设想中，人们死死地抓住工具，恐怕是因为作品并不吸引人。
 
 **14:41**  _Saron Yitbarek_
 
@@ -245,7 +245,7 @@ Avi Flombaum 是 Flatiron 学校的联合创始人之一。
 
 **16:52**  _Saron Yitbarek_
 
-现在，在这暂停。这不是一群年轻的程序员在默默地背诵 O'Reilly 的课本，也不是在 Flatiron 学校的讲座。实际上是红帽在伦敦<ruby>泰特现代美术馆<rt>Tate Modern</rt></ruby>里运行的一个小实验室。那些孩子呢？他们在学习写代码。对于新一代来说，编程的乐趣就是他们首先体会到的。
+现在，在这暂停。这不是一群年轻的程序员在默默地背诵 O'Reilly 的课本，也不是在 Flatiron 学校的讲座。这其实是红帽在伦敦<ruby>泰特现代美术馆<rt>Tate Modern</rt></ruby>里运行的一个小实验室。那些孩子呢？他们在学习写代码。对于新一代来说，编程的乐趣就是他们首先体会到的。
 
 **17:13** _Femi Owolade-Coombes_
 
@@ -269,7 +269,7 @@ Femi Owolade-Coombes 只有 13 岁，但他已经是新一代程序员中的一�
 
 **18:16** _Femi Owolade-Coombes_
 
-当你使用<ruby>树莓派<rt>Raspberry Pi</rt><ruby>版的 Minecraft 时，你可以用 Python，因为树莓派上的 Minecraft 是特殊编写的版本。它很酷，只要导入这个库，你就可以黑进去，到处放置爆炸性的 TNT；你可以在自己身后创建方块，也可以创造建筑物。你可以拿它做各种各样的事。
+当你使用<ruby>树莓派<rt>Raspberry Pi</rt></ruby>版的 Minecraft 时，你可以用 Python，因为树莓派上的 Minecraft 是特殊编写的版本。它很酷，只要导入这个库，你就可以黑进去，到处放置爆炸性的 TNT；你可以在自己身后创建方块，也可以创造建筑物。你可以拿它做各种各样的事。
 
 **18:42** _Femi Owolade-Coombes_
 
