@@ -1,11 +1,11 @@
 [#]: collector: (bestony)
 [#]: translator: (erlinux)
 [#]: reviewer: (acyanbird, Northurland, wxy)
-[#]: publisher: " "
-[#]: url: " "
-[#]: subject: "Command Line Heroes: Season 3: Learning the BASICs"
-[#]: via: "https://www.redhat.com/en/command-line-heroes/season-3/learning-the-basics"
-[#]: author: "RedHat https://www.redhat.com/en/command-line-heroes"
+[#]: publisher: (wxy)
+[#]: url: (https://linux.cn/article-12828-1.html)
+[#]: subject: (Command Line Heroes: Season 3: Learning the BASICs)
+[#]: via: (https://www.redhat.com/en/command-line-heroes/season-3/learning-the-basics)
+[#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
 《代码英雄》第三季（2）：学习 BASIC
 ======
