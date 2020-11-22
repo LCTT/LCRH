@@ -104,11 +104,12 @@ Palm 指出，如果他们可以构建他们自己的硬件，即可以运行他
 
 **07:54** - _Rob Haitani_
 
+因此，他想把这个东西放进口袋中，这样它们就可以参加会议。并且他有一支木制的小笔，然后他会假装自己在尝试模拟这种体验。因此，我们会假装在它上面写点什么，并且人们会用奇怪的表情看他。Jeff，你知道的，因为你正在一块木头上写东西。我认为这使他对这种东西有了深刻的领悟，即它究竟是什么样，以及体验是什么样的。
 
-So, he’d carry this thing around in his pocket, and they would walk into meetings, and he had this little wooden stylus, and he would pretend that he was trying to simulate what the experience would be like. So, we'd pretend to be writing on it, and people would give him these funny looks cause he's, you know... you're writing on a piece of wood, Jeff. I think that really gave him some insights into what it would really... the experience would feel like.
 
 **08:16** - _Saron Yitbarek_
 
+那个小木块启发了一些核心设计标准。首先，它的大小必须适合放入T恤的口袋。其次，它的售价必须低于300美元。最后，它写东西必须比纸和笔更快。你可以
 That little block of wood inspired some core design criteria. First, it had to fit into a shirt pocket. Second, it had to have a price tag of less than $300. Third, it had to be faster than pen and paper. You could instantly turn it on and use it. Here's Ed and Rob comparing Palm's approach to design versus the competition’s.
 
 **08:41** - _Ed Colligan_
