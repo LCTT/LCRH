@@ -11,7 +11,7 @@ Command Line Heroes: Season 6: Jerry Lawson
 ======
 **00:00** - _Joseph Saulter_
 
-Jerry Lawson. I said, "Who is Jerry Lawson?"
+Jerry Lawson. 我说, "谁是 Jerry Lawson?"
 
 **00:05** - _Saron Yitbarek_
 
