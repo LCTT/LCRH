@@ -109,20 +109,19 @@ Palm 指出，如果他们可以构建他们自己的硬件，即可以运行他
 
 **08:16** - _Saron Yitbarek_
 
-那个小木块启发了一些核心设计标准。首先，它的大小必须适合放入T恤的口袋。其次，它的售价必须低于300美元。最后，它写东西必须比纸和笔更快。你可以
-That little block of wood inspired some core design criteria. First, it had to fit into a shirt pocket. Second, it had to have a price tag of less than $300. Third, it had to be faster than pen and paper. You could instantly turn it on and use it. Here's Ed and Rob comparing Palm's approach to design versus the competition’s.
+那个小木块启发了一些核心设计标准。首先，它的大小必须适合放入T恤的口袋。其次，它的售价必须低于300美元。最后，它写东西必须比纸和笔更快。你可以立刻打开并使用它。下面 Ed 和 Rob 将会把 Palm 的设计方法与竞争对手的进行比较。
 
 **08:41** - _Ed Colligan_
 
-Everybody else was trying to create this standalone device and so they said, “Oh, we need an expansion card for more memory,” or they'd say, “We have to have a keyboard,” and we basically said, “No, we're going to hook it to the PC, and we're going to synchronize the information between the PC and this device instantly.”
+其他所有人都在试图建立这种独立设备，因此他们说：“噢，我们需要扩展卡来增加内存。” 或者他们会说：“我们不得不增加一个键盘。” 并且，基本上我们会说：“不，我们将会把这种设备挂在PC上，并且我们将会立即同步PC和这种设备之间的信息。”
 
 **09:00** - _Rob Haitani_
 
-Jeff was a guy who took a completely contrarian point of view. He said, the problem you're trying to solve is it's too slow. Then the conventional wisdom is to add a faster processor. He took the other approach saying, well, how do you make it faster for the customer? It's not only about the hardware, it's about if you make the software slim and light, then that will succeed and then that will have its own spiraling effect of: that will be small, it'll be lighter, it will have longer battery life. So we developed this philosophy of stripping down the number of steps and being super critical about efficiency.
+Jeff 则是一个持完全相反观点的人。他说，您要解决的问题是它太慢了。那么，传统的观点就是增加一个更快的处理器。他则采用了其它的方法，即，如何使它对客户来说更快？这不仅与硬件有关，而且如果你可以将软件优化的既微小又轻量级，那么这将会成功。然后产生自身的螺旋效应：体积越来越小，重量越来越轻，电池也越来越耐用。因此，我们开发出了这种精简步骤以及对效率至关重要的设计哲学。
 
 **09:37** - _Saron Yitbarek_
 
-They even gave their philosophy a name: “the Zen of Palm.” They wrote a whole design manifesto and everything. Designing the Palm OS platform involved new concepts and new ways of thinking that were different from designing for bigger machines. With PCs, the more features the better. But handhelds are a different creature. According to the Zen of Palm, handhelds should be all about the user. Features should be tightly focused and the device should be usable anywhere.
+他们甚至给他们的设计哲学起了个名字：“Palm 的禅”。 他们编写了整个设计导言以及所有内容。设计 Palm OS 平台过程中所涉及的新概念和新的思维模式则与大型机器的不同。对于PC来说，特性越多越好。但是掌上电脑则是另一种生物。根据Palm的禅的定义，掌上电脑应该与用户有关。功能应当突出重点，并且设备应当可以在任何地方使用。
 
 **10:11** - _Rob Haitani_
 
