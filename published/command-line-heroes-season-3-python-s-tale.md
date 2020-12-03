@@ -15,9 +15,9 @@
 >
 > <ruby>代码英雄<rt>Command Line Heroes</rt></ruby>是世界领先的企业开源软件解决方案供应商红帽（Red Hat）精心制作的原创音频播客，讲述开发人员、程序员、黑客、极客和开源反叛者如何彻底改变技术前景的真实史诗。该音频博客邀请到了谷歌、NASA 等重量级企业的众多技术大牛共同讲述开源、操作系统、容器、DevOps、混合云等发展过程中的动人故事。
 
-![](https://www.redhat.com/cms/managed-files/img-clh-s3e1-hero.gif)
+![](https://www.redhat.com/cms/managed-files/clh-s3e1-desktop-1920x1080.png)
 
-本文是《[代码英雄](https://www.redhat.com/en/command-line-heroes)》系列播客[第三季（1）：Python 的故事](https://www.redhat.com/en/command-line-heroes/season-3/pythons-tale)的[音频](https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/a88fbe/a88fbe81-5614-4834-8a78-24c287debbe6/b16fc81d-60c7-4991-9773-e9fce88ca3ba/CLH_S3E1_Pythons_Tale_vFINAL_tc.mp3)脚本。
+本文是《[代码英雄](https://www.redhat.com/en/command-line-heroes)》系列播客[第三季（1）：Python 的故事](https://www.redhat.com/en/command-line-heroes/season-3/pythons-tale)的[音频](https://cdn.simplecast.com/audio/a88fbe/a88fbe81-5614-4834-8a78-24c287debbe6/b16fc81d-60c7-4991-9773-e9fce88ca3ba/CLH_S3E1_Pythons_Tale_vFINAL_tc.mp3)脚本。
 
 > 导语：一位“<ruby>仁慈的终身独裁者<rt>benevolent dictator for life</rt></ruby>（BDFL）”的辞职，永久改变了 Python 语言的命运，Guido van Rossum 那个名为《移交权利》的备忘录，让大家的注意力集中到了语言发展这件事情上。
 > 
