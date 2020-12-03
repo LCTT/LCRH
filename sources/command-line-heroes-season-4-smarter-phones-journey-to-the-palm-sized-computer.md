@@ -9,119 +9,119 @@
 
 Command Line Heroes: Season 4: 更智能的电话: 掌上电脑的旅程
 ======
+
 **00:02** - _Saron Yitbarek_
 
-In the early 90s, a handy software developer took a stack of wood, and carved it into small blocks of various sizes. He carefully compared the weight of each block. And when he found one that felt pocket-sized, he taped a printout of a tiny monitor onto it. Then he tucked the block in his shirt pocket, and walked around with it, to see how it would feel to be attached to a device. He was imagining, in a not so distant future, where we'd all be doing the same thing. If you think that guy's name was Steve Jobs, you're wrong. His name was Jeff Hawkins, and he co-created the PalmPilot. When the iPhone hit the market in 2007, critics and competitors questioned whether a smartphone would succeed.
-
-在20世纪90年代早期，一位心灵手巧的软件开发者将一堆木头分割成不同尺寸的小木块。他仔细的比较了每个木块的重量，找到了一块口袋大小的木块，并把一个极小的显示器捆在这个木块上。随后，
+在20世纪90年代早期，一位心灵手巧的软件开发者将一堆木头分割成不同尺寸的小木块。他仔细的比较了每个木块的重量，找到了一块口袋大小的木块，并把一个极小的显示器捆在这个木块上。随后，这名开发者将该木块放进他T恤的口袋中，并绕着T恤走，以便观察怎样才能让这个木块看起来像某种附加的设备。他开始想象，在不久的将来我们都会做相同的事情。如果你认为这位开发者的名字是 Steve Jobs，那么你就错了。他的名字是 Jeff Hawkins，曾合作创造了 PalmPilot 掌上电脑。当 IPhone 在2007年上市时，批评家们和竞争者们就曾经质疑智能手机是否能够成功。
 
 **00:55** - _Saron Yitbarek_
 
-A decade later, the question is, how can a person succeed without one? Smartphones are ubiquitous. Their apps allow us to do pretty much anything. And the hardware running them says a lot about who we are. But as central as the iPhone has been to the rise of our mobile lives, it wasn't the catalyst. This is the epic story of how an earlier handheld device paved the way for the smartphone. And it's the story of a devoted team that stuck with that device for its entire journey. I'm Saron Yitbarek, and this is Command Line Heroes, an original podcast from Red Hat.
+十年后，问题则变成了一个人没有智能手机如何成功。智能手机无处不在，它们的 App 使我们能够做几乎所有的事情，并且它们的硬件也在不断的诉说我们是谁。但是就像主流的 IPhone 提升了我们的移动生活质量一样，其并不是一个促进因素。这便是早期掌上设备如何为智能手机铺路的史诗般的故事，并且也是一个一直坚持这种设备的可敬团队的故事。我是 Saron Yitbarek，这里是<ruby>代码英雄<rt>Command Line Heros</rt></ruby>，Red Hat 的原创博客。
 
 **01:38** - _Saron Yitbarek_
 
-The smartphone concept has been around since Star Trek’s tricorder. In real life though, the concept first translated into cell phones in 1984, bulky things that looked like bricks during the 90s they got a bit smaller, small enough for Zack Morris to carry on Saved by the Bell—but they were still just used for phone calls. Remember phone calls? Nothing “smart” was happening on mobile phones, but there was another piece of technology gaining traction. It was called a PDA, a personal digital assistant, a mobile electronic device that acted as your personal information manager. We'll get to that in a moment, but at the time, the tech industry was way more focused on the personal computer, which we learned about in episode 3 when we looked at the Altair 8800.
+智能手机这一概念从<ruby>星际迷航<rt>Star Trek</rt></ruby>三部曲时就已经存在了。在现实生活中，这一概念则在1984年时被解释成为手机。当时的手机还是十分笨重的，就像砖块一样，并且在20世纪90年代中仅仅只是变小了一点。对于 Zack Morris 来说，智能手机变得足够小则是在节目<ruby>救命下课铃<rt>Saved by the Bell</rt></ruby>中。但是此时它们仍旧被用作打电话。还记得打电话么？在移动手机上，没有任何“智能”的部分。但是与此同时，另一种技术则获得了关注，它就是 PDA，一种个人数字助理，即一种可以扮演你的个人信息管家的移动电子设备。有关这种设备的故事我们一会儿再说，但是在那个时候，科技产业更多的关注在个人电脑上。这个故事我们已经在第三集讲 Altair 8800 时学习过了。
 
 **02:33** - _Ed Colligan_
 
-Everyone was so caught up in what a personal computer was, this huge, big beige box sitting under your desk. They couldn't imagine that you'd carry this thing around in your pocket.
+每个人都存在思维定势，认为个人电脑是一种放在桌子下面的巨大的、米黄色的大箱子。人们无法想象你可以将个人电脑装在自己的口袋中。
 
 **02:43** - _Saron Yitbarek_
 
-Ed Colligan was VP of marketing at a nascent mobile software company called Palm in the early 90s. Palm was founded by Jeff Hawkins, the guy who walked around with a block of wood in his pocket.
+在20世纪90年代早期，Ed Colligan 还是 Plam 公司市场部的<ruby>副总裁<rt>VP</rt></ruby>。这是一家由 Jeff Hawkins创建的初创移动软件公司。即那位口袋装着一块木头到处走动的人。
 
 **02:57** - _Donna Dubinsky_
 
-It was a big vision. It was the future of computing, of personal computing as handheld computing and that there would be more transactions done on handheld computers in the future than on desktop computers.
+这是一个宏大的愿景。这也是计算的未来，甚至于作为手持式计算的个人计算的未来。并且，未来有关手持式计算机的交易将可能回超越桌面式计算机。
 
 **03:11** - _Saron Yitbarek_
 
-That's Donna Dubinsky, Palm’s CEO at the time.
+那是 Donna Dubinsky，Plam 公司那个时期的 CEO。
 
 **03:15** - _Donna Dubinsky_
 
-I know today when I say that it sounds like, “Whatever, that's logical.” But believe me, it was not logical at the time.
+我知道今天我说这听起来像 “随你怎么讲，这就是合理的。”。但是，请相信我，在那个时期，这个并不是合理的。
 
 **03:21** - _Ed Colligan_
 
-We didn't understand why other people didn't understand it, because you know, where had computing gone, right? It had gone from computers that filled a room to mainframe computers to minicomputers, which were kind of misnamed to personal computers to desktop computers. And we saw the inevitable march of Moore's Law and more and more power and smaller, smaller packages.
+我们不能理解为什么别人无法理解它。因为你知道的，这就是计算的发展趋势，对么？计算机已经从占一间屋子的大型主机变为微型计算机。微型计算机被误称为个人计算机，而不是桌面计算机。并且，我们看到了<ruby>摩尔定律<rt>Moore's Law</rt></ruby>发展的必然结果，即计算机越来越强大，但是体积越来越小。
 
 **03:48** - _Saron Yitbarek_
 
-Palm started out developing information management software for a PDA that Casio was making, called the Zoomer. They also made some synchronization software for Hewlett Packard's devices, but those first-gen PDAs weren't taking off. And then the whole personal digital assistant dream looked like a lost cause after the high-profile failure of Apple's efforts. The Newton—they were all too big, too heavy, and the software was too slow. But the Palm team wondered whether a new approach could change the game.
+Plam 公司着手开发适配PDA的，类似于 Casio 公司正在制作的信息管理软件--Zoomer 。这家公司也制作了一些可用于<ruby>惠普<rt>Hewlett Packard</rt></ruby>设备的同步软件。但是第一代PDA并没有突飞猛进。并且紧接着，在苹果公司的努力失败以后，整个个人数字助理的梦想似乎已经失去了存在的理由。例如 Newton ，即大，又笨重，并且软件运行速度太慢。但是 Plam 团队担心这种新的方式是否可以改变游戏规则。
 
 **04:25** - _Donna Dubinsky_
 
-The original deal we worked on was with an operating system company, GeoWorks, and a hardware provider, Casio. However, what happened along the way was we figured out that industry architecture, if you will, that stacked up didn't make sense for handheld computing. What we learned was the right way to build these was with highly integrated hardware and software products. So, what changed our mind was born out of failure, essentially.
+我们最初讨论的是一个操作系统公司 GeoWorks ， 以及一家硬件供应商公司 Casio 。然而，如果你明白，就会知道产业结构发生的变化沿着我们指出的路径前进。即堆叠硬件对于手持式计算并没有意义。我们从中学到的构建这样的设备的正确方式是硬件和软件的高度集成产品。因此，从本质上讲，失败改变了我们的想法。
 
 **04:55** - _Saron Yitbarek_
 
-Palm figured that if they could build their own hardware, something that ran their software, they might be able to build a winning PDA.
+Palm 指出，如果他们可以构建他们自己的硬件，即可以运行他们软件的设备，那么他们也将会构建一款成功的 PDA。
 
 **05:04** - _Ed Colligan_
 
-No, no personal digital assistant actually wasn't our term.
+不，实际上个人数字助理是我们的术语。
 
 **05:09** - _Saron Yitbarek_
 
-Whoops, sorry Ed.
+哎哟，对不起，Ed。
 
 **05:11** - _Ed Colligan_
 
-We didn't like PDA. We literally positioned it as a connected organizer. We effectively tried to change the way people looked at it, from being a whole new device that you need to adapt to, to being an accessory to your PC.
+在那个时期，我们并不喜欢 PDA。我们确实曾经将它作为一个 “被连接” 备忘记事本。我们实际上试图改变人们看待它的方式。从你需要适应的一款全新的设备，到成为你的 PC 的一个配件。
 
 **05:29** - _Saron Yitbarek_
 
-When Ed says connected, he means connecting the device to the computer, not connected to the wireless internet. That wasn't happening yet, but even being able to sync your Palm device with your personal computer was a step above what the competition offered.
+当 Ed 说 “被连接” ，他的意思是说将设备连接到电脑，并不是指被无线互联网连接。那种情形从来都没有发生过，但是即使只能够将你的 Palm 设备同步到你的个人电脑，这仍旧是一个具有竞争力的提议。
 
 **05:46** - _Donna Dubinsky_
 
-They didn't connect with anything, so if you had an address book in your Sion and your Casio Wizard, it had nothing to do with your address book on your computer. Instead of a standard handheld standalone computer, we positioned it as an appendage of your computer, a window onto your computer, a way to take a little piece of your computer with you, which put the synchronization function at the center of the positioning.
+它们并没有主动连接任何东西，因此如果你在你的 Sion 以及 Casio Wizard 中有一个通讯簿，那么在你的电脑上将不能对你的地址簿做任何操作。为了替代标准手持单机计算机，我们把它作为你电脑的一个附属物。一个你电脑之上的窗口，一种获得你电脑一小片的方式，并且是以同步功能为核心的。
 
 **06:13** - _Saron Yitbarek_
 
-In addition to building a mobile organizer device, Palm wanted to pair it with a synchronization device that you could plug into your computer to update information.
+此外，为了构建一个移动备忘记事本设备，Palm 想把它（PDA）与一个同步设备搭配使用，这样你就可以将这个移动备忘记事本设备插入你的电脑来更新信息。
 
 **06:24** - _Rob Haitani_
 
-Which seemed very intimidating at the time. There's 25 people, hardware is very... It's capital intensive, you need a lot of investments, you need time, you need procurement, and it was quite an intimidating challenge, frankly.
+这在那时候似乎是非常具有压迫性的。这有25个人，硬件方面非常……坦白地说，它是资本密集型的并且在当时是一个十分令人生畏的挑战，你需要许多投资，你需要时间，你需要采购。
 
 **06:40** - _Saron Yitbarek_
 
-That's Rob Haitani, Palm’s product manager. And this was Donna Dubinsky’s challenge to Rob’s team.
+这是 Rob Haitani ， Palm 的产品经理。并且这在当时是 Donna Dubinsky 对 Rob 团队的考验。
 
 **06:47** - _Donna Dubinsky_
 
-And we wanted to create from scratch an operating system, application software, hardware synchronization software, any one of these was effectively a company. So, for a little company to take on all of that at one time, and have it all work together, was really audacious as I look back.
+并且我们希望从一个操作系统、应用软件、硬件同步软件，或者任何对公司有效的软件来开始建立。因此，当我回过头来看时发现，这些对于一家小公司来说，同时使用这些软件，并且让它们一起协同工作则是非常冒险的行为。
 
 **07:14** - _Rob Haitani_
 
-This is why people go to Silicon Valley. It's like, okay, you're going to create an entirely new industry. The people like IBM and Apple and Microsoft have failed at this. So, what makes you 25 people think you can succeed? And you know nothing inspires people in Silicon Valley more than telling them they can't do something. We believed in Jeff's vision, and Jeff had a very clear vision. And, what I really... what really resonated to me, was very customer focused. He said, "Don't build technology, build a solution for a customer."
+这就是为什么人们到硅谷去的原因。就像你将要创建一个全新的行业一样。并且，就像IBM、苹果以及微软这样的公司也都曾经在这个东西上失败过。因此，是什么让你们这25个人认为你们可以成功？并且你们要知道，对于硅谷中的人们来说，没有什么能比直接告诉他们无法做到更能激发他们的灵感了。我们曾经坚信 Jeff 的愿景，并且 Jeff 对他的愿景有什么清晰的规划。以及，我真正产生共鸣的是以客户为中心。他说，“不要构建技术给客户，客户需要个性化的解决方案。”
 
 **07:45** - _Saron Yitbarek_
 
-It was that customer-first attitude that inspired Jeff Hawkins to carve himself that gadget-sized block of wood.
+这就是客户优先的理念。它激励着 Jeff Hawkins 自己雕刻了小工具大小的木头块。
 
 **07:54** - _Rob Haitani_
 
-So, he’d carry this thing around in his pocket, and they would walk into meetings, and he had this little wooden stylus, and he would pretend that he was trying to simulate what the experience would be like. So, we'd pretend to be writing on it, and people would give him these funny looks cause he's, you know... you're writing on a piece of wood, Jeff. I think that really gave him some insights into what it would really... the experience would feel like.
+因此，他想把这个东西放进口袋中，这样它们就可以参加会议。并且他有一支木制的小笔，然后他会假装自己在尝试模拟这种体验。因此，我们会假装在它上面写点什么，并且人们会用奇怪的表情看他。Jeff，你知道的，因为你正在一块木头上写东西。我认为这使他对这种东西有了深刻的领悟，即它究竟是什么样，以及体验是什么样的。
+
 
 **08:16** - _Saron Yitbarek_
 
-That little block of wood inspired some core design criteria. First, it had to fit into a shirt pocket. Second, it had to have a price tag of less than $300. Third, it had to be faster than pen and paper. You could instantly turn it on and use it. Here's Ed and Rob comparing Palm's approach to design versus the competition’s.
+那个小木块启发了一些核心设计标准。首先，它的大小必须适合放入T恤的口袋。其次，它的售价必须低于300美元。最后，它写东西必须比纸和笔更快。你可以立刻打开并使用它。下面 Ed 和 Rob 将会把 Palm 的设计方法与竞争对手的进行比较。
 
 **08:41** - _Ed Colligan_
 
-Everybody else was trying to create this standalone device and so they said, “Oh, we need an expansion card for more memory,” or they'd say, “We have to have a keyboard,” and we basically said, “No, we're going to hook it to the PC, and we're going to synchronize the information between the PC and this device instantly.”
+其他所有人都在试图建立这种独立设备，因此他们说：“噢，我们需要扩展卡来增加内存。” 或者他们会说：“我们不得不增加一个键盘。” 并且，基本上我们会说：“不，我们将会把这种设备挂在PC上，并且我们将会立即同步PC和这种设备之间的信息。”
 
 **09:00** - _Rob Haitani_
 
-Jeff was a guy who took a completely contrarian point of view. He said, the problem you're trying to solve is it's too slow. Then the conventional wisdom is to add a faster processor. He took the other approach saying, well, how do you make it faster for the customer? It's not only about the hardware, it's about if you make the software slim and light, then that will succeed and then that will have its own spiraling effect of: that will be small, it'll be lighter, it will have longer battery life. So we developed this philosophy of stripping down the number of steps and being super critical about efficiency.
+Jeff 则是一个持完全相反观点的人。他说，您要解决的问题是它太慢了。那么，传统的观点就是增加一个更快的处理器。他则采用了其它的方法，即，如何使它对客户来说更快？这不仅与硬件有关，而且如果你可以将软件优化的既微小又轻量级，那么这将会成功。然后产生自身的螺旋效应：体积越来越小，重量越来越轻，电池也越来越耐用。因此，我们开发出了这种精简步骤以及对效率至关重要的设计哲学。
 
 **09:37** - _Saron Yitbarek_
 
-They even gave their philosophy a name: “the Zen of Palm.” They wrote a whole design manifesto and everything. Designing the Palm OS platform involved new concepts and new ways of thinking that were different from designing for bigger machines. With PCs, the more features the better. But handhelds are a different creature. According to the Zen of Palm, handhelds should be all about the user. Features should be tightly focused and the device should be usable anywhere.
+他们甚至给他们的设计哲学起了个名字：“Palm 的禅”。 他们编写了整个设计导言以及所有内容。设计 Palm OS 平台过程中所涉及的新概念和新的思维模式则与大型机器的不同。对于PC来说，特性越多越好。但是掌上电脑则是另一种生物。根据Palm的禅的定义，掌上电脑应该与用户有关。功能应当突出重点，并且设备应当可以在任何地方使用。
 
 **10:11** - _Rob Haitani_
 
@@ -353,7 +353,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-4/smarter-phones
 
 作者：[Red Hat][a]
 选题：[bestony][b]
-译者：[译者ID](https://github.com/译者ID)
+译者：[译者ID](https://github.com/KeaneQy)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
