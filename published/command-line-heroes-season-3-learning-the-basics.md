@@ -16,7 +16,7 @@
 >
 > <ruby>代码英雄<rt>Command Line Heroes</rt></ruby>是世界领先的企业开源软件解决方案供应商红帽（Red Hat）精心制作的原创音频播客，讲述开发人员、程序员、黑客、极客和开源反叛者如何彻底改变技术前景的真实史诗。该音频博客邀请到了谷歌、NASA 等重量级企业的众多技术大牛共同讲述开源、操作系统、容器、DevOps、混合云等发展过程中的动人故事。
 
-![](https://www.redhat.com/cms/managed-files/img-clh-s3e2-hero_0.gif)
+![](https://www.redhat.com/cms/managed-files/clh-s3e2-desktop-1920x1080.png)
 
 本文是《[代码英雄](https://www.redhat.com/en/command-line-heroes)》系列播客[第三季（2）：学习 BASIC](https://www.redhat.com/en/command-line-heroes/season-3/learning-the-basics)的[音频](http://cdn.simplecast.com/audio/a88fbe/a88fbe81-5614-4834-8a78-24c287debbe6/7ca8389a-086b-490a-b3c6-62e765ea901c/CLH_S3E2_Learning_the_BASICs_vFINAL_tc.mp3)脚本。
 
