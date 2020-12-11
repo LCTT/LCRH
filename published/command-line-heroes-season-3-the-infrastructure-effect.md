@@ -1,8 +1,8 @@
 [#]: collector: (bestony)
 [#]: translator: (messon007)
 [#]: reviewer: (wxy)
-[#]: publisher: ( )
-[#]: url: ( )
+[#]: publisher: (wxy)
+[#]: url: (https://linux.cn/article-12909-1.html)
 [#]: subject: (Command Line Heroes Season 3: The Infrastructure Effect)
 [#]: via: (https://www.redhat.com/en/command-line-heroes/season-3/the-infrastructure-effect)
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
@@ -361,7 +361,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-3/the-infrastructure-e
 作者：[Red Hat][a]
 选题：[bestony][b]
 译者：[messon007](https://github.com/messon007)
-校对：[校对者ID](https://github.com/校对者ID)
+校对：[wxy](https://github.com/wxy)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 
