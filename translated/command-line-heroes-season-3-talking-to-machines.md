@@ -7,259 +7,263 @@
 [#]: via: (https://www.redhat.com/en/command-line-heroes/season-3/talking-to-machines)
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
-Command Line Heroes: Season 3: Talking to Machines
+《代码英雄》第三季（7）：与机器对话
 ======
-**00:05** - _Announcer_
+**00:05** - _播报员_
 
-Kasparov is rattled. He defends what he can, and he recognizes that he has already lost.
+卡斯帕罗夫被激怒了。他意识到自己早已经输了，并开始尽其所能为自己辩护。
 
 **00:12** - _Saron Yitbarek_
 
-In the spring of 1997, world chess champion, Garry Kasparov lost a match to the computer program Deep Blue. It was a pivotal moment in machine intelligence. For some, it was an existential crisis, a challenge to the supremacy of human intellect. But, for the technologists of the world, this was a milestone of another kind, a leap forward in the arena of artificial intelligence (AI). A sign that their dream of a truly intelligent machine might not be so crazy after all.
+1997 年的春天，国际象棋冠军加里·卡斯帕罗夫(Garry Kasparov)输给了计算机程序「深蓝」。这是机器智能的关键时刻。对于某些人来说，这是一次生存危机，是对人类智慧至高无上的挑战。但是，对于世界上的技术人员来说，这是另一种里程碑，是人工智能（AI）领域的一次飞跃。这一迹象表明他们对真正智能机器的梦想可能根本没有那么疯狂。
 
-**00:47** - _Announcer_
+**00:47** - _播报员_
 
-A machine that can think remains the dream, and it's still many years and quite a few startling breakthroughs away.
+一台能思考的机器仍然还是梦想，距离梦想实现还需要很多年，此外，还有不少惊人的突破。
 
 **00:56** - _Saron Yitbarek_
 
-How did we get to that point though? What breakthroughs led up to Kasparov's famous defeat? Where did we go from there? I'm Saron Yitbarek, and this is Command Line Heroes, an original podcast from Red Hat. All season long, we're exploring the mysteries of programming languages, uncovering their history and their potential. This episode we zoom in on artificial intelligence. What language do you use when your tech has a mind of its own? How did our programming languages help us get to that Deep Blue moment, and way beyond? The question of what language can work best with a thinking machine is something we've been tackling for more than half a century. So our story begins way back in the 1940s, when the term AI hadn't even been coined.
+我们是如何走到这一步的？是什么导致了卡斯·帕罗夫著名的失败？我们从哪里来，到哪里去？我是 Saron Yitbarek，这里是代码英雄，一档来自红帽的原创播客节目。在本季，我们都在探索编程语言的奥秘，揭开他们的历史和潜力。
+这一季我们关注人工智能。你会使用什么语言来让你的机器有自己的思想？我们的编程语言如何帮助我们抵达「深蓝时刻」，甚至是更远的地方？什么样的语言能和会思考的机器做好配合？这是我们半个多世纪以来一直在解决的问题。因此，我们的故事要追溯到1940年代，当时甚至还没有创造出人工智能一词。
 
 **01:59** - _Saron Yitbarek_
 
-Think back to the end of World War II. There's this sense that technology was how the allies won the war. There was this optimism that technology could accomplish anything. A whole generation believed in the power of computing. Out of that generation comes the godfather of artificial intelligence, John McCarthy. He's this brilliant mathematician who radically shook up the way we talk to our machines. I wanted to know about the origins of his ideas, and how that paradigm shift came about. I mean, for starters, when McCarthy and his peers were imagining the future of intelligent machines, what exactly did they imagine?
+回顾二战结束，有这样一种感觉，技术帮助同盟国赢得了战争。人们乐观地认为科技可以成就一切。整整一代人都相信计算机的力量。人工智能的教父约翰・麦卡锡（John McCarthy）就是从那一代人中产生的。在这一代人中诞生了人工智能的教父，一位出色的数学家 —— 约翰·麦卡锡，他从根本上改变了我们与机器交谈的方式。我想知道他的思想的起源，以及范式的转变是如何发生的。 我的意思是，对于初学者来说，当麦卡锡和他的同事们在想象智能机器的未来时，他们到底在想什么？
 
 **02:43** - _Colin Garvey_
 
-Wow, that's a good question.
+哇，这是一个好问题。
 
 **02:46** - _Saron Yitbarek_
 
-I got talking with Colin Garvey. He's a historian in the Science and Technologies Studies department at the Rensselaer Polytechnic Institute. Here's some of our chat.
+我会和科林·加维（Colin Garvey）聊聊。 他是伦斯勒理工学院科学与技术研究系的历史学家。以下是我们的一些聊天内容
 
 **02:58** - _Colin Garvey_
 
-McCarthy is remarkably kind of reticent about proposing exactly what it's going to look like. But, for example, he has probably his most famous program that was actually never implemented—but it's kind of a thought piece—was the advice taker. So, the advice taker was written up in 1960 by McCarthy in a paper called Programs with Common Sense. It starts off, you think the advice taker is probably a robot that will learn, and that's it's intention, kind of a domestic robot, it could take advice. You say, "No, you're doing that wrong. Do it this way." And it'll understand what you mean.
+麦卡锡对提出确切的样子非常谨慎。不过，举个例子来说，他可能在他最著名但并未实现的程序中描述过，但这只是一个思路 —— 人工智能是一个接受建议者。接受建议者由麦卡锡于 1960 年的名为“具有常识的程序”的论文中指出。在开始的时候，你觉得建议者可能是一个会学习的机器人，这是它的本意，它算是一个可以接受建议的家用机器人，。你说："不，你这样做是错误的，要那样做"它就会明白你的意思。
 
 **03:44** - _Saron Yitbarek_
 
-That's helpful.
+那很有帮助。
 
 **03:45** - _Colin Garvey_
 
-Could be helpful. The whole goal of the advice taker is to drive from his desk to the airport, basically, formalized what his notion of what the advice taker robot should do, which is apparently drive him to the airport. He formalized it into a series of logical statements that, it would need to infer about what needs to happen in the current situation to turn the current situation into the desired situation. He formalizes this in kind of a pseudo code, we'd call it now. So this is actually where LISP originates as well. Then, in the next few years, LISP comes out as his implementation, or his language for implementing it.
+可能会有帮助。接受建议者的总体目标是从办公桌到一直到机场，基本上，正式确定了他对于接受建议者机器人应该做什么的想法，显然是当时他正驱车前往机场。他把它正式化为一系列的合乎逻辑的陈述，即需要判断出关于在当前的情况下需要发生什么，才能把当前情况转变为理想情况。我们现在说，他将这些伪代码化，实际上这是 LISP 的起源。然后在接下来的几年里，LISP 作为他的实现，或者说他实现的语言就出现了。
 
 **04:39** - _Saron Yitbarek_
 
-McCarthy's LISP language was a game changer. It would help a machine understand not only commands, but a common sense logic. What McCarthy discovered was that he could write conditional expressions, code that embodied rules, rather than just blunt commands. In fact, there were a bunch of major programming breakthroughs with LISP, conditionals, garbage collection, recursion, and lots more. LISP used lists for both code and data, a simple change with profound effects. All this opened a gateway for an entire field that McCarthy himself dubbed artificial intelligence. It was a language paradigm shift. Imagine, speaking to a machine without giving it every particular of information. Imagine inviting that machine to infer and reason. Through his LISP language, McCarthy hoped to give a kind of intelligence to the machine. Okay, back to my chat with Colin Garvey.
+麦卡锡的 LISP 语言改变了游戏规则。它不仅能帮助机器理解命令，还能帮助机器理解一些常识性的逻辑。麦卡锡发现，他可以编辑体现规则的代码、条件表达式，而不是仅仅是直白的命令。实际上，LISP 有一堆重大的编程突破，条件表达式、垃圾回收、递归等等。LISP 对代码和数据都使用了列表。这是一个简单但具有深远的影响的更改。所有这些为麦卡锡本人称之为人工智能的整个领域打开了大门。这是语言范式的转变。想象一下，在不提供所有信息的情况下对机器说话。想象一下，请那台机器来推断和推理。麦卡锡希望通过 LISP 语言，给机器一种智慧。好了，回到我和科林·加维的聊天。
 
 **05:41** - _Colin Garvey_
 
-It refined earlier attempts at writing a high-level computer language.
+它改进了早期编写高级计算机语言的尝试。
 
 **05:47** - _Saron Yitbarek_
 
-Interesting, because that was going to be my next question was about the relationship between LISP and AI, so it's almost like that first idea of what AI could do, that advice machine was the beginning, it sounds like, of LISP. Tell me more about that relationship between LISP and AI.
+有趣的是，因为关于 LISP 和人工智能之间的关系将是我的下一个问题。所以它几乎就像第一个人工智能可以做什么的想法，接受建议者听起来就像是 LISP 的开始。聊聊更多关于 LISP 和人工智能之间的关系。
 
 **06:04** - _Colin Garvey_
 
-Sure. One of the things that these early AI folks was up against was that they're doing programming with punch cards, and probably these early guys knew how to program at the level of machine code. That's very time consuming and difficult. So you needed higher-level languages that you could instruct in ways that were closer in form to human language. So something like LISP gives instructions in literally a list of, and that's where the name comes from, list-based processing, in a list of instructions that are much closer to the human language, in the sense that they are basically logical propositions. So if you could read formal logic, you can basically look at a LISP program, or any of the logic-based programming languages, and have a much better sense of what's happening in the code.
+当然，这些早期人工智能人员面对的一件事，是他们在使用打孔卡进行编程，也许这些早期的人知道如何在机器代码级别进行编程。这非常的困难且耗时。因此，你需要可以更接近人类语言形式从而进行教学的高级语言。因此，像 LISP 之类的东西实际上是在字面上的列表中给出了指令，这也是其名称的来源，基于列表的处理（译者注，LISP 全称：“LISt Processing“）。从某种意义上来说，它们基本上是更接近于人类语言的逻辑命题的列表。因此，如果你可以阅读正式逻辑，那么基本上可以看一下 LISP 程序或者任何给予逻辑的编程语言，并对于代码中发生的事情有着更好的了解。
 
 **07:10** - _Saron Yitbarek_
 
-So LISP really helped ... Yeah, I mean, it helped us take our ideas of artificial intelligence, and actually work towards them and make them happen, which makes me wonder what intelligence even means during that time period. So if we go back to the '50s, at that point, what was intelligence? How did people even define that back then, because LISP was first developed for the IBM 704, which does really just one thing at a time. So it doesn't really sound very intelligent. Yeah, how did people think about intelligence at that time?
+所以 LISP 真的帮了大忙... 是的，我的意思是他帮助我们将我们的想法给予人工智能，并朝着它们努力，实现了这些思想。这让我想知道在那个时期，智能到底意味着什么？。所以，如果我们回到 50 年代，在这一点上，什么是智能？人们是如何定义它的？因为 LISP 最初是为了同时只能做一件事的 IBM 704 开发的。他看起来真的不那么“智能”。当时的人们是如何思考智能的呢？
 
 **07:43** - _Colin Garvey_
 
-So this is, of course, incredibly controversial. They have very narrow concepts, as far as I'm concerned, from a social perspective. But, yeah, at the time, for instance, the ability to perform a behavior that would be described as intelligent is kind of the catch-all definition. But, these guys are really mathematicians and logicians and computer programmers. I mean, to be crass, the ability to play chess was considered a definite sign of intelligence. This early generation of AI people, was much more willing to sidestep this question and say, "Well, the philosophers have not agreed on what intelligence is, but if we make a computer that can play chess, I think we can all agree that's intelligent."
+当然，这是令人难以置信的争议。就社会和我而言，它们的概念是非常狭窄的。但是，在当时，执行一种被描述为智能的行为的能力是万能的定义。但这些人确实是数学家、逻辑学家和计算机程序员。我的意思是，愚蠢的是，下棋的能力被认为是智力的明确标志。这一代早期的AI人更愿意回避这个问题，并说，"嗯，哲学家们还没有就什么是智力达成一致，但如果我们制造出一台能下棋的电脑，我想我们都同意这是聪明的。“
 
 **08:40** - _Saron Yitbarek_
 
-It was a starting place anyway. Baby steps.
+不管怎样， 这是一个起点。婴儿的一步。
 
 **08:45** - _Colin Garvey_
 
-McCarthy had a dream that machines could be intelligent as people, and have common sense. And essentially, you could talk to them. He set about creating a program language to make that dream a reality. That became LISP, and it captured certain aspects of human thought, and especially logical thought, and made it possible to use computers to amplify or extend those features of thought. So from a mathematician's perspective, he was well on his way to realizing intelligent machinery.
+麦卡锡有一个梦想，机器可以具有常识，并像人一样聪明。本质上来说，你可以和他们交谈。他开始创造一种程序语言来实现这个梦想。这就是 LISP ，它抓住了人类思想的某些方面，尤其是逻辑思维，并使得利用计算机放大或扩展这些思想特征成为可能。 所以从数学家的角度来看，他已经在实现智能机械的道路上走得很好。
 
 **09:32** - _Saron Yitbarek_
 
-Colin Garvey is a historian in the Science and Technologies Studies department at Rensselaer Polytechnic Institute. With LISP, new opportunities to advance AI began to open up, and LISP was the standard language in that new frontier. After McCarthy left his post at MIT for a job at Stanford, other engineers back at MIT kept working on LISP. They refined McCarthy's language into a local dialect called Maclisp, and even developed a LISP operating system. It looked like McCarthy's dream of an AI future was well on its way to becoming a reality. In 1968, McCarthy even made a bet with David Levy, a Scottish chess master. McCarthy bet him that in 10 years a computer would be able to win a chess match against Levy. But, it wouldn't be a Command Line Heroes kind of story if things went that smoothly. McCarthy didn't know it yet, but the AI winter was coming.
+科林·加维是伦斯勒理工学院科学技术研究系的历史学家。随着 LISP 的推进，人工智能的新机会开始出现，LISP 是这一新领域的标准语言。麦卡锡离开麻省理工学院去斯坦福大学工作后，麻省理工学院的其他工程师继续从事 LISP 工作。他们把麦卡锡的语言改进成一种叫做 Maclisp 的当地方言，甚至开发了 LISP 操作系统。看起来麦卡锡对人工智能未来的梦想正在成为现实。1968 年，麦卡锡甚至和苏格兰国际象棋大师大卫·利维（David Levy）打赌。麦卡锡打赌，10年后，一台电脑将能够赢得一场国际象棋比赛对利维。但是，如果事情进展得那么顺利，那就不是代码英雄的故事了。麦卡锡还不知道，但人工智能的冬天就要来了。
 
 **10:45** - _Saron Yitbarek_
 
-Things started to change when that LISP-based operating system from MIT was spun into companies. One of those companies, Symbolix, introduced LISP machines, and even hired away 14 staffers from MIT's AI lab, and that earlier, more blue sky kind of research wasn't the focus anymore.
+当麻省理工学院的那个基于LISP的操作系统被分拆成公司后，情况开始发生变化。 其中的一家公司 Symbolix 推出了 LISP 机器，甚至从 MIT 的 AI 实验室雇用了14名员工，而且更早的蓝天研究不再是重点。
 
 **11:25** - _Sam Williams_
 
-You get all the spinoff companies that were coming out of the AI lab.
+你会得到来自 AI 实验室的所有衍生公司。
 
 **11:31** - _Saron Yitbarek_
 
-This is journalist, Sam Williams, who wrote a book called “Arguing AI.”
+这是记者山姆·威廉姆斯（Sam Williams），他写了一本名为《Arguing AI》的书。
 
 **11:36** - _Sam Williams_
 
-Symbolix is probably the one that sticks out the most. It was getting the most attention, the most venture funding. John McCarthy's, all his proteges were kind of driving all that innovation. It's just a case, I think, where at the end of the '70s, there was a ripe period where people were like, "Okay, we've done what we can inside academia, let's get this out in the business world and let the private sector finance this."
+Symbolix 可能是最突出的一个。它得到了最多的关注，最多的风险投资。约翰·麦卡锡和他的门徒们推动了所有的创新。我想这只是一个案例。在70年代末 期，人们就认为："好吧，我们已经在学术界做了我们能够做到的事情，让我们在商界脱颖而出，让私营部门为这个融资。"
 
 **12:01** - _Saron Yitbarek_
 
-Which made sense at the time. AI looked like it was about to take off. There was money to be made.
+当时很有意义，AI似乎即将起飞，有钱可赚。
 
 **12:07** - _Sam Williams_
 
-The computing power is cheap enough for a mid-level business to purchase. So I think a lot of companies saw an opportunity, "Okay, we have a market for this, we can get out there and we can sell this to businesses that are trying to be globally competitive." They got investors to buy that pitch. There was a rush of money into the field in the early '80s.
+算力便宜到适合中型企业购买。因此，我认为许多公司看到了一个机会：”好吧，我们有一个市场，我们可以走到那里，我们可以把它卖给那些想要具有全球竞争力的企业“他们让投资者买下了这个建议。在80年代初期，大量的资金涌入该领域。
 
 **12:29** - _Saron Yitbarek_
 
-We can argue about why that rush of money ran dry later down the line. But, here's what we know for sure. Things had been incredibly hyped.
+我们可以讨论，为什么那笔钱的热潮后来干涸了。但是，下面是我们肯定知道的。事情被大肆炒作。
 
 **12:39** - _Sam Williams_
 
-A lot of money flowed in. People saw the market as very ripe.
+大量资金流入。人们认为市场非常成熟。
 
 **12:44** - _Saron Yitbarek_
 
-In a way, that cash boom in AI was like a prelude to the dot com bubble that hit at the turn of the millennium.
+从一定来说，人工智能的现金繁荣就像世纪之交网络泡沫的前奏。
 
 **12:52** - _Sam Williams_
 
-As happens a lot in technology, people over-invested and eventually companies failed to deliver on what they were promising. In the course of that, then there's a sort of shut-off to the money supply. Companies have to make their money the old fashioned way, by actually building customer bases and stuff.
+随着技术的发展，人们过度投资，最终公司未能兑现他们的希望。 在此过程中，货币供应陷入困境。 公司必须通过实际建立客户群和东西来以老式的方式赚钱。
 
 **13:08** - _Saron Yitbarek_
 
-So now, McCarthy's dream was crashing back down to reality. Williams describes the AI winter that followed.
+所以现在，麦卡锡的梦想正在崩溃回到现实。 威廉姆斯描述了随后的人工智能冬天。
+威廉姆斯介绍了随后的人工智能冬天。
 
 **13:16** - _Sam Williams_
 
-You see a company like Symbolix, rises up to $100 million market cap, then a few short years later is filing for Chapter 11. There's a lot of, "In 10 years, we'll do this. In 5 years, you'll be seeing this." These guys are hype merchants, or they're just academics who are trying to squeeze more funding out of the Pentagon, or wherever they're getting money. So there's this dangerous hype, over-hype, AI, let's-move-on-to-something-else phenomenon.
+你会看到像 Symbolix 这样的公司 市值上升到1亿美元，然后短短几年后就申请破产保护。有很多"在10年内，我们将做到这一点，在5年内，你会看到这个。5年后，你就会看到这个。" 这些家伙是炒作商人， 或者他们只是想要从五角大楼或任何其他地方获取更做资金的学者。 因此，存在着这种危险的炒作，过度炒作，人工智能，让我们继续走上歧途。
 
 **13:48** - _Saron Yitbarek_
 
-Interest in AI just crashes. It didn't help that the infrastructure wasn't there, or that computing speed wasn't high enough. But, at any rate, this was a case of right idea and wrong decade. By the late '80s, AI research was dwindling.
+对于人工智能的兴趣崩溃了。基础设施不到位，或者计算速度不够高，都没有用。但无论如何，这是一个正确的想法和错误的十年的案例。到了80年代末，人工智能研究日渐减少。
 
 **14:06** - _Sam Williams_
 
-I think that people got away from what drew them to AI as a field, which was it was very adventurous. It was a chance to do the cutting edge. Out in the west coast, a lot of the energies getting drawn into let's make personal computers. Think from 40 years later, the attempt to get a computer into every home in the United States is a way more compelling concept than helping some Fortune 1000 businesses make better decisions.
+我认为人们脱离了吸引他们进入人工智能这个领域的原因，那就是它非常具有冒险性。这是一个做最前沿的机会。在西海岸，很多人的精力被吸引到让我们制造个人电脑上。从40年后的今天想来，让电脑进入美国每个家庭的尝试，比帮助一些财富1000强的企业做出更好的决策，是一个更引人注目的概念。
 
 **14:39** - _Saron Yitbarek_
 
-Sam Williams is the author of “Arguing AI”. What we're describing here is a world of computer programming that was split into two. On the one hand, you've got the John McCarthys, trying to use new kinds of languages like LISP, to inquire into the nature of intelligence. On the other hand, inevitably, you've got folks trying to solve practical problems and make things easier for businesses that are willing to pay for services. The reality was that the John McCarthys of the world, those more abstract dreamers, didn't have much of a chance to explore deep in the possibilities of AI. The equipment they had wasn't even comparable to the cell phones we use today. Their vision was really too big for the hardware realities on hand.
+山姆·威廉姆斯（Sam Williams）是《Arguing AI》的作者。 我们在这里描述的是一个被分为两个部分的计算机编程的世界。一方面，你有试图使用 LISP 等新型语言来探究智能的本质的约翰·麦卡锡。另一方面，不可避免的，你有一些试图解决实际问题，让那些愿意为服务付费的企业更加轻松的人。现实情况是，世界上的约翰·麦卡锡们，那些抽象的梦想家，并没有太多机会在人工智能的可能性上进行深入探索。他们所拥有的设备甚至还比不上我们今天使用的手机。他们的愿景对于手头的硬件现实来说，真的太大了。
 
 **15:36** - _Ulrich Drepper_
 
-We had machines, big honking machines, which are used by many, many people in the work groups.
+我们有机器、被广泛应用在人们工作中的大喇叭机器。
 
 **15:46** - _Saron Yitbarek_
 
-That's Ulrich Drepper, a distinguished engineer at Red Hat. He explains how that early AI dream just didn't have the basic tools it needed to succeed.
+那是乌尔里希·德雷珀（Ulrich Drepper），红帽的杰出工程师。他解释了早期的人工智能梦想失败只是没有成功所需的基本工具。
+
 
 **15:55** - _Ulrich Drepper_
 
-We have PDP 10s, PDP 11s, etc., these kind of machines, where you might have 20 people on them. At best, they were really low-power machines, which didn't really have the capability of running a nicely developed user interface in addition to all the functionality necessary for a LISP system.
+我们有你可能会有20个人在其上工作的 PDP 10s，PDP 11s 之类的机器（译者注：Digital Equipment Corporation 公司的大型计算机产品）。最好的是，他们是真正的低功耗机器，除了 LISP 系统所需的所有功能外，他们并不具备运行一个很好开发的用户界面的能力。
 
 **16:19** - _Saron Yitbarek_
 
-As decades rolled on, the hardware that was being developed wasn't friendly towards LISP either.
+随着几十年的发展，开发的硬件对 LISP 也不友好。
 
 **16:26** - _Ulrich Drepper_
 
-We went down the road for the desktop machines, but also for the server machines. Of the type of processors which we are accustomed to today, so we are having the visions inside the processes based on 8-bit bytes. So we might have a 16-bit processor, or a 32-bit processor, etc. So for these types of machines to implement in LISP system efficiently, one had to jump through quite a few hoops to actually make it work.
+我们走了台式机的道路，也走了服务器的道路。我们今天习惯的处理器类型中，基于 8 位字节的处理器在整个进程中拥有前景。所以我们可能有16位处理器、32位处理器之类的。所以要想让这些类型的机器在 LISP 系统中高效地实现，就必须要跳过不少的圈套，才能真正实现。
 
 **16:56** - _Saron Yitbarek_
 
-So external realities about the computing world were having unintended dampening effects on this fragile field of artificial intelligence.
+因此，有关计算世界的外部现实对该脆弱的人工智能领域产生了意想不到的抑制作用。
 
 **17:06** - _Ulrich Drepper_
 
-The custom hardware turned out to be such an expensive and slow prospect, especially when compared to the CPUs, which were in common use. The big CPU manufacturers.
+定制硬件的前景如此昂贵且缓慢，尤其是与常用的大的 CPU 厂商的 CPU 相比时。
 
 **17:21** - _Saron Yitbarek_
 
-It was possible to create those custom hardware workarounds and keep working with LISP, keep trudging toward that AI dream. But, the fact was, exciting new hardware pushed a lot of minds towards other areas of work.
+可以创建那些自定义的硬件解决方案，并继续使用 LISP，并继续朝着 AI 梦想前进。 但是，事实是，令人兴奋的新硬件将很多人推向了其他工作领域。
 
 **17:35** - _Ulrich Drepper_
 
-The improvements you got by just waiting for the next revision of the processor, that normal processor, was so much bigger than what you can achieve and gain by developing your own hardware for solving, for instance, implementing a LISP system. So that, in the end, the complexity simply didn't work out.
+通过等待处理器的下一个版本（即普通处理器）而获得的改进要远远大于通过开发自己的硬件来解决（例如实施 LISP 系统）所能获得和获得的改进。 最终，复杂性根本无法解决。
 
 **18:03** - _Saron Yitbarek_
 
-So, was John McCarthy's wide-eyed dream dying a slow death, or was it only sleeping through that long AI winter, waiting for its moment? Through the 2000s, John McCarthy's language, LISP, was used less and less. But, something kind of amazing happened at the same time. The language began to fade, but the dream connected to that language got rekindled. The dream of AI began to live again.
+那么，约翰-麦卡锡的远景梦想是慢慢死去，还是只在那漫长的人工智能冬天里沉睡，等待时机？在整个2000年，John McCarthy 的语言 LISP 被越来越少地使用。但是，在同一时间，发生了一种惊人的事情。这门语言开始淡化，但与这门语言相连的梦想却被重新点燃了。人工智能的梦想又开始活了起来。
 
 **18:34** - _Chris Nicholson_
 
-I want to say this time is different.
+我想说，这次不一样。
 
 **18:36** - _Saron Yitbarek_
 
-That's Chris Nicholson, the founder and CEO of an open source AI software company called Skymind. Chris figures that, after all its ups and downs, AI may be coming into a long sustainable summer at last.
+这是克里斯·尼科尔森（Chris Nicholson），一家名为 Skymind 的开源 AI 软件公司的创始人兼 CEO。Chris 认为，在经历了大起大落之后，人工智能或许终于要进入一个可持续发展的长夏了。
 
 **18:52** - _Chris Nicholson_
 
-We're in the midst of an AI summer where there's a lot of excitement around what AI can do. But, that excitement is based on real advances in research, and those advances are based on progress in other areas. Our hardware has gotten a lot better, people are able to use GPUs instead of CPUs, and they're able to use those GPUs in massive clusters to train enormous machine-learning models that can produce really accurate predictions. They do that using massive datasets, more data than we've ever had before, much more data than we had in the '90s, or '80s, or before.
+我们正处在人工智能夏天，围绕人工智能可以做的事情有很多令人兴奋的事情。但是，这种兴奋是基于研究的真正进展，而这些进展是基于其他领域的进展。我们的硬件已经变得更好了，人们能够使用 GPU 替代 CPU，他们能够在大规模集群中使用这些 GPU 来训练巨大的机器学习模型，从而产生真正准确的预测。他们使用比我们以前的数据更多，比我们在 90 年代、80 年代或者以前的数据多得多的大规模的数据集来做这件事。
 
 **19:30** - _Saron Yitbarek_
 
-When you're thinking about AI languages, the rise of enormous datasets is key, because they represent a crucial change in the way we understand what intelligence even is. The focus shifts and becomes all about deep learning.
+当你考虑 AI 语言时，巨大的数据集的兴起是关键，因为它们代表了我们理解智能的方式的关键变化。 重点转移到了有关深度学习的所有方面。
 
 **19:47** - _Chris Nicholson_
 
-LISP was designed to manipulate symbols. LISP was designed in an era when AI meant symbolic reasoning, when people thought that the human mind and intelligence itself was simply a manipulation of symbols. AI now, the AI we're really excited about, is much more than that. AI now, in machine learning now, is a massive data processing machine that can learn from unstructured data. So, blobs of pixels, blobs of text, you can shove them through machine-learning algorithms and make those algorithms smarter and smarter over time as you push the data through. LISP wasn't designed like that. It was designed to only evolve on the back of human intervention. Whereas, machine-learning algorithms now, the learning part of them means that they adapt themselves on the basis of the data they're exposed to.
+LISP 被设计用于操作符号。LISP 是在 AI 象征着推理的时代设计的。当时人们认为人类的思维和智力本身就是富豪的操作。现在的 AI 让我们兴奋的不止于此。现在的 AI ，就机器学习而言，是一种可以从非结构化数据中学习的大型数据处理机器。因此，无论是像素斑点还是文本斑点，你都可以通过机器学习算法来推动它们，并随着时间的推移将这些算法变得越来越智能。LISP不是那样设计的。 它被设计为仅在人工干预的基础上发展。 鉴于现在的机器学习算法，其中的学习部分意味着它们会根据所暴露的数据进行调整。
 
 **20:40** - _Saron Yitbarek_
 
-This is about letting our machines be intelligent on their own terms. But, you know, it's not just our machines that are learning to think in powerful new ways. Open source tools have allowed people to up their game, too. Chris figures our open source development styles are going a long way to preventing another AI winter.
+这就是让我们的机器以自己的方式实现智能化。但是，你知道，不仅仅是我们的机器在学习以强大的新方式思考。开源工具也让人们提高了自己的游戏水平。克里斯认为，我们的开源开发方式对防止另一个人工智能冬天的到来有很大的帮助。
 
 **21:03** - _Chris Nicholson_
 
-One reason why winters happen is because ideas slow down, networks break down, funding dries up. With these free open source tools, what we see is an acceleration. So we see ideas getting tested faster, ideas getting shared more quickly. So it's not just the tools, but it's pre-trained machine-learning models that one research group might share with another research group, or with the public-at-large. Finally, it's the ideas themselves, which are getting published in locations like ARXIV. ARXIV, which is hosted by Cornell University. So all those things together are accelerating kind-of the velocity of the flow of ideas. For me, that's kind of insurance against an AI winter. There's this confluence of factors that makes AI a super-exciting place to be, and that actually means that AI is moving even faster than the hype.
+冬天发生的一个原因是，想法放缓，网络崩溃，资金枯竭。有了这些免费的开源工具，我们看到的是一种加速。所以我们看到想法得到更快的测试，想法得到更快的分享。所以，这不仅仅是工具，而是预先训练好的机器学习模型，一个研究小组可以与另一个研究小组，或者与广大公众分享。最后，是想法本身，这些想法被发表在 ARXIV 这样的地点。由康奈尔大学主办的 ARXIV。所以，所有这些事情加在一起，都在加速思想流动的速度。对我来说，这是对人工智能冬天的一种保险。这些因素的交汇使得人工智能成为一个超级令人兴奋的地方，这实际上意味着人工智能的发展速度比炒作更快。
 
 **22:03** - _Saron Yitbarek_
 
-Chris Nicholson is the founder and CEO of Skymind. So, open source was able to thaw out the AI winter that older proprietary models had helped to create. The new AI moment came with vast improvements in GPUs. It came with algorithmic breakthroughs that help us train AIs to learn patterns in data. And then, the data itself. Massive datasets are fueling today's AI. That, more than anything, is why new languages are picking up the trail where LISP left off. We ask Rachel Thomas, a co-founder of Fast AI about which languages are suited to next-gen AI.
+克里斯·尼科尔森是 Skymind 的创始人兼 CEO。所以，开源能够解冻旧的专有模式所帮助创造的AI冬天。新的AI时刻伴随着GPU的巨大改进而到来。它伴随着算法上的突破，帮助我们训练AI学习数据中的模式。然后，数据本身。海量的数据集正在为今天的AI提供动力。这一点，比任何事情都重要，这就是为什么新语言正在拾起 LISP 离开的痕迹。我们向 Fast AI 的联合创始人雷切尔·托马斯（Rachel Thomas）询问哪些语言适合下一代AI。
 
 **22:50** - _Rachel Thomas_
 
-We're starting to look at Swift for TensorFlow. Swift is a language developed by Chris Lattner, and I know there are people using Julia, and developing Julia. But, for right now, Python is kind of overwhelmingly what is used in deep learning.
+我们开始将 Swift 用于 TensorFlow。 Swift是克里斯·拉特纳（Chris Lattner）开发的一种语言，我知道有人在使用 Julia，并且正在开发 Julia。 但是，就目前而言，Python 算是深度学习中使用的绝大部分。
 
 **23:03** - _Saron Yitbarek_
 
-That's because Python is beautifully suited to working with large datasets.
+这是因为Python非常适合处理大型数据集。
 
 **23:08** - _Rachel Thomas_
 
-I think something that's really changed in the last 20 years, is the rise of data and the increase of data. I think that a lot of earlier work on AI going back decades, was more around kind-of symbolic systems, these kind-of abstract symbolic systems. I would say a lot of the work happening in AI right now, is very much around data and identifying something in an image, classifying whether a review somebody has written of a movie is positive or negative. These are problems that are grounded in data. So, one of the reasons, I think, Python has kind-of emerged, at least as an early winner, is because the ecosystem with NumPy and SciPy and pandas, and all the data libraries in Python were well-developed enough.
+我认为在过去20年中真正发生了变化的是数据的增长和数据的增长。我认为，数十年前有关AI的许多早期工作更多地围绕一种符号系统，即这些抽象符号系统。我要说的是，目前AI中发生的许多工作都围绕数据和识别图像中的某些东西，对某人对电影的评论是正面还是负面进行分类。这些是基于数据的问题。所以，我认为，Python算是崭露头角的原因之一，至少是作为早期的赢家，是因为 NumPy、SciPy 和 pandas 的生态系统，以及 Python 中所有的数据库都足够完善。
 
 **24:02** - _Saron Yitbarek_
 
-In the days when John McCarthy's group worked at MIT, AI really was something only the world's elite academics could get involved in. But, languages and computing environments have evolved so much since then, that AI is now really for everybody. We heard in episode 1 this season, Python is a first language for lots of beginners. It's empowered novice programmers to join the world of AI.
+在约翰·麦卡锡（John McCarthy）的团队在麻省理工学院工作的日子里，人工智能确实只有世界上的精英学者才能参与。但是自那时以来，语言和计算环境已经发生了巨大的发展，以至于AI现在真正适合每个人。我们在本季的第1集中听说过，Python 是许多初学者的第一语言。它使新手程序员有能力加入 AI 的世界。
 
 **24:29** - _Rachel Thomas_
 
-I just want to tell people that there really is just one year of coding experience is the only background you need. You don't need to be "a bath genius" or to have this really prestigious, or exclusive, background. But, that we need people from all backgrounds. Actually, by having a different background, you have a lot to offer to the field, and that we need your perspective.
+我只想告诉人们，实际上只有一年的编码经验才是你需要的唯一背景。你不必是“一个洗浴天才”，也不必具有真正的声望或专有背景。但是，我们需要来自各个背景的人。实际上，通过拥有不同的背景，你可以为该领域提供很多东西，而我们需要你的看法。
 
 **24:52** - _Saron Yitbarek_
 
-Rachel Thomas is a co-founder of Fast AI, and a professor at the University of San Francisco Data Institute. I love that message from Rachel Thomas. The story of AI is a story about discovering languages that everybody can communicate with. That's our real mission here, to develop language solutions for a world filled with AI. Solutions that let us all work together to build that next breakthrough.
+雷切尔·托马斯是Fast AI的共同创始人，也是旧金山大学数据研究所的教授。我喜欢R雷切尔·托马斯的信息。 AI的故事是关于发现每个人都可以交流的语言的故事。这是我们真正的任务，为充满AI的世界开发语言解决方案。使我们大家共同努力以实现下一个突破的解决方案。
 
-**25:22** - _Announcer 1_
+**25:22** - _播音员1_
 
-Folks, you saw history made here today. AlphaGo has won the match in great style.
+各位，你们看到了今天在这里创造的历史。AlphaGo 以伟大的风格赢得了比赛。
 
 **25:32** - _Announcer 2_
 
-Yeah, and it even showed us its code.
+是的，它甚至向我们展示了它的代码。
 
 **25:34** - _Speaker 7_
 
-And even showed us its code. So I think congratulations to the program.
+甚至向我们展示了它的代码。所以，我想祝贺这个计划。
 
 **25:40** - _Saron Yitbarek_
 
-In 2015, just a couple decades after Garry Kasparov lost that chess match to Deep Blue, the world champion at the game of Go, Lee Sedol, was defeated by Google's AlphaGo. Deep Blue had shown its intellectual might, pretty much through brute computational force. The thing about AlphaGo's victory that really surprised everyone, was that it won that match by relying on neural networks and reinforcement learning. In other words, AlphaGo had successfully taken that next step towards true intelligence. None of that would have been possible without the new AI spring fueled by open source. New languages are edging toward that dream. Our languages are getting better at maximizing the intelligence of machines. The good news, it's a challenge we can all work on together in an open source world.
+2015年，就在加里·卡斯帕罗夫输给深蓝的国际象棋比赛几十年后，围棋世界冠军李世乭被谷歌的 AlphaGo 击败。深蓝已经几乎通过蛮力显示了它的智力力量。AlphaGo 的胜利让所有人都感到惊讶的是， 它依靠神经网络和强化学习赢得了那场比赛。换句话说，AlphaGo 已经成功地朝着真正的智慧迈出了下一步。如果没有开源推动的新人工智能弹簧，这一切都不可能。新的语言正朝着那个梦想而逐渐发展。我们的语言越来越擅长最大限度地提高机器的智能。好消息是，在开源世界中，我们都可以共同应对挑战。
 
 **26:39** - _Saron Yitbarek_
 
-Command Line Heroes is an original podcast from Red Hat. If you want to dive deeper into LISP and the origins of artificial intelligence, you can check out all our bonus material over at [redhat.com/commandlineheroes](//www.redhat.com/en/command-line-heroes). You'll find extra content for every episode. Next time, it's our season finale. We'll uncover some surprising truths about a massive language that influenced nearly every other language we studied this season. It's our in-depth look at C. In the meantime, I'm Saron Yitbarek. Keep on coding.
+《代码英雄》是 Red Hat 的原创播客节目。
+Command Line Heroes is an original podcast from Red Hat. 如果你希望更深入的了解 LISP 或者人工智能，你可以访问节目的网站[redhat.com/commandlineheroes](//www.redhat.com/en/command-line-heroes)。你会看到每一集的额外内容。下一集，将是本季的最终集。我们将揭露关于影响到本赛季我们学习的几乎所有其他语言的大量语言的一些令人惊讶的事实。 这是我们对C的深入研究。同时，我是 Saron Yitbarek，继续编程。
 
 --------------------------------------------------------------------------------
 
