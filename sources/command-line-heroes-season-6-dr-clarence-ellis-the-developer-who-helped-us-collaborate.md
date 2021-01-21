@@ -1,5 +1,5 @@
 [#]: collector: (bestony)
-[#]: translator: (Chaozhi)
+[#]: translator: (Chao-zhi)
 [#]: reviewer: ( )
 [#]: publisher: ( )
 [#]: url: ( )
