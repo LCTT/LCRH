@@ -18,7 +18,7 @@
 
 ![](https://www.redhat.com/cms/managed-files/clh-s3e7-desktop-1920x1080.png)
 
-本文是《[代码英雄](https://www.redhat.com/en/command-line-heroes)》系列播客[《代码英雄》第三季（7）：与机器对话](https://www.redhat.com/en/command-line-heroes/season-3/heroes-in-a-bash-shell)的[音频](https://cdn.simplecast.com/audio/a88fbe/a88fbe81-5614-4834-8a78-24c287debbe6/8e47deb9-b0ab-4d3b-a4be-7b0f1037ced0/CLH_S3_E7_Talking_to_Machines_LISP_and_the_Origins_of_A_I_vFINAL_tc.mp3)脚本。
+本文是《[代码英雄](https://www.redhat.com/en/command-line-heroes)》系列播客[《代码英雄》第三季（7）：与机器对话](https://www.redhat.com/en/command-line-heroes/season-3/talking-to-machines)的[音频](https://cdn.simplecast.com/audio/a88fbe/a88fbe81-5614-4834-8a78-24c287debbe6/8e47deb9-b0ab-4d3b-a4be-7b0f1037ced0/CLH_S3_E7_Talking_to_Machines_LISP_and_the_Origins_of_A_I_vFINAL_tc.mp3)脚本。
 
 > 导读：创造一台会思考的机器在 20 世纪 50 年代似乎是科幻小说。但 John McCarthy 决定把它变成现实。他从一种叫做 LISP 的语言开始。Colin Garvey 介绍了 McCarthy 是如何创造出第一种人工智能语言的。Sam Williams 介绍了早期人们对思考机器的兴趣是如何从学术界蔓延到商业界的，以及在某些项目没有兑现承诺之后，漫长的人工智能寒冬是如何最终到来的。Ulrich Drepper 解释说，人工智能的梦想超出了当时硬件所能提供的范围。
 >
