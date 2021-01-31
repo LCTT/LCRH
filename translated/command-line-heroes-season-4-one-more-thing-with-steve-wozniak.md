@@ -1,6 +1,6 @@
 [#]: collector: "bestony"
 [#]: translator: "xiao-song-123"
-[#]: reviewer: " "
+[#]: reviewer: "pityonline"
 [#]: publisher: " "
 [#]: url: " "
 [#]: subject: "Command Line Heroes: Season 4: One More Thing with Steve Wozniak"
@@ -216,7 +216,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-4/steve-wozniak
 作者：[Red Hat][a]
 选题：[bestony][b]
 译者：[xiao-song-123](https://github.com/xiao-song-123)
-校对：[校对者ID](https://github.com/校对者ID)
+校对：[pityonline](https://github.com/pityonline)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 [a]: https://www.redhat.com/en/command-line-heroes
