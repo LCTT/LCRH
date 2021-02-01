@@ -7,7 +7,7 @@
 [#]: via: (https://www.redhat.com/en/command-line-heroes/season-6/clarence-ellis)
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
-代码英雄：第6季：Clarence Ellis 博士：帮助我们合作的开发者
+代码英雄：第6季：Clarence Ellis 博士：帮助我们进行合作的开发者
 ======
 **00:03** - _Saron Yitbarek_
 
