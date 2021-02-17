@@ -116,7 +116,7 @@ Jonah Horowitz 在 Stripe 的可靠性工程团队工作。他描述了即使开
 这个定义真的很有趣呢，是个“惯例”。但我觉得当我听人们谈论 DevOps 时，它具体一点。他们谈论它就像它是一个角色、一个工作、一个职位或一个头衔。你觉得这与它是一套“惯例”的观点是否有冲突？
 
 **Scott Hanselman**：
-我认为，当一套新的方法或一个新的流行语出现时，人们喜欢把它加在名片上。我不是不尊重那些正在收听这个播客，并且感到被我冒犯、正骂骂咧咧把名片掏出来看的人们。虽然，他们现在可能正要怒盖笔电、退出这个播客。
+我认为，当一套新的方法或一个新的流行语出现时，人们喜欢把它加在名片上。我不是不尊重那些正在收听这个播客，并且感到被我冒犯、正骂骂咧咧把名片掏出来看的人们。虽然，他们现在可能正要愤怒地关上笔记本电脑、退出这个播客。
 
 **00:08:30 - Scott Hanselman**：
 有一个帖子写得非常好，作者是 Brian Guthrie，他是一个脑力劳动者，在 SoundCloud 工作。他是一个超级聪明的人，几天前他在 Twitter 上的帖子中说到 DevOps。他说 DevOps 就是一套惯例，不是一个工作头衔、不是一个软件工具、不是一个你安装的东西、也不是一个团队的名字。
@@ -170,7 +170,7 @@ Jonah Horowitz 在 Stripe 的可靠性工程团队工作。他描述了即使开
 你需要一个全新的生态系统和工具，来最有效地进行 DevOps。
 
 **Saron Yitbarek**：
-Gordon Haff 是一位红帽公司高级工程师。
+Gordon Haff 是一位红帽公司高级主管。
 
  **Gordon Haff**：
 我们看到有很多巨大的、DevOps 可以利用的新种集合工具和平台，它们都诞生于开源。
@@ -298,7 +298,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-1/devops-tear-down-tha
 作者：[Red Hat][a]
 选题：[bestony][b]
 译者：[LikChung](https://github.com/LikChung)
-校对：[acyanbird](https://github.com/acyanbird)
+校对：[acyanbird](https://github.com/acyanbird),[FineFan](https://github.com/FineFan)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 

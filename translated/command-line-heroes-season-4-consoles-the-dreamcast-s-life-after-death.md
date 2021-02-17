@@ -1,6 +1,6 @@
 [#]: collector: (bestony)
 [#]: translator: (windgeek)
-[#]: reviewer: ( )
+[#]: reviewer: (acyanbird)
 [#]: publisher: ( )
 [#]: url: ( )
 [#]: subject: (Command Line Heroes: Season 4: Consoles: The Dreamcast's Life After Death)
