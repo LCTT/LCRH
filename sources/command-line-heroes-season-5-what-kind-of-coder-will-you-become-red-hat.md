@@ -7,259 +7,260 @@
 [#]: via: (https://www.redhat.com/en/command-line-heroes/season-5/what-kind-of-coder-will-you-become)
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
-Command Line Heroes: Season 5: What Kind of Coder Will You Become? - Red Hat
+代码英雄：第5季：你会成为什么样的程序员？ - 红帽
 ======
 **00:01** - _Saron Yitbarek_
 
-Hello, welcome to Command Line Heroes, an original podcast from Red Hat. This is the final episode of our special mini-season all about our jobs as developers, sys admins, architects, engineers, and programmers. In this episode, we're going to talk about the issues surrounding the question: “What kind of coder will you become?” I'm your host Saron Yitbarek, and joining me is our featured guest, Clive Thompson. He's a journalist, technology writer, and author of the book Coders. Hi Clive.
+大家好，欢迎收看代码英雄系列节目，一个红帽原创播客。这一季我们会向大家展示，作为一个开发者，系统管理员，架构师，工程师或程序员，他们的工作应该是什么样的，这同时也是我们特别系列的最终季。在这一季中，我们将主要围绕“你会成为什么样的程序员？”这一问题展开讨论。我是你们的主持人Saron Yitbarek，有请今天做客我们节目的嘉宾，Clive Thompson。他是一名记者，技术文章作家，同时也是Coders这本书的作者，你好，Clive. 
 
 **00:35** - _Clive Thompson_
 
-Hi Saron. Thanks for having me back.
+你好，Saron,很感谢你能再次邀请我来。
 
 **00:37** - _Saron Yitbarek_
 
-Thanks for joining us, Clive. Last summer, Twitter was buzzing about a particular topic, a particular type of coder. It started with a tweet from an investor, and it quickly went viral. In short, it encouraged founders to hire a rare breed of coder as soon as possible to increase their startup’s chances of success. These coders have a special designation: “10X.” The response to the tweet was...not great. Here's just a taste:
+你能来是我们的荣幸，Clive。去年夏天，Twitter上到处都在谈论这个话题，一类特殊程序员。这一切都始于一位投资者的推文，这篇推文出现后在网上被迅速转发。简单来说，它主要鼓励创业者们尽可能多的雇佣一种稀有类型的程序员，这样能提高他们创业成功的机率，这类程序员有个特殊称号：“10X”，但单从人们对推文的回复来看……大家并不太认同这个观点，评论中有人说了这么一个故事：
 
 **01:09** - _Brianna Wu_
 
-One of my very best friends, she was texting this to me, "Can you even believe this guy right here?" It just had the worst stereotypes about engineers that exist in the startup space. And the thing is, I've worked with these prima donnas; I'm sure you've worked with these prima donnas.
+我有一个非常要好的朋友，她给我发了这么一条消息：“你觉得那边那家伙值得信任吗？” 她口中的那人成功应证了人们对初创公司工程师最糟糕的刻板印象，事实上，我也确实和这些所谓的主角们共事过，我确信很多人也有这样的经历。
 
 **01:28** - _Bonnie Eisenman_
 
-When someone says “10X coder,” there's either one of two things going on. The first possibility is that they mean it as a euphemism for brilliant \*\*\*hole. And the second is that it means that they're trying to hire someone, they think they should be hiring a 10X coder, but they don't actually know what they're looking for.
+当人们说起“10X程序员”，那下面两种情况必有一个会发生。第一种：这个词只是对聪明人的一种婉转说法；第二种：企业想要雇佣某个人，他们自己认为公司需要一个10X程序员，但实际上他们并不知道什么样的人才符合条件。
 
 **01:48** - _Saron Yitbarek_
 
-So what is a 10X coder anyway? And should new coders aspire to be one? And if you are one, does that justify bad behavior? Turns out there's a whole history around this topic. So Clive, what exactly is a 10X coder?
+所以什么样的人才能被称为10X程序员呢？新手程序员应该将他们视为榜样吗？如果你就是一个10X程序员，这一身份同时也意味着满身臭毛病吗？事实上，10X程序员这一话题有很多可讨论的地方。那么Clive,10X程序员到底是什么样的呢？
 
 **02:04** - _Clive Thompson_
 
-Well, as the name suggests, it's a coder who is 10 times better, more productive, more creative, however you want to measure that. They are 10 times better than the average coder sitting alongside them, right? They're this sort of super person who can execute things faster, write better code, more code, ship it more quickly, have better ideas, just like, essentially, a sort of super-powered creature—that is the theory behind the 10X coder.
+其实人如其名，10X程序员意味着无论你衡量标准如何，这类程序员的能力会比平均水平高出10倍，他们会更有效率，也更具有创造力，他们比一般的编程者好上10倍。你可以想象他们是那种拥有超能力的人，他们执行力更高，能写出更好更多的代码，点子也更多 —— 这样的人我们就称之为10X程序员。
 
 **02:39** - _Saron Yitbarek_
 
-The whole idea of a 10X coder has never really made sense to me, because it's such a specific number, 10X. You are 10 times better than the average coder. How could you possibly measure that? How would you even know if anyone is 5 times, 10, 100 times better than the average coder? What does that even mean?
+但我还是有些不太理解10X 程序员这一概念，我觉得一个很重要的原因就是这个数字：10X。你说这类人比一般编程者好10倍，但你是怎么得出这一结论的？你是如何量化人们的编程水平，并得出他们比一般程序员好上5倍，甚至10倍这一结论的呢？这些又意味着什么呢？
 
 **02:58** - _Clive Thompson_
 
-Well, it's funny that there's this number attached because it sort of cracks me up. Every field has this idea that there's someone who is just way better than others. They have that idea in music and entertainment, they're sort of the star, they have that in every discipline, but in coding they put a number on it. It's data-driven, and they love to quantify things. But in this case, there's actually kind of a history behind that number, there's a reason why it's 10. It actually goes back to the 1960s. In the early days of coding, no one was really sure what it meant to do this for a living, and no one was really sure what productivity kind of looked like. They had some sense that some people seemed to be better at it than others, and they couldn't really figure out why.
+好吧，其实这个数字才是真正让我觉得滑稽的地方，每个领域都会有杰出人物，如果他们身处影音业，他们就被称之为明星，其他行业也差不多就这个叫法，但在编程这儿他们就非得加个数字。某种程度上我可以理解，毕竟这一行数据驱动一切，人们也很爱量化事物。但仅仅针对这个词来说，人们选定10是有原因的，事情还得从19世纪60年代说起。在编程刚刚兴起的时候，没人敢保证这一定能成为一种职业，也没人知道什么样的表现才能被称为编程效率极高，编程者自然也有个中翘楚，但没人能说出具体缘由。
 
 **03:44** - _Clive Thompson_
 
-And so this one guy, Hal Sackman, decided to do a study where he was trying to answer a question: “Do coders prefer to work in an online system or an offline?” And what online and offline meant back then was, offline meant kind of working where you wrote your code on punch cards, and then handed it to a punch card operator, and they fed it in, and then three hours later, you found out whether or not your code worked, right? Online meant you could sit in front of a screen and a keyboard, and you could type, and you could execute your code right away, a more modern way of coding, that's the way we code today. But online coding was really expensive, because those computers were really expensive. Are people so much more productive that it's worth spending the money on these expensive online computers?
+所以有个叫 Hal Sackman 的人决定做个研究，以此来回答下面这个问题：“程序员们更倾向于线上还是线下工作？”。那时线下干活，意味着首先你得把代码打在穿孔卡上，接着把卡片放在打孔机上，送到机器后等3小时，你就知道你代码到底能不能用了；线上工作则意味着你坐在屏幕前通过键盘输入代码，立即执行代码得出结果，这是种更先进的方式，人们将其沿用至今，但线上编程成本却因计算机价格高昂而十分昂贵。人们在想，把程序员们放在线上系统环境中，真就能提高编程效率吗？
 
 **04:32** - _Clive Thompson_
 
-So Hal Sackman said: "Okay, I'm going to give a bunch of coders the same task in online versus offline, and I'm going to see how well they do." But he discovered something so remarkable to him that he sort of focused on it. The people who were doing this test, there was a subset of them that were way better than everyone else. Like, the delta between the really good and the really bad is massive. Sometimes people were 20 times faster at solving a bug than other people. Sometimes they were 16 times faster at writing a piece of code. It's kind of like there's this order of magnitude difference between the really great performers and the really bad ones and that was the beginning of the 10X mythology that people who are really good at coding are rare, and they are 10 times better than everyone else. From there on, the myth sort of grew until it is what we have today.
+所以后来Hal Sackman是这么做的实验，“我会给线上和线下系统的程序员们同样的任务，最后我会来验收成果。” 通过这一实验，有一件事引起了他的注意，在这群编程者中，有一部分人的水平远超其他人，水平低下和技巧高超的人之间差距巨大。有时面对同样的bug,一些人解决问题的速度是平常人的20倍，他们编写程序的效率是其他人的16倍。如果将人们的编程水平量化，将最好和最差的拿来作比较，他发现一旦水平差异超过10倍，就会出现编程上质的差异，并且水平相较其他人好上10倍甚至更多的人本就稀少，从那时起，人们就用10作为标准来统称这一群体，因此10X这个词就被保留下来了。
 
 **05:28** - _Greg Sadetsky_
 
-Am I comfortable announcing on the air that I am part of that? Maybe if you grill me a little bit more, but right now I'm feeling a tiny bit shy to say it out loud.
+你问我是否愿意宣称自己也是这个群体中的一员？你这样可就是把我架在火上烤了，现在让我这么说感觉有点不好意思。
 
 **05:41** - _Saron Yitbarek_
 
-Greg Sadetsky has been labeled a 10X coder. He founded a company called Poly9. He received one of the highest civilian awards from the U.S. Coast Guard for creating a map that helped rescue 1,700 people during Hurricane Harvey.
+Greg Sadetsky 也被认为是10X程序员中的一员，他创办了一家叫Poly9的公司，得益于他绘制的一张地图，1700人得以在飓风哈维中幸免遇难，他也因此被授予美国公民最高荣誉奖章。
 
 **05:58** - _Greg Sadetsky_
 
-A pro player in whatever sports is undeniably extremely much better than average, you know, somebody who plays sports or who is just starting out. So as in other fields, it's the same in software engineering, and I definitely can vouch for the fact that they exist. If you have a startup, and you know that you need to be on the market in a month, the supply of people that can do the work in that amount of time, and bring you where you want to be, is smaller than the supply of people who can do the same work in three months or a year. So there's just less people who can achieve these things.
+无可否认的事实是一个职业运动员一定比一般人水平高上许多，在运动这方面有些人生来就比别人强，其他行业也存在这种现象，那么软件行业也不例外，我确信这样的事情一定是存在的。假如你想创业并且需要在一个月内打开市场，你要知道能在一个月内完成这项任务的人肯定会比三个月才办妥的人要少得多。
 
 **06:41** - _Saron Yitbarek_
 
-So Clive, there's the pretty famous book, The Mythical Man-Month, that came out in 1975. How did the idea of the 10X coder get further entrenched with that book?
+Clive,在1975年出版的《人月神话》这本书中，10X程序员这一概念是如何随着这本著名书籍深入人心的呢？
 
 **06:52** - _Clive Thompson_
 
-Well, in that book, Fred Brooks was thinking about the art of managing software projects. There was this paradox in software development whereby if a project had, like, 20 people working on it, and it was really late in any other industry, like, say you're building a building or digging a ditch or building a fence, the way you move faster is you hire more people so that more hands can just get that done faster. But in software, often the opposite happened. If you had 20 people working on the project, and it was late, and you added 10 more people, the project slowed down. Why is that? Well, part of it is that there is a lot of communication that's involved in software projects, and so the more people you add, the more communication there is and you sort of get bogged down in organization.
+在那本书中，Fred Brooks阐述了软件项目管理的艺术，在软件开发这行有个说法，假设你有一个软件项目，开发项目组人数到了20就不要再加了。这么说吧如果你想盖一栋楼，开挖沟渠或者修建围栏，人越多完成的速度就越快，但在软件行业这样只会起反作用。假设你的项目交付已经延期，现在项目组里有20个人，如果你再加10个，效率只会进一步下降。为什么会这样呢？当然，一部分原因是因为软件项目通常需要人们进行大量的交流，所以项目成员越多，交流就越多，这样反倒会拖累整体进度。
 
 **07:44** - _Clive Thompson_
 
-But he also reiterated this idea that there was a handful of people that were just better at this than everyone else. And so he's, like, "Look, if you had like a huge team of 200 people and 25 of them are doing most of the work, then just get rid of the other 175 and just have your 25 superstars and everything's going to happen faster." It, sort of, so flattered the fantasy that a lot of software developers have that they are the 10X person, right? That they are the sort of Colossus who bestrides the world like a giant with all these ants scurrying between their legs. It definitely is a lesson that a lot of people quote from, and every time someone came along, this mythology just got more and more cemented in place.
+但同时他也反复强调了少部分人比其他人水平都高这一事实，他的意思听上去就像这样，“听着，如果你有个200人的团队，其中只有25个人做了大部分工作，你大可以把不做事的175个人开除，只留下真正做事的那25个人，你的公司照样运转。” 他这么说显然是在夸大其词，显得10X程序员好像很多一样。10X程序员就像巨人一般，从高空俯瞰渺小的普通人，每次组内有新成员加入很多人都会引用这句话，这一概念被提及的次数也越来越多。
 
 **08:28** - _Bonnie Eisenman_
 
-In terms of where the myth comes from, it's from people who would build tools that were wildly successful and they would build them on their own—and then would sometimes be very aggressive and actually harass people who tried to contribute.
+单从这个词语的来源看，提出者是因开发工具现在已经大获成功的这么一群人，他们有时会非常自我，也会非常有攻击性，这些特点实际上会吓退那些其他想要做出贡献的人。
 
 **08:44** - _Saron Yitbarek_
 
-Bonnie Eisenman is a software engineer at Twitter and author of “Learning React Native.” She thinks that the tech community mythologizes the 10X coder, and makes excuses for them.
+Bonnie Eisenman是推特的一位软件工程师，同时也是“Learning React Native”这本书的作者，她认为技术社区对于10X程序员所起的作用过于夸大了，并且社区还为这群人做的错事找借口。
 
 **08:56** - _Bonnie Eisenman_
 
-I think there's always going to be a place within startups for someone who can build a proof of concept really quickly. When you're working at a startup, the thing that you need to do is really quickly build something, get it to market, see if it works, see if it sticks, see if you can raise funding. So I think that we don't need 10Xers exactly. In order to do that, we need people who are able to produce really quickly while still being decent human beings.
+我觉得在创业公司中，一定会为那些能快速做出成果的人留出位置。当你在创业公司工作，你需要做的就是快速做出成品让其进入市场，看它是否受欢迎，看它是否能让你获得投资，所以我觉得10X程序员在这一过程中并不是必需的，要完成上述目标，我们只要找出能快速出成绩的正常人就行了。
 
 **09:22** - _Saron Yitbarek_
 
-So 10Xers are glorified by many people in the tech industry, but specifically by venture capitalists. Why is that?
+据我所知，10X这群人被技术社区的许多人称赞不已，其中风投资本家们夸得最多，你对这一现象有什么看法？
 
 **09:29** - _Clive Thompson_
 
-Well, from a venture capitalist point of view, what are they doing? They are trying to find a small new company that they think is going to produce a product that is just going to become absolutely massive, and they also want it to move incredibly quickly so it beats everyone else. First to market dominates. So that tends to gravitate towards wanting a team that is very small so that it can iterate quickly, and also a team that can sort of do everything, you know, soup to nuts—the whole stack. When I was talking to Marc Andreessen who really believes in 10X, he says it might even be a 1000X, right? He says: "Look at these really big pioneering pieces of software that changed the arc of the entire industry. You know, Photoshop, Doom and Quake, the original video games, the original Netscape team, Microsoft BASIC."
+嗯，从风投资本家的角度来看，他们的目标是什么？他们永远都希望能找到一个小公司，这家公司能靠自家产品迅速壮大并击败其他对手，那首要目标自然是抢占市场，所以，他们自然急需一个小团队。它足够小，所以能快速有所产出，同时他们也希望这个团队最好是什么都能干，无所不能的那种。有次我跟Marc Andreessen聊起这个话题，他相信这种人是存在的，他说未来甚至可能出现1000X，他还说，“看看这些曾经凭一己之力改变整个行业的先锋公司产品，像Photoshop, Doom和 Quake，无数原创游戏，还有Netscape，Microsoft BASIC，有什么是不可能的呢”。
 
 **10:23** - _Clive Thompson_
 
-Very often you're talking about two to, like, three or four people. And he goes: "That's because there's a type of magic that those highly productive people can do when everyone else just gets out of the way, and they can build that crystal palace in their mind." So that's why venture capitalists really love it, because there's a reality, and there's also a great myth that makes for a really good story, too, because they have to take this dog-and-pony show and sell it to other investors. It's really mythologically and narratively great to be able to say, "Here is the brilliant software king who did all this. Here is Max Levchin who single-handedly coded PayPal into existence,” which he really did; he actually created that prototype. He had spent years and years banging away on mobile software and crypto and payment software, and so he just willed that into existence by himself, the first prototype. So the stories really do exist, but they're enormously marketable and mythic for a venture capitalist.
+这么一来，你总能找出那么两三个人符合这一标准，这时候资本家们就发话了：“这些能想到绝佳点子并把它变成现实的人，他们就能做到平常人做不到的事。”这才是风投家们被吸引的真正原因。10X这个概念有它真实的部分，也有为了宣传夸大其词的地方。风投者们只是借势，并把这个概念推销给其他投资者，作为风投者，有天你要是能这么说：“有这么个软件大牛一个人做出了产品，那就是：独自开发PayPal的Max Levchin ”，而且他确实也做到了，他创建了这一产品的原型，他在手机软件，加密算法以及支付软件领域研究多年，最终将自己的想法变成了现实。这样的人和事是真实存在的，这一事实对风投者们有着致命的吸引力。
 
 **11:26** - _Saron Yitbarek_
 
-Venture capitalists might love 10Xers, but it's a different story when you have to work with one.
+风投者们也许会很喜欢10X这群人，但当他们中的一员要和你共事，事情可就不太一样了。
 
 **11:31** - _Saron Yitbarek_
 
-I do think that it is not necessarily the case that one is born a Rick, and lives a Rick, and dies a Rick. I think it is more the case that under different kinds of pressure, people are pushed into different kinds of corners. And for some people, I think particularly people that have achieved a lot of success in the past on their own initiative and through their own work and without relying on other people when things get really tough, you need a community to support you.
+我真心觉得没有必要每次做项目都把人弄得苦不堪言，压力面前大家各司其职就好。那些只靠自己取得巨大成功，并在困难情况下依然能顶住压力的人毕竟是少数，通常来说你需要整个社区都支持你。
 
 **12:01** - _Saron Yitbarek_
 
-Jonathan Solórzano-Hamilton is a Senior Site Reliability Engineering Manager at Procore Technologies. Years ago, before he worked at Procore, he worked with a man he nicknamed Rick. Rick was a 10X coder, and he was a problem.
+Jonathan Solórzano-Hamilton 是Procore 科技公司网站可靠性的一位高级项目经理，几年前，当时他还没入职Procore，他跟一个戏称自己Rick的家伙共事，当然Rick就是个10X程序员，但他似乎无时无刻不在制造麻烦。
 
 **12:17** - _Jonathan Solórzano-Hamilton_
 
-Every week there was a new surprise reason why he hadn't achieved his deadline or hadn't met his quote over bugs closed, or whatnot, that he had agreed to, and it was always the result of somebody else failing to do something that they didn't even know they were expected to do. There was a very, very large portion of the code base to which Rick was the sole contributor. So there was no code review process, it was just Rick pushing up into master if you will, time and again, without any other eyes on that.
+每次周会，他都能想出一个不可思议的借口，这么干的后果是要不他没赶上最终期限，要不他就没能按时解决那些已知bug，项目进展不顺利，那锅一定是别人的。理由就是：公司大部分代码是Rick写的，所以根本没有所谓的代码检查，而且你会发现Rick什么时候提交的代码根本没人知道。
 
 **12:47** - _Jonathan Solórzano-Hamilton_
 
-So the initial commitment that we made was to take two of our most senior engineers and put them side by side with him while he was doing his work, just shadowing and pairing and asking questions. The other developers would report to us, "Well, I came in and I sat down to pair with him, but he had come into work three hours early today and just did the bug fix before I even got in, and then he didn't want to go back and revisit it with me because he said it would take too long to get us up to speed."
+所以后来我们只能这么做：选两个我们公司最有经验的工程师，在他工作的时候坐他旁边，时不时问下项目进展。这时，项目组里其他工程师就会过来跟我们说，“说真的每次要跟他一起工作，我刚坐下他就跟我说他提前三小时就来上班了，我进门之前他Bug都修好了。一旦我想看看他写了什么，他立马就说他写都写完了，不想和我再看一遍，说跟我再讲一遍太浪费时间了。”
 
 **13:15** - _Jonathan Solórzano-Hamilton_
 
-And so we started to take a little bit more of an assertive approach of what if instead, we task them with being sort of the first point of contact and being the owners for different parts of the code base that he currently is the sole owner of. And then the request for changes, or bug fixes, or whatnot would have to go through them first, and then they could escalate to him as needed, but that didn't succeed either. When another developer released a fix to a part of the code that had been broken and causing major problems, he went into the code base and actually reverted that fix because he was pretty angry they had the audacity to touch a part of the code base that hadn't been officially given to them. The real tipping point was the crushing morale problem that his presence made on the rest of the team. The more we tried to get them involved in helping him, the more belligerent and intransigent he became, and it was really a vicious cycle.
+我们讨论后觉得之前的方法太温和，因此我们将其他工程师聚在一起，让他们先了解需求，并将Rick当前维护的核心代码划分给他们，如果我们想修改代码或修复bug,我们会先联系其他工程师，实在不行再跟他说，后来我们发现这样也不行。当其他工程师的代码导致严重问题时，他会直接去代码库将版本回滚，同时他还会相当愤怒，觉得其他人怎么敢动他的东西。其实最大的问题是他的存在对团队士气是种毁灭性打击，我们越想帮他融入团队，他就越暴躁易怒，这就成了个恶性循环。
 
 **14:14** - _Saron Yitbarek_
 
-The product got so delayed that the company eventually fired Rick. After that, team culture improved. The product shipped in six months with very little of Rick's original code left in it, and it was a success. Here's Bonnie Eisenman again, Software Engineer at Twitter.
+项目交付一拖再拖，公司最后还是把Rick解雇了。从此以后整个团队焕然一新，产品最终成型只用了六个月，并且其中只保留了很小一部分Rick的代码，市场反映很不错。这里是Bonnie Eisenman，推特的软件工程师。
 
 **14:32** - _Bonnie Eisenman_
 
-I've seen the sort of wreckage left behind from them. I've seen teams where they think they have a 10Xer on their team. So literally everyone else on the team is just clammed up and frozen and feels like they can't put forth any creative output, which really sucks to observe because you have all these other people who are basically not being mentored and not being grown into better engineers.
+我也听说过这种走之后留下一堆烂摊子的事，通常这种情况发生都是因为队伍里都有这么一个10X程序员。团队里有这么一个人意味着其他人整天都会沉默寡言，感觉自己什么事儿也做不成，而且他们在项目进行期间会一直处在无人指导和无法成长的状态。
 
 **14:53** - _Saron Yitbarek_
 
-So Clive. you talked to a lot of coders for your book. What's the consensus about 10X coders? Are they a necessary evil, or an unnecessary appendage from those old days of coding?
+那Clive，我们知道你为了写书跟很多程序员聊过，他们觉得10X程序员到底是一群什么样的人？他们是时代的宠儿，还是编程旧时代的老古董？
 
 **15:05** - _Clive Thompson_
 
-I've found that people are very divided about this question of 10X coders. There is a chunk of people who strongly believe it's true that a minority of coders are wildly more productive and creative than the others, and that everything should be done to hire them and give them as much work as you can. And there was another cohort that thinks that is absolute nonsense and that this is just a bunch of Ricks, right? You know, people who are talented, yes, but just so belligerent and terrible and full of themselves that it destroys morale for the rest of the company. It creates bad code because they're writing a ton of stuff that no one else has set eyes on. There's also the point of view, which I think is true even for people that call themselves 10X coders, which is that there'll be like, "Look, I'm amazing and I generate a ton of stuff and I get the prototype done. But you know, it's going to be a bit of a mess because I'm just working so fast and so intensely."
+我发现大家对这个群体的看法可以说是大不相同，一部分人十分确信有一小撮人比其他人都更有创造力，能雇佣到这样的人花多大代价都是值得的；另一部分则认为这纯粹是胡说八道，就是一群像Rick一样的人聚在一起，大家都知道这群人有才，不过性子实在是太糟太自我，他们的存在还会影响到整个公司。代码出问题不就是因为他们写了一堆，但提交根本没人管所导致的吗？还有一个问题，我觉得即使是10X程序员也不得不承认，“嘿，我知道我挺厉害，我写了挺多代码，雏形已经出来了，但伙计我写的时候太快了时间又紧，可能代码看上去会有点乱。”
 
 **16:04** - _Clive Thompson_
 
-Max Whitney, she's been working for 20 years in all sorts of companies. She says: "They're just great at generating technical debt for everyone else to clean up." Yes, they sling a ton of code, but you're going to spend years fixing the mess. I think what I've found is that people are really at a point in time when they are very divided about this myth, and whether or not it's worth accommodating people who conform to that myth.
+Max Whitney在这行已经干了20年了，她说过：“这种人只会留下一堆技术问题，还得让别人给他擦屁股。” 事实就是如此，他们倒是轻轻松松写了一堆代码，但你可能得花数年时间来解决里面的问题。人们在对待10X这群人时态度有很大分歧，对是否愿意迁就这帮人也心存疑虑。
 
 **16:31** - _Saron Yitbarek_
 
-So for managers who do end up hiring 10X coders, what can they do to keep them in check and get the most value out of them?
+那么对于最终决定雇佣10X程序员的经理们来说，怎么才能管束这群人并确保他们人尽其才呢？
 
 **16:39** - _Clive Thompson_
 
-If you have someone who really is genuinely talented in that Max Levchin like way, where they're really good, they've done their 10,000 hours and more, they think deeply about the stack. There's two things you want to do, you want to keep them in check, and you want to maybe also take advantage of what they're great at and make that really fantastic for the rest of the company. Some of that is just good management, it's not tolerating \*\*\*hole behavior in your company. Setting that standard up high, and making sure that it applies to everyone, even the 10Xers. The second thing is making sure that they don't get locked in a box where they're just producing stuff and no one else knows what's going on. So code review, pair programming, all that stuff.
+如果你团队里的确有像Max Levchin 说过的那种厉害角色，他们在这行工作时长超过一万小时，想法也很多，那此时你需要做两件事，其目的只是让你了解他们的状况，这样一来你既可以充分利用他们的长处，同时还能让公司获取最大利益。第一，好的管理，这并不意味着你要容忍公司里出现一些\*\*\*蛋行为，制定高标准，让所有人都以此为准则，即使是10X程序员也不能例外；第二，他们产出的东西不能只让他们自己知道，所以最好让其他人也参与进来，比如代码审查，合作编程等等。
 
 **17:27** - _Clive Thompson_
 
 Now the other side of the equation, which is like, okay, if you've got someone who's really productive, can you maximize what's good about them? In the smartest companies, what they look for is not just someone who's 10X in their technical capability, but 10X in their social capability, which is to say they are not just great at writing their own code, but they're great at helping everyone else write the best code, too. And these are, like, what you could really call the real 10Xers, the people who are masterful in writing code and thinking about the stack and are masterful at helping junior developers develop, at unblocking other people, and very often I heard stories from companies that they had someone who was just absolutely fantastic in that way.
 
+现在从另一个角度来看，好，有能力的人你已经找来了，你能让他们充分发挥能力吗？在那些世界知名公司里，招人不仅仅只看他的技术能力，同时公司希望他们的人际交往能力也能称得上是10X。这样的人不但技术能力出众，他们还能帮助其他人充分发挥自己的实力。所以真正意义上的10X编程者不仅编程能力过硬，思考全面，同时还能帮助初级开发者快速成长，我经常能听到在公司里有这样出色能力的人出现。
 **18:13** - _Clive Thompson_
 
-They were great at doing the work, and they were incredibly generous and amazing at working with other people. And they would say to me that, like, "Sure, I'm getting, like, 1000 hours of work out of 10 hours of this person's coding time. But when they talk to, like, 10 other developers, I get 10,000 hours out of them, because those people go back in their own block, and they know more.” Those are the people that are the real, true 10Xers—that are enormously valuable, and those are the ones that companies ought to be trying to find.
+他们对自己的工作十分擅长，在与其他人合作时也表现的非常出色，并且他们会这么跟我说：“当然，我需要抽出我工作时间的百分之一来跟他交流，大概就是1000小时里抽10小时，但这样帮助了10个开发者以后，我能得到相当于10000小时工作量的产出，究其原因，这样的交流会让其他人也受益匪浅。”这类人才是10X群体中真正宝贵的部分，也是公司极力想获取的资源。
 
 **18:44** - _Saron Yitbarek_
 
-Greg Sadetsky.
+Greg Sadetsky，你也说说吧。
 
 **18:45** - _Greg Sadetsky_
 
-I'll never defend anybody who's being a jerk regardless of their brilliance or absence of brilliance. Is that related to specifically 10Xers and software? I'll play the role of the optimist. I think that the most beautiful and proper definition of somebody who's truly good, and an inspiration, and somebody who's this leader that also is defining new things, inventing new things, creating things that were not possible before—a part of that definition needs to include that they are also a human with empathy.
+我可不会因为一个人的聪明程度来决定要不要为他们的混蛋行为找借口，这种人只在10X程序员和软件行业里出现吗？我看不尽然。我觉得这个词定义的是一群善良的，充满激情的，善于发现并创造新鲜事物的，拥有同理心的可爱的人们。
 
 **19:29** - _Saron Yitbarek_
 
-Remember when Jonathan's team fired the 10Xer he called Rick? Here's what happened within the company after that.
+还记得Jonathan的团队解雇了一个叫Rick的10X程序员吗？故事还有后续。
 
 **19:36** - _Jonathan Solórzano-Hamilton_
 
-Under Rick's regime, anytime somebody would speak up and say, "Hey, I think we could solve it this way," the feedback was biting and cruel and swift, that they really shouldn't even bother speaking up at all. It took a little time for people to come out of their shells a bit, and realize that it was actually safe to start talking about solving the problems collaboratively again. But the team started having big planning meetings, and multiple days of just bantering and sharing ideas and putting things up on the whiteboard and taking them down, and that willingness to be open and communicate and share one's ideas was probably the biggest factor in kind of turning it around. Then people started to feel more comfortable, more healthily confronting each other with different ideas or opinions, or being able to hash things out in a constructive and positive way, with the understanding that respect for each other underlaid every disagreement.
+经历过Rick事件后，只要有人这么说：“嘿，我觉得我们可以这么解决问题，”那肯定连个搭理他的人都没有，这么说话根本没用。大家花了点时间才不再保持沉默，意识到在众人面前说出解决方案并一起合作才是正常的。不过整个团队开始经常开会，连续好多天都在闲聊，不停地有人提出新点子，写到白板上后又被否定，这种开放式交流慢慢开始影响整个团队。接下来人们开始越来越放松，面对面地交流，不同思想的碰撞，这些都在一步步将事情带向正轨，每一次讨论都基于对彼此的尊重。
 
 **20:38** - _Saron Yitbarek_
 
-Clive, what's the opposite of a 10Xer?
+Clive,那10X程序员的反面是什么？
 
 **20:41** - _Clive Thompson_
 
-Well, the joke is it's a 1Xer, right? It's someone who works at exactly the pace of a normal developer. But I think if you wanted to be more clear, people who told me proudly that I'm not a 10Xer I'm a 1Xer, I think their attributes are often that they're the person that is actually the sort of careful, thoughtful developer, who instead of just thinking they can sort of accomplish this all in one sudden romantic evening of bashing out a prototype, is, like, "No, no, I want this thing to work and to scale and to be reliable. I want my code to be readable by other people because they know that coding is a team sport." And so they are working much more patiently and carefully. They are talking all the time to everyone else on their team.
+哈哈，不是有个开玩笑的说法叫1X开发者吗？这就是对一个普通程序员最好的描述，但我可以再说明白点，那些骄傲地告诉我自己不是10X而是1X的人，我认为他们更像那种做事细心认真，而不是想着自己一个晚上就能弄出产品原型的那种人。他们会说：“不不，我想认真小心地做事，我想让别人在看到我代码的时候能明白我在做什么，我知道编程永远都需要团队合作。” 他们工作时会相当耐心谨慎，他们也很愿意和团队中的其他人保持交流。
 
 **21:28** - _Clive Thompson_
 
-So everyone knows what everyone else is doing when they write the code, it's written for other people as well as the machine. So someone else can come in and read it later on. And they often have a really great sense of humor, they're good to work with, they're really good people. They're humble about what they don't know and eager to learn it.
+这么一来大家都能理解彼此的工作，解释是为了代码运行，也是为他人行方便，当别人接触到代码时就能看到这些。这样的人往往很幽默，也很好相处，他们是非常好的人，同时也非常谦虚，喜欢学习新鲜事物。
 
 **21:45** - _Jonathan Solórzano-Hamilton_
 
-I'm a 0X coder, because I'm a manager now, so I don't really get to roll up my sleeves a whole lot. But if I were to put myself in that pigeon hole, I would say that I hope I'm a 1.1X coder, and that I hope that I add 10% to everything that I touch instead of trying to do it all myself.
+我现在只能算是个0X程序员，因为我干经理了，所以我现在也不怎么自己动手编程了。但如果非要用程序员的标准评价一下我自己，我倒希望自己是个1.1X程序员，那多出来的10%是因为我不想什么事都自己干。
 
 **22:06** - _Saron Yitbarek_
 
-Brianna Wu is a software engineer and entrepreneur. She founded the game studio, Giant Spacekat.
+Brianna Wu 是位软件工程师和企业家，她也是游戏工作室Giant Spacekat的创始人。
 
 **22:13** - _Brianna Wu_
 
-I'm absolutely a 1X coder. There are plenty of people out there that have a broader knowledge of frameworks and languages. I have always felt my best skill, when it comes to tech, is not my ability to sit down and pour out perfect, great code that doesn't need someone else to look over it and make sure it's good. My skill has always been figuring out the roadblocks. I've always been that person that can step up and adapt and get things done.
+我绝对是个1X程序员，有太多人框架和语言储备量比我高了。我觉得我技术最厉害的地方不是说我能坐下来在没人复查的情况下，唰唰唰地写出完美代码，而是找出难点，循序渐进，逐步让一切趋于完美的那种人。
 
 **22:48** - _Saron Yitbarek_
 
-So Clive, can successful companies be led by 1Xers?
+所以Clive,成功公司里大多都是1X程序员吗？
 
 **22:52** - _Clive Thompson_
 
-So one guy I talked to, Dennis Crowley, he's a friend of mine, and he created, back in the early aughts, Dodgeball. And he essentially created the idea of the check-in. It was a little service that lets you say, "Hey, I'm at this bar, I'm at this restaurant." And he is, as he told me, the worst coder he has ever met in his entire life. He could not get anything to compile. And he kept on trying to learn and failing and trying to learn and failing, and he was at companies and they would try and teach him and they would give up on it. So finally, he wanted to make this crazy check-in service, he had the idea in his head because he was a nightlife guy from New York. He loved going from bar to bar and he loved the idea.
+我跟一个叫Dennis Crowley的人谈过，他是我一个朋友，他很早以前创立了Dodgeball，也是他第一次提出了检查这个概念。DodgeBall提供的服务就像你对别人说，“嘿，我今天去了个酒吧，” 或是，“我今儿去了个餐馆”这种话。他告诉过我这么一件事：他这辈子遇到过的最差劲的程序员就是他自己，写出来的代码根本不能用，他倒是尝试过向别人学习，不过试过的方法一个都没成功；他也去找过公司，公司也确实派人来指导过他，不过最后来的人也放弃了。最后的最后，这哥们儿终于受不了了，他提出了代码检查这个主意，之所以想出这个点子是因为他是个来自纽约的夜猫子。他喜欢在各个酒吧出入，而且超喜欢自己的这个主意。
 
 **23:32** - _Clive Thompson_
 
-What if everyone could communicate where they were at? Like wouldn't that just be fun? And so because he had that idea, he was willing to force himself to make some crappy prototype, and he did it. He basically learned how to program server stuff in ASP. It's just a hairball of code, like, he's shown it to people and they just laughed at him. But he got it working and it turned into not just a company, it turned into an entirely new activity. That's something we all do all the time now. He created that idea, he's a terrible coder by his own admission, but if you have a really great idea, and you're a proud 1Xer, you can tilt the axis of the universe just as much, and maybe even more, than the 10Xers.
+要是每个人能不受地点约束随意交流呢？这样会不会很有意思呢？这人脑子里出现了这么一个想法，他开始强迫自己构建一些糟糕的雏形，他也确实这么做了，不过他基本上就只学会了在ASP下编程.他的代码杂乱无章，他也把自己写的东西给别人看过，却换来了他人的无情嘲笑，但后来他不仅仅把这点子局限于公司层面，他甚至用它影响了整个行业，我们现在还在沿用他的做法。想出这个点子的人他本身编程很差，但要是提出好点子的人本来就是个出色的1X 程序员呢？那么他一定能改变世界，他的成就一定比那些10X程序员还要高。
 
 **24:09** - _Saron Yitbarek_
 
-Is that an anomaly or is that a common thing that can happen?
+上述情况是个例还是经常发生？
 
 **24:15** - _Clive Thompson_
 
-I have very frequently run into founders and I said, "So tell me your story." They're, like, "Well, I'm not a great programmer, but I had this idea, so I just kind of made this crude prototype, and it worked well enough that then we got some real developers on and now the whole thing scales and it works." So, I think if you scratch the surface of a surprising number of successful startups, you'll find people who by no means would call themselves 10X coders: they would actually call themselves 1X or less, but they got things moving.
+我经常去和创业者们交谈，然后让他们给我讲讲自己的创业故事，他们一般都会这么说：“是，我确实算不上什么好程序员，但我有好点子，我手头上只有个雏形，但在经过一些程序员的辛勤劳动后，这个点子从想法变成了现实，而且做出来的产品还挺好。” 这么说吧，如果你去细细品味那些成功的创业故事，你会发觉创业者们从不自称10X程序员；他们会叫自己1X，0点几程序员，但他们确实是改变世界的那群人。
 
 **24:50** - _Saron Yitbarek_
 
-As an industry, are we moving away from glorifying 10X coders and supporting these 1Xers?
+从整个行业来看，我们会少夸点10X程序员并转而支持1X程序员们吗？
 
 **24:57** - _Clive Thompson_
 
-I would say I am hesitantly optimistic that, yes, we are. And I think it's for a couple of reasons: one is that there's been enough attention paid to the toxic side effects of tolerating abuse of creative \*\*\*holes. In one respect, one of the greatest things that Susan Fowler, who was that fantastic microservices engineer hired at Uber, and she was hired and she discovered that it was just a complete nightmare of an environment, where all these abusive guys up top were tolerated while they engaged in terrible behavior, including flat out sexual harassment, and she wrote a big blog post about it, and it single-handedly created the shockwave throughout the tech industry saying, "Wow, this stuff is happening, and it's unignorable, and it's driving talent out of companies."
+我本想说情况不容乐观，但实际上我们确实在这么做了，我认为有几个原因促成了这种进步：第一，已经有足够多的人注意到了某些*蛋的操*行为,这一点从人们对Susan Fowler，这位Uber出色微服务工程师的关注上就能体现出来，她发现这类人简直就是行业噩梦，他们会干出各种恶心透顶的事情，连性骚扰都能做得出来，为此她写了篇长博客，其内容冲击了整个技术行业。现在人们都在说：“这种事情已然发生我们不能坐视不管，这么下去人才只会一直从公司流失。”
 
 **25:50** - _Clive Thompson_
 
-Now, did that change the behavior of these companies towards tolerating 10Xers who were terrible? Certainly not always, but it did wedge that door open in a really interesting way. And you've also found, I think, an awful lot of companies I know where people have peeled off from a larger organization where there was a lot of abusive 10Xers around and tolerated and they said, "Screw that, I'm going to start my own company."
+你问我这样的事件改变了某些公司对恶习满满10X程序员们的态度了吗？当然没那么快，但它的确让事情变得有趣了起来，你会发现许多跟糟糕的10X程序员共事的人选择从大公司辞职，他们的态度是：“去他丫的，我自己单干了。”
 
 **26:19** - _Bonnie Eisenman_
 
-Yeah, I think the needle is moving. I also think that the Me Too movement is finally having a really strong impact on what people perceive as acceptable in technology, and now people are willing to say: "Even if you've contributed good work, we don't think that's worth the opportunity cost of you creating a toxic environment and therefore making it impossible for other people to also contribute good work." So I get the sense that something is actually changing. I really hope it does.
+啊，我认为事情在发生变化，我认为Me Too运动终于让人们意识到技术行业也需要一个良好环境，现在人们愿意这么说：“即使你工作很出色，我们还是觉得你让整个环境变糟并让其他人都无法正常工作的行为，不值得我们留下你。” 我觉得改变正在发生，我希望这是真的。
 
 **26:44** - _Saron Yitbarek_
 
-The story of 1X coders is really the story of most of us out there. It's about how collaboration and contributing can achieve great things on the command line, not about hoarding the command line. Here's Brianna Wu with some final thoughts.
+1X程序员的生活才是我们大多数人的日常写照，通过电脑大家一起合作为技术做贡献，而不是某些人独自霸占编程机会，这是Brianna Wu的最终总结。
 
 **27:00** - _Brianna Wu_
 
-There was a line in a James S.A. Corey novel that came out last year, and I heard this, and I loved it. It said, "As you get older, you have to choose between being who you want to be and who you are. And that's a choice that you have to make." And I think for a lot of engineers, if you are kind of low on the self-introspection scale, it's easiest to say, "I'm going to just be who I am. Gruff, antisocial, telling myself I'm really great at this." There are tons of fantastic people in our field that stay there.
+James S.A. Corey 的小说里有句话，我听了特别喜欢，“当你年纪渐长，你必须要在理想和现实之间做出选择，这是你必将面对的抉择。” 我觉得很多青少年都这么说过，如果他们恰巧还是那种很少自省的那种人，语气差不多是这样的，“我就要做我自己，俯视一切，我跟你说我很擅长这个的。” 我们这行好多牛人现在就是这个状态。
 
 **27:34** - _Brianna Wu_
 
-I think the true standout stars are the ones that really look deep within themselves and go, "Okay, I can understand the coding part of this, what do I need to then go understand about human nature? What do I need to understand about how to motivate a team? What do I need to understand about how to not let the worst parts of myself affect the projects that I'm working on?" I believe that's the bravest choice that you can have in software development. Like those are the people that I want to work for.
+我认为真正值得尊敬的那种人是会认真反思的，“我现在能理解这部分的编程逻辑，很好，我接下来是不是该看看人们为什么要这么做？我怎么做才能提升整个团队的能力？我怎么做才能使自己的工作状态不受自身情绪影响？”在软件行业，我认为能这么思考的人都是非常勇敢的，这才是我想为之工作的那一类人。
 
 **28:08** - _Saron Yitbarek_
 
-Command Line Heroes is an original podcast from Red Hat. Thank you, thank you, thank you to Clive Thompson, my featured guest throughout our special series on The Career Of A Coder. You are the best Clive, tell us how we can get your book?
+代码英雄是红帽的一个系列原创播客。谢谢，非常感谢Clive Thompson，作为我们程序员特别系列的荣誉嘉宾，你是最棒的，Clive,跟我们说说在哪儿能买到你的书？
 
 **28:23** - _Clive Thompson_
 
-Oh, that's a great question. Right now, given that we have an epidemic going and people are doing social distancing, you are probably ordering the book online. You can also find a lot of links at my website, [Clivethompson.net](//clivethompson.net/), but however you get it, I appreciate it, and do let me know anyone out there after you've read it what you think, I am easy to find online.
+哦，这是个好问题，现在正是病毒流行时期，人们出行都应该保持社交距离，大家最好在网上购买书籍，你也可以在我的网站上找到书的链接[Clivethompson.net](//clivethompson.net/)，但不论你以何种方式买到了书我都很高兴，如果你读完后有什么想法请一定要告诉我，在网上很容易就能找到我。
 
 **28:45** - _Saron Yitbarek_
 
-For more research and information about this season, go to redhat.com/commandlineheroes. And stay tuned for Season 6! We’ll be telling you the stories of 8 inventors who created technology that is now standard in our daily lives. You won’t want to miss it!
+想要了解这一系列的更多资讯，请访问 redhat.com/commandlineheroes ，记得收看第六季！我们会向大家讲述8位发明家的故事，他们发明的技术在我们的日常生活中随处可见，你绝对不想错过！
 
 --------------------------------------------------------------------------------
 
