@@ -28,7 +28,7 @@ Command Line Heroes: Season 4: 更智能的电话: 掌上电脑的旅程
 
 **02:43** - _Saron Yitbarek_
 
-在20世纪90年代早期，Ed Colligan 还是 Plam 公司市场部的<ruby>副总裁<rt>VP</rt></ruby>。这是一家由 Jeff Hawkins 创建的初创移动软件公司。即那位口袋装着一块木头到处走动的人。
+在20世纪90年代早期，Ed Colligan 还是 Plam 公司市场部的<ruby>副总裁<rt>VP</rt></ruby>。这是一家由 Jeff Hawkins 创建的初创移动软件公司。就是那个揣着木块到处走的人。
 
 **02:57** - _Donna Dubinsky_
 
