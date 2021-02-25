@@ -76,68 +76,68 @@ Palm 公司认识到，如果他们可以用自己生产的硬件，运行他们
 
 **05:46** - _Donna Dubinsky_
 
-它们并没有主动连接任何东西，因此如果你在你的 Sion 以及 Casio Wizard 中有一个通讯簿，那么在你的电脑上将不能对你的地址簿做任何操作。为了替代标准手持单机计算机，我们把它作为你电脑的一个附属物。一个你电脑之上的窗口，一种获得你电脑一小片的方式，并且是以同步功能为核心的。
+它们并没有主动连接任何东西，因此如果你在你的 Sion 以及 Casio Wizard 中有一个通讯簿，那么在你的电脑上将不能对你的地址簿做任何操作。我们并没有把它定位为独立的标准手持设备，相反的，我们把它定位为电脑的一个附属物。一个你电脑之上的窗口，能够把电脑的一部分随身携带，这样的定位让同步功能成为核心。
 
 **06:13** - _Saron Yitbarek_
 
-此外，为了构建一个移动备忘记事本设备，Palm 想把它（PDA）与一个同步设备搭配使用，这样你就可以将这个移动备忘记事本设备插入你的电脑来更新信息。
+除了构造移动备以外，Palm 公司希望它（PDA）有与其他设备配对的能力，比如说将其插入电脑就可以更新信息。
 
 **06:24** - _Rob Haitani_
 
-这在那时候似乎是非常具有压迫性的。这有25个人，硬件方面非常……坦白地说，它是资本密集型的并且在当时是一个十分令人生畏的挑战，你需要许多投资，你需要时间，你需要采购。
+那时候要实现这样的目标非常困难。只有25个人，当时的硬件非常……昂贵，你需要许多投资，你需要时间，你需要采购，坦白讲，这是非常大的挑战。
 
 **06:40** - _Saron Yitbarek_
 
-这是 Rob Haitani ， Palm 的产品经理。并且这在当时是 Donna Dubinsky 对 Rob 团队的考验。
+听完 Palm 公司的产品经理 Rob Haitani 的分享。接下来再听 Donna Dubinsky 介绍一下他对 Rob 团队的考验。
 
 **06:47** - _Donna Dubinsky_
 
-并且我们希望从一个操作系统、应用软件、硬件同步软件，或者任何对公司有效的软件来开始建立。因此，当我回过头来看时发现，这些对于一家小公司来说，同时使用这些软件，并且让它们一起协同工作则是非常冒险的行为。
+我们既想设计操作系统、又要开发应用软件、还得研究硬件协同软件，每项都够一个独立公司喝一壶。现在回想起来，一家小公司，要同时完成这些目标，是非常大胆的想法。
 
 **07:14** - _Rob Haitani_
 
-这就是为什么人们到硅谷去的原因。就像你将要创建一个全新的行业一样。并且，就像IBM、苹果以及微软这样的公司也都曾经在这个东西上失败过。因此，是什么让你们这25个人认为你们可以成功？并且你们要知道，对于硅谷中的人们来说，没有什么能比直接告诉他们无法做到更能激发他们的灵感了。我们曾经坚信 Jeff 的愿景，并且 Jeff 对他的愿景有什么清晰的规划。以及，我真正产生共鸣的是以客户为中心。他说，“不要构建技术给客户，客户需要个性化的解决方案。”
+这就是人们来硅谷的原因。在这里你可以颠覆整个行业。像 IBM、苹果和微软这样的公司都失败了，是什么让这 25 个人自信可以成功？要知道，对于硅谷人来说，没有什么比告诉他们无法做到某件事更能激励他们。我们坚信 Jeff 的愿景， Jeff 对他的愿景也有清晰的规划。实际上，最让我产生共鸣的是他们“客户至上”的理念。他说，“不要构建技术给客户，客户需要个性化的解决方案。”
 
 **07:45** - _Saron Yitbarek_
 
-这就是客户优先的理念。它激励着 Jeff Hawkins 自己雕刻了小工具大小的木头块。
+正是顾客至上的理念激励了 Jeff Hawkins ，让他雕刻出了那个木块。
 
 **07:54** - _Rob Haitani_
 
-因此，他想把这个东西放进口袋中，这样它们就可以参加会议。并且他有一支木制的小笔，然后他会假装自己在尝试模拟这种体验。因此，我们会假装在它上面写点什么，并且人们会用奇怪的表情看他。Jeff，你知道的，因为你正在一块木头上写东西。我认为这使他对这种东西有了深刻的领悟，即它究竟是什么样，以及体验是什么样的。
+他把小木块放进口袋中，带着它参加会议。拿出木制的触控笔，模拟这种体验。我们假装在上面写字，人们会用奇怪的表情看他。Jeff，你知道的，因为他正在一块木头上写东西。我认为这使他有了深刻的领悟，关于使用移动设备的体验。
 
 
 **08:16** - _Saron Yitbarek_
 
-那个小木块启发了一些核心设计标准。首先，它的大小必须适合放入T恤的口袋。其次，它的售价必须低于300美元。最后，它写东西必须比纸和笔更快。你可以立刻打开并使用它。下面 Ed 和 Rob 将会把 Palm 的设计方法与竞争对手的进行比较。
+在小木块的启发下，我们有了一些核心设计标准。首先，它的大小必须适合放入口袋。其次，它的售价必须低于 300 美元。最后，它写东西必须比纸和笔更快。你可以立刻打开使用它。下面 Ed 和 Rob 将会把 Palm 的设计方法与竞争对手的进行比较。
 
 **08:41** - _Ed Colligan_
 
-其他所有人都在试图建立这种独立设备，因此他们说：“噢，我们需要扩展卡来增加内存。” 或者他们会说：“我们不得不增加一个键盘。” 并且，基本上我们会说：“不，我们将会把这种设备挂在PC上，并且我们将会立即同步PC和这种设备之间的信息。”
+竞争对手都在设计独立设备，因此他们说：“噢，我们需要扩展卡来增加内存。” 或者他们会说：“我们不得不增加一个键盘。” 而我们基本上在说：“不，我们把它连接到 PC 上，我们会快速的同步两者的信息。”
 
 **09:00** - _Rob Haitani_
 
-Jeff 则是一个持完全相反观点的人。他说，您要解决的问题是它太慢了。那么，传统的观点就是增加一个更快的处理器。他则采用了其它的方法，即，如何使它对客户来说更快？这不仅与硬件有关，而且如果你可以将软件优化的既微小又轻量级，那么这将会成功。然后产生自身的螺旋效应：体积越来越小，重量越来越轻，电池也越来越耐用。因此，我们开发出了这种精简步骤以及对效率至关重要的设计哲学。
+Jeff 总是一个有独到见解的人。比如他说，现在的问题是它运行太慢了。那么，传统的解决方案是换一个更快的处理器。他则采用了其它的方法，即，如何让用户感觉更快？这不仅与硬件有关，事实是如果你让软件也变得轻薄，那么它将会成功并产生螺旋效应：体积越来越小，重量越来越轻，电池也越来越耐用。因此，我们开发了精简步骤和效率至上的设计哲学。
 
 **09:37** - _Saron Yitbarek_
 
-他们甚至给他们的设计哲学起了个名字：“Palm 的禅”。 他们编写了整个设计导言以及所有内容。设计 Palm OS 平台过程中所涉及的新概念和新的思维模式则与大型机器的不同。对于PC来说，特性越多越好。但是掌上电脑则是另一种生物。根据Palm的禅的定义，掌上电脑应该与用户有关。功能应当突出重点，并且设备应当可以在任何地方使用。
+他们甚至给他们的设计哲学起了个名字：“Palm 之禅”， 并且编写了设计宣言。设计 Palm 操作系统平台涉及到与设计大型机器不同的新概念和新思维方式。对于 PC 来说，特性越多越好。但是掌机则是另一种生物。根据 Palm 之禅的定义，掌机应该以用户为中心。功能应当更加聚焦，设备应当可以在任何地方使用。
 
 **10:11** - _Rob Haitani_
 
-How do you fit a mountain into a teacup? You want to find the diamond in the mountain and put that in the teacup. The purpose of a design for a small screen is not to take a desktop PC, full-functional design, and cram it and miniaturize it. It was to take the nuggets that you really needed at any time and put that on the screen. And the way we addressed that was, we literally would step through every task and say what absolutely has to be on the screen.
+这就好比，你不可能把整座大山装进茶杯，但你可以在上山找到钻石，把钻石装进去. 我们的设计目标不是把整个 PC 的完整功能压缩填充到一块小屏幕上，而是把用户任何时候都要使用的核心功能实现在上面。为了实现这个目标，我们几乎把所有的功能讨论了个遍，最后决定哪些必须留在上面。
 
 **10:41** - _Saron Yitbarek_
 
-Reducing the amount of buttons on any given page allowed for a smaller screen, and Rob's team drastically reduced the number of taps it took to execute function.
+因为减少了按钮的数量,所以屏幕可以设计的更小，与此同时 Rob 团队优化了操作流程，大大减少了点击次数。
 
 **10:52** - _Donna Dubinsky_
 
-He literally would go through every screen and every function and see how he could reduce the taps. An example I like to use is that rather than three-tap—turning on a device, hitting a calendar app, hitting the date for today—this was one of the most common things you wanted to do. What if you could just press one button, and this button would turn on the device, take you to the calendar app, and show you today? It was a “today button.” And now, again, these sorts of things seem obvious, but at the time, this was quite radical. That was not how you interacted with devices. So, that took tremendous coordination between the hardware and the software.
+他几乎亲自体验了所有的功能，绞尽脑汁的想要办法减少点击次数。举个例子：三击打开屏幕，点击日历 app,点击今天的日期，这是你最常做的操作。要是有一个“今日”按钮，点一下就会自动打开屏幕，打开日历并展示当前日期该有多好。这些显而易见的事情，在当时是相当激进的设计。人与设备交互不应该是这种模式。硬件和软件之间还存在巨大的协调空间。
 
 **11:35** - _Saron Yitbarek_
 
-Within 18 months, Palm had done the seemingly impossible. They had a prototype with beautifully synchronized hardware and software. And they'd done it with only $3 million. But there was one problem. It was their last $3 million. Palm had an amazing new handheld computing device, and they were flat broke. The Palm team's hail-Mary solution to keep on financing their new product was to sell the company to US Robotics in 1995. It was the only way they could get this new connected organizer, which they dubbed the PalmPilot into the hands of customers. And they knew there'd be customers. Here's CEO Donna Dubinsky, remembering what happened when Jeff Hawkins unveiled the “PalmPilot” at a tech conference.
+短短 18 个月内，Palm 公司便完成了看似不可能的事情。他们有一个硬件和软件完美同步的原型机。而他们只用了 300 万美元就做到了。但这也是他们最后的 300 万美元，虽然他们有了令人惊叹的新型手持式计算设备，但他们濒临破产。Palm 团队为继续融资而采取的孤注一掷的解决方案是，在 1995 年把公司卖给 US Robotics。这是他们让这个新型设备(他们将其命名为 PalmPilot )面世的唯一途径。他们知道这很有市场。首席执行官 Donna Dubinsky 回忆起 Jeff Hawkins 在一次技术会议上发布 PalmPilot 时发生的事情。
 
 **12:37** - _Donna Dubinsky_
 
