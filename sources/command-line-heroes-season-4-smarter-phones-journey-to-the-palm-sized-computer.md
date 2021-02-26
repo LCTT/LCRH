@@ -223,7 +223,7 @@ Palm 公司在其上预装了名叫 Graffiti 的手写识别软件，记住，�
 
 **18:43** - _Saron Yitbarek_
 
-当时一群为 Mac 的台式机开发软件的开发者，转而为 Palm 创建应用生态系统。
+当时一群为 Mac 的台式机开发软件的开发者，转而开始为 Palm 创建应用生态系统。
 
 **18:52** - _Chris Dunphy_
 
@@ -239,7 +239,7 @@ Palm 公司在其上预装了名叫 Graffiti 的手写识别软件，记住，�
 
 **19:50** - _Donna Dubinsky_
 
-实际上，短短 18 月的时间里，我们卖出了 100 万台，这是当时美国历史上新产品增长最快的一次。18 个月内生产了 100 万台，这太惊人了。
+实际上，短短 18 月的时间里，我们卖出了 100 万台，这是当时美国历史上销售量增长最快的产品。短短 18 个月内生产了 100 万台，这太不可思议了。
 
 **20:01** - _Saron Yitbarek_
 
@@ -251,7 +251,7 @@ Palm 公司创造了全新的硬件类目。他本应是这场游戏的赢家。
 
 **20:53** - _Saron Yitbarek_
 
-他们相信自己的愿景。于是，在他们帮母公司革新市场后，Jeff Hawkins、Donna Dubinsky、Ed Colligan 还有 Rob Haitani 等人离开了 Palm ，成立了一家新公司，名叫 Handspring。他们把 Palm OS 安装到他们新的掌机上。他们曾创造巨人，现在，他们打算用自己的操作系统，以大卫和歌利亚的方式打败他。Handspring 在 1999 年获得独立并发布了新的硬件产品——名为 Visor 的全新系列 PDA。Visor 内置 Palm OS。Ed Colligan 还记得这款新设备大受欢迎。
+他们相信自己的愿景。于是，在他们帮母公司革新市场后，Jeff Hawkins、Donna Dubinsky、Ed Colligan 还有 Rob Haitani 等人离开了 Palm ，成立了一家新公司，名叫 Handspring。他们把 Palm OS 安装到他们新的掌机上。他们曾创造巨人，现在，他们打算用自己的操作系统，以大卫和歌利亚的方式打败他。Handspring 在 1999 年获得独立并发布了新的硬件产品：名为 Visor 的全新系列 PDA。Visor 内置 Palm OS。Ed Colligan 还记得这款新设备大受欢迎。
 
 **21:48** - _Ed Colligan_
 
@@ -259,7 +259,7 @@ Palm 公司创造了全新的硬件类目。他本应是这场游戏的赢家。
 
 **21:53** - _Saron Yitbarek_
 
-Palm 公司的硬件销量受到了这一举动的打击。讽刺的是，正是 3Com 决定将 Handspring 拆分为独立公司的，这正合他们心意。值得欣慰的是，Palm 公司的操作系统运行在 90% 以上的掌上电脑上。事实上，有很短的一段时间，Palm 的市值超过了福特和通用汽车的总和。人们认为它会成为下一个微软。当然，Handspring 这时也有自己的计划。
+Palm 公司的硬件销量受到了这一举动的打击。讽刺的是，正是 3Com 决定将 Handspring 拆分为独立公司的，这正合他们心意。值得欣慰的是，当时 90% 以上的掌上电脑上，运行着Palm 公司的操作系统。事实上，有很短的一段时间，Palm 的市值超过了福特和通用汽车的总和。人们认为它会成为下一个微软。当然，Handspring 这时也有自己的计划。
 
 **22:23** - _Donna Dubinsky_
 
@@ -287,8 +287,8 @@ Steve 在白板上画了一台<ruby>麦金塔计算机<rt>Macintosh</rt></ruby>�
 
 **24:40** - _Saron Yitbarek_
 
-在他们等待智能手机的时代到来时，他们有另一个更紧迫的问题。2001 年，科技泡沫破裂，股市暴跌，资金短缺，投资枯竭。这威胁到了 Handspring、Palm 以及几乎所有产品的未来。
-所以<ruby>万福玛利亚<rt>hail-Mary</rt></ruby>，为了制造 Treo, Handspring 合并回 Palm 公司。这来回的折腾也让我有点头晕。但 Treo 作为Palm 的主力产品，成为了市场上最受欢迎的智能手机。当然，在那个时候，Palm OS 已经开始显老。<ruby>黑莓公司<rt>Blackberry</rt></ruby>这样的新玩家进入了这个市场。
+在们等待智能手机的时代到来时，他们有另一个更紧迫的问题。2001 年，科技泡沫破裂，股市暴跌，资金短缺，投资枯竭。这威胁到了 Handspring、Palm 以及几乎所有产品的未来。
+所以<ruby>万福玛利亚<rt>hail-Mary</rt></ruby>，为了制造 Treo, Handspring 又合并回了 Palm 公司。这来回的折腾也让我有点头晕。但 Treo 作为 Palm 的主力产品，成为了市场上最受欢迎的智能手机。当然，在那个时候，Palm OS 已经开始显老。<ruby>黑莓公司<rt>Blackberry</rt></ruby>这样的新玩家也进入了这个市场。
 
 **25:29** - _Saron Yitbarek_
 
