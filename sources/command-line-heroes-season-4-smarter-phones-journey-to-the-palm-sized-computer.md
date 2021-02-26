@@ -243,107 +243,109 @@ Palm 公司在其上预装了名叫 Graffiti 的手写识别软件，记住，�
 
 **20:01** - _Saron Yitbarek_
 
-Palm had created an entirely new category of hardware. And the spoils were, theoretically, theirs for the taking. But then, unexpectedly, Palm's parent company, US Robotics was sold to another company, called 3Com. And the head of 3Com, who was influenced by the Microsoft business model, decided to license the Palm OS to companies that wanted to create PDAs of their own.
+Palm 公司创造了全新的硬件类目。他本应是这场游戏的赢家。但随后，Palm 的母公司 US Robotics 出乎意料地被卖给了另一家名为 3Com 的公司。受微软业务模式的影响，3Com 负责人决定将 Palm OS 许可给想要创造自己的 PDA 的公司们。
 
 **20:29** - _Donna Dubinsky_
 
-And obviously, it was a strategy that has succeeded very well from Microsoft in personal computers. We didn't think that was the right strategy for handheld computers. We felt they needed to be highly integrated devices, but they consistently felt that that was the wrong decision, and that what we should do is license the OS to all commerce. And we disagreed with that.
+很明显，这是微软在个人电脑领域取得成功的策略。我们不认为这是掌上电脑的正确策略。我们认为掌上电脑需要高度集成的设备。但他们始终认为这是一个错误的决定，认为我们应该将操作系统授权给所有的商业。我们不能认同他们的决定。
 
 **20:53** - _Saron Yitbarek_
 
-They believed in their vision. And so, right after they helped their parent company revolutionize the market, Jeff Hawkins, Donna Dubinsky, Ed Colligan, Rob Haitani, and others left Palm to form a new company. They called it Handspring. There, they would license the software they'd created, Palm OS, and load it onto their own handhelds. They had built a giant. And now, they were going to try to take it down, David-and-Goliath style, using its own OS. In 1999, the newly formed Handspring, free from those old parent companies released its own hardware, the Visor line of PDAs. And they ran on Palm OS. Ed Colligan remembers its public reception.
+他们相信自己的愿景。于是，在他们帮母公司革新市场后，Jeff Hawkins、Donna Dubinsky、Ed Colligan 还有 Rob Haitani 等人离开了 Palm ，成立了一家新公司，名叫 Handspring。他们把 Palm OS 安装到他们新的掌机上。他们曾创造巨人，现在，他们打算用自己的操作系统，以大卫和歌利亚的方式打败他。Handspring 在 1999 年获得独立并发布了新的硬件产品——名为 Visor 的全新系列 PDA。Visor 内置 Palm OS。Ed Colligan 还记得这款新设备大受欢迎。
+
 
 **21:48** - _Ed Colligan_
 
-And sure enough, we took like 25% of the market, almost overnight.
+果不其然，我们一夜之间就占据了 25% 的市场份额。
 
 **21:53** - _Saron Yitbarek_
 
-Palm's hardware was hit by that move. So ironically, 3Com spun it off into the independent company the team had hoped for. In the meantime, the Palm OS was running on 90% of all handheld computers, not too shabby. In fact, for a short period, Palm was worth more than Ford and General Motors combined. People thought it'd become the next Microsoft. Meanwhile, Handspring had its own plans.
+Palm 公司的硬件销量受到了这一举动的打击。 讽刺的是，正是 3Com 决定将 Handspring 拆分为独立公司的，这正合他们心意。值得欣慰的是，Palm 公司的操作系统运行在 90% 以上的掌上电脑上。事实上，有很短的一段时间，Palm 的市值超过了福特和通用汽车的总和。人们认为它会成为下一个微软。当然，Handspring 这时也有自己的计划。
 
 **22:23** - _Donna Dubinsky_
 
-By the time we started Handspring, we started realizing that these devices ultimately would be communications devices and we built it with a hardware slot and the hardware slot was specifically with the idea to be able to experiment and integrate any kind of communication things—put in a pager card, put in a voice card, put in whatever, and that we would learn from that, and learn how to integrate communications and what would be important in the space.
+成立 Handspring 以后，我们意识到掌上电脑的终极形态会是通信设备。所以我们在产品上增加了一个硬件插槽，打算将来用以支持多种类型的通信设备，比如可以插上一个呼机卡、语音卡什么的。这样我们就可以从中学习，深入了解通信领域。
 
 **22:51** - _Ed Colligan_
 
-We saw the smartphone coming, we saw that these things were all going wireless and we decided we wanted to figure out how to create that integrated device of both the PDA and the phone.
+未来是智能手机的天下，所有这些东西正朝着无线发展，我们的下一步是将 PDA 和手机集成起来。
 
 **23:07** - _Saron Yitbarek_
 
-So Handspring got to work creating a smartphone. In the process, they replaced the stylus with the keyboard and named their new creation the Treo. While all this was in progress Jeff, Donna, and Ed met with another tech entrepreneur doing interesting things in the space. A guy by the name of Steve Jobs.
+然后，Handspring 开始开发智能手机。他们用键盘取代了手写笔，将他们的新产品命名为 TreoSo。Jeff、Donna 还有 Ed 一起会见了另一位科技企业家，他正在智能手机领域做一些有趣的事情。这人正是 Steve Jobs。
 
 **23:28** - _Ed Colligan_
 
-At that meeting, Steve got up on the board and drew out a Macintosh and he had all these things like photos and video and other things as satellite things off of the Macintosh and he said, "Our strategy is the Macintosh is going to be the center of everything and all these things are going to pivot around it." And that was iTunes, iPhoto, whatever. Right? And Jeff said, "Nope, that's not how it's going to work. How it's going to work is there's going to be a handheld computer and all these things are going to pivot off of it."
+Steve 在白板上画了一台<ruby>麦金塔计算机<rt>Macintosh</rt></ruby>，然后在其周围像卫星一样画出照片、视频等各种附属功能。然后他说：“我们的战略是，Macintosh 将成为一切的中心。iTunes、iPhoto 等所有功能都围绕它设计”，然而，Jeff 反驳道:“不是这样的。人们将会有一台掌上电脑，所有这些东西都将以它为中心才对“。
 
 **24:05** - _Saron Yitbarek_
 
-We know how this all turned out. Jeff Hawkins’ vision was actually closer to the truth, but at the time, early 2000s, Jobs was skeptical. The whole industry was skeptical.
+我们都知道结果如何。Jeff Hawkins 的观点实际上更接近事实，但在21世纪初，Jobs 对此持怀疑态度。整个行业都对此持怀疑态度。
 
 **24:18** - _Ed Colligan_
 
-I used to go into Sprint and Verizon, and these guys, and try to convince them that smartphones were going to be something. I know it's hard to believe today, but literally we'd sit down in meetings and they're like, eh, these new-fangled devices or you know ... who's going to do email on something in your pocket. And I'd go, "Well, I really think it's going to happen."
+我曾经去游说 Sprint 和 Verizon 这些公司，试着说服他们未来是智能手机的时代。虽然今天很难相信，但实际上，会议上他们的反应就像在说：”嗯，这些新设备，你知道的……谁会用口袋里的东西发邮件呢“，我会说：“嗯，我真的认为这将会发生“。
 
 **24:40** - _Saron Yitbarek_
 
-But while they waited for the world to catch up, they had another more pressing problem. It threatened the future of Handspring, Palm, and just about everything. In 2001, the tech bubble burst, stocks plummeted, money was suddenly scarce and investments dried up. So in another hail-Mary, this time to manufacture the Treo, Handspring merged back into Palm. I know all the back and forth is making me a little dizzy, too. The Treo became Palm's powerhouse product and the most popular smartphone on the market. But of course by that point, the Palm OS had started to show its age. New players had entered the market. Companies like RIM with its Blackberry.
+在他们等待智能手机的时代到来时，他们有另一个更紧迫的问题。2001 年，科技泡沫破裂，股市暴跌，资金短缺，投资枯竭。这威胁到了 Handspring、Palm 以及几乎所有产品的未来。
+所以<ruby>万福玛利亚<rt>hail-Mary</rt></ruby>，为了制造 Treo, Handspring 合并回 Palm 公司。这来回的折腾也让我有点头晕。但 Treo 作为Palm 的主力产品，成为了市场上最受欢迎的智能手机。当然，在那个时候，Palm OS 已经开始显老。<ruby>黑莓公司<rt>Blackberry</rt></ruby>这样的新玩家进入了这个市场。
 
 **25:29** - _Saron Yitbarek_
 
-Wireless was becoming a thing and experts seriously doubted whether the Palm operating system was a good fit for the next generation of devices. So in 2005, Palm shipped its first Treo without the Palm OS. They built that Treo around Windows mobile. By 2007, Palm had become a hardware company with no operating system of its own. The future that the Palm team wanted to build seemed to be rolling on without them.
+当无线成为一种潮流时，专家们开始严重怀疑 Palm 操作系统是否适合下一代设备。所以在 2005 年，Palm 公司发布了第一款不使用 Palm 操作系统的产品 Treo。Treo 使用的是Windows mobile 操作系统。到 2007 年时，Palm 已经成了没有自研操作系统的纯硬件公司。Palm 团队想要建立的未来还在发展，但它似乎不再需要与 Palm 公司同行了。
 
 **26:03** - _Saron Yitbarek_
+正当 Palm 公司需要帮助时，John Rubinstein 挺身而出。Rubinstein 在苹果公司开发了iPod。在苹果公司 2007 年发布 iPhone 时，Rubinstein 加入了 Palm 公司，担任其产品开发的新主管。两年后，Palm 团队推出了他们的新设备：Palm Pre 和一款名为 Web OS 的新操作系统。它们于 2009 年在消费电子展上推出。有人认为这是有史以来最好的科技主题报告。Ed Colligan 在活动中说到：
 
-Palm needed help and they got it in the form of John Rubinstein, the man who developed the iPod at Apple, just as Apple released the iPhone in 2007, Rubinstein came on board at Palm as their new head of product development. Two years later, the Palm team had a new device, the Palm Pre and a new OS called Web OS. They launched at CES in 2009. Some called it the best tech keynote ever. Here's Ed Colligan onstage at the event.
 
 **26:40** - _Ed Colligan_
 
-And it's called the Palm Web OS and we're very, very excited to bring it to you today. It was built with developers in mind. The whole thing is built on industry-standard web tools. If you know HTML, CSS, and JavaScript, you can develop applications for this platform.
+它叫做 Palm Web OS，我们非常高兴今天能把它带给大家。它是为开发人员而构建的。这一切都建立在行业标准的网络工具之上。只要您了解 HTML、CSS 和 JavaScript，就可以为这个平台开发应用程序。
 
 **27:03** - _Saron Yitbarek_
 
-No one had ever seen anything like Web OS, it laid the groundwork for the whole smartphone experience we take for granted today. In fact, iOS and Android gleaned a lot from its features. Features like multiple synchronized calendars, unified social media and contact management, curved displays, wireless charging, integrated text and web messaging, unintrusive notifications. You could upgrade it easily just by putting it into dev mode and you could receive over-the-air updates. Web OS was an amazing achievement that no other company could match. Unfortunately, it wasn't enough.
+没人见过像 Web OS 这样的东西，它为我们现今智能手机的体验奠定了基础。实际上，iOS 和 Android 都从中汲取了很多东西。Web OS 的功能有：多个同步日历、统一社交媒体和联系人管理、曲面显示器、无线充电、集成文本、网络消息、非侵入通知等等。只需将其置于开发模式即可轻松升级，并且还支持无线更新。Web OS 是其他公司无法比拟的伟大成就，不过，这还不够。
 
 **27:46** - _Ed Colligan_
 
-I think we did a phenomenal job with that, but it was just too little, too late, because at that point Apple had launched the iPhone. They executed really, really well and so all power to them, but I think they were hugely influenced by what we had done and to this day, I mean until, like, OS X or whatever on the iPhone, that was the first time they'd actually caught up with all the features that were in the Web OS.
+我认为我们在这方面做得很出色，但还是太少，太迟了，因为那时苹果已经发布了 iPhone。他们执行得又快又好，所以市场被他们占领了，但我认为我们的设计对他们影响深远。我的意思是，直到今天， iPhone 和 OS X 才真正赶上 Web OS 的所有功能。
 
 **28:12** - _Saron Yitbarek_
 
-But Ed thinks the real killer was another phone.
+但是 Ed 认为真正的杀手锏是另一部手机.
 
 **28:15** - _Ed Colligan_
 
-The killer blow was Google and Android and their ability to not have to make money off of it, other than search.
+导致他们失败的杀手锏其实是是 Google 和 Android。有了搜索业务的支撑，Google 不需要通过卖手机赚钱。
 
 **28:24** - _Saron Yitbarek_
 
-Google basically gave Android away for free. It was a problem for Microsoft's Windows phone and for the Palm pre/Web OS combo.
+Google 基本上免费提供了 Android。 这对 Microsoft 的 Windows Phone 还有 Palm pre 的 Web OS 来说，是个大问题。
 
 **28:34** - _Ed Colligan_
 
-And we did not have that business model, and it just hugely undermined us and, and there was really no way to recover from that.
+我们没有那样的商业模式，这对我们造成了巨大的影响，导致我们再也没办法从中恢复过来。
 
 **28:48** - _Saron Yitbarek_
 
-After creating a whole new tech category with the PalmPilot, dominating mobile software with Palm OS, building the first smartphone, the Treo, reinventing mobile OS with Web OS, after all those innovation and iterations, Palm was sold to HP in 2010 and then later to LG. In 2012, HP released open Web OS built on top of a Linux kernel.
+用 PalmPilot 创造了一个全新的技术类目，用 Palm OS 主导了移动软件，打造了第一款智能手机 Treo，并用 Web OS 重塑了移动操作系统，在所有这些创新和迭代之后，Palm 公司在 2010 年被<ruby>惠普<rt>HP</rt></ruby>收购，后来又被 LG 收购。然后在 2012 年，HP 发布了基于 Linux 开源 Web OS。
 
 **29:18** - _Saron Yitbarek_
 
-Once it was open source Web OS became the underlying OS for tons of other smart devices, TVs, watches, and the Internet of Things. And that old debate over fusing hardware and software, well, I'll let Donna Dubinsky settle things.
+一旦开源，Web OS 就成为其他智能设备、电视、手表和物联网的底层操作系统。关于硬件和软件融合的争论，让 Donna Dubinsky 来解决吧。
 
 **29:36** - _Donna Dubinsky_
 
-They're virtually indistinguishable from each other. You can't have great hardware and terrible software and you can't have great software and terrible hardware. The question is almost nonsensical. They have to be together. You know, you carry these things on you all the time. It's a highly integrated device. People don't even know where the hardware ends and the software begins and that's as it should be.
+它们实际上是无法区分的。你不能在好硬件上运行坏软件，也不能用坏硬件来支持好软件。这个问题几乎毫无意义，两者必须保持一致。这些你随身携带的软硬件，被高度集成在一起。人们甚至不知道硬件在哪里结束，软件在哪里开始，事实就是如此。
 
 **29:58** - _Saron Yitbarek_
 
-In Jeff Hawkins’ case the hardware and the software began with that small block of wood tucked away in his shirt pocket. That simple block of the right shape and size has launched a fleet of millions, perhaps billions, of smartphones 25 years later.
+在 Jeff Hawkins 的故事中，不管是硬件还是软件，都是从他衬衫口袋里的那块小木块开始的。25 年后，这个小木块演化成了数百万、甚至数十亿部智能手机。
 
 **30:21** - _Saron Yitbarek_
 
-Command Line Heroes is an original podcast from Red Hat. Go to our website for some amazing bonus material we dug up on Palm and Web OS. [Redhat.com/commandlineheroes](https://www.redhat.com/commandlineheroes "redhat.com/commandlineheroes"). And hey, while you're there, sign up for our newsletter. I'm Saron Yitbarek. Until next time. Keep on coding.
+《代码英雄》是红帽的原创播客。访问我们的网站[redhat.com/commandlineheroes](https://www.redhat.com/commandlineheroes"redhat.com/commandlineheroes")了解更多有关 Palm 和 Web OS 的精彩故事。想要收到我们的简讯，记得注册哦，我是 Saron Yitbarek，继续写代码吧，我们下次见！
 
 --------------------------------------------------------------------------------
 
@@ -351,7 +353,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-4/smarter-phones
 
 作者：[Red Hat][a]
 选题：[bestony][b]
-译者：[译者ID](https://github.com/KeaneQy)
+译者：[2581543189](https://github.com/2581543189)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
