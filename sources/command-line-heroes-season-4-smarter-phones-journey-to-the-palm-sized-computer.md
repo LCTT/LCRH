@@ -12,15 +12,15 @@ Command Line Heroes: Season 4: 更智能的电话: 掌上电脑的旅程
 
 **00:02** - _Saron Yitbarek_
 
-在20世纪90年代早期，一位心灵手巧的软件开发者将一堆木头分割成不同尺寸的小木块。他仔细的比较了每个木块的重量，找到了一块口袋大小的木块，并把一个极小的显示器捆在这个木块上。随后，这名开发者将该木块放进他T恤的口袋中，并绕着T恤走，以便观察怎样才能让这个木块看起来像某种附加的设备。他开始想象，在不久的将来我们都会做相同的事情。如果你认为这位开发者的名字是 Steve Jobs，那么你就错了。他的名字是 Jeff Hawkins，曾合作创造了 PalmPilot 掌上电脑。当 IPhone 在2007年上市时，批评家们和竞争者们就曾经质疑智能手机是否能够成功。
+在 20 世纪 90 年代初，一位心灵手巧的软件开发者将一堆木头切割成不同尺寸的小块。他仔细的比较了每个小块的重量，把一张打印着显示器图案的贴纸，贴到了其中刚好能装进口袋的那块上，把它装在上衣口袋里走来走去，感受随身携带一个这样的设备是什么体验。他畅想着在不久的将来，这样的设备会变为现实。如果你认为他的名字是 Steve Jobs，那么你就错了。他的名字是 Jeff Hawkins，曾合作创造了 PalmPilot 掌上电脑。当 iPhone 在 2007 年上市时，评论家们和竞争对手们就曾经质疑智能手机是否能够成功。
 
 **00:55** - _Saron Yitbarek_
 
-十年后，问题则变成了一个人没有智能手机如何成功。智能手机无处不在，它们的 App 使我们能够做几乎所有的事情，并且它们的硬件也在不断的诉说我们是谁。但是就像主流的 IPhone 提升了我们的移动生活质量一样，其并不是一个促进因素。这便是早期掌上设备如何为智能手机铺路的史诗般的故事，并且也是一个一直坚持这种设备的可敬团队的故事。我是 Saron Yitbarek，这里是<ruby>代码英雄<rt>Command Line Heros</rt></ruby>，Red Hat 的原创博客。
+十年后，问题变成了，人怎么可能没有智能手机。智能手机无处不在，它的软件功能涵盖生活的方方面面，它硬件设备的好坏更成为了身份的象征。但是，尽管 iPhone 对我们移动生活的崛起起到了至关重要的作用，但它并不是一切的起点。我要分享早期掌上设备如何为智能手机铺路的史诗故事，故事的主人公是一个充满奉献精神的团队，自始至终坚信掌上设备会获得成功。我是 Saron Yitbarek，这里是<ruby>代码英雄<rt>Command Line Heros</rt></ruby>，Red Hat 的原创播客。
 
 **01:38** - _Saron Yitbarek_
 
-智能手机这一概念从<ruby>星际迷航<rt>Star Trek</rt></ruby>三部曲时就已经存在了。在现实生活中，这一概念则在1984年时被解释成为手机。当时的手机还是十分笨重的，就像砖块一样，并且在20世纪90年代中仅仅只是变小了一点。对于 Zack Morris 来说，智能手机变得足够小则是在节目<ruby>救命下课铃<rt>Saved by the Bell</rt></ruby>中。但是此时它们仍旧被用作打电话。还记得打电话么？在移动手机上，没有任何“智能”的部分。但是与此同时，另一种技术则获得了关注，它就是 PDA，一种个人数字助理，即一种可以扮演你的个人信息管家的移动电子设备。有关这种设备的故事我们一会儿再说，但是在那个时候，科技产业更多的关注在个人电脑上。这个故事我们已经在第三集讲 Altair 8800 时学习过了。
+影视作品中很早就出现了智能机的概念，比如<ruby>星际迷航<rt>Star Trek</rt></ruby>中的武器 tricorder。而在现实生活中，直到 1984 年，人们才把手机称作智能机。那时的智能机像砖块一样笨重，后来 90 年代智能机变得越来越小。到电视节目<ruby>救命下课铃<rt>Saved by the Bell</rt></ruby>播出时，主角 Zack Morris 已经可以随身携带。但这时智能机只用来打电话。还记得打电话么？所谓智能机上，没有任何“智能”的部分。与此同时，另一种技术备受青睐，那就是 PDA，一种个人数字助理，即一种可以扮演你的个人数据管家的移动电子设备。有关这种设备的故事我们一会儿再说，但是在那个时候，科技产业更多的关注在个人电脑上。这个故事我们已经在第三集讲 Altair 8800 时学习过了。
 
 **02:33** - _Ed Colligan_
 
@@ -28,39 +28,39 @@ Command Line Heroes: Season 4: 更智能的电话: 掌上电脑的旅程
 
 **02:43** - _Saron Yitbarek_
 
-在20世纪90年代早期，Ed Colligan 还是 Plam 公司市场部的<ruby>副总裁<rt>VP</rt></ruby>。这是一家由 Jeff Hawkins创建的初创移动软件公司。即那位口袋装着一块木头到处走动的人。
+在20世纪90年代早期，Ed Colligan 还是 Plam 公司市场部的<ruby>副总裁<rt>VP</rt></ruby>。这是一家由 Jeff Hawkins，那个揣着木块到处走的人，创建的移动软件公司。
 
 **02:57** - _Donna Dubinsky_
 
-这是一个宏大的愿景。这也是计算的未来，甚至于作为手持式计算的个人计算的未来。并且，未来有关手持式计算机的交易将可能回超越桌面式计算机。
+这是一个宏大的愿景，也是计算的未来。在这个未来，人们用手持设备计算；在这个未来，手持式计算机的运算量将可能超越 PC。
 
 **03:11** - _Saron Yitbarek_
 
-那是 Donna Dubinsky，Plam 公司那个时期的 CEO。
+欢迎 Donna Dubinsky，Plam 公司的时任 CEO。
 
 **03:15** - _Donna Dubinsky_
 
-我知道今天我说这听起来像 “随你怎么讲，这就是合理的。”。但是，请相信我，在那个时期，这个并不是合理的。
+我知道今天我说的东西听起来像 “随你怎么讲，这就是合理的。”。但是，请相信我，对那时的人来说，这并不合理。
 
 **03:21** - _Ed Colligan_
 
-我们不能理解为什么别人无法理解它。因为你知道的，这就是计算的发展趋势，对么？计算机已经从占一间屋子的大型主机变为微型计算机。微型计算机被误称为个人计算机，而不是桌面计算机。并且，我们看到了<ruby>摩尔定律<rt>Moore's Law</rt></ruby>发展的必然结果，即计算机越来越强大，但是体积越来越小。
+我们很难体会为什么当时的人理解不了。因为你知道，计算技术发展如此迅速，对吧？它已经从占满整个房间的计算机变成了大型机，再到小型计算机，而小型计算机又被误称为个人计算机，再到台式计算机。这是<ruby>摩尔定律<rt>Moore's Law</rt></ruby>发展的必然结果，即计算机越来越强大，但是体积越来越小。
 
 **03:48** - _Saron Yitbarek_
 
-Plam 公司着手开发适配PDA的，类似于 Casio 公司正在制作的信息管理软件--Zoomer 。这家公司也制作了一些可用于<ruby>惠普<rt>Hewlett Packard</rt></ruby>设备的同步软件。但是第一代PDA并没有突飞猛进。并且紧接着，在苹果公司的努力失败以后，整个个人数字助理的梦想似乎已经失去了存在的理由。例如 Newton ，即大，又笨重，并且软件运行速度太慢。但是 Plam 团队担心这种新的方式是否可以改变游戏规则。
+Plam 公司最开始为 Casio 公司制作的一款名叫 Zoomer 的 PDA 设备，以及<ruby>惠普<rt>Hewlett Packard</rt></ruby>的设备研发软件。但是第一代 PDA 并没有获得成功。并且，随着苹果公司的高调失败，整个个人数字助理的梦想似乎已经失去了存在的理由。苹果失败的原因在于 Apple Newton 这款 PDA 太大、太笨重、软件运行速度太慢。但是 Palm 团队想知道是否有一种新方法可以改变游戏。
 
 **04:25** - _Donna Dubinsky_
 
-我们最初讨论的是一个操作系统公司 GeoWorks ， 以及一家硬件供应商公司 Casio 。然而，如果你明白，就会知道产业结构发生的变化沿着我们指出的路径前进。即堆叠硬件对于手持式计算并没有意义。我们从中学到的构建这样的设备的正确方式是硬件和软件的高度集成产品。因此，从本质上讲，失败改变了我们的想法。
+我们最初的合作对象是操作系统公司 GeoWorks，和硬件供应商公司 Casio。后来我们发现，工业级架构的硬件堆叠对于手持式计算并没有意义。使用高度集成的硬件和软件才是构建手持设备的正确方式，失败改变了我们的想法。
 
 **04:55** - _Saron Yitbarek_
 
-Palm 指出，如果他们可以构建他们自己的硬件，即可以运行他们软件的设备，那么他们也将会构建一款成功的 PDA。
+Palm 公司认识到，如果他们可以用自己生产的硬件，运行他们开发的软件，那么他们也许会创造一款成功的 PDA。
 
 **05:04** - _Ed Colligan_
 
-不，实际上个人数字助理是我们的术语。
+不，不，<ruby>个人数字助理<rt>PDA</rt></ruby>不是我们的术语。
 
 **05:09** - _Saron Yitbarek_
 
@@ -68,284 +68,283 @@ Palm 指出，如果他们可以构建他们自己的硬件，即可以运行他
 
 **05:11** - _Ed Colligan_
 
-在那个时期，我们并不喜欢 PDA。我们确实曾经将它作为一个 “被连接” 备忘记事本。我们实际上试图改变人们看待它的方式。从你需要适应的一款全新的设备，到成为你的 PC 的一个配件。
+我们不想做一款 PDA。新产品的定位是与 PC 连接的记事簿。我们努力改变人们看待它的方式。让人们意识到，这不是一款全新的设备，这只是 PC 的一个配件。
 
 **05:29** - _Saron Yitbarek_
 
-当 Ed 说 “被连接” ，他的意思是说将设备连接到电脑，并不是指被无线互联网连接。那种情形从来都没有发生过，但是即使只能够将你的 Palm 设备同步到你的个人电脑，这仍旧是一个具有竞争力的提议。
+当 Ed 说 “被连接” ，他的意思是说将设备连接到电脑，而不是指连接到无线互联网。那时的设备还无法连接互联网。即便只是将 Palm 设备连接到个人电脑，这样的创意仍然比竞争对手棋高一着。
 
 **05:46** - _Donna Dubinsky_
 
-它们并没有主动连接任何东西，因此如果你在你的 Sion 以及 Casio Wizard 中有一个通讯簿，那么在你的电脑上将不能对你的地址簿做任何操作。为了替代标准手持单机计算机，我们把它作为你电脑的一个附属物。一个你电脑之上的窗口，一种获得你电脑一小片的方式，并且是以同步功能为核心的。
+当时的 PDA 并不能与其他设备连接，你 Sion 以及 Casio Wizard 中的地址簿，跟你电脑上的地址簿没有任何关联。我们并没有把它定位为独立的标准手持设备，相反的，我们把它定位为电脑的一个附属物。一个你电脑之上的窗口，让你能够把电脑的一部分随身携带，这样的定位让同步成为了设备的核心功能。
 
 **06:13** - _Saron Yitbarek_
 
-此外，为了构建一个移动备忘记事本设备，Palm 想把它（PDA）与一个同步设备搭配使用，这样你就可以将这个移动备忘记事本设备插入你的电脑来更新信息。
+除了设计手持设备外，Palm 公司还希望它（PDA）有与其他设备配对的能力，比如说将其插入电脑就可以更新数据。
 
 **06:24** - _Rob Haitani_
 
-这在那时候似乎是非常具有压迫性的。这有25个人，硬件方面非常……坦白地说，它是资本密集型的并且在当时是一个十分令人生畏的挑战，你需要许多投资，你需要时间，你需要采购。
+那时候要实现这样的目标非常困难。只有25个人，当时的硬件非常……昂贵，你需要许多投资，你需要时间，你需要采购，坦白讲，这是非常大的挑战。
 
 **06:40** - _Saron Yitbarek_
 
-这是 Rob Haitani ， Palm 的产品经理。并且这在当时是 Donna Dubinsky 对 Rob 团队的考验。
+听完 Palm 公司的产品经理 Rob Haitani 的分享。接下来再听 Donna Dubinsky 介绍一下他对 Rob 团队的考验。
 
 **06:47** - _Donna Dubinsky_
 
-并且我们希望从一个操作系统、应用软件、硬件同步软件，或者任何对公司有效的软件来开始建立。因此，当我回过头来看时发现，这些对于一家小公司来说，同时使用这些软件，并且让它们一起协同工作则是非常冒险的行为。
+我们既想设计操作系统、又要开发应用软件、还得研究硬件协同软件，每项都够一个独立公司喝一壶。现在回想起来，一家小公司，要同时完成这些目标，是非常大胆的想法。
 
 **07:14** - _Rob Haitani_
 
-这就是为什么人们到硅谷去的原因。就像你将要创建一个全新的行业一样。并且，就像IBM、苹果以及微软这样的公司也都曾经在这个东西上失败过。因此，是什么让你们这25个人认为你们可以成功？并且你们要知道，对于硅谷中的人们来说，没有什么能比直接告诉他们无法做到更能激发他们的灵感了。我们曾经坚信 Jeff 的愿景，并且 Jeff 对他的愿景有什么清晰的规划。以及，我真正产生共鸣的是以客户为中心。他说，“不要构建技术给客户，客户需要个性化的解决方案。”
+这就是人们来硅谷的原因。在这里你可以颠覆整个行业。像 IBM、苹果和微软这样的公司都失败了，是什么让这 25 个人自信可以成功？要知道，对于硅谷人来说，没有什么比告诉他们无法做到某件事更能激励他们。我们坚信 Jeff 的愿景，而 Jeff 对他的愿景更是有清晰的规划。实际上，最让我产生共鸣的是他们“客户至上”的理念。他说，“不要构建技术给客户，客户需要个性化的解决方案。”
 
 **07:45** - _Saron Yitbarek_
 
-这就是客户优先的理念。它激励着 Jeff Hawkins 自己雕刻了小工具大小的木头块。
+正是顾客至上的理念激励了 Jeff Hawkins ，让他雕刻出了那个木块。
 
 **07:54** - _Rob Haitani_
 
-因此，他想把这个东西放进口袋中，这样它们就可以参加会议。并且他有一支木制的小笔，然后他会假装自己在尝试模拟这种体验。因此，我们会假装在它上面写点什么，并且人们会用奇怪的表情看他。Jeff，你知道的，因为你正在一块木头上写东西。我认为这使他对这种东西有了深刻的领悟，即它究竟是什么样，以及体验是什么样的。
-
+他把小木块放进口袋中，带着它参加会议。拿出木制的触控笔，模拟这种体验。我们假装在上面写字，人们会用奇怪的表情看他。Jeff，你知道的，因为他正在一块木头上写东西。我认为这使他有了深刻的领悟，关于使用移动设备的体验。
 
 **08:16** - _Saron Yitbarek_
 
-那个小木块启发了一些核心设计标准。首先，它的大小必须适合放入T恤的口袋。其次，它的售价必须低于300美元。最后，它写东西必须比纸和笔更快。你可以立刻打开并使用它。下面 Ed 和 Rob 将会把 Palm 的设计方法与竞争对手的进行比较。
+在小木块的启发下，我们有了一些核心设计标准。首先，它的大小必须适合放入口袋。其次，它的售价必须低于 300 美元。最后，它写东西必须比纸和笔更快。你可以立刻打开使用它。下面 Ed 和 Rob 将会把 Palm 的设计方法论与竞争对手进行比较。
 
 **08:41** - _Ed Colligan_
 
-其他所有人都在试图建立这种独立设备，因此他们说：“噢，我们需要扩展卡来增加内存。” 或者他们会说：“我们不得不增加一个键盘。” 并且，基本上我们会说：“不，我们将会把这种设备挂在PC上，并且我们将会立即同步PC和这种设备之间的信息。”
+竞争对手都在设计独立设备，因此他们说：“噢，我们需要扩展卡来增加内存。” 或者他们会说：“我们不得不增加一个键盘。” 而我们基本上在说：“不，我们把它连接到 PC 上，我们会快速的同步两者的数据。”
 
 **09:00** - _Rob Haitani_
 
-Jeff 则是一个持完全相反观点的人。他说，您要解决的问题是它太慢了。那么，传统的观点就是增加一个更快的处理器。他则采用了其它的方法，即，如何使它对客户来说更快？这不仅与硬件有关，而且如果你可以将软件优化的既微小又轻量级，那么这将会成功。然后产生自身的螺旋效应：体积越来越小，重量越来越轻，电池也越来越耐用。因此，我们开发出了这种精简步骤以及对效率至关重要的设计哲学。
+Jeff 是一个有独到见解的人。面对设备运行太慢的问题，传统的解决方案是换一个更快的处理器。但他会用其它方法，比如，如何让用户感觉更快？这不仅与硬件有关，事实是如果你让软件也变得轻薄，那么它将会成功并产生螺旋效应：体积越来越小，重量越来越轻，电池也越来越耐用。所以我们才有了精简步骤和效率至上的设计哲学。
 
 **09:37** - _Saron Yitbarek_
 
-他们甚至给他们的设计哲学起了个名字：“Palm 的禅”。 他们编写了整个设计导言以及所有内容。设计 Palm OS 平台过程中所涉及的新概念和新的思维模式则与大型机器的不同。对于PC来说，特性越多越好。但是掌上电脑则是另一种生物。根据Palm的禅的定义，掌上电脑应该与用户有关。功能应当突出重点，并且设备应当可以在任何地方使用。
+他们甚至给自己的设计哲学起了个名字：“Palm 之禅”，并为之编写了设计宣言。设计 Palm 操作系统涉及到了与设计大型机器截然不同的新概念和思维方式。对于 PC 来说，特性越多越好。但是掌机则是另一种生物。根据 Palm 之禅的定义，掌机应该以用户为中心。功能应当更加聚焦，设备应当可以在任何地方使用。
 
 **10:11** - _Rob Haitani_
 
-How do you fit a mountain into a teacup? You want to find the diamond in the mountain and put that in the teacup. The purpose of a design for a small screen is not to take a desktop PC, full-functional design, and cram it and miniaturize it. It was to take the nuggets that you really needed at any time and put that on the screen. And the way we addressed that was, we literally would step through every task and say what absolutely has to be on the screen.
+这就好比，你不可能把整座大山装进茶杯，但你可以在上山找到钻石，把钻石装进去. 我们的设计目标不是把整个 PC 的完整功能压缩填充到一块小屏幕上，而是把用户任何时候都要使用的核心功能实现在上面。为了实现这个目标，我们几乎把所有的功能讨论了个遍，最后决定哪些必须留在上面。
 
 **10:41** - _Saron Yitbarek_
 
-Reducing the amount of buttons on any given page allowed for a smaller screen, and Rob's team drastically reduced the number of taps it took to execute function.
+因为减少了按钮的数量,所以屏幕可以设计的更小，与此同时 Rob 团队优化了操作流程，大大减少了点击次数。
 
 **10:52** - _Donna Dubinsky_
 
-He literally would go through every screen and every function and see how he could reduce the taps. An example I like to use is that rather than three-tap—turning on a device, hitting a calendar app, hitting the date for today—this was one of the most common things you wanted to do. What if you could just press one button, and this button would turn on the device, take you to the calendar app, and show you today? It was a “today button.” And now, again, these sorts of things seem obvious, but at the time, this was quite radical. That was not how you interacted with devices. So, that took tremendous coordination between the hardware and the software.
+他几乎亲自体验了所有的功能，绞尽脑汁的想要办法减少点击次数。举个例子：三击打开屏幕，点击日历 app,点击今天的日期，这是你的常用操作。要是有一个“今日”按钮，点一下就会自动打开屏幕，打开日历并展示当前日期该有多好。这些显而易见的事情，在当时是相当激进的设计。人与设备交互不应该是这种模式。硬件和软件之间还存在巨大的协调空间。
 
 **11:35** - _Saron Yitbarek_
 
-Within 18 months, Palm had done the seemingly impossible. They had a prototype with beautifully synchronized hardware and software. And they'd done it with only $3 million. But there was one problem. It was their last $3 million. Palm had an amazing new handheld computing device, and they were flat broke. The Palm team's hail-Mary solution to keep on financing their new product was to sell the company to US Robotics in 1995. It was the only way they could get this new connected organizer, which they dubbed the PalmPilot into the hands of customers. And they knew there'd be customers. Here's CEO Donna Dubinsky, remembering what happened when Jeff Hawkins unveiled the “PalmPilot” at a tech conference.
+短短 18 个月内，Palm 公司只用 300 万美元便完成了这看似不可能的任务。他们有了一台软硬件完美同步的原型机。但这也是他们仅有的 300 万美元，虽然他们有了令人惊叹的新型手持式计算机，但他们濒临破产。Palm 团队为继续融资而采取的孤注一掷的解决方案是，在 1995 年把公司卖给 US Robotics。这是他们让这个新型设备(他们将其命名为 PalmPilot)面世的唯一途径。他们知道这很有市场。首席执行官 Donna Dubinsky 回忆起 Jeff Hawkins 在首次发布会上发布 PalmPilot 的情形。
 
 **12:37** - _Donna Dubinsky_
 
-We had Jeff up there on the stage, showing the device, but the moment that was the most powerful, and that got us a near standing ovation was, he brought out the cradle, and he put the device in the cradle, and he pressed the button. And you could see on the screen it synchronizing with the PC. And that blew people away. And they just spontaneously applauded. So it was very exciting to see how they got the core value proposition of what we were trying to sell.
+Jeff 登上舞台向大家展示我们的新设备，当他拿出设备，按下按钮时，我们几乎要站起来鼓掌了。你可以在屏幕上看到它正在与 PC 同步数据，台下响起了热烈的掌声。观众理解了我们产品的核心卖点，这让我们非常激动。
 
 **13:13** - _Saron Yitbarek_
 
-Palm's goal at that launch was to convey to people how simple the device was to use. But they didn't have a big budget to produce their reveal. So, they got creative.
+Palm 公司举办这场发布会的目的是，让用户感受他们的产品有多好用，但是他们没有足够的预算请来大咖助阵，所以发布会必须要有创意。
 
 **13:24** - _Donna Dubinsky_
 
-We came up with this crazy idea to have our mothers come, and help us launch it. So we had my mom, Jeff's mom, and Ed's mom. They had little hats we made up that said “Moms for Pilot.” They had little pins that said “My daughter's Donna,” “My son is Ed,” or whatever. And we had them take orders for Pilots on the spot. I bought my Pilot from Jeff's mom, or from Ed's mom, or whatever. To this day, people stop me and say, "I bought my Pilot from your mom." It was really, really fun. They had a blast, and it made for a memorable launch.
+我们想出了让老妈们来发布会帮忙的疯狂点子，我妈、Jeff 他妈还有 Ed 的妈都来了，她们头戴“ Moms for Pilot.”字样的帽子，胸前别着“ My daughter's Donna,”，“My son is Ed,”之类字样的胸针，妈妈们负责帮忙接受订单。直到今天，人们还会拦住我说，“我从你妈那里买的 Pilot。”是在是太有趣了。他们玩得很开心，这是一次难忘的发布会。
 
 **14:06** - _Saron Yitbarek_
 
-What the moms were signing orders for was a huge step forward in handheld computing. But keep in mind, this is happening in 1996. Ed Colligan and Rob Haitani again.
+妈妈们签下的订单是掌上电脑发展的一大步。但是请记住，这发生在 1996 年。Ed Colligan 和 Rob Haitanihat 有话要说。
 
 **14:18** - _Ed Colligan_
 
-The product ran on two AAA batteries, for a month, ok. It had 128K of memory. You've probably never heard a K of memory. It had a display screen that was a black and white, you know, display.
+只要两节七号电池就能让设备用一个月，它有 128K 的内存。你可能从没听过用 K 做单位来说内存。他的显示器是黑白的。
 
 **14:38** - _Rob Haitani_
 
-We had a screen that was 160x160 pixels, which is microscopic. I mean, I've designed icons almost that size. So we had a very low-powered processor, and a very small amount of memory. So it had a 16 megahertz processor, 128K of RAM, and we had to make an operating system work under those constraints. Low-powered screen. It was not color, it was not even grayscale. It was a monochrome, 160-pixel screen, and then below it, we had a digitizer that was not a screen, but it was a digitizer, so you could write on it.
+我们有 160 × 160 像素的超小屏幕，小到跟我之前设计的图标差不多大。我们的处理器功率很低，内存很小，它有 16 兆赫处理器，128K 的 RAM，我们必须让操作系统在有限的资源下工作。屏幕功率也很低，它不是彩色，甚至不是灰色。是一个单色的，160 像素的屏幕，屏幕下方有一个看上去很像屏幕的触控板，你可以在上面写字。
 
 **15:16** - _Saron Yitbarek_
 
-Palm added its handwriting recognition software, called Graffiti to the PalmPilot. Remember, that it didn't have a keyboard. If you wanted to write something on it, you used a stylus.
+Palm 公司在其上预装了名叫 Graffiti 的手写识别软件，记住，它没有键盘，你可以用手写笔在上面写字。
 
 **15:29** - _Rob Haitani_
 
-You wrote on a rectangle at the bottom, and you wrote letters on top of each other, and you had to learn a simplified alphabet.
+你可以在设备底部的方形触控板上书写，每次写一个字母，字母堆叠组成单词。
 
 **15:39** - _Saron Yitbarek_
 
-The technology was new and smooth, but it wasn't without its problems. For example...
+这项技术非常新颖和流畅，但也不是没有遇到问题。比如……
 
 **15:45** - _Donna Dubinsky_
 
-We had been shipping for a little while, and we suddenly started getting catastrophic failures in the field. Devices that went off, and just couldn't go back on, and we started getting these into our service department, and had to try to figure out what was going wrong.
+商品已经售卖了一段时间，我们忽然收到反馈说，我们的设备存在严重故障。且一旦该故障出现，就再也开不了机。我们赶紧把设备送进我们的服务部门，看哪里出了问题。
 
 **16:02** - _Rob Haitani_
 
-This is why startups don't typically make hardware. It's very difficult, and we had this problem where people were losing data, and we couldn't figure out what was happening.
+这就是为什么创业公司不生产硬件。因为生产硬件非常难，我们遇到的问题是，人们丢失了数据，但我们不知道为什么。
 
 **16:15** - _Saron Yitbarek_
 
-The team combed through all their documentation, back through their many change agreements and orders. They tried tracing it back to something that changed with their process. Still, they couldn't figure it out. Out of frustration, Donna got everyone together.
+研发团队梳理了所有的文档，回溯了所有协议和命令的变更记录，想找到是哪一次修改导致的问题，但还是没有收获。沮丧之下，Donna 把大家都召集起来了。
 
 **16:32** - _Donna Dubinsky_
 
-I put all the senior people in one room and almost locked the door and said, "You're not leaving here until you figure out what's wrong with this thing. Why is this happening?"
+我把所有的高级员工都关在房间里，锁上门，对他们说：“要是查不出问题，大家都不能离开！”。
 
 **16:41** - _Saron Yitbarek_
 
-Eventually, the team realized there'd been a tiny change inside the machine, but not the kind you'd expect. It had nothing to do with the hardware components at all.
+最终，研发团队意识这不是硬件问题，故障的原因是机器内部不符合预期的微小变更。
 
 **16:53** - _Donna Dubinsky_
 
-You know how when you take a battery cover off, or you put in batteries on a device, so the inside cover there, somebody added a sticker with some kind of a warning or something.
+当你打开电池盖更换电池的时候，你会看到电池盖上有一张贴纸，上边写着警告之类的字样。
 
 **17:03** - _Saron Yitbarek_
 
-The source of this giant headache was a little warning sticker that had been added to the underside of the battery cover.
+正是这个写着警告字样的小贴纸，造成了这次大规模的故障。
 
 **17:11** - _Donna Dubinsky_
 
-That sticker caused friction with the batteries, and they could get depressed in a way that disconnected the power. And there had been a software patch that had been loaded on, and that patch was lost when the power was disconnected.
+贴纸与电池摩擦，有可能会导致断电。断电的时候，已经被加载的数据就会丢失。
 
 **17:27** - _Saron Yitbarek_
 
-The hardware team swapped out connectors for springs to bolster the batteries, a super-simple fix for a catastrophic failure.
+硬件团队将在设备上增加了支撑电池的弹簧，用这种超简单的方法，解决了这次灾难性的故障。
 
 **17:35** - _Donna Dubinsky_
 
-The good news was it was all synchronized, so it was all backed up. And you realized that for people, it's a real light-bulb moment. The data is the value, not the device.
+好消息是设备可以和电脑同步，所以数据都有备份。这场故障让人们意识到，真正有价值的并不是设备，而是存储在设备上的数据。
 
 **17:49** - _Saron Yitbarek_
 
-Maybe you're listening to this podcast on a smartphone right now. Take a look at it. Your phone is light-years ahead of those old PalmPilots. And yet, the basics of what you're using were all there in the Palm. Chris Dunphy was Palm's Director of Competitive Analysis.
+也许你正在用智能手机收听我们的播客，如果是的话，看一下你的手机，它比古老的 PalmPilots 先进太多，虽然很多基本功能 PalmPilots 上都有。接下来有请 Palm 公司的竞争分析总监 Chris Dunphy。
 
 **18:10** - _Donna Dubinsky_
 
-It was this kind of amazing golden age. Palm launched to the market in 1996, with the PalmPilot, and it was the buzz everywhere. It was the cool thing to have, this little thing in your pocket that was a portable brain, and Palm was smart enough that they'd put out a developer SDK as kind of, almost, a side effect, and that took off. All these little niche markets had really cool little apps popping up for them. From everything from doctors to knitters. And people were in love with their devices, in love with their apps.
+那是一个神奇的黄金时代。Palm 在 1996 年与 PalmPilot 一起面世，然后轰动一时。那个年代，口袋里装着 PalmPilot 这样小型大脑一样的设备，是非常酷的事情，Palm 公司后来推出开发者 SDK 作为辅助工具，然后又是大火。有了 SDK 的帮助，应用商店涌现了大量有趣的小程序。各行各业的人都爱上了他们的设备，爱上了他们的应用。
 
 **18:43** - _Saron Yitbarek_
 
-There was an existing community of developers making similar apps for Mac's desktops, and they hopped over to build an app ecosystem for Palm.
+当时一群为 Mac 的台式机开发软件的开发者，转而开始为 Palm 创建应用生态系统。
 
 **18:52** - _Chris Dunphy_
 
-A lot of the original Palm developers weren't large companies. They were just small hobbyists who were doing projects in their spare time. They had some personal passion project, and their minds exploded when they started thinking, what is a computer, and a screen that you carry with you all the time? And it becomes an extension of your mind. And so many people had so many great ideas of how to take advantage of that software development kit, and write really, really cool things. And, it was really groundbreaking.
+很多最初的 Palm 开发商都不是大公司，他们只是在业余时间做小项目的爱好者。他们有自己很喜欢的项目，当他们开始思考，我们随身携带的小型电脑的本质时，他们灵感爆发，拓宽了我们的思路。越来越多的人在开发工具的帮助下，把自己的奇思妙想变为现实，这非常具有开创性。
 
 **19:18** - _Donna Dubinsky_
 
-I mean, I know a lot of people think Apple invented the App Store, and the idea of apps on handheld, but actually the very first PalmPilot had a very early app store. It was a third-party app store, and very early developers who came in and did all sorts of creative applications that again, people could just sync onto their device.
+我知道很多人认为，应用商店和手机应用是苹果发明的，但实际上初代 PalmPilot 就有一个第三方应用商店。早期的开发者开发了海量创造性应用，人们借助应用商店将它们同步到设备上。
 
 **19:37** - _Saron Yitbarek_
 
-The plan was to sell 100,000 units in the first year. And for the first six months, sales were stable. About 10,000 units a month. But then, things started to skyrocket.
+他们的计划是在第一年销售 10 万台。在前六个月，销售额一直稳定在每月 1 万台左右。但之后，销售量开始爆发。
 
 **19:50** - _Donna Dubinsky_
 
-And in fact by 18 months, we sold a million units, which was the fastest new product growth in American history at the time. I mean it was stunning growth. A million units in 18 months.
+实际上，短短 18 月的时间里，我们卖出了 100 万台，这是当时美国历史上销售量增长最快的产品。短短 18 个月内生产了 100 万台，这太不可思议了。
 
 **20:01** - _Saron Yitbarek_
 
-Palm had created an entirely new category of hardware. And the spoils were, theoretically, theirs for the taking. But then, unexpectedly, Palm's parent company, US Robotics was sold to another company, called 3Com. And the head of 3Com, who was influenced by the Microsoft business model, decided to license the Palm OS to companies that wanted to create PDAs of their own.
+Palm 公司创造了全新的硬件类目。他本应是这场游戏的赢家。但随后，Palm 的母公司 US Robotics 出乎意料地被卖给了另一家名为 3Com 的公司。受微软业务模式的影响，3Com 负责人决定将 Palm OS 许可给想要创造自己的 PDA 的公司们。
 
 **20:29** - _Donna Dubinsky_
 
-And obviously, it was a strategy that has succeeded very well from Microsoft in personal computers. We didn't think that was the right strategy for handheld computers. We felt they needed to be highly integrated devices, but they consistently felt that that was the wrong decision, and that what we should do is license the OS to all commerce. And we disagreed with that.
+很明显，这是微软在个人电脑领域取得成功的策略。我们不认为这是掌上电脑的正确策略。我们认为掌上电脑需要高度集成的设备。但他们始终认为这是一个错误的决定，认为我们应该将操作系统授权给所有的商业。我们不能认同他们的决定。
 
 **20:53** - _Saron Yitbarek_
 
-They believed in their vision. And so, right after they helped their parent company revolutionize the market, Jeff Hawkins, Donna Dubinsky, Ed Colligan, Rob Haitani, and others left Palm to form a new company. They called it Handspring. There, they would license the software they'd created, Palm OS, and load it onto their own handhelds. They had built a giant. And now, they were going to try to take it down, David-and-Goliath style, using its own OS. In 1999, the newly formed Handspring, free from those old parent companies released its own hardware, the Visor line of PDAs. And they ran on Palm OS. Ed Colligan remembers its public reception.
+他们相信自己的愿景。于是，在他们帮母公司革新市场后，Jeff Hawkins、Donna Dubinsky、Ed Colligan 还有 Rob Haitani 等人离开了 Palm ，成立了一家新公司，名叫 Handspring。他们把 Palm OS 安装到他们新的掌机上。他们曾创造巨人，现在，他们打算用自己的操作系统，以大卫和歌利亚的方式打败他。Handspring 在 1999 年获得独立并发布了新的硬件产品：名为 Visor 的全新系列 PDA。Visor 内置 Palm OS。Ed Colligan 还记得这款新设备大受欢迎。
 
 **21:48** - _Ed Colligan_
 
-And sure enough, we took like 25% of the market, almost overnight.
+果不其然，我们一夜之间就占据了 25% 的市场份额。
 
 **21:53** - _Saron Yitbarek_
 
-Palm's hardware was hit by that move. So ironically, 3Com spun it off into the independent company the team had hoped for. In the meantime, the Palm OS was running on 90% of all handheld computers, not too shabby. In fact, for a short period, Palm was worth more than Ford and General Motors combined. People thought it'd become the next Microsoft. Meanwhile, Handspring had its own plans.
+Palm 公司的硬件销量受到了这一举动的打击。讽刺的是，正是 3Com 决定将 Handspring 拆分为独立公司的，这正合他们心意。值得欣慰的是，当时 90% 以上的掌上电脑上，运行着Palm 公司的操作系统。事实上，有很短的一段时间，Palm 的市值超过了福特和通用汽车的总和。人们认为它会成为下一个微软。当然，Handspring 这时也有自己的计划。
 
 **22:23** - _Donna Dubinsky_
 
-By the time we started Handspring, we started realizing that these devices ultimately would be communications devices and we built it with a hardware slot and the hardware slot was specifically with the idea to be able to experiment and integrate any kind of communication things—put in a pager card, put in a voice card, put in whatever, and that we would learn from that, and learn how to integrate communications and what would be important in the space.
+成立 Handspring 以后，我们意识到掌上电脑的终极形态会是通信设备。所以我们在产品上增加了一个硬件插槽，打算将来用以支持多种类型的通信设备，比如可以插上一个呼机卡、语音卡什么的。这样我们就可以从中学习，深入了解通信领域。
 
 **22:51** - _Ed Colligan_
 
-We saw the smartphone coming, we saw that these things were all going wireless and we decided we wanted to figure out how to create that integrated device of both the PDA and the phone.
+未来是智能手机的天下，所有这些东西正朝着无线发展，我们的下一步是将 PDA 和手机集成起来。
 
 **23:07** - _Saron Yitbarek_
 
-So Handspring got to work creating a smartphone. In the process, they replaced the stylus with the keyboard and named their new creation the Treo. While all this was in progress Jeff, Donna, and Ed met with another tech entrepreneur doing interesting things in the space. A guy by the name of Steve Jobs.
+然后，Handspring 开始开发智能手机。他们用键盘取代了手写笔，将他们的新产品命名为 TreoSo。Jeff、Donna 还有 Ed 一起会见了另一位科技企业家，他正在智能手机领域做一些有趣的事情。这人正是 Steve Jobs。
 
 **23:28** - _Ed Colligan_
 
-At that meeting, Steve got up on the board and drew out a Macintosh and he had all these things like photos and video and other things as satellite things off of the Macintosh and he said, "Our strategy is the Macintosh is going to be the center of everything and all these things are going to pivot around it." And that was iTunes, iPhoto, whatever. Right? And Jeff said, "Nope, that's not how it's going to work. How it's going to work is there's going to be a handheld computer and all these things are going to pivot off of it."
+Steve 在白板上画了一台<ruby>麦金塔计算机<rt>Macintosh</rt></ruby>，然后在其周围像卫星一样画出照片、视频等各种附属功能。然后他说：“我们的战略是，Macintosh 将成为一切的中心。iTunes、iPhoto 等所有功能都围绕它设计”，然而，Jeff 反驳道:“不是这样的。人们将会有一台掌上电脑，所有这些东西都将以它为中心才对”。
 
 **24:05** - _Saron Yitbarek_
 
-We know how this all turned out. Jeff Hawkins’ vision was actually closer to the truth, but at the time, early 2000s, Jobs was skeptical. The whole industry was skeptical.
+我们都知道结果如何。Jeff Hawkins 的观点实际上更接近事实，但在21世纪初，Jobs 对此持怀疑态度。整个行业都对此持怀疑态度。
 
 **24:18** - _Ed Colligan_
 
-I used to go into Sprint and Verizon, and these guys, and try to convince them that smartphones were going to be something. I know it's hard to believe today, but literally we'd sit down in meetings and they're like, eh, these new-fangled devices or you know ... who's going to do email on something in your pocket. And I'd go, "Well, I really think it's going to happen."
+我曾经去游说 Sprint 和 Verizon 这些公司，试着说服他们未来是智能手机的时代。虽然今天很难相信，但实际上，会议上他们的反应就像在说：“嗯，这些新设备，你知道的……谁会用口袋里的东西发邮件呢”，我会说：“嗯，我真的认为这将会发生”。
 
 **24:40** - _Saron Yitbarek_
 
-But while they waited for the world to catch up, they had another more pressing problem. It threatened the future of Handspring, Palm, and just about everything. In 2001, the tech bubble burst, stocks plummeted, money was suddenly scarce and investments dried up. So in another hail-Mary, this time to manufacture the Treo, Handspring merged back into Palm. I know all the back and forth is making me a little dizzy, too. The Treo became Palm's powerhouse product and the most popular smartphone on the market. But of course by that point, the Palm OS had started to show its age. New players had entered the market. Companies like RIM with its Blackberry.
+在们等待智能手机的时代到来时，他们有另一个更紧迫的问题。2001 年，科技泡沫破裂，股市暴跌，资金短缺，投资枯竭。这威胁到了 Handspring、Palm 以及几乎所有产品的未来。所以<ruby>万福玛利亚<rt>hail-Mary</rt></ruby>，为了制造 Treo, Handspring 又合并回了 Palm 公司。这来回的折腾也让我有点头晕。但 Treo 作为 Palm 的主力产品，成为了市场上最受欢迎的智能手机。当然，在那个时候，Palm OS 已经开始显老。<ruby>黑莓公司<rt>Blackberry</rt></ruby>这样的新玩家也进入了这个市场。
 
 **25:29** - _Saron Yitbarek_
 
-Wireless was becoming a thing and experts seriously doubted whether the Palm operating system was a good fit for the next generation of devices. So in 2005, Palm shipped its first Treo without the Palm OS. They built that Treo around Windows mobile. By 2007, Palm had become a hardware company with no operating system of its own. The future that the Palm team wanted to build seemed to be rolling on without them.
+当无线成为一种潮流时，专家们开始严重怀疑 Palm 操作系统是否适合下一代设备。所以在 2005 年，Palm 公司发布了第一款不使用 Palm 操作系统的产品 Treo。Treo 使用的是 Windows mobile 操作系统。到 2007 年时，Palm 已经成了没有自研操作系统的纯硬件公司。Palm 团队想要建立的未来还在发展，但它似乎不再需要与 Palm 公司同行了。
 
 **26:03** - _Saron Yitbarek_
 
-Palm needed help and they got it in the form of John Rubinstein, the man who developed the iPod at Apple, just as Apple released the iPhone in 2007, Rubinstein came on board at Palm as their new head of product development. Two years later, the Palm team had a new device, the Palm Pre and a new OS called Web OS. They launched at CES in 2009. Some called it the best tech keynote ever. Here's Ed Colligan onstage at the event.
+正当 Palm 公司需要帮助时，John Rubinstein 挺身而出。Rubinstein 在苹果公司开发了iPod。在苹果公司 2007 年发布 iPhone 时，Rubinstein 加入了 Palm 公司，担任其产品开发的新主管。两年后，Palm 团队推出了他们的新设备：Palm Pre 和一款名为 Web OS 的新操作系统。它们于 2009 年在消费电子展上推出。有人认为这是有史以来最好的科技主题报告。Ed Colligan 在活动中说到：
 
 **26:40** - _Ed Colligan_
 
-And it's called the Palm Web OS and we're very, very excited to bring it to you today. It was built with developers in mind. The whole thing is built on industry-standard web tools. If you know HTML, CSS, and JavaScript, you can develop applications for this platform.
+它叫做 Palm Web OS，我们非常高兴今天能把它带给大家。它是为开发人员而构建的。这一切都建立在行业标准的网络工具之上。只要您了解 HTML、CSS 和 JavaScript，就可以为这个平台开发应用程序。
 
 **27:03** - _Saron Yitbarek_
 
-No one had ever seen anything like Web OS, it laid the groundwork for the whole smartphone experience we take for granted today. In fact, iOS and Android gleaned a lot from its features. Features like multiple synchronized calendars, unified social media and contact management, curved displays, wireless charging, integrated text and web messaging, unintrusive notifications. You could upgrade it easily just by putting it into dev mode and you could receive over-the-air updates. Web OS was an amazing achievement that no other company could match. Unfortunately, it wasn't enough.
+没人见过像 Web OS 这样的东西，它为我们现今智能手机的体验奠定了基础。实际上，iOS 和 Android 都从中汲取了很多东西。Web OS 的功能有：多个同步日历、统一社交媒体和联系人管理、曲面显示器、无线充电、集成文本、网络消息、非侵入通知等等。只需将其置于开发模式即可轻松升级，并且还支持无线更新。Web OS 是其他公司无法比拟的伟大成就，不过，这还不够。
 
 **27:46** - _Ed Colligan_
 
-I think we did a phenomenal job with that, but it was just too little, too late, because at that point Apple had launched the iPhone. They executed really, really well and so all power to them, but I think they were hugely influenced by what we had done and to this day, I mean until, like, OS X or whatever on the iPhone, that was the first time they'd actually caught up with all the features that were in the Web OS.
+我认为我们在这方面做得很出色，但还是太少，太迟了，因为那时苹果已经发布了 iPhone。他们执行得又快又好，所以市场被他们占领了，但我认为我们的设计对他们影响深远。我的意思是，直到今天，iPhone 和 OS X 才真正赶上 Web OS 的所有功能。
 
 **28:12** - _Saron Yitbarek_
 
-But Ed thinks the real killer was another phone.
+但是 Ed 认为真正的杀手锏是另一部手机.
 
 **28:15** - _Ed Colligan_
 
-The killer blow was Google and Android and their ability to not have to make money off of it, other than search.
+导致他们失败的杀手锏其实是是 Google 和 Android。有了搜索业务的支撑，Google 不需要通过卖手机赚钱。
 
 **28:24** - _Saron Yitbarek_
 
-Google basically gave Android away for free. It was a problem for Microsoft's Windows phone and for the Palm pre/Web OS combo.
+Google 基本上免费提供了 Android。这对 Microsoft 的 Windows Phone 还有 Palm pre 的 Web OS 来说，是个大问题。
 
 **28:34** - _Ed Colligan_
 
-And we did not have that business model, and it just hugely undermined us and, and there was really no way to recover from that.
+我们没有那样的商业模式，这对我们造成了巨大的影响，导致我们再也没办法从中恢复过来。
 
 **28:48** - _Saron Yitbarek_
 
-After creating a whole new tech category with the PalmPilot, dominating mobile software with Palm OS, building the first smartphone, the Treo, reinventing mobile OS with Web OS, after all those innovation and iterations, Palm was sold to HP in 2010 and then later to LG. In 2012, HP released open Web OS built on top of a Linux kernel.
+用 PalmPilot 创造了一个全新的技术类目，用 Palm OS 主导了移动软件，打造了第一款智能手机 Treo，并用 Web OS 重塑了移动操作系统，在所有这些创新和迭代之后，Palm 公司在 2010 年被惠普收购，后来又被 LG 收购。然后在 2012 年，惠普发布了基于 Linux 开源 Web OS。
 
 **29:18** - _Saron Yitbarek_
 
-Once it was open source Web OS became the underlying OS for tons of other smart devices, TVs, watches, and the Internet of Things. And that old debate over fusing hardware and software, well, I'll let Donna Dubinsky settle things.
+一旦开源，Web OS 就成为其他智能设备、电视、手表和物联网的底层操作系统。关于硬件和软件融合的争论，让 Donna Dubinsky 来解决吧。
 
 **29:36** - _Donna Dubinsky_
 
-They're virtually indistinguishable from each other. You can't have great hardware and terrible software and you can't have great software and terrible hardware. The question is almost nonsensical. They have to be together. You know, you carry these things on you all the time. It's a highly integrated device. People don't even know where the hardware ends and the software begins and that's as it should be.
+它们实际上是无法区分的。你不能在好硬件上运行坏软件，也不能用坏硬件来支持好软件。这个问题几乎毫无意义，两者必须保持一致。这些你随身携带的软硬件，被高度集成在一起。人们甚至不知道硬件在哪里结束，软件在哪里开始，事实就是如此。
 
 **29:58** - _Saron Yitbarek_
 
-In Jeff Hawkins’ case the hardware and the software began with that small block of wood tucked away in his shirt pocket. That simple block of the right shape and size has launched a fleet of millions, perhaps billions, of smartphones 25 years later.
+在 Jeff Hawkins 的故事中，不管是硬件还是软件，都是从他衬衫口袋里的那块小木块开始的。25 年后，这个小木块演化成了数百万、甚至数十亿部智能手机。
 
 **30:21** - _Saron Yitbarek_
 
-Command Line Heroes is an original podcast from Red Hat. Go to our website for some amazing bonus material we dug up on Palm and Web OS. [Redhat.com/commandlineheroes](https://www.redhat.com/commandlineheroes "redhat.com/commandlineheroes"). And hey, while you're there, sign up for our newsletter. I'm Saron Yitbarek. Until next time. Keep on coding.
+《代码英雄》是红帽的原创播客。访问我们的网站[redhat.com/commandlineheroes](https://www.redhat.com/commandlineheroes"redhat.com/commandlineheroes")了解更多有关 Palm 和 Web OS 的精彩故事。想要收到我们的简讯，记得注册哦，我是 Saron Yitbarek，继续写代码吧，我们下次见！
 
 --------------------------------------------------------------------------------
 
@@ -353,7 +352,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-4/smarter-phones
 
 作者：[Red Hat][a]
 选题：[bestony][b]
-译者：[译者ID](https://github.com/KeaneQy)
+译者：[2581543189](https://github.com/2581543189)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
