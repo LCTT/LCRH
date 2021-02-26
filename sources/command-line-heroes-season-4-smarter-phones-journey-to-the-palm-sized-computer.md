@@ -185,6 +185,7 @@ Palm 公司在其上预装了名叫 Graffiti 的手写识别软件，记住，�
 **16:15** - _Saron Yitbarek_
 
 研发团队梳理了所有的文档，回溯了所有协议和命令的变更记录，想找到是哪一次修改导致的问题，但还是没有收获。沮丧之下，Donna 把大家都召集起来了。
+
 **16:32** - _Donna Dubinsky_
 
 我把所有的高级员工都关在房间里，锁上门，对他们说：“要是查不出问题，大家都不能离开！”。
@@ -327,7 +328,7 @@ Google 基本上免费提供了 Android。这对 Microsoft 的 Windows Phone 还
 
 **28:48** - _Saron Yitbarek_
 
-用 PalmPilot 创造了一个全新的技术类目，用 Palm OS 主导了移动软件，打造了第一款智能手机 Treo，并用 Web OS 重塑了移动操作系统，在所有这些创新和迭代之后，Palm 公司在 2010 年被<ruby>惠普<rt>HP</rt></ruby>收购，后来又被 LG 收购。然后在 2012 年，HP 发布了基于 Linux 开源 Web OS。
+用 PalmPilot 创造了一个全新的技术类目，用 Palm OS 主导了移动软件，打造了第一款智能手机 Treo，并用 Web OS 重塑了移动操作系统，在所有这些创新和迭代之后，Palm 公司在 2010 年被惠普收购，后来又被 LG 收购。然后在 2012 年，惠普发布了基于 Linux 开源 Web OS。
 
 **29:18** - _Saron Yitbarek_
 
