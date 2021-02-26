@@ -137,111 +137,109 @@ Jeff 总是一个有独到见解的人。比如他说，现在的问题是它运
 
 **11:35** - _Saron Yitbarek_
 
-短短 18 个月内，Palm 公司便完成了看似不可能的事情。他们有一个硬件和软件完美同步的原型机。而他们只用了 300 万美元就做到了。但这也是他们最后的 300 万美元，虽然他们有了令人惊叹的新型手持式计算设备，但他们濒临破产。Palm 团队为继续融资而采取的孤注一掷的解决方案是，在 1995 年把公司卖给 US Robotics。这是他们让这个新型设备(他们将其命名为 PalmPilot )面世的唯一途径。他们知道这很有市场。首席执行官 Donna Dubinsky 回忆起 Jeff Hawkins 在一次技术会议上发布 PalmPilot 时发生的事情。
+短短 18 个月内，Palm 公司便完成了看似不可能的事情。他们有一个硬件和软件完美同步的原型机。而他们只用了 300 万美元就做到了。但这也是他们最后的 300 万美元，虽然他们有了令人惊叹的新型手持式计算设备，但他们濒临破产。Palm 团队为继续融资而采取的孤注一掷的解决方案是，在 1995 年把公司卖给 US Robotics。这是他们让这个新型设备(他们将其命名为 PalmPilot )面世的唯一途径。他们知道这很有市场。首席执行官 Donna Dubinsky 回忆起 Jeff Hawkins 在一次技术会议上发布 PalmPilot 时的情形。
 
 **12:37** - _Donna Dubinsky_
 
-We had Jeff up there on the stage, showing the device, but the moment that was the most powerful, and that got us a near standing ovation was, he brought out the cradle, and he put the device in the cradle, and he pressed the button. And you could see on the screen it synchronizing with the PC. And that blew people away. And they just spontaneously applauded. So it was very exciting to see how they got the core value proposition of what we were trying to sell.
+Jeff 登上舞台向大家展示我们的新设备，当他拿出设备，按下按钮时，我们几乎要站起来鼓掌了。你可以在屏幕上看到它正在与 PC 同步数据，台下响起了热烈的掌声。观众理解了我们产品的核心卖点，这让我们非常激动。
 
 **13:13** - _Saron Yitbarek_
 
-Palm's goal at that launch was to convey to people how simple the device was to use. But they didn't have a big budget to produce their reveal. So, they got creative.
+Palm 公司举办这场发布会的目的是，让用户感受他们的产品有多好用，但是他们没有足够的预算请来大咖助阵，所以发布会必须要有创意。
 
 **13:24** - _Donna Dubinsky_
 
-We came up with this crazy idea to have our mothers come, and help us launch it. So we had my mom, Jeff's mom, and Ed's mom. They had little hats we made up that said “Moms for Pilot.” They had little pins that said “My daughter's Donna,” “My son is Ed,” or whatever. And we had them take orders for Pilots on the spot. I bought my Pilot from Jeff's mom, or from Ed's mom, or whatever. To this day, people stop me and say, "I bought my Pilot from your mom." It was really, really fun. They had a blast, and it made for a memorable launch.
+我们想出了让老妈们来发布会帮忙的疯狂点子，我妈、Jeff 他妈还有 Ed 的妈都来了，她们头戴“ Moms for Pilot.”字样的帽子，胸前别着“ My daughter's Donna,”，“My son is Ed,”之类字样的胸针，妈妈们负责帮忙接受订单。直到今天，人们还会拦住我说，“我从你妈那里买的 Pilot。”是在是太有趣了。他们玩得很开心，这是一次难忘的发布会。
 
 **14:06** - _Saron Yitbarek_
 
-What the moms were signing orders for was a huge step forward in handheld computing. But keep in mind, this is happening in 1996. Ed Colligan and Rob Haitani again.
-
+妈妈们签下的订单是掌上电脑发展的一大步。 但是请记住，这发生在1996年。Ed Colligan 和 Rob Haitanihat 有话要说。
 **14:18** - _Ed Colligan_
 
-The product ran on two AAA batteries, for a month, ok. It had 128K of memory. You've probably never heard a K of memory. It had a display screen that was a black and white, you know, display.
+只要两节七号电池就能让设备用一个月，它有128K的内存。你可能从没听过用 K 做单位来说内存。他的显示器是黑白的。
 
 **14:38** - _Rob Haitani_
 
-We had a screen that was 160x160 pixels, which is microscopic. I mean, I've designed icons almost that size. So we had a very low-powered processor, and a very small amount of memory. So it had a 16 megahertz processor, 128K of RAM, and we had to make an operating system work under those constraints. Low-powered screen. It was not color, it was not even grayscale. It was a monochrome, 160-pixel screen, and then below it, we had a digitizer that was not a screen, but it was a digitizer, so you could write on it.
+我们有 160 × 160 像素的超小屏幕，小到跟我之前设计的图标差不多大。我们的处理器功率很低，内存很小，它有 16 兆赫处理器，128K 的 RAM，我们必须让操作系统在有限的资源下工作。屏幕功率也很低，它不是彩色，甚至不是灰色。是一个单色的，160 像素的屏幕，屏幕下方有一个看上去很像屏幕的触控板，你可以在上面写字。
 
 **15:16** - _Saron Yitbarek_
 
-Palm added its handwriting recognition software, called Graffiti to the PalmPilot. Remember, that it didn't have a keyboard. If you wanted to write something on it, you used a stylus.
+Palm 公司在其上预装了名叫 Graffiti 的手写识别软件，记住，它没有键盘，你可以用手写笔在上面写字。
 
 **15:29** - _Rob Haitani_
 
-You wrote on a rectangle at the bottom, and you wrote letters on top of each other, and you had to learn a simplified alphabet.
+你可以在设备底部的方形触控板上书写，每次写一个字母，字母堆叠组成单词。
 
 **15:39** - _Saron Yitbarek_
 
-The technology was new and smooth, but it wasn't without its problems. For example...
+这项技术非常新颖和流畅，但也不是没有问题。例如……
 
 **15:45** - _Donna Dubinsky_
 
-We had been shipping for a little while, and we suddenly started getting catastrophic failures in the field. Devices that went off, and just couldn't go back on, and we started getting these into our service department, and had to try to figure out what was going wrong.
+商品已经售卖了一段时间，我们忽然收到反馈说，我们的设备存在严重故障。且一旦该故障出现，就再也开不了机。我们赶紧把设备送进我们的服务部门，看哪里出了问题。
 
 **16:02** - _Rob Haitani_
 
-This is why startups don't typically make hardware. It's very difficult, and we had this problem where people were losing data, and we couldn't figure out what was happening.
+这就是为什么创业公司不生产硬件。因为生产硬件非常难，我们遇到的问题是，人们丢失了数据，但我们不知道为什么。
 
 **16:15** - _Saron Yitbarek_
 
-The team combed through all their documentation, back through their many change agreements and orders. They tried tracing it back to something that changed with their process. Still, they couldn't figure it out. Out of frustration, Donna got everyone together.
-
+我们团队梳理了所有的文档，回溯了所有协议和命令的变更记录，想找到是哪一次修改导致的问题，但还是没有收获。沮丧之下，Donna 把大家都召集起来了。
 **16:32** - _Donna Dubinsky_
 
-I put all the senior people in one room and almost locked the door and said, "You're not leaving here until you figure out what's wrong with this thing. Why is this happening?"
+我把所有的高级员工都关在房间里，锁上门，对他们说：“要是查不出问题，大家都不能离开！”。
 
 **16:41** - _Saron Yitbarek_
 
-Eventually, the team realized there'd been a tiny change inside the machine, but not the kind you'd expect. It had nothing to do with the hardware components at all.
+最终，研究团队意识这不是硬件问题，故障的原因是机器内部不符合预期的微小变更。
 
 **16:53** - _Donna Dubinsky_
 
-You know how when you take a battery cover off, or you put in batteries on a device, so the inside cover there, somebody added a sticker with some kind of a warning or something.
+当你打开电池盖更换电池的时候，你会看到电池盖上有一张贴纸，上边写着警告之类的字样。
 
 **17:03** - _Saron Yitbarek_
 
-The source of this giant headache was a little warning sticker that had been added to the underside of the battery cover.
+正是这个写着警告字样的小贴纸，造成了这次大规模的故障。
 
 **17:11** - _Donna Dubinsky_
 
-That sticker caused friction with the batteries, and they could get depressed in a way that disconnected the power. And there had been a software patch that had been loaded on, and that patch was lost when the power was disconnected.
+贴纸与电池摩擦，有可能会导致断电。断电的时候，已经被加载的数据就会丢失。
 
 **17:27** - _Saron Yitbarek_
 
-The hardware team swapped out connectors for springs to bolster the batteries, a super-simple fix for a catastrophic failure.
+硬件团队将在设备上增加了支撑电池的弹簧，用这种超简单的方法，解决了这次灾难性的故障。
 
 **17:35** - _Donna Dubinsky_
 
-The good news was it was all synchronized, so it was all backed up. And you realized that for people, it's a real light-bulb moment. The data is the value, not the device.
+好消息是设备可以和电脑同步，所以数据都有备份。这场故障让人们意识到，真正有价值的并不是设备，而是存储在设备上的数据。
 
 **17:49** - _Saron Yitbarek_
 
-Maybe you're listening to this podcast on a smartphone right now. Take a look at it. Your phone is light-years ahead of those old PalmPilots. And yet, the basics of what you're using were all there in the Palm. Chris Dunphy was Palm's Director of Competitive Analysis.
+也许你正在用智能手机收听我们的播客，如果是的话，看一下你的手机，它比古老的 PalmPilots 先进太多，虽然很多基本功能 PalmPilots 上都有。接下来有请 Palm 公司的竞争分析总监 Chris Dunphy。
 
 **18:10** - _Donna Dubinsky_
 
-It was this kind of amazing golden age. Palm launched to the market in 1996, with the PalmPilot, and it was the buzz everywhere. It was the cool thing to have, this little thing in your pocket that was a portable brain, and Palm was smart enough that they'd put out a developer SDK as kind of, almost, a side effect, and that took off. All these little niche markets had really cool little apps popping up for them. From everything from doctors to knitters. And people were in love with their devices, in love with their apps.
+那是一个神奇的黄金时代。Palm 在 1996 年与 PalmPilot 一起面世，然后轰动一时。那个年代，口袋里装着 PalmPilot 这样小型大脑一样的设备，是非常酷的事情，Palm 公司后来推出开发者 SDK 作为辅助工具，然后又是大火。有了 SDK 的帮助，应用商店涌现了大量有趣的小程序。各行各业的人都爱上了他们的设备，爱上了他们的应用。
 
 **18:43** - _Saron Yitbarek_
 
-There was an existing community of developers making similar apps for Mac's desktops, and they hopped over to build an app ecosystem for Palm.
+当时一群为 Mac 的台式机开发软件的开发者，转而为 Palm 创建应用生态系统。
 
 **18:52** - _Chris Dunphy_
 
-A lot of the original Palm developers weren't large companies. They were just small hobbyists who were doing projects in their spare time. They had some personal passion project, and their minds exploded when they started thinking, what is a computer, and a screen that you carry with you all the time? And it becomes an extension of your mind. And so many people had so many great ideas of how to take advantage of that software development kit, and write really, really cool things. And, it was really groundbreaking.
+很多最初的 Palm 开发商都不是大公司，他们只是在业余时间做小项目的爱好者。他们有自己很喜欢的项目，当他们开始思考，我们随身携带的小型电脑的本质时，他们灵感爆发，拓宽了我们的思路。越来越多的人在开发工具的帮助下，把自己的奇思妙想变为现实，这非常具有开创性。
 
 **19:18** - _Donna Dubinsky_
 
-I mean, I know a lot of people think Apple invented the App Store, and the idea of apps on handheld, but actually the very first PalmPilot had a very early app store. It was a third-party app store, and very early developers who came in and did all sorts of creative applications that again, people could just sync onto their device.
+我知道很多人认为，应用商店和手机应用是苹果发明的，但实际上初代 PalmPilot 就有一个第三方应用商店。早期的开发者开发了海量创造性应用，人们借助应用商店将它们同步到设备上。
 
 **19:37** - _Saron Yitbarek_
 
-The plan was to sell 100,000 units in the first year. And for the first six months, sales were stable. About 10,000 units a month. But then, things started to skyrocket.
+他们的计划是在第一年销售 10 万台。在前六个月，销售额一直稳定在每月 1 万台左右。但之后，销售量开始爆发。
 
 **19:50** - _Donna Dubinsky_
 
-And in fact by 18 months, we sold a million units, which was the fastest new product growth in American history at the time. I mean it was stunning growth. A million units in 18 months.
+实际上，短短 18 月的时间里，我们卖出了 100 万台，这是当时美国历史上新产品增长最快的一次。18 个月内生产了 100 万台，这太惊人了。
 
 **20:01** - _Saron Yitbarek_
 
