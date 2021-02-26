@@ -48,7 +48,7 @@ Command Line Heroes: Season 4: 更智能的电话: 掌上电脑的旅程
 
 **03:48** - _Saron Yitbarek_
 
-Plam 公司最开始为 Casio 公司制作的一款名叫 Zoomer 的 PDA 设备，还有<ruby>惠普<rt>Hewlett Packard</rt></ruby>的设备研发软件。但是第一代 PDA 并没有获得成功。并且，随着苹果公司的高调失败，整个个人数字助理的梦想似乎已经失去了存在的理由。苹果失败的原因在于 Apple Newton 这款 PDA 太大、太笨重、软件运行速度太慢。但是 Palm 团队想知道是否有一种新方法可以改变游戏。
+Plam 公司最开始为 Casio 公司制作的一款名叫 Zoomer 的 PDA 设备，以及<ruby>惠普<rt>Hewlett Packard</rt></ruby>的设备研发软件。但是第一代 PDA 并没有获得成功。并且，随着苹果公司的高调失败，整个个人数字助理的梦想似乎已经失去了存在的理由。苹果失败的原因在于 Apple Newton 这款 PDA 太大、太笨重、软件运行速度太慢。但是 Palm 团队想知道是否有一种新方法可以改变游戏。
 
 **04:25** - _Donna Dubinsky_
 
