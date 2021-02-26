@@ -287,12 +287,11 @@ Steve 在白板上画了一台<ruby>麦金塔计算机<rt>Macintosh</rt></ruby>�
 
 **24:40** - _Saron Yitbarek_
 
-在们等待智能手机的时代到来时，他们有另一个更紧迫的问题。2001 年，科技泡沫破裂，股市暴跌，资金短缺，投资枯竭。这威胁到了 Handspring、Palm 以及几乎所有产品的未来。
-所以<ruby>万福玛利亚<rt>hail-Mary</rt></ruby>，为了制造 Treo, Handspring 又合并回了 Palm 公司。这来回的折腾也让我有点头晕。但 Treo 作为 Palm 的主力产品，成为了市场上最受欢迎的智能手机。当然，在那个时候，Palm OS 已经开始显老。<ruby>黑莓公司<rt>Blackberry</rt></ruby>这样的新玩家也进入了这个市场。
+在们等待智能手机的时代到来时，他们有另一个更紧迫的问题。2001 年，科技泡沫破裂，股市暴跌，资金短缺，投资枯竭。这威胁到了 Handspring、Palm 以及几乎所有产品的未来。所以<ruby>万福玛利亚<rt>hail-Mary</rt></ruby>，为了制造 Treo, Handspring 又合并回了 Palm 公司。这来回的折腾也让我有点头晕。但 Treo 作为 Palm 的主力产品，成为了市场上最受欢迎的智能手机。当然，在那个时候，Palm OS 已经开始显老。<ruby>黑莓公司<rt>Blackberry</rt></ruby>这样的新玩家也进入了这个市场。
 
 **25:29** - _Saron Yitbarek_
 
-当无线成为一种潮流时，专家们开始严重怀疑 Palm 操作系统是否适合下一代设备。所以在 2005 年，Palm 公司发布了第一款不使用 Palm 操作系统的产品 Treo。Treo 使用的是Windows mobile 操作系统。到 2007 年时，Palm 已经成了没有自研操作系统的纯硬件公司。Palm 团队想要建立的未来还在发展，但它似乎不再需要与 Palm 公司同行了。
+当无线成为一种潮流时，专家们开始严重怀疑 Palm 操作系统是否适合下一代设备。所以在 2005 年，Palm 公司发布了第一款不使用 Palm 操作系统的产品 Treo。Treo 使用的是 Windows mobile 操作系统。到 2007 年时，Palm 已经成了没有自研操作系统的纯硬件公司。Palm 团队想要建立的未来还在发展，但它似乎不再需要与 Palm 公司同行了。
 
 **26:03** - _Saron Yitbarek_
 
