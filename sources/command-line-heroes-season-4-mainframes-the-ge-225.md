@@ -1,5 +1,5 @@
 [#]: collector: (bestony)
-[#]: translator: (2581543189)
+[#]: translator: ( )
 [#]: reviewer: ( )
 [#]: publisher: ( )
 [#]: url: ( )
