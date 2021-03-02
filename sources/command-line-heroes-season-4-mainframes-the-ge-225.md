@@ -7,55 +7,55 @@
 [#]: via: (https://www.redhat.com/en/command-line-heroes/season-4/mainframes)
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
-Command Line Heroes: Mainframes: The GE 225
+《代码英雄》第四季：大型机: GE-225
 ======
 **00:05** - _Saron Yitbarek_
 
-Let's wind the clock back a few decades. Back to the late ‘40s, early ‘50s. There was only one serious name in the computer game: IBM. It's nickname was Snow White. The other much smaller tech companies where the Seven Dwarves. One of those dwarves was General Electric, a company that sometimes built special-order machines, but never produced computers for the open market.
+让我们回到几十年前，回到 40 年代末、50 年代初，当时计算机行业有“白雪公主和七个小矮人”的说法。众所周知，“白雪公主”指的是 IBM，而<ruby>通用电气公司<rt>General Electric</rt></ruby>便是“七个小矮人”之一。这是一家偶尔生产定制机器，但从没在开放市场售卖计算机的公司。
 
 **00:32** - _Saron Yitbarek_
 
-General purpose computers were IBM's territory, and IBM was GE's second largest customer next to the US government. They were regular buyers of GE's vacuum tubes, motors, transformers and switches, and the president of GE, Ralph Cordiner, wanted to keep it that way. Yet every once in a while, a GE department head would write up a business plan that veered in the direction of the computer business, and when those plans wound their way up to the president's office for final sign off, they would be promptly rejected with a big fat no, and the initials RJC scribbled on the top page—in orange crayon, no less.
+通用计算机是 IBM 的地盘，而 IBM 是 GE 的第二大客户（第一是美国政府）。IBM 经常采购 GE 生产的真空管、电机、变压器和开关等设备，GE 时任总裁 Ralph Cordiner 对此非常满意。所以，每当 GE 的部门主管将计算机商业计划书提交到总裁办公室时，收到的答复都是封面上大写的橙色字母：RJC，Ralph Cordiner 一次又一次的拒绝他们。
 
 **01:19** - _Saron Yitbarek_
 
-In fact, throughout Cordiner's 13-year reign as president and CEO, GE never swayed from that position. Even as research pointed to computers as the fastest growing segment of the electronics industry, employees with projects that crossed the line faced Cordiner's wrath. And yet, a small group of rebel employees saw an opportunity to build a mainframe computer, and they couldn't let the idea go. Little did they know that this computer would save the banking industry, open the door to timesharing, and give birth to a whole new programming language. Last season, we heard how John Kemeny and Thomas Kurtz created BASIC at Dartmouth College, and we learned that BASIC is an interpreted language, which means it was too resource heavy for early computers. It's an example of a great idea that had to wait for the right hardware moment. The GE 225 was that hardware. In this episode, we uncover a little known story of a mainframe-that-almost-wasn't yet this room-sized computer would be a gateway machine, inspiring visionary command line heroes like Steve Wozniak and Bill Gates to launch the personal computing revolution. Its creation is still meaningful today. I'm Saron Yitbarek, and this is Command Line Heroes, an original podcast from Red Hat. Season Four: Hardware.
+事实上，在 Cordiner 担任 GE 总裁兼首席执行官的 13 年时间里，GE 的态度从未改变。尽管有研究指出，计算机的发展速度在电子行业领先，但 Cordiner 总是用愤怒回应挑战他底线的员工们。然而，一小群叛逆的员工看到了制造大型机的机会，他们不想错失这个机会。他们从没想过，大型机将拯救银行业，打开分时系统的大门，并催生出新的编程语言。在上一季，我们听了 John Kemeny 和 Thomas Kurtz 在<ruby>达特茅斯学院<rt>Dartmouth College</rt></ruby>创造 BASIC 的故事，了解到因为 BASIC 是解释型语言，早期的计算机没有足够的资源运行它。像 BASIC 这么好的点子，正等待着像 GE-225 这样合适的设备出现，让它大放异彩。这一章，让我们一起揭开那台差点被扼杀在摇篮中的大型机，鲜为人知的故事。这台房间大小的机器打开了新世界的大门，它鼓舞了 Steve Wozniak 和 Bill Gates 这样有远见的命令行英雄，鼓舞他们推动个人电脑革命，它的创造至今仍有意义。我是 Saron Yitbarek，欢迎收听<ruby>代码英雄<rt>Command Line Heros</rt></ruby>，Red Hat 的原创播客第四季：硬件设备。
 
 **03:05** - _Speaker 1_
 
-Mr. Adams finds his new checking account very useful. Instead of collecting the money direct from the Elmvale National Bank, the company does it through its own bank. Like many other banks, it sends its checks to the Federal Reserve Bank for collection. The Federal Reserve Bank is set up to handle thousands of checks from hundreds of banks in a single day.
+Adams 先生发现他的新支票账户很有用。与其他公司直接从<ruby>埃姆维尔国家银行<rt>Elmvale National Bank</rt></ruby>兑现不同，这个账号通过自己的银行兑现。与其他银行一样，这家银行把支票送到<ruby>邦储备银行<rt>Federal Reserve Bank</rt></ruby>去执行兑现。联邦储备银行正是为了处理每天来自数百家银行的数千张支票而设立的。
 
 **03:29** - _Saron Yitbarek_
 
-In 1947, a check winds its way through a bank to get deposited, and legions of bank workers are clocking in countless hours to deal with all those checks. The post-war economy was booming, but that meant banks were now drowning in paperwork. They were forced to close at 2 PM just to leave time for filling out ledgers by hand, and they were still falling behind. A fast, powerful machine was urgently needed to keep up with the pace of business. Over at Bank of America, they had millions of checks to handle each day. Here's William Ocasio, professor at the Kellogg School of Management at Northwestern University.
+1947年，支票开始流行，大量银行工作人员的时间耗费在无穷无尽的支票当中。战后经济的蓬勃发展，更是让银行被铺天盖地的支票所淹没。为了腾出时间手工填写账簿，他们被迫下午2点就早早关门，但即使这样，他们仍然赶不上进度。他们迫切的希望，能有一台快速、强大的机器，让银行跟上商业发展的步伐。当时<ruby>美国银行<rt>Bank of America</rt></ruby>每天要处理数百万张支票。下面有请<ruby>西北大学凯洛格管理学院<rt>Kellogg School of Management at Northwestern University</rt></ruby>的教授 William Ocasio。
 
 **04:12** - _Will Ocasio_
 
-Can you imagine a world of banking without computers? This is a heavy, paperwork-intensive industry, and particularly the case of Bank of America with all these multiple branches. So there's all this information that they want quickly and to be able to communicate and also to process it. So that was really important for such a large company. I think they understood that computers was the way of the future.
+难以想象，如果银行没有电脑可用会是什么样子，特别是美国银行拥有这么多分支机构，银行会变成一个繁重的、文书密集型的行业。拥有这么多的信息需要沟通和处理，这么大的公司，有责任了解计算机才是未来的发展方向。
 
 **04:39** - _Saron Yitbarek_
 
-So in 1950, B of A contracted Stanford Research Institute (SRI) to figure out how to automate the handling of all those checks. It took SRI 5 years to build a prototype, which they called the electronic recording machine accounting, or ERMA. The machine had over a million feet of wiring, 8,000 vacuum tubes, and weighed about 25 tons. It had the potential to handle 50,000 transactions a day.
+所以，1950 美国银行与<ruby>斯坦福研究院<rt>Stanford Research Institute (SRI)</rt></ruby>签约，希望找到自动处理所有这些支票的方法。SRI 花了五年时间构造了一台原型机，并将其命名为<ruby>电子记录会计机<rt>electronic recording machine accounting</rt></ruby>简称 ERMA。ERMA 有超过 100 万英尺的电线，8000 个真空管，重约 25 吨，每天可以处理 5 万笔交易。
 
 **05:11** - _Saron Yitbarek_
 
-Bank of America was keen to start producing the ERMA right away. So they sent out a request for proposal (RFP) to electronics manufacturers to bid on the job. Of course, everyone figured the winner would be the juggernaut of business machines: Ms. Snow White herself, IBM. Doc Baker was the VP of the Electronics Division over at GE, and he knew his boss, Cordiner, didn't want to move into IBM's territory. He knew computers were out of bounds, but when he got wind of Bank of America's RFP, well, Baker saw an opening he didn't want to miss. He approached Barney Oldfield, the manager of GE's microwave laboratory in Palo Alto, which was the nearest facility to SRI, and he made Oldfield a proposition. Here's John Joseph, an Associate Professor of Strategy at the University of California, Irvine.
+美国银行希望 ERMA 马上投入生产。于是向电子制造商们发出<ruby>招标请求（ RFP ）<rt>request for proposal</rt></ruby>，让它们竞标。当然，所有人都认为赢家将是行业巨头，被称作“白雪公主”的 IBM。Baker 博士是通用电气电子部门的副总裁，他知道他的老板 Cordiner 不想涉足 IBM 的领域。也知道计算机是公司的禁区，但当听到美国银行 RFP 的风声时，Baker 看到了一个不想错失的机会。他找到了 GE 位于<ruby>帕洛阿尔托<rt>Palo Alto</rt></ruby>的微波实验室的经理 Barney Oldfield。在这个离 SRI 最近的地方向 Oldfield 提出了一个建议。下面有请<ruby>加州大学欧文分校<rt>University of California, Irvine</rt></ruby>的战略副教授 John Joseph。
 
 **06:09** - _John Joseph_
 
-You know I think here was somebody who was a very successful, aggressive entrepreneur type at GE, and was a savvy manager and businessman, and he saw this as a huge opportunity to grow the division.
+我认为他是一位成功、进取的企业家，也是精明的经理和商人，他认为这是部门发展的巨大机会。
 
 **06:27** - _Saron Yitbarek_
 
-Baker, along with Oldfield, was able to convince their boss, Cordiner, that this would be a special purpose process control system, not a general purpose computer, not something that would upset IBM. GE was certainly not going into the computer business.
+Baker 和 Oldfield 成功说服了他们的老板 Cordiner，这是一台定制的生产控制系统，不是通用计算机，生产它不会让 IBM 不快。并且向他保证，GE 不会涉足计算机行业。
 
 **06:45** - _John Joseph_
 
-The reason I think Cordiner eventually capitulated was that he put a condition on them going after it, and said, just this contract. We don't want to enter the business machine market more generally. We want to enter specifically this particular bid and you can go after it. And so, he said, go.
+我觉得 Cordiner 最终屈服的原因是，他给他们提出了一个附加条件：仅此一份合同，不要继续深入商用机市场，只能参与这一次竞标。如果能做到，那你们去竞标吧。
 
 **07:08** - _Saron Yitbarek_
 
-Cordiner let them go ahead with the RFP, feeling confident that they wouldn't win the contract anyway. Let them blow off some creative steam, and then Oldfield hand delivered their proposal to the bank's San Francisco office, and waited.
+尽管 Cordiner 不对竞标抱有任何希望，但还是让他们着手进行 RFP。就让他们发泄一下自己的创造力吧。随后 Oldfield 把他们的提案送到旧金山的银行办公室，等待着他们的答复。
 
 **07:26** - _Saron Yitbarek_
 
