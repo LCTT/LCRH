@@ -1,297 +1,305 @@
-[#]: collector: (bestony)
-[#]: translator: (sthwhl)
-[#]: reviewer: ( )
-[#]: publisher: ( )
-[#]: url: ( )
-[#]: subject: (Command Line Heroes: Season 6: Dr. Mark Dean: The Inventor Who Made the Computer Personal)
-[#]: via: (https://www.redhat.com/en/command-line-heroes/season-6/mark-dean)
-[#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
+[#]: collector: "bestony"
+[#]: translator: "sthwhl"
+[#]: reviewer: " "
+[#]: publisher: " "
+[#]: url: " "
+[#]: subject: "Command Line Heroes: Season 6: Dr. Mark Dean: The Inventor Who Made the Computer Personal"
+[#]: via: "https://www.redhat.com/en/command-line-heroes/season-6/mark-dean"
+[#]: author: "RedHat https://www.redhat.com/en/command-line-heroes"
 
-Command Line Heroes: Season 6: Dr. Mark Dean: The Inventor Who Made the Computer Personal
+《代码英雄》第六季：马克·迪恩博士：那个发明了个人电脑的人
 ======
 **00:05** - _Saron Yitbarek_
 
-It's 1980 and at Bud's bar and Boca Raton, Florida, a dozen computer engineers are milling around, drinking beers, eating pizza, nothing fancy. They're definitely different from the famous showmen of Silicon Valley. But these engineers are about to change the world just as profoundly. By the time they're done, Time Magazine will put their creation on its cover and call it “the person of the year.” But the person just walked in, Mark Dean, he's not even going to be photographed, which is a shame because everything that's about to happen hinges on him.
+1980 年，<ruby>佛罗里达州博卡拉顿市<rt>Boca Raton, Florida</rt></ruby>的<ruby>巴德酒吧<rt>Bud's bar</rt></ruby>中，十几名计算机工程师在酒吧在闲逛着，正吃着披萨，喝着啤酒，看起来并没什么非常特别的。他们与硅谷著名的表演家截然不同，但他们将同样深刻地改变世界。当他们完成他们的作品后，《时代》杂志会把他们放在杂志封面上，并将他们评选为 “年度人物”。而刚刚进来的那个人，是<ruby>马克·迪恩<rt>Mark Dean</rt></ruby>，他不愿意被拍照，这难免有些遗憾，因为下文即将发生的事都要取决于他。
 
 **00:52** - _Saron Yitbarek_
 
-All season, we've been tracking some of the inventors and engineers and coding wizards who built our tech future without ever getting famous in the process. And the story of Mark Dean is a classic example. You've maybe never heard of them, but you should have, because when IBM decided to move into the PC market, it was Mark Dean and the team of engineers at Bud's Bar who made it happen. Most of us, when we think about the birth of personal computers, maybe we think about the epic face-off between IBM and Apple. We think about that famous 1984 commercial.
+这一季，我们一直在追踪一些发明家、工程师和编程奇才，他们创造了我们的科技未来，而自己却从未想在这个过程中成名，马克·迪恩的故事就是一个典型的例子。你可能从未听说过他们，但我想你现在应该要知道了。我们中的大多数人，当提到个人电脑的诞生时，也许会想到 IBM 和 Apple 之间史诗般的对峙，会想到《1984》那个著名的商业广告，而真正使个人电脑诞生的人，是马克•迪恩和他在巴德酒吧的工程师团队。
 
 **01:32** - _Saron Yitbarek_
 
-Well, this is the story behind that story before anybody was really watching. Mark Dean and his team down at Boca Raton built the machine that launched IBM into the PC market. They built the machine that changed everyone's idea about what IBM could be. They built the machine that launched a million clones. This is Command Line Heroes, an original podcast from Red Hat, and I'm your host, Saron Yitbarek.
+这是人们所见到故事背后的真正的故事。马克·迪恩与他团队制造出的机器使 IBM 公司进军到个人电脑市场。个人电脑的出现使得人们对 IBM 的看法得以改观，他们制造并发行了上百万台个人电脑。我是 Saron Yitbarek。这里是《<ruby>代码英雄<rt>Command Line Heroes</rt></ruby>》，一档来自<ruby>红帽<rt>Red Hat</rt></ruby>的原创播客节目。 
+
 
 **02:11** - _Mark Dean_
 
-I grew up in Tennessee, went to the University of Tennessee, always wanting to work in computers and way back then that was before computers were really around.
+我在<ruby>田纳西州<rt>Tennessee</rt></ruby>长大，就读于<ruby>田纳西大学<rt>the University of Tennessee</rt></ruby>，一直想从事计算机方面的工作，而那时候计算机还没有真正出现。
 
 **02:20** - _Saron Yitbarek_
 
-Mark Dean was born in 1957. He spoke about his early life in a Comcast cable interview with Susan Shaner back in 2009.
+马克·迪恩出生于 1957 年。他在 2009 年接受<ruby>康卡斯特有线电视台<rt>Comcast cable</rt></ruby>的记者<ruby>苏珊·莎娜<rt>Susan Shaner</rt></ruby>的采访时，谈到了自己的小时候的故事。
 
 **02:31** - _Mark Dean_
 
-My father, he was a tinkerer. He built things and I kind of got that from him. So I built a small game machine when I was in high school. So I just love putting things together and I loved electronics. So I knew I wanted to work in the computer industry and I knew I wanted to work for IBM, which was a funny thing how it really turned out.
+我的父亲是一个很喜欢捣鼓小器具、小发明的人，他总能创造一些物品，我从他那学习到了很多。所以我在高中时候就能为自己做个小游戏机，我还喜欢组装东西，喜欢电子产品。所以我很明确自己以后想要从事计算机行业的工作，而且想去 IBM 公司工作，这真是一件有趣的事呀。
+
+
 
 **02:55** - _Saron Yitbarek_
 
-Working at IBM was a long shot for a kid who grew up Black in Jefferson City, Tennessee. His dad, for example, had an engineer's mind, but never had an opportunity to see how far he could stretch himself.
+对于一个在田纳西州杰斐逊市长大的黑人孩子来说，能够在 IBM 获得工作的机会是很渺茫的。就像他父亲，虽然很就有工程师的天赋，但却未能有机会一展才华。
+
 
 **03:10** - _Mark Dean_
 
-He never had a chance to go to a four year and finish or get his degree. He worked and managed a couple of the dams and the TVA system, Tennessee Valley Authority, and he's self-taught and he built a tractor from scratch.
+他没能有机会去上大学，那时他在<ruby>田纳西河谷管理局<rt>Tennessee Valley Authority</rt></ruby>上班，手上管理着几座水坝和 TVA 系统，在那里他通过自学，自己造了台拖拉机。
 
 **03:26** - _Saron Yitbarek_
 
-Dean worked with his dad on that tractor watching to see how a little faith in one's abilities can lead to amazing results even if a racist world tries to slow you down. So when Dean inevitably heard suggestions that someone like him couldn't be an engineer, like the guy at school who told him he was too smart to be Black, Dean held on to the example his father set.
+迪恩曾和爸爸一起在坐在那辆拖拉机上，这使他意识到：即使是在这个充满种族主义拖拽得你很难往前的世界中，个人仍能够凭借着对自己的信念，创造出惊人的成果。也正因为此，当迪恩不可避免地听到有人说他不可能成为工程师时，就像在学校中有人会说黑人不可能那么聪明，他始终坚持以自己的父亲为榜样。
 
 **03:54** - _Mark Dean_
 
-I grew up with this stuff and I take a little bit from him. If I could take just a smidge of his intelligence, I said I would be a pretty well off.
+我从他身上收获了很多，并带着这份信念成长。我认为如果自己能从他的智慧中汲取一点点，就应该会过得相当不错了。
 
 **04:06** - _Saron Yitbarek_
 
-Along with dad's inspiration, Dean credits his education at the University of Tennessee for helping him land a job at IBM in 1979. At the time a lot of pieces were being moved around at “Big Blue”, but they were being moved quietly.
+迪恩于 1979 年入职 IBM，他的成就除了父亲的鼓舞外，还要归功于他在田纳西大学所受的教育。当时，“蓝色巨人”（指 IBM 公司） 正在悄无声息的进行着一些产业转型。
+
 
 **04:25** - _David Bradley_
 
-In the 1980s, IBM was a very secretive company.
+在 20 世纪 80 年代，IBM 是一家很神秘的公司。
 
 **04:31** - _Saron Yitbarek_
 
-David Bradley was one of the engineers who worked with Mark Dean down at Boca Raton.
+<ruby>大卫·布拉德利<rt>David Bradley</rt></ruby>是和马克·迪恩一起在博卡拉顿工作的工程师之一。
 
 **04:36** - _David Bradley_
 
-They didn't tell anybody what they were doing, held their cards very close to their vest. And so when we decided to do a personal computer, that was one of the things that was going to be very secret.
+他们没有告诉任何人自己在做什么，总是将证件放在贴近背心的位置（为了保守秘密）。当我们决定做一台个人电脑时，这是一件需要保密的事情。
 
 **04:52** - _Saron Yitbarek_
 
-When IBM executives decided to get into the personal computer game to build something smaller than a refrigerator that you could plug into at home, it really wasn't an obvious fit. They were known for mainframes, huge multi-million dollar machines. One analyst sniffed that IBM building a personal computer would be like an elephant learning how to tap dance. And yet the invention of the integrated circuit had suddenly made computers potentially much smaller. An enormous new market was on the horizon and everyone was racing toward that same goal.
+当 IBM 公司的主管们决定进入个人电脑领域，要制造出比冰箱还小的电脑时，显然不是一个的非常合适选择，因为 IBM 向来以大型主机而闻名，一台大型机器价值为数百万美元。 一位分析师曾嗤之以鼻地说：“IBM 制造个人电脑就像大象学习踢踏舞”。然而，集成电路的发明使计算机突然有了变得更小的潜能。一个巨大的新市场即将出现，每个人都在朝着同一个目标前进。
+
 
 **05:33** - _Saron Yitbarek_
 
-So IBM assembled an elite team of engineers to pull off the nearly impossible, deliver a PC in one year. They called their mission “Project Chess.” Data scientist, Tony Hey explains just how big a jump this was.
+为此，IBM 公司召集了一个精英工程师团队，并制定了一年内完成交付一台个人电脑这个几乎不可能完成的任务。他们称这个任务为“国际象棋计划”。数据科学家<ruby>托尼·黑<rt>Tony Hey</rt></ruby>向我们解释了这是一个多么大的飞跃。
 
 **05:55** - _Tony Hey_
 
-IBM's Project Chess was for them extremely innovative. They'd only just got past the stage where they introduced separate hardware and software, but they still were at the stage of giving away the software in order to sell the hardware of their mainframes. But in 1980, they had observed the rise of the Apple II and they saw that that was doing well. And they realized if they wanted to dominate the PC market, like they dominated the mainframe market, they really needed to move fast.
+IBM 的 “国际象棋项目” 对他们来说是极具创新性的项目，那时他们只是刚刚不再将硬件和软件单独进行销售，但仍处于为了销售大型机硬件赠送软件阶段。在1980年，他们看到了 Apple II 的兴起，并且发现进展很好。 于是他们开始意识到，如果他们想像统治大型机市场一样，在 PC 市场占主导地位，就需要更快速的行动起来。 
 
 **06:29** - _Saron Yitbarek_
 
-Hence the one-year deadline. To give you some perspective, a project like this at IBM would normally play out over five years, but the execs knew their window of opportunity was closing. They needed it done yesterday and they needed it done under the radar.
+因此才有了一年的期限，这是期限是个什么概念呢，给你一个参考：在 IBM 公司，像这样类型的项目通常会持续 5 年以上，但高管们知道他们留给他们抓住机会的时间不多了，他们马上就要，而且要秘密的完成。
 
 **06:50** - _Pete Martinez_
 
-Nobody even knew where Boca Raton was.
+甚至没人知道博卡拉顿在哪里。
 
 **06:53** - _Saron Yitbarek_
 
-Pete Martinez was working at IBM as a product engineering manager at the time. He was one of only a few employees who knew about the secretive Project Chess.
+<ruby>皮特·马丁内斯<rt>Pete Martinez</rt></ruby>，当时在 IBM 担任产品工程经理。他是少数几个知道“国际象棋项目” 秘密的员工之一。
 
 **07:05** - _Pete Martinez_
 
-When I joined IBM, we had about 1,500 employees in Boca Raton, incredibly secretive organization, because everything IBM would do back then was more than closed. So we didn't even know we could not share anything that we were doing with our families or anybody else.
-
+当我加入 IBM 时，我们在博卡拉顿拥有大约 1,500 名员工，这是一个非常秘密的组织，每一个员工都被要求保密，我们甚至不能和家人或其他人分享我们正在做的事情。
 **07:25** - _Saron Yitbarek_
 
-So to recap, build a PC, do it in secret and do it in, yeah, like 12 months.
+总的来说，他们在秘密地进行着个人电脑研发，大约花了12个月。
 
 **07:32** - _Pete Martinez_
 
-It was started in headquarters, but Don Estridge was given the role of the project team lead. So the first thing he assembled was a group of 12, which became the dirty dozen. They were responsible for creating the original design and start pulling it together. So it was actually skunkworks and very, very long nights, very, very arduous type of work. But they were on a mission.
+这个任务是从公司总部先开始的，但由<ruby>唐·埃斯特里奇<rt>Don Estridge</rt></ruby>担任着项目团队负责人。他首先组建了一个 12 人的小组，即是后来的<ruby>十二金刚<rt>dirty dozen</rt></ruby>。他们负责创造最初的设计并开始将其整合在一起。这是一项非常非常漫长的工作，非常非常辛苦的工作，每个人都身负重任。
 
 **07:59** - _Saron Yitbarek_
 
-That dirty dozen, which we saw at the top of this episode over at Bud's Bar, was supported by Mark Dean and the tech he developed.
+我们在本集开头提到的在巴德酒吧的十几个家伙，正是马克·迪恩和他的开发的技术支持团队。
 
 **08:07** - _Pete Martinez_
 
-Everyone brought a different component to the table. Mark had a lot of architecture background. Dave Bradley was working on the bios components, so the interface to the software. And then we had people that were doing the physical design of the box that would hold this thing. So it was very, very multidisciplinary team to pull it together.
+每个人都有负责不同的组件能力，马克·迪恩负责整体架构，大卫•布拉德利负责 bios 组件，即软件接口。安装这些东西的机箱也是专门让人来设计的。所以，整个工作的完成会需要涉及到非常多学科的团队。
 
 **08:29** - _Saron Yitbarek_
 
-This league of engineering superheroes tackle the project from multiple angles at once because Project Chess was attempting something that had never been done before. To come out with a new PC in one year, they'd need to make use of third party hardware and software. They were grabbing off the shelf components from Motorola and Intel. They didn't have time to create their own proprietary parts.
+这个强大的工程团队中的工程师们需要同时从多个角度去解决处理项目中碰到的各种问题，因为 “国际象棋项目” 正在做一些之前从未有人做过的事情。为了在一年的时间内内研发出个人电脑，他们没有时间去做自己的专有部件，所以他们需要使用到第三方的硬件和软件，于是他们从摩托罗拉和英特尔那里拿了现成的组件。
 
 **08:59** - _Pete Martinez_
 
-Project Chess was an experiment by IBM seeing what could be put together by industry components in a very short amount of time. The reason a five-year design cycle or development cycle in IBM, because we used to develop all the parts from scratch. So all of the silicone that had to be developed, all the boxing had to be developed, everything was done from scratch, including the software. What we opted to do says what if we took parts that were off the shelf and started creating a component, a solution, a system, and bypassing all of the development cycle in terms of the guts of it. So it became much more of a systems integration process.
+“国际象棋项目” 是 IBM 的一项实验项目，目的是看看这些工业组件能在很短的时间内组合出什么东西。IBM 的设计周期或开发周期之所以需要 5 年这么长，是因为我们曾今需要从零开始开发所有部件，硅胶要自己开发，做箱的材料要开发，所有的事情都要从头开始，包括连软件也要重新开发。现在，如果我们去拿出现成的部件去创建组件、设计解决方案、系统，并绕过原有所需要的开发周期，那将是会怎么样的情况呢? 于是，个人电脑的创建成了一个系统集成的过程。
+
 
 **09:40** - _Saron Yitbarek_
 
-Sounds like a good idea, right? Grab a cassette from here, a printer device from over there. Problem was those elements weren't designed to communicate with each other. They weren't designed to be part of one harmonious PC. So if Project Chess was ever going to succeed, they'd need something that could work as a translator. Mark Dean was about to take on that problem, but he had no idea that by solving this dilemma, he was about to create a whole philosophy of computer design. That's secretive IBM that David Bradley described was about to make way for an IBM like nobody had seen before.
+听起来是个好主意，对吧？这边拿一个打印机，那里取一盒磁盘。但问题在于，这些组合部件之间协议并不能相互通信。因为它们被设计出来时从没有考虑过有一天要成为与 PC 协调的一部分。所以，如果 “国际象棋计划” 想要获得成功，他们还需要一个能够充当翻译的工具，而马克·迪恩正准备着手解决着这个问题。但马克·迪恩不知道是，通过解决这个难题，他将会创造出一套完整的计算机设计哲学。大卫•布拉德利之前说的那个神秘的 IBM 即将为一个前所未见的 IBM 取代。
 
 **10:28** - _Saron Yitbarek_
 
-To allow for scaling and peripherals at a never before attempted level, Mark Dean needed to build what we now call the ISA bus, an industry standard architecture bus that would let expansion cards connect to the computer's motherboard. The bus would be the translator between all those off the shelf components they had to use.
+为了实现之间没有的扩展规模和外围设备，马克·迪恩需要做出一个现在我们称之为 ISA 总线的东西，这是一种行业标准的体系结构总线，它将允许扩展卡连接到计算机的主板。 总线将成为他们使用的所有现成部件之间通信的转换器。 
 
 **10:50** - _Dennis L. Moeller_
 
-The term ISA came along later.
+ISA 这个术语是后来才出现的。
 
 **10:53** - _Saron Yitbarek_
 
-Dennis Moeller developed the bus with Mark Dean back then they were calling it the PC/AT bus.
+<ruby>丹尼斯·穆勒<rt>Dennis Moeller</rt></ruby>与马克·迪恩共同开发了该总线，当时他们把它叫做 PC/AT 总线。 
 
 **11:01** - _Dennis L. Moeller_
 
-The PC/AT bus, or the PC/AT I/O channel, which was a super side of the PC, was done in a way that anything developed for the PC should be able to be reused. And then with the added performance features, you could do more powerful add-ons.
+PC/AT 总线，或称为 PC/AT 的 I/O 通道，这是 PC 上的一个超级端，统一的接口，只要是为 PC 开发的任何东西，都能够被其他PC 重新使用。同时，还可以通过为外设添加性能特性，使之做为更强大的附加组件。
 
 **11:23** - _Saron Yitbarek_
 
-IBM engineers finish their PC on time after just one year of work. But what they made in 1981 might not have been an obvious game changer. It was an entry-level machine with 16K of memory. And yet that first bus of theirs, which made possible the very first IBM PC, was the beginning of something incredible. And its greatness start to become more obvious when the next generation came along.
+IBM 的工程师们只花了一年时间按时完成了他们的个人电脑项目，但他们在 1981 年所做的事情似乎并没有明显改变市场的游戏规则，这只是一台入门级的机器，内存只有16K。然而，他们的第一条总线使第一台 IBM PC 成为可能，这是令人难以置信的事情的开始。 随着下一代个人电脑的到来，它出现的伟大将变得更加明显。 
 
 **11:53** - _Dennis L. Moeller_
 
-The original PC had the eight bit bus and the PC/AT took advantage of a couple of important features on the 286, and that was a larger address range. So more memory addressability. We had to expand the bus somehow to expose that so that these add-on devices could be built. And at the same time that we did that, we added some of the additional support for interrupts and DMA channels and a bus master capability. So basically just made a super set of the original PC eight bit bus that was 16 bits wide.
+原始的 PC 是 8 bit 的总线，PC/AT 利用了 286 上的几个重要特性，并且地址范围更大，使得它具有更多的内存寻址能力。为了能添加更多的外设，我们必须再以某种方式扩展总线，于是我们增加了对中断和 DMA 通道的附加支持以及总线主控功能。所以原来 PC 8 bit 总线的扩展到了 16 bit。
 
 **12:38** - _Dennis L. Moeller_
 
-So higher performance, more address ability, more support features in terms of DMA and interrupts and spent a lot of time working to ensure compatibility so that the bulk of those devices that had been already developed for the eight bit bus still worked and could be used on the new bus.
+更高的性能,更多的寻址能力,支持功能的DMA和中断,更多的DMA和中断支持功能以及花费大量时间来确保的兼容性，从而使得大部分的 8 bit 设备，在新的总线上仍然可以正常使用。
 
 **13:02** - _Saron Yitbarek_
 
-Can you guess where this is heading? There was a serious knock-off effect.
+你能猜到现在的方向吗？? 产生了巨大的复制效应。
 
 **13:07** - _Dennis L. Moeller_
 
-It allowed a whole industry of people supplying add-on cards and software for the PC that greatly enhance the value of it and really kick-started the PC industry that took off then with PC clone makers and other developments that led us to where we are today.
+IBM 允许整个行业的人们都可以为 PC 提供附加的卡与软件。从而极大的提高了 PC 的价值，并真正启动了个人电脑行业，随后个人电脑的制造商和周边设备软件的发展带动了整个 PC 行业的发展，直至形成了我们今日看到的行业情形。
 
 **13:30** - _Saron Yitbarek_
 
-Allowing a whole industry to supply peripherals and software for the IBM PC had one other effect too. In order to have that kind of modular architecture, you pretty much have to have an open architecture. So the machine's technical information was printed out in a reference manual and handed to the public. IBM in their race to enter the PC market had also edged toward an open source philosophy. IBM's PC/AT supercharged by that 16 bit ISA bus was released in 1984, the same year that Apple produced their famous Orwellian Superbowl commercial. In it, Apple promised that their computers would set people free.
+允许整个行业为 IBM 个人电脑提供外设和软件还有另外一个影响。IBM 在进入个人电脑市场的竞争中的同时也在向开源思想靠拢，为了拥抱那种模块化的架构，必须要有一个开放的架构，因此，IBM 的个人电脑的技术参数信息被打印成参考手册并公开出来：IBM 的 PC/AT 由 16 位 ISA 总线驱动技术信息，在 1984 年公开发布。同年 Apple 公司制作了著名的奥威尔式超级碗广告，在这个广告中，苹果说他们的电脑会给人们带来自由。
 
 **14:24** - _Saron Yitbarek_
 
-What was really happening in that moment was that two very different definitions of freedom were being defined. Two different visions of the future. In Apple's vision, a proprietary and closed system would offer up a highly curated world for the user to live in. And then there was IBM's vision, a universe to live in open and vast.
+那时，两家公司有着两种截然不同的对自由的定义，对应两种不同的未来愿景。在苹果的愿景中，形成一个专有和封闭的系统并将为用户提供一个高度规划的世界。而 IBM 的愿景是，成为一个开放而广阔的宇宙。
 
 **14:48** - _Mark Dean_
 
-You need to do things in the open. You need to build an industry to build a greater opportunity. You could have a proprietary design and own the entire market, but the entire market would be small. Let people play and let them grow the market and then you have a bigger pond to swim in and you just go after that bigger opportunity.
+你可以占有一个专利设计并自己拥有整个市场，但那样市场将会很小。如果你公开你做的事情，让人们参与其中，让他们发去展市场，这样你就有了一个更大的池塘可以游泳，进而建立成一个产业，从而从中追逐更大的机会。
 
 **15:08** - _Saron Yitbarek_
 
-That's Mark Dean looking back at how they shook things up. But at the time ...
+这是马克·迪恩在回顾他们是如何改变世界的。但是在当时… 
 
 **15:14** - _Mark Dean_
 
-We really didn't realize what we were doing.
+我们真的没有意识到我们在做什么。
 
 **15:18** - _Saron Yitbarek_
 
-Mark Dean speaking at the American Museum of Science and Energy in 2019.
+2019 年，马克·迪恩在美国科学和能源博物馆发表演讲。
 
 **15:24** - _Mark Dean_
 
-So we didn't realize how much it would affect everyone and enable so much innovation. And just like all previous innovations, their creators could not have fully understood how they would change the world. Now, the PCs, laptops, tablets and your smartphones are all integral parts of our lives, helping us create and share information, be entertained and to get things done. I was in the right place at the right time, not knowing any better and things worked out. So I've been fortunate.
+我们没有意识到它会对每个人产生多大的影响，并促成如此多的创新。也就像之前所有的创新一样，它们的创造者也不知道它们将会如何改变世界。到现在，个人电脑、笔记本电脑、平板电脑和智能手机都成为了我们生活中不可分割的一部分，帮助我们创造和分享信息，获得娱乐并做好工作。我只是在正确的时间出现了在正确的地方，完成了这些事情，所以是幸运的。
 
 **15:58** - _Saron Yitbarek_
 
-In fact, we've all been fortunate that Mark Dean was in the right place at the right time. David Bradley describes how companies always have the potential to go down the open path and other times down the closed one.
+其实，马克·迪恩能在正确的时间出现在正确的地方,也是我们的幸运。大卫·布拉德利介绍了公司如何总是有潜力沿着开放的道路走下去，而有时又有沿着封闭的道路走下去的趋势。 
 
 **16:13** - _David Bradley_
 
-It's interesting to speculate what would have happened if IBM had not entered the personal computer market and we continued to work with Apple's product line. IBM brought credence and veritas to the personal computer industry. Here's a product that you can trust. Now, IBM also brought out a very open system, which by the way is the way Apple was in 1980, 1981. It wasn't until later with the Macintosh that Apple became a much more closed system, but IBM chose to make a very open system to invite the rest of the industry to participate with us, to build adaptper cards and write software that would run on the IBM personal computer.
+推测一下如果当时 IBM 没有进入个人计算机市场会怎么样呢？我们应该都使用着 Apple 的产品吧，那真是件有趣的事。IBM 为个人计算机行业带来了信任和验证机制，使之成为一个可以信任的产品。IBM 带来了一个开放的系统，在1980年和1981年，Apple 也曾是一个开放的系统，直到<ruby>苹果电脑<rt>Macintosh</rt></ruby>问世后，Apple 成为了一个变得更加封闭系统。而 IBM 相反，他们选择做一个开放的系统，邀请业界其他的人加入，一起构建适配器卡和编写可以在 IBM 个人电脑上运行的软件。
 
 **17:01** - _David Bradley_
 
-And I think that's a great deal of the reason why the IBM PC was so successful.
+我认为这是 IBM 个人电脑如此成功的一个重要原因。
 
 **17:10** - _Saron Yitbarek_
 
-And it was successful. Tony Hey describes that release as an industry defining event.
+它很成功，托尼·黑将该个人电脑的发布描述为是行业标志性事件。
 
 **17:15** - _Tony Hey_
 
-IBM's entry into the market was huge and IBM sold many, many more than their marketeers have expected. They hadn't expected it would sell anything like that. It sold a quarter of a million in one month in 1984. They sold several million machines and it was just on a scale several orders of magnitude more than had been seen before in a PC market. There wasn't a PC market. They created a PC market.
+IBM 个人电脑进入市场的机会巨大，其销量远远超出了营销人员的预期，他们没有料到它会卖得这么好。那时候还没有个人电脑市场，他们创造了个人电脑市场，1984年，他们仅在一个月内就卖出了 25 万台机器，共卖出了几百万台机器，这个销售规模比之前的 PC 市场的销售量要多出几个数量级。
 
 **17:45** - _Saron Yitbarek_
 
-And as Dennis Moeller told us, that PC and the open ethos around personal computers is still with us today.
+正如丹尼斯·莫勒告诉我们的，个人电脑和围绕个人电脑周边的开放精神直至今日依然不朽。
 
 **17:54** - _Dennis L. Moeller_
 
-It was a structure that made sense and people copied and economies of scale drove performance up and costs down. And now you can go on YouTube and do a search, let's say “gaming PC build”, and you'll find all sorts of videos of people selecting a motherboard and selecting a graphics card or other IO devices and a case and a power supply. And it's all standardized and modular and you can put together a very powerful PC and do it at home.
+它是一个合理的结构，人们可以进行模仿与复制，规模化经济的生产方式使其性能方面得到提升与使用成本的下降。现在，如果在 YouTube 上进行搜索，如 “如何组件个人电脑”，然后您会发现各种各样的视频教程，如何去选择主板、显卡或其他 IO 设备、机箱和电源等。而且它们都是标准化和模块化的，你可以在家就能组装一台功能非常强大的 PC。
 
 **18:33** - _Saron Yitbarek_
 
-Without Mark Dean and that top secret team down at Boca Raton, it's anyone's guess how our PC ecosystem might've evolved. There was a faith that Mark Dean had in his own ability to build. Remember that story about watching his dad build a tractor from scratch. He learned something fundamental from his dad. It made him into an engineer who believed implicitly that building a PC in 12 months with off the shelf parts was not just doable, but a fantastic opportunity for rejigging the way things are done. Here's Mark Dean again, speaking at the American Museum of Science and Energy back in 2019.
+如果没有马克·迪恩和博卡拉顿的那支顶级机密团队的支持，我们的 PC 生态系统将会如何发展，谁都说不准。马克·迪恩对自己的能力充满信心，还记得他爸爸自己造了辆拖拉机的故事吗? 他从父亲那里学到了一些基础的东西，而这让他成为了一名工程师。他坚信，用现成的零件在 12 个月内制造一台个人电脑不但是可行的，而且还是重新调整工作模式的绝好机会。这是 2019 年马克·迪恩再次在美国科学和能源博物馆的演讲时说的。
 
 **19:23** - _Mark Dean_
 
-So everyone asks me, what does it feel like to invent? What is it like to have more than 40 patents? The real truth is most of my inventions are just a result of what I would call my superpower. So here's my superpower, a vivid imagination and a confidence to believe you can build anything. That's my superpower.
+当人们问我，发明是什么感觉? 如何能拥有超过40项专利? 其实，我的大部分发明都是我 “超能力” 的产物。而我的超能力就是：生动的想象力和拥有自己能建造任一切的自信。
 
 **19:49** - _Saron Yitbarek_
 
-After his success with the first IBM PC, Dean continued to innovate to build. In 1999, his team at IBM developed the first gigahertz chip. That was a breakthrough all on its own. A data processing triumph that allowed one billion calculations per second. But his greatest contribution may have come after he left IBM in 2013. Because since then, he's been working to lift up a generation of students.
+在他成功地制造了第一台 IBM 个人电脑之后，迪恩没有停下他的创新之路。1999 年，他在 IBM 的团队开发出了第一个千兆赫芯片。这是一个质的突破，这是一次数据处理的胜利，意味着每秒可以将可以进行十亿次运算。不过他最大的贡献可能是在他2013年离开 IBM 之后，因为从那时起，他开始致力于去培养新一代的学生。
 
 **20:21** - _Mark Dean_
 
-Now I'm not unique. Everybody has a superpower, but most don't realize what it is or have the opportunity to develop it and focus on their superpower. I've had that opportunity.
+现在我不再是特别的，因为每个人都有一种 “超能力”，但是大多数人都没有意识到这是什么，也没有机会去发展并专注于他们的 “超能力”，而我刚好有过这样的机会。
 
 **20:35** - _Saron Yitbarek_
 
-Dean taught at his alma mater the University of Tennessee, which gave him the title of distinguished professor, that became professor Emeritus when he retired in the summer of 2020. He'd spent years encouraging that sheer faith and gumption that he learned from his dad.
+迪恩在自己母校田纳西大学任教，并获得了杰出教授的称号，在 2020年夏天退休后，学校为他颁发了荣誉教授职称。多年来，他一直在鼓励他的学生要怀有他从父亲那里学到绝对的自信和进取心。
 
 **20:55** - _Mwamba Bowa_
 
-The biggest lessons I have learned from Dr. Dean is to stay true to myself, also to believe in myself and have competence in my abilities as an engineer, as a researcher.
+我从迪恩博士身上学到的最深的教导就是要忠于自己，也要相信自己，并自己要有胜任作为一个工程师或研究员的应该有的能力。
 
 **21:10** - _Saron Yitbarek_
 
-Mwamba Bowa worked with Dean when he was her thesis supervisor.
+<ruby>姆旺巴·鲍瓦<rt>Mwamba Bowa</rt></ruby>曾与迪恩一起工作，那时迪恩是她的论文导师。
 
 **21:14** - _Mwamba Bowa_
 
-My thesis was 3D printing circuits, conductive circuits. And I think when I pitched it to him, I wasn't sure that he would go for it because it was an undertaking in itself. One of the things I remember from that conversation is that he told me like, if you believe in something, you need to speak up about it and other people will believe in it when you have that confidence to back it up.
+我的论文是 3D 打印电路，导电电路。当时向他提交论文时候，我不确定他是否会肯定与支持，因为那是一项事业。我仍记得那次谈话中，他告诉我：“如果你相信某件事，你要大声说出来，当你有信心支持它时，其他人就会相信它。”
+`因为那是一项事业。翻译的不好，麻烦校验帮忙看看，谢谢！`"
 
 **21:46** - _Saron Yitbarek_
 
-Whether at IBM or at the University of Tennessee, Dean instills that confidence in the process, a belief that building something comes down to a few knowable, achievable elements. He's even got a formula for it.
+无论是身处 IBM 还是田纳西大学，在工作和教学过程中迪恩都在逐渐的给别人传递一种信念：一种将创造东西的能力归纳成能被人们认知的、可实现的信念，对于此，他甚至有一套公式。 
 
 **22:10** - _Mark Dean_
 
-I actually believe anything that we can imagine can be realized, that they're just a simple matter of four key elements that make anything possible, time, money, risk, and determination.
+事实上，我相信任何我们能想象到的事情都是能够被实现的，它们只是四个简单的关键因素，时间，金钱，风险和决心，满足这四个关键使得一切皆有可能。
 
 **22:18** - _Saron Yitbarek_
 
-He also makes a crucial point about leaning into that space just outside of your comfort zone, the way they definitely had to - down in Boca Raton.
+除四因素外，他还提出了一个关键观点，那就是脱离自己的舒适区，就像他们在博卡拉顿所做的那样。
 
 **22:28** - _Mark Dean_
 
-Most great innovations that have had the biggest impact on society have occurred in the gaps between disciplines, putting ideas together from multiple sources and disciplines to solve a problem or to address an opportunity. And I'd have to say the PC falls right into that category. Innovation being the application of invention to solve a problem is something I'm far more proud of than my inventions themselves. I've got all these patents, but the real value is what we did with them. And so invention is worthless unless it has an impact, unless it changes people lives or helps people live better, make- have more success, be happy.
+大多数对社会产生巨大影响的伟大创新都发生在学科之间的鸿沟中，将来自多个来源和学科的想法汇集在一起，以解决一个问题或抓住机遇。我不得不说，个人电脑正好属于这一类。创新是利用发明创造来解决问题，解决问题比发明本身更能让我感到自豪。我有很多专利，但它们的真正有价值在于人们用它们做了什么事情。发明本身是没有价值的，除非它能影响人们，改变人们的生活或着帮助人们生活得更好，取得更大的成功，幸福的生活。
 
 **23:11** - _Mark Dean_
 
-And so I gained tremendous joy watching people use what we've built. That's where I kind of get my jollies. That's where the joy comes from.
+因此，每当看到人们使用我们的发明，我就能获得了极大的快乐。 这是我的乐趣所在， 是我快乐的来源。 
 
 **23:26** - _Saron Yitbarek_
 
-Sometimes it's hard to remember that the reality we live with today was created by a series of choices that these people were making decades ago.
+有时我们很难记住，我们有今天生活的现状，是由几十年前通过这些人所做的一系列选择而创造出来的。
 
 **23:36** - _Pete Martinez_
 
-This was the golden age of personal computing. The golden age means this is where an industry thrived, that the innovation took complete new steps in both technology and manufacturing, in sales, in distribution, in the creation of software and such. So it was a massively creative time very similar to Florence during the Renaissance.
+这是个人电脑的黄金时代。黄金时代意味着这是一个行业蓬勃发展的地方，创新在技术和制造、销售、分销、软件等方面都采取了全新的方式。这是一个极富于创造力的时代，这与文艺复兴时期的佛罗伦萨非常相似。
 
 **24:03** - _Saron Yitbarek_
 
-And it all started with Mark Dean and those dozen or so engineers hanging around that bar down in Boca Raton.
-
+而这一切都始于马克·迪恩和十几个在博卡拉顿的酒吧中闲逛的工程师。
 **24:10** - _Pete Martinez_
 
-We were able to enjoy it here in South Florida because it became the epicenter of everything that was going on. The impact that had on society is probably the most significant to a lot of us because technology for technology's sake is good. But technology for improvement of the human condition is even better. And if you're able to do both, it's a greater success.
+我们之所以能够在<ruby>南佛罗里达州<rt>South Florida</rt></ruby>享受上网冲浪，是因为个人电脑已经成为了一切活动的中心。它的出现对社会造成的影响，对于我们大多数人来说可能是最重要的。为了科技进步的技术是件好事，但能改善人类状况的技术更好。如果能同时做到这两点，就会取得更大的成功。
 
 **24:38** - _Saron Yitbarek_
 
-By the end of the '80s, the first question you asked about new machines, new software is, is it PC-compatible? An army of clones and our new attitude of openness had swept the world of computing and all because of that attitude Dean learned from his dad, watching him build that tractor, work with what's at hand, wrench things together if you have to, but believe you can build it because nobody knows how big that thing might one day become. When the IBM PC was first released in 1981, there were nine patents associated with it. Of those, three belonged to Mark Dean.
+到了80年代末，当你问起关于新外设，新软件的第一个问题就是：它能与我的 PC 兼容吗? 克隆与新开放的态度已经席卷了整个计算机世界，这一切都是因为迪恩从他父亲那里学到的：看着他建造那台拖拉机，使用现有的东西，如果需要的话，将所有东西拧在一起。你要始终坚信，你可以创造出它，因为没有人能知道，你所创造的东西在未来会带来有多大的影响。当 IBM 个人电脑在 1981 年首次发布时，有九项专利。，其中三个是马克·迪恩的。
 
 **25:23** - _Saron Yitbarek_
 
-He then went on to earn more than 40. He's the son of a man who never had the chance to get a university degree. And today Dean's an IBM fellow and an inductee of the National Inventors Hall of Fame. The ISA bus his team developed paved the way for future generations of buses, the peripheral component interconnect, PCI, and the accelerated graphic port, AGP. And it wasn't going to stop there. Every generation has found new, better ways to allow computer components to communicate. Mark Dean's philosophical breakthrough born out of necessity has become a standard we could never live without.
+后来迪安继续发明的 40 多项专利，都受益于他那没能获得大学文凭的父亲的影响。如今，迪安是 IBM 的一员也是国家发明家名人堂的入选者。他的团队开发的 ISA 总线为下一代总线：外围组件互连 PCI 和加速图形端口 AGP 铺平了道路。而且它不会就此止步，每一代人都找到了新的、更好的方式来让计算机部件进行通信。马克·迪恩的关于创新的哲学思考，已成为我们生活中不可缺少的参考部分。
+`Dean's philosophical breakthrough born out of necessity has become a standard we could never live without. 麻烦校验帮忙看看，谢谢！`
+
 
 **26:11** - _Saron Yitbarek_
 
-Next time we meet the man who brought us the dinosaurs of Jurassic Park, the T-1000 in Terminator 2 and so much more, Silicon Graphics co-founder Marc Hannah. Until then, I'm Saron Yitbarek and this is Command Line Heroes. Keep on coding.
+下一集，我们将见到一位带给我们《侏罗纪公园》里的恐龙、《终结者2》里的 T-1000 以及更多的人，那就是硅谷图形公司的联合创始人马克·汉娜。我是 Saron Yitbarek，这里是《<ruby>代码英雄<rt>Command Line Heroes</rt></ruby>》，在此之前，继续敲你的代码吧。
 
 --------------------------------------------------------------------------------
 
@@ -299,7 +307,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-6/mark-dean
 
 作者：[Red Hat][a]
 选题：[bestony][b]
-译者：[译者ID](https://github.com/译者ID)
+译者：[译者ID](https://github.com/sthwhl)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
