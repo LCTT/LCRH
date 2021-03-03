@@ -23,7 +23,7 @@
 
 **03:05** - _Speaker 1_
 
-Adams 先生发现他的新支票账户很有用。与其他公司直接从<ruby>埃姆维尔国家银行<rt>Elmvale National Bank</rt></ruby>兑现不同，这个账号通过自己的银行兑现。与其他银行一样，这家银行把支票送到<ruby>邦储备银行<rt>Federal Reserve Bank</rt></ruby>去执行兑现。联邦储备银行正是为了处理每天来自数百家银行的数千张支票而设立的。
+Adams 先生发现他的新支票账户很有用。与其他公司直接从<ruby>埃姆维尔国家银行<rt>Elmvale National Bank</rt></ruby>兑现不同，这个账号通过自己的银行兑现。与其他银行一样，这家银行把支票送到<ruby>联邦储备银行<rt>Federal Reserve Bank</rt></ruby>去执行兑现。联邦储备银行正是为了处理每天来自数百家银行的数千张支票而设立的。
 
 **03:29** - _Saron Yitbarek_
 
@@ -59,231 +59,237 @@ Baker 和 Oldfield 成功说服了他们的老板 Cordiner，这是一台定制�
 
 **07:26** - _Saron Yitbarek_
 
-Then much to everyone's surprise, IBM pulled out of the race and, even more unexpectedly, GE's proposal rose to the top. Bank of America awarded them the contract. Not any of the other technology manufacturers—the underdogs got it. The underdogs at GE won the multimillion dollar contract. On April 9, 1956, B of A's board of directors accepted GE's proposal. Baker signed a $31 million contract without running it by his boss, Cordiner. This impossible project was becoming real. All Oldfield needed now was a place to build the ERMAs. And, oh yeah, an actual computer department.
+出人意料的事情发生了，IBM 忽然放弃竞标，GE 的提案从所有制造商中脱颖而出。这个不被看好的提案赢得了百万美元的合同。美国银行董事会在 1956 年 4 月 9 日正式接受了这个不被 Cordiner 看好的提案。Baker 签下了这份价值 3100 万美元的合同，把不可能变成了可能。Oldfield 可以找个地方生产 ERMA 了，当然，他得先成立一个计算机部门。
 
 **08:19** - _John Joseph_
 
-Okay, so now they had to start putting it together. First of all, they actually established a computer department. Now, that seems like an obvious statement, but to create a new department at a big company like this, he was able to bring together the resources and the people to actually create a department within General Electrics. That was a big deal in and of itself.
+接下来轮到他们大显身手了。首先，他们确实成立了计算机部门，虽然听上去只是发一份声名就能搞定的事情。但是在这么大的公司内，把公司的资源和人力调动起来成立一个新部门，真的是一件很了不起的事情。
 
 **08:46** - _Saron Yitbarek_
 
-Barney Oldfield became general manager of GE's new computer department. He set up the department to look like another GE department, the Military Systems Division, where they built special purpose computers. The 2 divisions could then be in competition with each other, and not in competition with IBM.
+Barney Oldfield 成为计算机部门的主管。这个新部门很像 GE 的另一个制造订制机的部门：<ruby>军事系统部门<rt>Military Systems Division</rt></ruby>。不用和 IBM 竞争，以后这两个部门可以在内部展开竞赛了。
 
 **09:06** - _Saron Yitbarek_
 
-This was how the new computer department was meant to fly—under corporate's radar. In a way, GE's decentralized management style was kind of perfect for a stealthy operation like this. As long as departments were profitable, there really wasn't much oversight. No one would know what was going on.
+新成立的部门想要低调行事，而 GE 去中心的管理方式，刚好适合这样偷偷摸摸的搞事情。只要部门是盈利的，就不会有太多的监管。没人知道他们在做什么。
 
 **09:26** - _John Joseph_
 
-Part of the backdrop here was that, in order to grow your little fiefdom in GE at the time, meant that you had to go out and look for opportunities for growth. There wasn't any corporate planning at the time. He was a go-getter, and saw this as a great opportunity. And I think he had the sheer will to bring the organization along because this was a huge, huge step.
+当时的情况是，想要在 GE 发展你的小领地，就必须走出去寻找发展的机会。公司没有任何这方面的计划，他是个有冲劲的人，看到了这个机会。他干劲十足，想引领公司走出这重要的一步。
 
 **09:59** - _Saron Yitbarek_
 
-The bigger challenge lay in where to locate the manufacturing facility. Up to this point, the Palo Alto group assumed they would move into a Stanford industrial park, but California had tough labor laws and high taxes. So it was off the table. GE decided on Phoenix instead. Maybe not the best place to attract experienced computer engineers, sure, but Phoenix had a major upside.
+更大的挑战还在后头，在哪建立工厂好呢？Palo Alto 的团队想要搬到 Stanford 的工业园区，无奈加州劳动法太严和税收太高，所以这不是个好点子。最终他们选择了 Phoenix。虽然 Phoenix 不是资深计算机工程师的最佳地点，但自有它的优势。
 
 **10:26** - _John Joseph_
 
-Now, the advantage to putting them in Phoenix was that it put them far away from GE. GE was headquartered in New York City at the time, so it was a case where I think it allowed them to happily operate under the radar of top management for a while to get up and running, because you know a lot of money was at stake. So it allowed them to do the skunkworks away from Cordiner.
+GE 的总部远在纽约，选择 Phoenix 能让他们远离 GE。在这里，他们可以避开高层的监督，野蛮生长。事关大把钞票，他们得在远离 Cordiner 的地方自由研发。
 
 **10:55** - _Saron Yitbarek_
 
-Oldfield managed to put together a solid team of engineers out there in Phoenix. Bob Johnson, George Snively, Gene Evans, George Jacobi, among others. John Pivoden was in charge of the hardware. Henry Harold was the logic designer. And Jay Levinthal was the system architect. Holed up in what seemed to them like the middle of nowhere, the team got along surprisingly well. They were up to the task to build the ERMA under a shroud of secrecy, and it didn't hurt that they had a sense of humor about the whole thing. We found an old skit that the team performed, something they called Frontiers of Progress, and I think it shows you where they were at. Here's an excerpt.
+Oldfield 在 Phoenix 组建了一支可靠的工程师团队。团队成员有：Bob Johnson、George Snively、Gene Evans 还有 George Jacobi 等人。还有 John Pivoden 负责硬件、Henry Harold 设计逻辑、Jay Levinthal 是系统架构师。在这个与世隔绝的桃园胜地，团队氛围非常融洽。他们不仅能担起秘密制造 ERMA 的大任，还能幽默的看待自己的工作。我们找到了他们表演过的一个小短剧，他们称之为“进步的前沿”，我想它向你展示了他们的现状。下面大家一起欣赏吧。
+
 
 **11:39** - _Speaker 2_
 
-Well, here we are in Phoenix.
+好了，我们到凤凰城了。
 
 **11:41** - _Speaker 3_
 
-Well, I see you finally made it. Welcome to the computer department.
+你终于来了。欢迎来到计算机部门。
 
 **11:45** - _Group_
 
-The what department?
+啥部门？
 
 **11:46** - _Speaker 3_
 
-The computer department.
+计算机部门。
 
 **11:47** - _Speaker 4_
 
-What's a computer?
+计算机是啥？
 
 **11:49** - _Speaker 3_
 
-Oh, it's sort of a turbine with Christmas tree lights that plays music.
+哦，有点像是带有圣诞树灯的涡轮机，可以播放音乐。
 
 **11:53** - _Speaker 5_
 
-They're a kind of fast adding machine.
+它们是一种快速的加法机器。
 
 **11:56** - _Speaker 2_
 
-We won't have to use one in accounting, will we?
+我们没必要用它记账，对吧？
 
 **11:58** - _Speaker 3_
 
-No, but we will have to give Van one to play with and pretend we're using it.
+不，但我们得给 Van 一台让他玩，假装我们在用。
 
 **12:01** - _Speaker 4_
 
-Uh, what's a computer?
+计算机是啥？
 
 **12:08** - _Saron Yitbarek_
 
-As far as Bank of America was concerned, a computer was something that could handle 55,000 transactions a day. It also needed to sort and distribute checks of all sizes and conditions. It needed to update customer accounts and balance operations. It needed a way to identify the checks, and Bank of America wanted not one, but 36, of these machines.
+对美国银行而言，计算机是可以一天处理 55000 笔交易的机器，这台机器需要对各种大小和条件的支票进行排序和分发，需要更新客户帐户和余额，需要能识别支票。他们要的不是 1 台，而是 36 台计算机。
 
 **12:34** - _Saron Yitbarek_
 
-Early in the process, the team decided that the GE version of ERMA would be transistorized. In the '50s, transistors were more expensive than vacuum tubes, but they required less space and simpler connectors to the logic boards. So, each vacuum tube and flip flop would be replaced by two transistors, with some additional resistors and capacitors to hold it all together. The other big change to the original prototype was to make the ERMA a stored program computer rather than a hardwired machine. This would allow for a simpler machine design and easier modifications later on. Since most of GEs developers were on the hardware side, they needed to hire themselves a programmer. They chose a man who not-too-many years before had escaped Nazi Germany and had come to the U.S. as a refugee. His name was Joseph Weizenbaum.
+项目初期，团队就决定 GE 版本的 ERMA 将 使用晶体管来实现。在 50 年代，虽然晶体管比真空管贵，但体积小，与主板连接也更简单。原型机的真空管和触发器被两个晶体管所取代，使用额外的电阻和电容将它们连接在一起。将 ERMA 设计成软件编程设备，而不是硬件编程设备，是对原型机的另一个重大改变。这样可以简化机器设计，并在以后进行更轻松的修改。鉴于大多数 GE 的开发人员都从事硬件工作，他们得再聘请一名程序员。他们选择了一名就在几年前逃离纳粹德国，以难民身份来到美国的男子。这名男子名叫 Joseph Weizenbaum。
 
 **13:34** - _Saron Yitbarek_
 
-Weizenbaum had programmed a G-15 computer at a company called Bendix. He even developed a pseudo machine programming language for it called Intercom 100. With no experience in banking other than cashing his own checks, Weizenbaum would now lead the micro programming team to write software capable of supporting the transistorized hardware. The team also programmed all the peripheral devices including the checks orders, and something they called the MICR reader. That stands for magnetic ink character recognition. You know that line of numbers on the bottom of your checks? That's MICR. Three sets of numbers that identify a bank account, a routing number and a check number, and it's still there on all your checks because of the work Weizenbaum and his team did out in Phoenix.
+Weizenbaum 曾在一家名为 Bendix 的公司为 G-15 电脑编程。他甚至开发了一种名为 Intercom 100 的伪机器编程语言。尽管除了兑现支票之外，Weizenbaum 没有任何银行相关经验，他还是领导小小的编程团队，开始编写支持晶体管的软件。该团队还为所有的外接设备编程，包括支票排序器，还有被他们称做 MICR reader 的东西。MICR reader 是个磁性墨水字符识别工具。您知道支票底部的那一行数字吗？那就是MICR。这行数字由三部分组成，分别表示银行账户、路由号码和支票号码。直到今天，支票上仍有 Weizenbaum 和他的团队在凤凰城的杰作。
 
 **14:28** - _Saron Yitbarek_
 
-Cool side note. Weizenbaum would later go on to be considered one of the founding fathers of AI (artificial intelligence). On December 28, 1958, almost 3 years after GE won the contract, the San Jose Branch of Bank of America installed the first completed ERMA machine. The system could only handle 100 transactions a day, but it was a step in the right direction. The next step, get it to process the required 55,000 transactions a day.
+值得一提的是。Weizenbaum 后来被认为是 AI（人工智能）的奠基人之一。1958 年 12 月 28 日，在 GE 赢得合同近三年后，<ruby>美国银行圣何塞分行<rt>San Jose Branch of Bank of America</rt></ruby>实装了第一台 ERMA 机器。虽然这台机器每天只能处理 100 笔交易，但这是朝着正确方向迈出的一步。接下来，他们要兑现每天处理 55000 笔交易的承诺。
 
 **15:04** - _Saron Yitbarek_
 
-By March, the team had not only finished tweaking the machine to get to 55,000, they added additional sorters and printers so that the overall system could handle 2 million transactions a day. Bank of America was thrilled. The Phoenix computer department delivered 32 machines, now christened the GE-100, with more orders in the pipeline. It was time to celebrate.
+到了次年 3 月，该团队不仅兑现了 5.5 万交易的的承诺，还增加了分拣机和打印机，使整个系统每天可以处理 200 万笔交易。美国银行兴奋不已。位于 Phoenix 的电脑部门交付了 32 台命名为 GE-100 的机器，还有更多的订单正在准备中，是时候庆祝了。
 
 **15:32** - _Will Ocasio_
 
-Bank of America invited Cordiner to the unveiling of the computer. They even invited Ronald Reagan who used to work for General Electric as their TV spokesperson, so this was going to be a big deal. Then Cordiner came in to the unveiling and he thought, "Wait a minute, this is not what I approved." So that's where he got mad, and he ended up firing Barney Oldfield because of that.
+美国银行邀请 Cordiner 参加计算机的揭幕仪式。他们甚至邀请了曾在通用电气工作过的 Ronald Reagan 作为他们的电视发言人，这太了不起了。令人意想不到的是，Cordiner 来到揭幕式后，忽然想到：“等一下，这跟之前说的不一样”，然后他生气的开除了 Barney Oldfield。
 
 **16:00** - _Saron Yitbarek_
 
-Ugh, fired. The Phoenix team had exceeded expectations, had really done something extraordinary, but now their leader was rewarded by being let go. Not only that, but Cordiner also reassigned the head of the division, Doc Baker. His replacement, Harold Strickland, didn't care for computers. Cordiner still apparently worried about upsetting IBM, gave Strickland firm instructions to keep the computer group in check. And the person who replaced Oldfield, a company man by the name of Claire Lasher. Little did Cordiner know, the rebel streak ran strong in Lasher, too.
+额，Oldfield 就这么被开除了？有没有搞错！Phoenix 的团队的明明超额完成了任务，完成了不可思议的壮举，他们的傻缺领导居然把他们开除了？更可气的是，Cordiner 还重新任命了部门的负责人，Baker 博士的继任者 Harold Strickland 对电脑并不感兴趣。胆小如鼠的 Cordiner 还是担心会惹 IBM 生气，于是给了 Strickland 明确的指示，要他务管好计算机团队。一个叫 Claire Lasher 的公司职员接替了 Oldfield 的工作，愚蠢的 Cordiner 不知道的是，Lasher 骨子里也是个反叛者。
 
 **16:47** - _Saron Yitbarek_
 
-GE President Cordiner wanted to get out of the business computer industry, which he never wanted to be in in the first place. He wanted to get GE back to the old ways as soon as possible. He allowed for the fulfillment of existing orders, but in his words, "No more." But you know, when Cordiner's banking friends started flooding him with compliments about the innovative GE-100, he changed his tune. So okay, they could keep playing in the sandbox they'd created, the only restriction, "Do not go head-to-head with IBM."
+通用电气总裁 Cordiner 想要远离商用计算机行业，他从一开始就不想进入这个行业。他想让通用电气尽快回到老样子。他允许生产已有的订单，但用他的话来说：“下不为例！”。后来，当 Cordiner 听到自己银行界的朋友向他称赞 GE-100 的创新时，他的态度发生了转变。所以好吧，他们可以继续在自己创造的沙盒中自由发挥，唯一的限制就是：“不要和 IBM 正面交锋”。
 
 **17:24** - _Saron Yitbarek_
 
-Claire Lasher's expertise was in marketing. He saw the huge sales potential of general purpose computers and took a page out of Oldfield's book. He developed his own plan. A line of computers, the 200 series, with a dual purpose. They would be specific process control machines and a general purpose system. Claire called his business plan, The Big Look. He recruited more engineers to the Phoenix team, including someone who had worked on the GE-312 and 412 process control computers back in New York. His name was Arnold Spielberg, and he would lead the team.
+Claire Lasher 的专长是市场营销。他看到了通用计算机的巨大销售潜力，并借鉴了奥德菲尔德的经验。他制定了自己的计划。生产具有双重用途的计算机 200 系列。新设备将会实现特定过程控制机和通用系统的融合。Claire 称他的商业计划为"新视野"，他为 Phoenix 团队招募了更多的工程师，其中一位曾在纽约使用过 GE-312 和 412 过程控制计算机。他的名字叫 Arnold Spielberg，他将领导这个团队。
 
 **18:05** - _Saron Yitbarek_
 
-After looking over the technical specs, Arnold said something like, "Hey, if we move a few things around on this piece of hardware, we could have a highly competitive general purpose machine." Arnold added peripheral devices like card readers, printers, and magnetic tape handlers. The production prototype was completed in just 5 months. The new general purpose machine was called the GE-225. Fun fact, Arnold Spielberg is Steven Spielberg's dad. I spoke to Tomas Kellner, GE's chief storyteller, to learn more about Mr. Spielberg and his role in creating the machine that the brass never wanted, the GE-225.
+看完技术规格后，阿诺德说了“嘿，如果我们在这台硬件设备上移动一些东西，我们就能造出一台极具竞争力的通用机器“之类的话。Arnold 增加了诸如读卡器、打印机和磁带处理程序等外围设备。原型机仅用了 5 个月就完成了。新的通用机被称为 GE-225。有趣的是，Arnold Spielberg 是 Steven Spielberg 的爸爸。为了了解更多关于 Spielberg，以及他在创造 GE-225 这台高层从来不想要的机器中所扮演的角色，我采访了通用电气的首席故事官 Tomas Kellner。
 
 **18:51** - _Tomas Kelner_
 
-Well, Arnold and his colleague Chuck Prosper were actually the designers of the computer, they built it together. It was interesting because unlike the previous GE computers, the GE-225 was a business computer, and it actually had a storage system, so it was able to handle the input and output of data.
+Arnold 和他的同事 Chuck Prosper 一起设计了 GE-225。有趣的是，和 GE 以前的计算机不同，GE-225 是商用计算机，它有存储系统，并且能够处理数据的输入和输出。
 
 **19:15** - _Saron Yitbarek_
 
-What technological advancements in the GE-225 can be attributed to Arnold?
+GE-225 的哪些技术进步可以归功于 Arnold？
 
 **19:21** - _Tomas Kelner_
 
-One thing that was really interesting was that this computer actually had its own memory, and that was able to record and output information. The memory could store between 8,000 to 16,000 20-bit words, and then it also had an auxiliary memory that had about 32,000 20-bit words. Some of the computers that he also worked on were wire software, so they were really hard to use. They basically had to be programmed once, and that was all you could do. This was different because of the computer's ability to store data.
+最有趣的是，这台电脑有自己的内存，能够记录和输出信息。这种存储器可以存储 8000 到 16000 个 20 位字，它还有一个辅助存储器，大约可以存储 32000 个 20 位字。他之前也做过的一些硬件编程设备，它们真的很难使用。这些设备只能编程一次，然后就不能再修改了。 GE-225的进步之处在于，有了数据存储的能力。
 
 **19:58** - _Saron Yitbarek_
 
-What did the GE-225 look like?
+GE-225 长什么样子？
 
 **20:02** - _Tomas Kelner_
 
-The GE-225 didn't look like much, to be honest with you. It looked like a bunch of boxes. It had magnetic tapes that stored the information. There was an input terminal, an output terminal, and even though it was called a small computer, it filled an entire basement room.
+说实话，GE-225 看起来不怎么样，它看起来像一堆盒子。它有存储信息的磁带，有输入终端和输出终端。尽管它被称为小型计算机，但它能占满整个地下室。
+
 
 **20:26** - _Saron Yitbarek_
 
-What tasks could it perform that no other computer could at the time?
+它能完成哪些其他计算机无法完成的任务呢？
 
 **20:30** - _Tomas Kelner_
 
-One of the new features of the GE-225 computers was the ability to do time-sharing. You were able to access the computer from multiple terminals, multiple remote terminals, giving users the ability to work on the computer at the same time, to write code at the same time. As far as I know, this feature was not available in other commercial computers at the time.
+GE-225 计算机的新特性是支持分时操作。你能够从多个远程终端访问计算机，多个用户能够同时在上边工作、写代码。据我所知，当时其他的计算机没这种能力。
 
 **20:58** - _Saron Yitbarek_
 
-So who bought the GE-225? Who were the clients?
+那么谁买了 GE-225？GE-225 的目标客户是哪些人呢？
 
 **21:02** - _Tomas Kelner_
 
-GE definitely used the computers internally, but a number of banks across the country used them, as well as the Cleveland Browns apparently used them to manage season ticket sales. Somebody even used one of the computers to predict a statewide election, and apparently the prediction matched the results. So it seemed like people were quite smitten with the machine. Cordiner told the team to get out of the computer business within 18 months, and it took them longer—much longer than that because of the success of this computer.
+通用电气公司内部肯定使用了这些计算机，全国各地的许多银行都使用它们，还有 Cleveland Browns 也用它们来管理季票销售。有人甚至用其中一台电脑预测了一场全州范围的选举，当然，预测结果与结果相符。人们似乎对这台机器非常着迷。Cordiner 让团队在 18 个月内退出计算机行业，但是因为这台计算机的成功，他们搁置了这个计划。
+
 
 **21:43** - _Saron Yitbarek_
 
-I want to pause here for a sec to emphasize, the GE-225 was so much more than just a banking solution. Remember John Kemeny and Thomas Kurtz, the creators of BASIC? Their programming language was created on the GE-225. And there's another command line hero who caught the programming bug on the GE-225.
+我想在这里停一下强调一下，GE-225 不仅仅是一个银行解决方案。还记得 BASIC 的创始人 John Kemeny 和 Thomas Kurtz 吗？他们在 GE-225 上创造了 BASIC。下面介绍另一位命令行英雄，他发现了 GE-225 上的编程漏洞。
 
 **22:03** - _Saron Yitbarek_
 
-Though he was still in high school at the time. Well, I'll let Tomas tell you. How was the GE-225 instrumental in the development of BASIC?
+尽管那时他还在上高中。接下来让 Tomas 告诉你的。GE-225 在 BASIC 的开发中起到了什么作用？
 
 **22:14** - _Tomas Kelner_
 
-One of the interesting applications of the GE-225 was the use of the computer by Dartmouth and their computer scientists to develop the BASIC language. They wanted to come up with a tool that would allow computer programmers to work from different terminals at the same time. And that tool was essentially, would later became BASIC. Now an interesting aside about BASIC is that GE promptly licensed BASIC from Dartmouth and started using it internally and started offering it with their computers, which is how it got to Steve Wozniak. He was exposed to a terminal that was connected to the GE-225 computer running BASIC, and he was so smitten with it that he actually started writing his first software on that terminal.
+Dartmouth 和他的伙伴们开发的 BASIC 语言，是使用 GE-225 开发的上的有趣的项目之一。他们想发明一种工具，使计算机程序员能够在不同的终端上同时工作。这个工具，就是后来的 BASIC。关于 BASIC 另一件趣事是，通用电气很快从 Dartmouth 获得了 BASIC的 授权，开始在内部使用，并在他们的电脑上提供 BASIC，这就是 Steve Wozniak 得到 BASIC 的原因。当他使用终端连接到运行 BASIC 的 GE-225 计算机上时，他瞬间就爱上了这个工具，实际上他的第一个软件就是在这个终端上编写的。
 
 **23:13** - _Saron Yitbarek_
 
-So when you spoke to Arnold, was he aware of the impact he'd made on the computing world?
+那么当你和 Arnold 交谈时，他意识到他对计算机世界的影响了吗？
 
 **23:18** - _Tomas Kelner_
 
-The interview with Arnold Spielberg was truly incredible. When I talked to him, he was 99.
+对 Arnold Spielberg 的采访真是令人难以置信。我跟他说话的时候，他已经 99 岁了。
 
 **23:23** - _Saron Yitbarek_
 
-Wow.
+哇哦.
 
 **23:24** - _John Joseph_
 
-He remembered everything. We talked about the internet. He definitely said that back then in the 1960s, he was thinking a lot about computer applications, but it didn't occur to him that one day all of us would be connected—in our homes and in our pockets—to this vast network that allows us to pull information on a whim and that allows airlines to control planes in the sky and corporations control machines. On one hand, he was always very interested in the development of the field. At the same time, he was also very humble in admitting that the field has evolved in a way that he could not have predicted in the 1960s.
+他记得所有的事情。我们谈到了互联网。我清楚的记得，他当时说，在 1960 年代，他有很多关于计算机应用的思考，但是他从没想到，有一天所有人都可以通过家用电脑和智能手机，连接到互联网这个庞大的网络中，可以随时随地获取信息，让航空公司控制空中的飞机，让公司控制机器工作。一方面，他对该领域的发展非常感兴趣。与此同时，他也非常谦虚地承认，该领域的发展方向超过了他在 20 世纪 60 年代时的想像。
 
 **24:12** - _Saron Yitbarek_
 
-Steven Spielberg. I'm wondering what kind of influence do you think this had on him and his career?
+Steven Spielberg。我想知道你认为这对他和他的事业有什么影响？
 
 **24:18** - _Tomas Kelner_
 
-He remembers visiting his dad's workplace, the GE factory in Phoenix, Arizona, where they lived. His dad brought him over and he had no clue what was happening. And that his dad was trying to explain to him what computers were, and what they did. And he said a quote was, "It was all like Greek to me." So he really had no idea. I asked Arnold, so what was your impression? And he said, "Yes, well, I wanted him to study engineering. I wanted him to be interested in tech, but he was always interested in movies."
+他还记得曾拜访过父亲的工作场所，那是 GE 在他们的家乡 Phoenix Arizona 建的工厂。他爸带他来参观，他完全不知道这是什么。他的父亲试图向他解释电脑是什么，能做什么。他的原话是：“这一切对我来说都是希腊文。”，可见他当时是真的听不懂。我问 Arnold，你的怎么看？他说：“我想让他学习工程学。我想让他对科技感兴趣，但他总是对电影感兴趣。”
 
 **25:00** - _Speaker 6_
 
-This then is the electronic age in banking. Today, this magnetic ink computer system makes possible the world's fastest, most efficient banking service. Similar systems eventually will be employed by insurance companies, department stores and utilities. In fact, wherever paperwork is a problem. But who knows, perhaps sometime in the future, an even better method of handling paperwork may be found. Of this, you can be sure.
+这就是银行业的电子时代。今天，这种磁墨计算机系统让银行能够提供世界上最快、最有效的服务。保险公司、百货公司和公用事业公司也陆续开始使用类似的系统。事实上，任何地方的文书工作都是个问题。但谁知道呢，也许在将来的某个时候，我们会找到一种更好的处理文书工作的方法。
+
 
 **25:34** - _Saron Yitbarek_
 
-By 1962, the GE-225 was in full production. After its launch a year later, it quickly became a blockbuster product for the company. Not only was it profitable, it also earned a great reputation in the business world. In the months afterward, Cordiner received congratulatory messages from all over the country, so much so that he finally, finally changed his mind about going into the computer business. He formally recognized the General Electric computer department at last.
+到 1962 年，GE-225 全面投产。在推出一年后，它迅速成为公司的重磅产品。它不仅为公司盈利，还在商界赢得了很高的声誉。在之后的几个月里，Cordiner 收到了来自全国各地的祝贺信息，他最终改变了他的想法，打算投身计算机行业。他终于正式认可了通用电气计算机部门。
 
 **26:13** - _Saron Yitbarek_
 
-Let's go back to something that Tomas brought up in our conversation, and something we also talked about in last season's C change episode. When Dartmouth College used the GE-225 to develop a tool that allowed programmers to work from different terminals at the same time—in other words, timesharing—GE hadn't realized the potential for that.
+让我们回到 Tomas 在我们的谈话中提到的一些事情，以及我们在上一季的 C-change 那一期中也谈到的一些事情。当达 Dartmouth 学院使用GE-225 开发出，让程序员可以同时在不同终端上工作的工具时，他们并没有意识到分时 GE 的潜力。
 
 **26:38** - _Joy Lisi Rankin_
 
-Dartmouth built its timesharing system using the GE-225 as well as a GE DATANET 30 and General Electric had previously considered neither of those machines for timesharing.
+达特茅斯使用 GE-225 和 GE DATANET 30 实现了分时系统，此前通用电气并未考虑使用这两种设备来实现这一功能。
 
 **26:53** - _Saron Yitbarek_
 
-Joy Lisi Rankin is a technology historian.
+Joy Lisi Rankin 是一名技术历史学家。
 
 **26:57** - _Joy Lisi Rankin_
 
-The key thing about timesharing was that the computer needed some way of being able to sort of stop its own clock. That's what the timesharing refers to, not people sharing time on the computer, but the computer actually sharing its own time to process multiple computing requests, and it was the faculty and students at Dartmouth College who had the idea of using the DATANET 30, which was a GE communications computer to do that clock and time management together with the 225.
+分时系统的关键在于电脑需要某种方式来停止自己的时钟。这就是分时的含义，不是人们在计算机上共享时间，而是计算机实际上共享它自己的时间来处理多个计算请求。是 Dartmouth 学院的教职员工和学生决定，在 DATANET 30 和 GE-225 这两台机器上实现分时系统。
+
 
 **27:32** - _Saron Yitbarek_
 
-Because mainframes were so expensive in the '60s, the most efficient way to use them was to run programs in batches. Someone would write a program, get the cards punched to run the program, then hand over the cards to an operator. Then they'd have to wait for it to be batched with other programs. Sometimes they'd wait for hours, even days.
+大型机在 60 年代非常昂贵，因此使用大型机的最有效方法是分批运行程序。当时的人使用卡片打孔编写并运行程序，他们将卡片交给操作员。然后，这些卡片一起等待处理。有时他们会等待几个小时，甚至几天。
 
 **27:58** - _Joy Lisi Rankin_
 
-Timesharing, BASIC, and Dartmouth and GEs relationship are crucial to ushering in what I call an era of personal computing before social computers and social networking, well before Facebook. GE was easily able to take what was learned from Dartmouth building this timesharing system and adapt it to their own business and quickly build a global timesharing service industry. I think at one point in 1970 they had 100,000 timesharing users in Europe alone. So this was a substantial business for them through the 1970s into the 1980s.
+分时、BASIC 以及 Dartmouth 与 GE 的关系,对于开启我所说的个人电脑时代至关重要，远在社交电脑和社交网络出现之前，远在Facebook出现之前。通用电气从 Dartmouth 建立的分时系统中吸取经验，将其应用到自己的业务中，迅速建立起了全球分时服务行业。我记得在 1970 年的某个时候，仅在欧洲就有 10 万分时用户。因此，在 20 世纪 70 年代到 80 年代，这是他们的一项重要业务。
 
 **28:44** - _Saron Yitbarek_
 
-Despite the success of the GE-225 and the line of two hundreds that followed, General Electric sold its mainframe division to Honeywell in 1970. But they did decide to keep their timesharing business open, and it stayed profitable for years to come.
+尽管 GE-225 和随后的 200 系列计算机取得了成功，通用电气公司还是在 1970 年将其大型机部门卖给了Honeywell。他们仍然决定保持分时共享业务，并在未来几年保持盈利。
 
 **29:08** - _Saron Yitbarek_
 
-So Ralph Cordiner got there eventually, but just like we saw in our last episode with the creation of the mini computer over at Data General, it often takes a team of stubborn, wide-eyed rebels and some forward-thinking execs to build the next great machine. Because, sometimes the powers that be have trouble envisioning the power that could be. Opening up the decision-making process to others can lead to surprising and amazing results.
+所以 Ralph Cordiner 最终做到了，但就像我们在上一期看到的，诞生于通用数据公司的迷你电脑，下一代伟大的机器，通常需要一组固执的，天真的叛逆者和一些有远见的高管来建造。因为，有时当权者很难想象未来的当权者。把做决定的过程告诉别人会带来令人惊讶的结果。
 
 **29:41** - _Saron Yitbarek_
 
-In our next episode, we're picking up from where the GE-225 left off to talk about how that mainframe inspired a whole new generation of programmers to kickstart the personal computing revolution and how that generation inspired us today. Command Line Heroes is an original podcast from Red Hat. Head on over to [redhat.com/commandlineheroes](https://www.redhat.com/commandlineheroes) for some great research on the team behind the GE-225. I'm Saron Yitbarek. Until next time, keep on coding.
+在我们的下一期，我们将从 GE-225 结束的地方开始，来谈谈大型机如何启发了新一代程序员，从而启动了个人计算革命。以及那一代如何激发了我们今天的创造力。《代码英雄》是红帽的原创播客。访问我们的网站[redhat.com/commandlineheroes](https://www.redhat.com/commandlineheroes"redhat.com/commandlineheroes")了解更多有关 GE-225 的资料。我是 Saron Yitbarek，继续写代码吧，我们下次见！
+
 
 --------------------------------------------------------------------------------
 
@@ -291,7 +297,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-4/mainframes
 
 作者：[Red Hat][a]
 选题：[bestony][b]
-译者：[译者ID](https://github.com/译者ID)
+译者：[2581543189](https://github.com/2581543189)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
