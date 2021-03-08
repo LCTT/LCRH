@@ -1,11 +1,11 @@
-[#]: collector: "bestony"
-[#]: translator: "sthwhl"
-[#]: reviewer: " "
-[#]: publisher: " "
-[#]: url: " "
-[#]: subject: "Command Line Heroes: Season 6: Dr. Mark Dean: The Inventor Who Made the Computer Personal"
-[#]: via: "https://www.redhat.com/en/command-line-heroes/season-6/mark-dean"
-[#]: author: "RedHat https://www.redhat.com/en/command-line-heroes"
+[#]: collector: (bestony)
+[#]: translator: (sthwhl)
+[#]: reviewer: ( )
+[#]: publisher: ( )
+[#]: url: ( )
+[#]: subject: (Command Line Heroes: Season 6: Dr. Mark Dean: The Inventor Who Made the Computer Personal)
+[#]: via: (https://www.redhat.com/en/command-line-heroes/season-6/mark-dean)
+[#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
 《代码英雄》第六季：马克·迪恩博士：那个发明了个人电脑的人
 ======
@@ -307,7 +307,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-6/mark-dean
 
 作者：[Red Hat][a]
 选题：[bestony][b]
-译者：[译者ID](https://github.com/sthwhl)
+译者：[sthwl](https://github.com/sthwhl)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
