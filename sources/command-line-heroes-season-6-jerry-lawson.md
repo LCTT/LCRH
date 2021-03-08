@@ -8,18 +8,20 @@
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
 Command Line Heroes: Season 6: Jerry Lawson
+《代码英雄》第六季：Jerry Lawson
 ======
 **00:00** - _Joseph Saulter_
 
 Jerry Lawson. I said, "Who is Jerry Lawson?"
+Jerry Lawson. 我说, "谁是 Jerry Lawson？"
 
 **00:05** - _Saron Yitbarek_
 
-It's 2011 and Joseph Saulter, CEO of Entertainment Arts Research receives a call. It's from journalist John William Templeton, and his call has left Saulter shaken.
+那是2011年，Entertainment Arts Research 的 CEO， Joseph Saulter 接到一个来自记者 John William Templeton 的电话。这个电话让 Saulter 感到震惊。
 
 **00:19** - _Joseph Saulter_
 
-He said, "Jerry Lawson was the first game developer of a cartridge game." I said, "What are you talking about, man?" I said, "I just finished the book Introduction to Game Design and Development, and all of a sudden you tell me about this guy that I didn't put in the book man."
+他说，“Jerry Lawson 是第一个擦卡式游戏的开发者。” 我说，“兄弟，你在说什么？”我说，“我刚刚完成了《Game Design and Development》这本书的介绍，然后你突然告诉我还有这么个人，我没写到书里面，兄弟！”
 
 **00:35** - _Saron Yitbarek_
 
