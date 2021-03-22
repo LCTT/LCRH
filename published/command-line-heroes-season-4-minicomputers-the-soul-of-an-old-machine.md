@@ -1,8 +1,8 @@
 [#]: collector: (bestony)
 [#]: translator: (JonnieWayy)
 [#]: reviewer: (windgeek, wxy)
-[#]: publisher: ( )
-[#]: url: ( )
+[#]: publisher: (wxy)
+[#]: url: (https://linux.cn/article-13226-1.html)
 [#]: subject: (Command Line Heroes: Minicomputers: The Soul of an Old Machine)
 [#]: via: (https://www.redhat.com/en/command-line-heroes/season-4/minicomputers)
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
@@ -40,7 +40,7 @@
 
 **00:02:45**：
 
-在我们本季的首播中，将讲述一个工程团队竞相设计、调试和交付下一代计算机的故事。他们工作个故事变成了 1981 年 Tracy Kidder 获得了普利策奖的畅销书《<ruby>新机器的灵魂<rt>The Soul of a New Machine</rt></ruby>》的主题。在这本书中讲述了这一集中你将听到的众多嘉宾的故事。  
+在我们本季的首播中，将讲述一个工程团队竞相设计、调试和交付下一代计算机的故事。他们工作的故事变成了 1981 年 Tracy Kidder 获得了普利策奖的畅销书《<ruby>新机器的灵魂<rt>The Soul of a New Machine</rt></ruby>》的主题。在这本书中讲述了这一集中你将听到的众多嘉宾的故事。  
 
 **00:03:07**：
 
@@ -164,7 +164,7 @@ Tom 对这个项目的真实性质保持着低调。因此，他并没有对工�
 
 **00:17:39 - Neal Firth**：
 
-坦率地说，就是在解决问题。我一直是一个喜欢思考并善于解决问题的人。事实上，团队里的大部分人都是这样的。我们所有人都着类似的背景，并且我们都很享受解决问题这件事。就是，解决那些难题，找到一种前所未有的方式去做事。  
+坦率地说，就是在解决问题。我一直是一个喜欢思考并善于解决问题的人。事实上，团队里的大部分人都是这样的。我们所有人都有着类似的背景，并且我们都很享受解决问题这件事。就是，解决那些难题，找到一种前所未有的方式去做事。  
 
 **00:18:01 - Saron Yitbarek**：
 
