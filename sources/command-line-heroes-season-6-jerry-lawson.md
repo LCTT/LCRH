@@ -39,35 +39,37 @@ Luckily, Lawson was used to getting done what other people called impossible. He
 **04:45** - _Anderson Lawson_
 
 Hi, my name is Anderson Lawson. I'm the son of Gerald Anderson Lawson.
-
+大家好，我是 Anderson Lawson 。我是 Gerald Anderson Lawson 的儿子。
 **04:49** - _Saron Yitbarek_
 
 So I imagine when it comes to the career aspirations of your great-grandfather and those people who came before you, I imagine racism probably had a huge effect on their goals, on their aspirations.
+那么，我可以想象，说到你的曾祖父和那些在你之前的人的职业抱负，我可以想象种族主义可能对他们的职业目标会有巨大的影响。
 
 **05:01** - _Anderson Lawson_
 
 I know that he wanted to be—I want to say a physics teacher—and at the time, he wasn't seen as fit for that role and actually became a mailman. Now that's a stretch, right? But, I think we've come a long way, but we've still got a long way to go.
-
+我知道他想成为，可以说是一名物理教师，但是这在当时，他被认为不适合那个职业，于是成了一名邮递员。如今已经大有改观了，对吧？但是我觉得这一路走来挺不容易的，而且我们还有很长的路要走。
 **05:22** - _Saron Yitbarek_
 
 And how did that story of your great-grandfather influence your father's own pursuits?
-
+那么，你曾祖父的故事是如何影响到你父亲自己的追求的呢？
 **05:28** - _Anderson Lawson_
 
 You know, I really don't know because my father was so, his attitude, he was so freaking stubborn for the lack of a better term. He was the type of person where if—no matter what's going on—if somebody just said, "Hey, you're not able to do that," he would have found a way. He was different in that way, and it was more to spite the person that said that than anything else.
-
+我实在不知道，因为我父亲，他的态度，除了“顽固”没有更好的词来形容。他是那种，无论是在什么情况下，只要有人说：“嘿，你是做不到那个的。” 那么，他就总会找到解决的办法。他在这方面很不一样，因为对他说那句话比任何语言都更加惹恼他。
 **05:57** - _Saron Yitbarek_
 
 That determination to build his own reality, to literally craft it with his own hands, was something Lawson passed on to his children.
+创建自己的现实的决心，完完全全的靠自己双手来创造，是 Lawson 传给他的后人的一种品质。
 
 **06:08** - _Anderson Lawson_
 
 When I was about, actually I was 10, my cousin was with us, and we were playing games. And I guess my father had enough of seeing us play the video game for the day, so he goes into the garage and he comes back out. He shuts off the game and he doesn't let us play anymore. And he takes a book and throws it onto the counter, and it is 101 Basic Video Games. And he's like, "If you're going to play games, you better learn how to make them," and walked away. He set up an IBM, a portable IBM computer, in the room and said, "Figure it out." Turned it on. Now we're kids, we have to figure out how to get in, log in, find the basic compiler and start making games, but we did it!
-
+但我大概，实际上是10岁的时候，我的堂兄弟和我们一起玩着游戏。然后我估计我父亲是已经看够了我们一天到晚玩这个视频游戏，于是他走进车库里，然后回来。他把游戏关掉，不让我们再继续玩。然后他拿起一本书扔到柜台上，那是一本《基础视频游戏入门》的书。他的意思大概是说：“如果你想玩游戏，你最好学习怎么创建它们”。然后就走掉了。他在房间里搭起了一台IBM，一台移动的 IBM 电脑，然后说，“你看着办吧！”，然后开机。我们当时只是小孩，我们不得不搞明白如何进入系统，如何登陆，如何找到基本的编译器，然后开始创建游戏，但是，我们做到了！
 **07:03** - _Saron Yitbarek_
 
 In the 1970s, Lawson got himself a job at Fairchild Semiconductor working as a field applications engineer out in California. That basically meant he was a traveling troubleshooter for clients driving all over in an RV full of demo products. Lawson had other plans though. For starters, he became the only Black member of the famous Homebrew Computer Club where Steve Wozniak and Steve Jobs used to show off their latest ideas. More important than "the Steves", though, was the fact that Lawson began assembling the tools he needed to build something of his own.
-
+在1970年代的时候，Lawson 在加州的 Fairchild 半导体公司找到了一份工作，担任现场应用工程师。这基本上意味着，他得开着一辆装满演示产品的休闲车，到处奔波为他的客户们处理故障。然而，Lawson 有自己的计划。
 **07:40** - _Anderson Lawson_
 
 I guess, let me give you a breakdown of what a Saturday afternoon would be like with Jerry Lawson. I could spend 3 or 4 hours with him going to different electronic stores, and even flea markets looking for parts and things of that nature, or talking to people in the industry. His life was electronics, that's all he did—computers, electronics, computers, electronics, all day, every day. I mean, the man had a PDP-11 inside of the garage. So, if you know anything about computers, Digital Equipment Corporation put out that computer, and it was about as big as a refrigerator today, sitting there in our garage among other things. It was really different.
