@@ -69,31 +69,32 @@ When I was about, actually I was 10, my cousin was with us, and we were playing 
 **07:03** - _Saron Yitbarek_
 
 In the 1970s, Lawson got himself a job at Fairchild Semiconductor working as a field applications engineer out in California. That basically meant he was a traveling troubleshooter for clients driving all over in an RV full of demo products. Lawson had other plans though. For starters, he became the only Black member of the famous Homebrew Computer Club where Steve Wozniak and Steve Jobs used to show off their latest ideas. More important than "the Steves", though, was the fact that Lawson began assembling the tools he needed to build something of his own.
-在1970年代的时候，Lawson 在加州的 Fairchild 半导体公司找到了一份工作，担任现场应用工程师。这基本上意味着，他得开着一辆装满演示产品的休闲车，到处奔波为他的客户们处理故障。然而，Lawson 有自己的计划。
+在1970年代的时候，Lawson 在加州的 Fairchild 半导体公司找到了一份工作，担任现场应用工程师。这基本上意味着，他得开着一辆装满演示产品的休闲车，到处奔波为他的客户们处理故障。然而，Lawson 有自己的计划。起先，他加入了著名的“自制电脑俱乐部”--就是那个史蒂夫·沃兹和乔布斯以前经常炫耀他们的最新创新的地方，成为了那个俱乐部唯一的黑人会员。最重要的是，和史蒂夫他们不同的是，Lawson 已经开始自制他创作时所需要的工具了。
 **07:40** - _Anderson Lawson_
 
 I guess, let me give you a breakdown of what a Saturday afternoon would be like with Jerry Lawson. I could spend 3 or 4 hours with him going to different electronic stores, and even flea markets looking for parts and things of that nature, or talking to people in the industry. His life was electronics, that's all he did—computers, electronics, computers, electronics, all day, every day. I mean, the man had a PDP-11 inside of the garage. So, if you know anything about computers, Digital Equipment Corporation put out that computer, and it was about as big as a refrigerator today, sitting there in our garage among other things. It was really different.
-
+我猜，让我来分解一下，一个星期六的下午 Jerry Lawson都在做些什么。我可以花3、4个小时陪他逛各种不同的电子商店，甚至到跳蚤市场挑选对应特征的东西和部件，和内行人进行交流。他的人生就是电子学。这就是他整天做的事情：电脑、电子、电脑、电子，整天、每天。我是说，这个家伙在车库里有一台PDP-11微型电脑。所以，如果你了解电脑，“数字设备公司“生产出那台电脑”，看起来足足有今天的电冰箱那么大，和其他东西一样，放在车库中，那看起来感觉真的很不一样。
 **08:29** - _Saron Yitbarek_
 
 Side note, when the team at DEC found out Lawson had a PDP-11, they paid for $10,000 in upgrades in exchange for access. And that garage became Lawson's place of Zen, sitting in the middle of it all surrounded by computers, manuals, capacitors, tapes spitting out of a printer and his young kids marveling at the magic machines. When Jerry Lawson came home after seeing Pong, he walked into that garage and began willing into being a game of his own, a coin-operated arcade cabinet he called Demolition Derby. Back to Anderson. So, he was doing all this building and creating all these games and electronics and all that on the side; he was still working at Fairchild full-time. So did his bosses find out, or how do they find out about his garage project?
-
+备注一下，但DEC的团队发现 Lawson 有一台 PDP-11，他们为了可以使用，支付了1万美元。那个车库变成了 Lawson 的禅宗之地，坐在那里被各种东西围绕在中间：电脑、手册、电容器、磁带从打印机吐出来、他的小孩们对那台“魔法”机器惊叹不已。当 Jerry Lawson 看到 《Pong》这个游戏回到家后，他走进那个车库，他开始愿意自己做一个自己的游戏，一个投币的街机游戏，他把它叫做“Demolition Derby”。我们回到 Anderson。那么，他一边做了这么多建设，建造所有这些游戏和电子器件，和相关的事情。然后他同时还在 Fairchild 全职上班。那么，他的老板有发现吗？ 或者，他们是怎么发现他的车库项目的？
 **09:23** - _Anderson Lawson_
 
 Yeah. So, someone got wind of that, and it got around. They said, "Hey, Lawson has a side project. He's been working on this game." And so, he got called into an office and was told about this skunkworks project that they had going on.
+是的。有人听到了风声，然后就传开了。他们说，“喂，Lawson有一个副业项目。他在做这个游戏。”因此，他被叫到办公室，然后他就被告知了公司正在做得一个实验室项目。
 
 **09:44** - _Saron Yitbarek_
 
 A gaming project, but Fairchild getting into gaming was a weird move. Fairchild was this dry, industrial semiconductor company. Journalist Jenny List from hackaday.com explains why it made sense.
-
+一个游戏项目。但是在当时看来， Fairchild 进入游戏行业是一个很反常的做法。Fairchild 只是个普通的，工业半导体公司。但是，记者 Jenny 却不这么认为，她在hackaday.com 上列出了她的理由。
 **09:59** - _Jenny List_
 
 They had a microprocessor system, and they were looking for markets for it, they were looking for things they could put it into. They saw consumer microprocessor products as an up-and-coming thing, and they weren't a gaming company, but there weren't any gaming companies because there wasn't really a games industry at the time. And the first semiconductor company to suddenly realize, here's a consumer business coming up, and we've got to be part of it, is actually quite an adventurous thing. And so, it must've been an absolute godsend for them to have, as I say, a very talented engineer who actually had some experience in it when probably few others did.
-
+他们有微处理器系统，而且他们正在寻找它的市场，他们正在寻找有什么可以放进他们的系统里。他们认为消费微处理器产品是未来的一个趋势，而且他们还不是游戏公司，不过当时也没有什么游戏公司，那个时候也还没有真正意义的游戏产业。而他们是第一家意识到，一个消费者商机正在出现，的半导体公司，而且他们决定进入这个领域，这在当时来说是一个挺大胆的举动。所以，刚好有一个非常有天赋的工程师，而且他还有别人少有的实际游戏开发经验，对他们来说，就像是一个天赐之物。
 **10:38** - _Saron Yitbarek_
 
 By this point, that coin-operated arcade game Lawson built in his garage, Demolition Derby, had been tested out at the local pizza parlor. It was living proof that a game could run on Fairchild's F8 microprocessor. The Fairchild execs were intrigued and invited him to make a home game system for the world. A chance to finally prove what he was capable of building.
-
+在那个时候，Lawson 在他的车库开发的投币的街机游戏，Demolition Derby，已经在当地的比萨餐厅店里接受过了考验。这是一个鲜活的证据，证明游戏可以运行在 Fairchild 公司的 F8 微处理器上。Fairchild 的高管对此非常感兴趣，并邀请 Lawson 为世人做一个家庭游戏系统，终于有一个机会可以让他证明他能做出什么。
 **11:04** - _Anderson Lawson_
 
 Well, he worked night and day with that.
