@@ -170,55 +170,57 @@ And we were surprised to discover Lawson even had a hand in creating Alcorn's ow
 **19:31** - _Al Alcorn_
 
 Yeah. Yeah. I mean, he was very helpful on parts that I was designing for the Pong game, certainly helping design the power supply, and then it had a score and that score was very difficult. How do you make numbers appear on the TV screen? It's an engineering challenge. And Jerry says, "All I've got, I've got this new part from Fairchild. It's a CMOS device, and it would put score digits up on the screen on a digital system like that. He gave me a few sample parts, and I hooked it up, and in fact the very first Pong prototype that is today in the Computer History Museum on display—it has those Fairchild parts in it.
-是。是。我的意思是说，在我为《Pong》游戏设计的一些部件上，他帮了不少忙，还帮忙设计供电电源，而且它获得的得分很不容易。你如何把数字显示在电视屏幕上？这是一个技术挑战。
+是。是。我的意思是说，在我为《Pong》游戏设计的一些部件上，他帮了不少忙，还帮忙设计供电电源，而且它获得的得分很不容易。你如何把数字显示在电视屏幕上？这是一个技术挑战。而且 Jerry 所，我这边呢，就只能从 Fairchild 弄到这个新部件。那是一个 CMOS 装置，可以在那样的数字系统中显示出数字分数。他给我一些样本部件，然后我把他们连通起来，事实上如今在电脑历史博物馆里面陈列的第一台《Pong》的原型，正是有他的那些 Fairchild 部件在里面。
 **20:20** - _Saron Yitbarek_
 
 The more we researched, the more Jerry Lawson's little known contributions grew in scope.
-
+我们研究的越多，就发现越多 Jerry Lawson 做出的大大小小的贡献。
 **20:26** - _Jeremy Saucier_
 
 I'm Jeremy Saucier, and I'm assistant vice-president for interpretation and electronic games at the Strong National Museum of Play.
-
+我是 Jeremy Saucier，我是Strong国家戏剧博物馆的翻译和电子游戏部的副主席助手。
 **20:35** - _Saron Yitbarek_
 
 Saucier says it's critically important to feature Lawson's work at his museum.
-
+Saucier 说把 Lawson 的作品在他们的博物馆作特别展示是非常重要的。
 **20:40** - _Jeremy Saucier_
 
 Here's someone whose story really hasn't been shared as widely as it should. Really one of the few Black engineers working in this area, certainly in the 1970s, and someone whose impact really in helping to create essentially a platform for what games would become. If we think about what video games were before the video game cartridge, before the interchangeable cartridge console, you had a lot of versions of Pong, a simple tennis game. You had some racing games. You had some other themed games, but they were generally on single systems where they were arcade games. And so, this was really, truly revolutionary.
+有这样一个人的历史没有得到应有的公开和广泛的认知。少有的在这个领域工作的黑人工程师之一，确实是1970年代，一个影响和帮助创造出一个未来游戏的平台的人。如果我们想象在插卡游戏出现之前视频游戏的样子，在可以切换插卡的游戏机之前，你有很多版本的《Pong》一个简单的打网球游戏。你有几个赛车游戏。你还有一些其他主题的游戏，但是他们都普遍的是在单系统的街机游戏中。所以，这个确实的，真正的是一个革新。
 
 **21:43** - _Saron Yitbarek_
 
 But you know, revolutions don't always benefit the first heroes through the gate.
-
+但是你知道，革新并不总是让第一个到达的英雄受益。
 **21:48** - _Jeremy Saucier_
 
 Initially, it's going to sell pretty well, a few hundred thousand units, but what you see over time is that it will be overshadowed.
-
+最初，它是会卖得很好的，大概几十万份，但是随着时间的推移，你会看到它渐渐黯然失色。
 **22:01** - _Commercial_
 
 Thanks anyway.
-
+不管怎样，谢谢。
 **22:03** - _Commercial_
 
 \[inaudible 00:22:03\] family bought an Atari video game—they had no trouble getting babysitters.
-
+家庭购买了一个 Atari 视频游戏，--他们请个保姆毫不费事。
 **22:08** - _Commercial_
 
 Hello. Kate. No, we don't need a babysitter tonight. Bye.
-
+你好，凯特。不，我们今晚不需要一个保姆，再见。
 **22:11** - _Commercial_
 
 Everybody enjoys Atari.
-
+所有人都喜欢 Atari。
 **22:13** - _Saron Yitbarek_
 
 Just a year after the Channel F was released, the Atari console arrived, selling millions. Key to Atari's success was their ability to take Lawson's philosophy and put it into action. Their focus was on the games themselves. Al Alcorn was with the company back then, and he remembers how Lawson's work paved the way to Atari's success.
+“Channel F”发布的一年后，Atari 游戏机发布了，卖了几百万份。Atari 成功的关键是他们能将 Lawson 的哲学付诸实践。他们专注于游戏本身。Al Alcorn 但是正好在那家公司，他记得 Lawson 的工作是如何为 Atari 的成功扫清了道路的。
 
 **22:36** - _Al Alcorn_
 
 We determined at Atari that clearly a cartridge-based game was the way to go, and Jerry had put one out well before us, and he's tackled some issues and problems with that and in our game, we were not going to architect it that way. We wanted to get the cost way down. There were too many chips in the Channel F Fairchild system, but it was interesting and very important because he blazed the trail. I mean, at that point when we're doing a cartridge-based game; we sure as hell couldn't say you can't make one because Jerry had done it and it was on the market. And the problem was that the product was a bit expensive because of all the parts that it used, and frankly, Fairchild was not very good at marketing a consumer product at that point in time. These were semiconductor companies.
-
+我们在 Atari 决定，很明显的插卡式游戏是我们要走的路，而且 Jerry 已经在我们之前发行了一款这样的游戏，而且他已经应付了那个游戏和我们的游戏会遇到的各种问题和困难，我们不会把游戏架构设计成他们那样，我们要把成本大大的降下来。Fairchild 的“Channel F”系统里有太多的芯片了，不过重要而有趣的是，他们已经为我们扫清了道路。我是说，在我们正准备作一个插卡式游戏的那个点上。我们当然不能说你不能再做这个，因为 Jerry 已经做了，而且他们的产品已经上市。问题是，那个产品因为用的那些部件，有点小贵。而且坦白地说，Fairchild 在那时并不擅长做消费产品的营销。他们是半导体公司。
 **23:35** - _Saron Yitbarek_
 
 When you bought an Atari, you got access to Space Invaders, Asteroids, Pac-Man. These were people who knew games. They also had third-party game developers like Activision to boost their catalog. The world Lawson helped to usher in, where game makers were king, ironically, spelled doom for a hardware company like Fairchild. Lawson's son Anderson has a great way of thinking about his father's legacy. Here's a bit more of our chat.
