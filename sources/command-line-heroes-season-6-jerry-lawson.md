@@ -94,81 +94,83 @@ They had a microprocessor system, and they were looking for markets for it, they
 **10:38** - _Saron Yitbarek_
 
 By this point, that coin-operated arcade game Lawson built in his garage, Demolition Derby, had been tested out at the local pizza parlor. It was living proof that a game could run on Fairchild's F8 microprocessor. The Fairchild execs were intrigued and invited him to make a home game system for the world. A chance to finally prove what he was capable of building.
-在那个时候，Lawson 在他的车库开发的投币的街机游戏，Demolition Derby，已经在当地的比萨餐厅店里接受过了考验。这是一个鲜活的证据，证明游戏可以运行在 Fairchild 公司的 F8 微处理器上。Fairchild 的高管对此非常感兴趣，并邀请 Lawson 为世人做一个家庭游戏系统，终于有一个机会可以让他证明他能做出什么。
+在那个时候，Lawson 在他的车库开发的投币的街机游戏，“Demolition Derby”，已经在当地的比萨餐厅店里接受过了考验。这是一个鲜活的证据，证明游戏可以运行在 Fairchild 公司的 F8 微处理器上。Fairchild 的高管对此非常感兴趣，并邀请 Lawson 为世人做一个家庭游戏系统，终于有一个机会可以让他证明他能做出什么。
 **11:04** - _Anderson Lawson_
 
 Well, he worked night and day with that.
-
+他没日没夜的投入到这个项目中。
 **11:08** - _Saron Yitbarek_
 
 Lawson left his “RV days” behind and became Director of Engineering and Marketing of Fairchild's brand new video game division. But what Jerry Lawson was about to build for Fairchild wasn't just a new game console, what Lawson was about to build for them was a game changer.
-
+Lawson 告别了他的“休闲车时光”，成了 Fairchild 新成立的视频游戏部门的技术及市场总监。但是，Jerry Lawson 将给 Fairchild 带来的不只是一台新的游戏机，他将带来的是完全的行业革新。
 In the early 1970s, a home video game console didn't offer you much. Some systems came with a vinyl overlay you would attach to your TV screen so that the same game would look different. Then there was the Magnavox Odyssey in 1972, which sort of used cartridges, but they had no memory of their own. They just reconfigured the console when you plugged them in. Those predecessors were super limited. The gameplay was limited. But two employees over at Alpex Computer Corporation, Wallace Kirschner and Lawrence Haskel, had cracked something new. They saw what Lawson saw, the potential of microprocessors to revolutionize the gaming industry. Tech historian Benj Edwards explains:
-
+在1970年代初，一个家庭游戏机做不了什么的。有的系统自带一块塑料贴膜，你可以贴在电视屏幕上，这样看起来同一款游戏显得有特色些。然后是1972年的 Magnavox Odyssey，他们用了盒式磁带，但他们没有自己的内存，他们只是在你插上游戏机的时候，做了下重新配置。这些前人的做法都很粗糙，可玩性也不怎么样。但是 Alpex 电脑公司的两名工程师， Wallace Kirschner 和 Lawrence Haskel，却打造出了新的东西。他们和 Lawson 一样，看到了微处理器将会给游戏产业带来的革命。技术史学家 Benj Edwards 这样解释道：
 **12:20** - _Benj Edwards_
 
 The guys at Alpex said, "Hey, we could do this with more intelligence. We can make it a software-based system." So they developed a prototype. The very primitive graphics, I think it was black and white at first in a very low resolution, that would hook to a TV set, and they could program it with software. They could make a simple game and play it on the screen, and then switch it out by loading a different program.
+那两个 Alpex 的工程师这么说：“喂，我们可以用更聪明的办法来做这个。我们可以做一个基于软件的系统。” 于是他们开发了一个原型。最原始的图像，我想是一开始是黑白的，分辨率非常低。然后可以接到电视机上，然后他们可以用软件对它进行编程。他们可以做个简单的游戏，然后在电视屏幕上玩，然后他们可以通过加载不同的程序来进行切换。
 
 **12:43** - _Saron Yitbarek_
 
 But things were still largely conceptual. Back then, removable storage devices meant magnetic, hard-drive disks or even paper tape. It would take several innovations to turn that idea into a consumer product.
+但是这些都还是停留在概念阶段。在但是，可移动存储设备意味着磁性材料，硬盘或者甚至纸质磁带。需要好几种创新才能把那个想法转变为实际的消费产品。
 
 **12:58** - _Benj Edwards_
 
 These guys thought, "Let's just take the EPROM chip that we're using for the development kit of the Intel processor they're using, and let's just put that in a box." So they put the chip on a board, a circuit board. They put the board in a box, and the box had a connector on it that had a more durable connector like a 25-pin D connector, so that they could plug that module into their game system and change games out. They could play that game, and unplug that box, plug in another one. And that was the first game cartridge prototype.
-
+这些人想，“就直接把他们在使用的Intel处理器的开发包中的 EPROM 芯片，拿来放到一个盒子里。”于是他们把芯片放进一块板子，一块电路板。再把板子放进盒子，盒子上有一个接口，是像25针的D接口一样的更耐用的接口，这样他们就可以把这个模块插入到他们的游戏系统，然后把游戏换出来。他们可以玩那个游戏，然后拔掉那个盒子，插入另一个盒子。而这就是第一个擦卡游戏的原型。
 **13:34** - _Saron Yitbarek_
 
 Kirschner and Haskel had the seed of something great, a computer-controlled game console with removable software cartridges, but it was a long way from becoming a durable product. That would be Lawson's job once Fairchild had licensed their work. The path from prototype to store shelf would be long and complicated. For starters, Lawson translated the hardware circuitry from the 8080 to Fairchild's own F8 chip. But meanwhile, fundamental questions were cropping up everywhere.
-
+Kirschner 和 Haskel 有了一个伟大创新的点子，一个由电脑控制的游戏机，和可插拔的软件卡带，但是距离成为可持续的产品还有很长一段路要走。一旦 Fairchild 获得了许可，那剩下的就都是 Lawson 的工作了。从原型到货架上的商品，这段路即长，又复杂。首先，Lawson 得将8080上的硬件电路翻译转换成 Fairchild 公司自己得 F8 芯片，但同时，基本性的问题又层出不穷。
 **14:06** - _Benj Edwards_
 
 How do you fit all this circuitry in a box that can sit on top of your TV set, and what does that box look like?
-
+你要如何把所有的电路都装进一个盒子，这盒子还得能够放在电视机上面，这盒子得长什么样？
 **14:14** - _Saron Yitbarek_
 
 Everything was a first. Kirschner and Haskell for example, had players using a keyboard to play their games. This was a computer-powered experience after all, why not use the computer as the normal interface? But Lawson was set on building a hybrid where microprocessors lived alongside the tactile experience of a joystick you'd find at the arcade, a joystick with 8 axes of movement.
-
+一切都是第一次。比如 Kirschner 和 Haskell，让玩家用键盘来玩他们的游戏。这毕竟还是基于电脑的游戏体验，为什么不直接用电脑来玩？而 Lawson 打算把街机里的摇杆--那种8轴的游戏杆，的那种触感，以及微处理器的技术，混合到一起。
 **14:40** - _Benj Edwards_
 
 So you could move your paddle around, up, down, left, right. You could twist the top of the joystick to rotate the paddle’s angle, and then you could move your goalie piece like a different player by pulling up and pushing down on the plunger of the joystick. And that was Jerry Lawson's creation—that idea.
-
+所以你就可以将你的游戏手柄上、下、左、右移动。你可以扭动游戏杆的顶部来旋转游戏手柄的角度，然后你可以通过拉起、压下游戏杆上的活塞，来像其他角色一样，移动你的守门员角色。而那个就是 Jerry Lawson 的创造，那个想法。
 **15:01** - _Saron Yitbarek_
 
 They also had to design a contact system between the cartridges pins and the console, an edge connector that wouldn't get wrecked after being rammed into the console thousands of times by some clumsy kid. And inventing something that could survive rough use was only half the battle, they also had to make it survive the regulators at the FCC. Lawson became famous for wrangling these technical issues. They encased the consoles motherboard in aluminum. They stopped leaking radiation by covering the cartridge adapter with a metal chute. Al Alcorn, the creator of Pong, walked us through the red tape.
-
+他们还不得不设计一个接口系统来连接插卡和游戏机，一个边缘接口，即使被那些笨拙的小孩塞进个几千次都不会坏的接口。发明一种能够扛得住粗暴使用的产品还只是成功的一半，它还的通过FCC的监管者的考验才能生存下来。Lawson 因为在这些技术问题上的辩论而出名。他们把游戏机的主板用铝包住。他们通过使用一个金属槽盖住插卡的接口来防止辐射。Al Alcorn，《Pong》游戏的创造者，给我们娓娓道来红磁带的经过。
 **15:42** - _Al Alcorn_
 
 The Federal Communications Commission said, "Wait a second, the FCC had to make regulations to limit the radiation of these new devices coming out so as not to interfere with other devices." And so, they made these regulations based on the only device that was out there at the time, which was the Magnavox Odyssey. And because it was an analog device, not digital, it had very little radiation inherently coming out of it. So the regulations were very strict and without getting too technical, frequencies like 10 megahertz the radiation limit was absurd—absurdly low. The regs were overly tight, it was very, very hard. To get approval, you had to make a prototype device and all the connectors, cables, everything, and physically bring it to the FCC offices in Maryland—and they had this big building there—and sit in the lobby and give them the product and hope for the best.
-
+联邦通讯委员会说：“等等，FCC 得制定一些规定来限制这些新的设备，防止它的辐射跟其他的设备相互影响。” 然后他们根据当时仅存的类似设备--Magnavox Odyssey，来制定这些规定。而因为 Magnavox Odyssey 是模拟信号设备，不是数字的，所以它本身几乎不会发出辐射。于是，制定出来的规定非常严格，而且不用讲太多技术细节，类似10MHZ的频率的辐射限制低得荒唐。要求太严苛，要获得牌照非常非常难。要获得许可，你的做一个原型设备，以及所有的连接器，线缆，所有的，然后亲自把它带到 FCC 在 Maryland 的办公室。他们把这个大家伙放那里，然后坐在大厅里，给他们那个产品，然后祈祷一切顺利。
 **16:48** - _Saron Yitbarek_
 
 To move things forward, Lawson pretty much camped out at the FCC's offices for days pushing for long-delayed approvals. You might've noticed that those were hardware problems Lawson was tackling, that's because gaming was still a hardware-first industry back then. The software-focused industry we know today was in fact the one Lawson was about to create. At last, it was ready for market. They called their machine the Channel F.
-
+为了取得进展，Lawson 基本上是在 FCC 的办公室安营扎寨了好多天，推动着这个延迟的许可。你可能已经意识到了，Lawson 在交涉的都是一些硬件问题，那是因为在当时，游戏还是在硬件的行业。我们现在所知道的软件行业，实际上就是 Lawson 正准备创造的。最终，产品准备可以发布到市场了。他们把它叫做“Channel F”。
 **17:22** - _Commercial_
 
 Channel F, the one with all the fun. The Fairchild video entertainment system, just $169.95. Video card cartridges $19.95 each.
-
+“Channel F”，是无穷乐趣的。Fairchild 的视频娱乐系统，只需要＄169.95美元。每个插卡19.95美元。
 **17:31** - _Saron Yitbarek_
 
 Channel F hit the shelves in late 1976, just in time for the Christmas rush. Most people didn't notice it was the world's first ROM-programmable video game, though. Its genius was its simplicity. You could use this fantastic software innovation without understanding it at all. These were programmable cartridges, each bearing a game of their own, that even a child can manipulate. There was Hockey, Space War, Blackjack, a whole catalog of programmable fun. It turned out, though, their innovation was a little too much for some.
-
+“Channel F”在1976年年底上架，正好赶上圣诞节。然而大部分人都没有意识到那是世界上的第一款 ROM 可编程的视频游戏。那些都是可编程的插卡，每个装着自己的游戏，就算一个小孩都懂得用。当时有“Hockey”、“Space war”、“Blackjack”，一大类可编程的乐趣。然而，现实是，他们的创新对于有的人来说有点太过了。
 Christmas morning, Lawson was at the office and got stuck answering the helpline. He found himself a troubleshooter once more, this time for the general public and they had plenty of questions. One customer had taken the console apart looking for batteries. Some kids had put grandpa's dentures in the machine thinking they'd show up on the television.
-
+圣诞节早晨，Lawson 在办公室里疲于接听热线电话。他发现自己有成了排除故障专家了，这次是面向大众，而且他们有一大堆的问题。一个客户把游戏机拆开寻找电池。一个小孩将他的奶奶的假牙放到机器里想让它在电视机上出现。
 We forget today how strange a cartridge system would have been when it first arrived, but for the few engineers tackling the problem of re-imagining the industry, his accomplishment was clear. Alcorn told us that Lawson had done something truly remarkable.
-
+今天我们已经忘了一个插卡系统第一次出现的时候是什么样奇怪的。当时对于少数的处理着重塑行业的问题的工程师，他的成就是很明显的。Alcorn 告诉我们 Lawson 已经做了一件很了不起的事情。
 **18:54** - _Al Alcorn_
 
 He really was a pioneer in coming up with a cartridge concept and built the first microprocessor-based video game system. To build the first video game, that's engineering, and that's what Jerry did. He certainly opened the door to a lot of what video games became by virtue of simply doing it, of making it work and making a credible system.
-
+构想出插卡的概念，然后创造出第一个微处理器视频游戏系统，这方面他真的是一个先驱者。创造第一个视频游戏，这是工程学，这就是 Jerry 做的。通过凭借自己的动手做，并且做成了一个难以置信的系统，他毫无疑问的打开了一扇通往许许多多未来视频游戏的大门。
 **19:24** - _Saron Yitbarek_
 
 And we were surprised to discover Lawson even had a hand in creating Alcorn's own breakthrough, Pong.
-
+我们来惊奇的发现，Lawson 甚至在 Alcorn 的重要突破，《Pong》上，也插了一手。
 **19:31** - _Al Alcorn_
 
 Yeah. Yeah. I mean, he was very helpful on parts that I was designing for the Pong game, certainly helping design the power supply, and then it had a score and that score was very difficult. How do you make numbers appear on the TV screen? It's an engineering challenge. And Jerry says, "All I've got, I've got this new part from Fairchild. It's a CMOS device, and it would put score digits up on the screen on a digital system like that. He gave me a few sample parts, and I hooked it up, and in fact the very first Pong prototype that is today in the Computer History Museum on display—it has those Fairchild parts in it.
-
+是。是。我的意思是说，在我为《Pong》游戏设计的一些部件上，他帮了不少忙，还帮忙设计供电电源，而且它获得的得分很不容易。你如何把数字显示在电视屏幕上？这是一个技术挑战。
 **20:20** - _Saron Yitbarek_
 
 The more we researched, the more Jerry Lawson's little known contributions grew in scope.
