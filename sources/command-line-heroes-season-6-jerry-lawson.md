@@ -1,5 +1,5 @@
 [#]: collector: (bestony)
-[#]: translator: (Amor Su)
+[#]: translator: (阿木)
 [#]: reviewer: ( )
 [#]: publisher: ( )
 [#]: url: ( )
@@ -7,12 +7,10 @@
 [#]: via: (https://www.redhat.com/en/command-line-heroes/season-6/jerry-lawson)
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
-Command Line Heroes: Season 6: Jerry Lawson
 《代码英雄》第六季：Jerry Lawson
 ======
 **00:00** - _Joseph Saulter_
 
-Jerry Lawson. I said, "Who is Jerry Lawson?"
 Jerry Lawson. 我说, "谁是 Jerry Lawson？"
 
 **00:05** - _Saron Yitbarek_
@@ -25,277 +23,214 @@ Jerry Lawson. 我说, "谁是 Jerry Lawson？"
 
 **00:35** - _Saron Yitbarek_
 
-Saulter was about to discover that the history of video games, the one he had in his head, needed to be rewritten, and when he realized why, Joseph Saulter broke down in tears. So, why did learning about Jerry Lawson mean so much? We're about to find out. I'm Saron Yitbarek and this is Command Line Heroes, an original podcast from Red Hat. In season 6 of Command Line Heroes we are getting personal. Learning about the lives, the motivations, and the extraordinary innovations that defined 8 powerful, but not quite famous, inventors—all of them integral to the advancement of tech in the 20th century and all of them less known than they should be. We are going to discover the man who brought PCs to IBM, the woman who helped put us all, literally, on the map and the man who made Silicon Valley more accessible for everyone. It's a whole new history celebrating Command Line Heroes who deserve a lot more credit. This time, it’s Jerry Lawson's turn.
 Joseph Saulter 将会发现，在他印象中的那段关于视频游戏的历史，将要被改写。而当他明白其中的原因的时候，Joseph Saulter顿时泪流满面。那么，为什么了解Jerry Lawson这么重要？我们将在接下来的节目中为大家揭晓。我是Saron Yitbarek，这是《代码英雄》，一个来自红帽公司的原创播客。在《代码英雄》的第六季，我们更关注个人。了解八个非常厉害的，但是不那么出名的发明家们，的生活、动机、不同寻常的创新。20世纪的技术进步离不开他们，但他们却都没有得到应有的关注。我们将会了解到那个把个人电脑带到IBM的人，那个把我们所有人都放在地图上（字面上的）的女人，以及那个所有人更容易接近硅谷的人。这是一个崭新的历史，庆祝着那些值得更多荣誉的代码英雄们。而这一次，轮到Jerry Lawson了。
 
-When Jerry Lawson came on the scene back in the early 70s, the few video game consoles available had a one-to-one ratio between machine and game. You'd lug home a console, plug it in and pretty much that was what you were playing. That one game they'd burned onto the machine's memory. The idea of snapping in the new Zelda and then trading that out for some Mario Kart, really the whole idea of a software-centered gaming industry, hadn't happened yet but it was coming. And that revolution started in the little beer-hall down in Sunnyvale, California.
 当1970年代的早期，Jerry Lawson登场的时候，那个时候仅有的一些视频游戏机，机器和游戏都是按照1比1的比例的。你拖回家一个游戏机，接上电源，然后这就是你能玩的唯一游戏了。这个游戏已经被刻录到游戏机的机器内存里面了。那种“插入那张新的《萨尔达传说》，玩腻后出手换个《马里奥赛车》”的想法，甚至那种“以软件为中心的游戏产业”的想法，都还没有出现，但是即将来临。而那种革新，在加利福利亚州的Sunnyvale的一个小酒馆里面，开始了。
 
-Jerry Lawson walked down El Camino and into Andy Cab's Tavern. A crowd was playing an arcade game, one of the first arcade games anywhere; it was Pong. Lawson was blown away for the first people to see video games come to life. That bouncing ball might as well have been Grand Theft Auto. Pretty soon Lawson got it into his head that he'd like to build a game too, but here's the thing you have to remember. Just a year earlier in 1971, Intel had released its 4004 microprocessor, the first commercially available microprocessor. And Lawson was convinced that he could use a microprocessor in the game he wanted to build. Only problem—that had never been done before. The machines being built back then all used dedicated logic circuitry. They were what you'd call a state machine. Code and computers weren't really what drove gaming back then. So Jerry Lawson's peers told him that just wouldn't work. It couldn't be done.
 Jerry Lawson 走到 El Camino 然后进入 Andy Cab 酒馆。 一群人正在玩一个街机游戏。那是最早开始风靡起来的游戏之一。叫做《Pong》。Lawson 是第一次看到视频游戏的出现，他被震惊到了。那个弹跳的球也可能就像《侠盗猎车手》。很快的，Lawson 在脑中有一个念头，他也想自己开发个游戏。但是有一些事情需要提醒你一下。早在1971年的一年前，Intel 发布了它的 4004 微处理器，第一个商业化的微处理器。而 Lawson 相信，自己可以给自己想开发的游戏使用一个微处理器。唯一的问题是，以前从来没人做过这种事情。当时生产的机器都是使用了指定的逻辑电路。那种机器又叫“状态机”。当时，游戏的发展还不是依靠代码和计算机。所以，Jerry Lawson 的同僚都告诉他，这个是不可能的。
-Luckily, Lawson was used to getting done what other people called impossible. He was used to being underestimated. In fact, being underestimated ran in the family. Lawson's grandpa dreamed of being a physicist, but that was decades before the Civil Rights Act of 1964 and being Black, he could only get work at the post office. Raised in Queens in the 1950s, options were still limited for Lawson, but his mom was determined that her son would have a different fate. She watched young Jerry build ham radios, watched him make his own walkie talkies, watched him repair TVs. So she decided to drive her son each day into a white neighborhood where they had better schools. She even became president of its PTA. I wanted to know how what kind of history shapes the family, shapes their ambitions, so we tracked down the perfect person to ask.
+
 不过幸运的是，Lawson 已经习惯于做到别人认为不可能的事情。他已经习惯于被人低估。事实上，被低估贯穿着他的整个家庭。Lawson 的祖父梦想成为一名物理学家，但那还是1964年《民权法案》颁布前几十年，而作为黑人，他祖父只能在邮政局上班。1950年代在 Queens 长大的 Lawson，还是没有太多的选择的余地，当时他妈妈决心让他儿子有一个不一样的命运。她看着年轻的 Jerry Lawson 搞业余无线电。看着他做自己的无线对讲机，看着他修电视机。因此，她决定载着她儿子每天到临近的白人区上更好的学校。她甚至当上了家庭教师协会的主席。我想知道，是什么样的历史塑造了这个家庭，塑造了他们的雄心，因此我们找到了回答这个问题的完美人选。
 
 **04:45** - _Anderson Lawson_
 
-Hi, my name is Anderson Lawson. I'm the son of Gerald Anderson Lawson.
 大家好，我是 Anderson Lawson 。我是 Gerald Anderson Lawson 的儿子。
 **04:49** - _Saron Yitbarek_
 
-So I imagine when it comes to the career aspirations of your great-grandfather and those people who came before you, I imagine racism probably had a huge effect on their goals, on their aspirations.
 那么，我可以想象，说到你的曾祖父和那些在你之前的人的职业抱负，我可以想象种族主义可能对他们的职业目标会有巨大的影响。
 
 **05:01** - _Anderson Lawson_
 
-I know that he wanted to be—I want to say a physics teacher—and at the time, he wasn't seen as fit for that role and actually became a mailman. Now that's a stretch, right? But, I think we've come a long way, but we've still got a long way to go.
 我知道他想成为，可以说是一名物理教师，但是这在当时，他被认为不适合那个职业，于是成了一名邮递员。如今已经大有改观了，对吧？但是我觉得这一路走来挺不容易的，而且我们还有很长的路要走。
 **05:22** - _Saron Yitbarek_
 
-And how did that story of your great-grandfather influence your father's own pursuits?
 那么，你曾祖父的故事是如何影响到你父亲自己的追求的呢？
 **05:28** - _Anderson Lawson_
 
-You know, I really don't know because my father was so, his attitude, he was so freaking stubborn for the lack of a better term. He was the type of person where if—no matter what's going on—if somebody just said, "Hey, you're not able to do that," he would have found a way. He was different in that way, and it was more to spite the person that said that than anything else.
 我实在不知道，因为我父亲，他的态度，除了“顽固”没有更好的词来形容。他是那种，无论是在什么情况下，只要有人说：“嘿，你是做不到那个的。” 那么，他就总会找到解决的办法。他在这方面很不一样，因为对他说那句话比任何语言都更加惹恼他。
 **05:57** - _Saron Yitbarek_
 
-That determination to build his own reality, to literally craft it with his own hands, was something Lawson passed on to his children.
 创建自己的现实的决心，完完全全的靠自己双手来创造，是 Lawson 传给他的后人的一种品质。
 
 **06:08** - _Anderson Lawson_
 
-When I was about, actually I was 10, my cousin was with us, and we were playing games. And I guess my father had enough of seeing us play the video game for the day, so he goes into the garage and he comes back out. He shuts off the game and he doesn't let us play anymore. And he takes a book and throws it onto the counter, and it is 101 Basic Video Games. And he's like, "If you're going to play games, you better learn how to make them," and walked away. He set up an IBM, a portable IBM computer, in the room and said, "Figure it out." Turned it on. Now we're kids, we have to figure out how to get in, log in, find the basic compiler and start making games, but we did it!
 但我大概，实际上是10岁的时候，我的堂兄弟和我们一起玩着游戏。然后我估计我父亲是已经看够了我们一天到晚玩这个视频游戏，于是他走进车库里，然后回来。他把游戏关掉，不让我们再继续玩。然后他拿起一本书扔到柜台上，那是一本《基础视频游戏入门》的书。他的意思大概是说：“如果你想玩游戏，你最好学习怎么创建它们”。然后就走掉了。他在房间里搭起了一台IBM，一台移动的 IBM 电脑，然后说，“你看着办吧！”，然后开机。我们当时只是小孩，我们不得不搞明白如何进入系统，如何登陆，如何找到基本的编译器，然后开始创建游戏，但是，我们做到了！
 **07:03** - _Saron Yitbarek_
 
-In the 1970s, Lawson got himself a job at Fairchild Semiconductor working as a field applications engineer out in California. That basically meant he was a traveling troubleshooter for clients driving all over in an RV full of demo products. Lawson had other plans though. For starters, he became the only Black member of the famous Homebrew Computer Club where Steve Wozniak and Steve Jobs used to show off their latest ideas. More important than "the Steves", though, was the fact that Lawson began assembling the tools he needed to build something of his own.
 在1970年代的时候，Lawson 在加州的 Fairchild 半导体公司找到了一份工作，担任现场应用工程师。这基本上意味着，他得开着一辆装满演示产品的休闲车，到处奔波为他的客户们处理故障。然而，Lawson 有自己的计划。起先，他加入了著名的“自制电脑俱乐部”--就是那个史蒂夫·沃兹和乔布斯以前经常炫耀他们的最新创新的地方，成为了那个俱乐部唯一的黑人会员。最重要的是，和史蒂夫他们不同的是，Lawson 已经开始自制他创作时所需要的工具了。
 **07:40** - _Anderson Lawson_
 
-I guess, let me give you a breakdown of what a Saturday afternoon would be like with Jerry Lawson. I could spend 3 or 4 hours with him going to different electronic stores, and even flea markets looking for parts and things of that nature, or talking to people in the industry. His life was electronics, that's all he did—computers, electronics, computers, electronics, all day, every day. I mean, the man had a PDP-11 inside of the garage. So, if you know anything about computers, Digital Equipment Corporation put out that computer, and it was about as big as a refrigerator today, sitting there in our garage among other things. It was really different.
 我猜，让我来分解一下，一个星期六的下午 Jerry Lawson都在做些什么。我可以花3、4个小时陪他逛各种不同的电子商店，甚至到跳蚤市场挑选对应特征的东西和部件，和内行人进行交流。他的人生就是电子学。这就是他整天做的事情：电脑、电子、电脑、电子，整天、每天。我是说，这个家伙在车库里有一台PDP-11微型电脑。所以，如果你了解电脑，“数字设备公司“生产出那台电脑”，看起来足足有今天的电冰箱那么大，和其他东西一样，放在车库中，那看起来感觉真的很不一样。
 **08:29** - _Saron Yitbarek_
 
-Side note, when the team at DEC found out Lawson had a PDP-11, they paid for $10,000 in upgrades in exchange for access. And that garage became Lawson's place of Zen, sitting in the middle of it all surrounded by computers, manuals, capacitors, tapes spitting out of a printer and his young kids marveling at the magic machines. When Jerry Lawson came home after seeing Pong, he walked into that garage and began willing into being a game of his own, a coin-operated arcade cabinet he called Demolition Derby. Back to Anderson. So, he was doing all this building and creating all these games and electronics and all that on the side; he was still working at Fairchild full-time. So did his bosses find out, or how do they find out about his garage project?
 备注一下，但DEC的团队发现 Lawson 有一台 PDP-11，他们为了可以使用，支付了1万美元。那个车库变成了 Lawson 的禅宗之地，坐在那里被各种东西围绕在中间：电脑、手册、电容器、磁带从打印机吐出来、他的小孩们对那台“魔法”机器惊叹不已。当 Jerry Lawson 看到 《Pong》这个游戏回到家后，他走进那个车库，他开始愿意自己做一个自己的游戏，一个投币的街机游戏，他把它叫做“Demolition Derby”。我们回到 Anderson。那么，他一边做了这么多建设，建造所有这些游戏和电子器件，和相关的事情。然后他同时还在 Fairchild 全职上班。那么，他的老板有发现吗？ 或者，他们是怎么发现他的车库项目的？
 **09:23** - _Anderson Lawson_
 
-Yeah. So, someone got wind of that, and it got around. They said, "Hey, Lawson has a side project. He's been working on this game." And so, he got called into an office and was told about this skunkworks project that they had going on.
 是的。有人听到了风声，然后就传开了。他们说，“喂，Lawson有一个副业项目。他在做这个游戏。”因此，他被叫到办公室，然后他就被告知了公司正在做得一个实验室项目。
 
 **09:44** - _Saron Yitbarek_
 
-A gaming project, but Fairchild getting into gaming was a weird move. Fairchild was this dry, industrial semiconductor company. Journalist Jenny List from hackaday.com explains why it made sense.
 一个游戏项目。但是在当时看来， Fairchild 进入游戏行业是一个很反常的做法。Fairchild 只是个普通的，工业半导体公司。但是，记者 Jenny 却不这么认为，她在hackaday.com 上列出了她的理由。
 **09:59** - _Jenny List_
 
-They had a microprocessor system, and they were looking for markets for it, they were looking for things they could put it into. They saw consumer microprocessor products as an up-and-coming thing, and they weren't a gaming company, but there weren't any gaming companies because there wasn't really a games industry at the time. And the first semiconductor company to suddenly realize, here's a consumer business coming up, and we've got to be part of it, is actually quite an adventurous thing. And so, it must've been an absolute godsend for them to have, as I say, a very talented engineer who actually had some experience in it when probably few others did.
 他们有微处理器系统，而且他们正在寻找它的市场，他们正在寻找有什么可以放进他们的系统里。他们认为消费微处理器产品是未来的一个趋势，而且他们还不是游戏公司，不过当时也没有什么游戏公司，那个时候也还没有真正意义的游戏产业。而他们是第一家意识到，一个消费者商机正在出现，的半导体公司，而且他们决定进入这个领域，这在当时来说是一个挺大胆的举动。所以，刚好有一个非常有天赋的工程师，而且他还有别人少有的实际游戏开发经验，对他们来说，就像是一个天赐之物。
 **10:38** - _Saron Yitbarek_
 
-By this point, that coin-operated arcade game Lawson built in his garage, Demolition Derby, had been tested out at the local pizza parlor. It was living proof that a game could run on Fairchild's F8 microprocessor. The Fairchild execs were intrigued and invited him to make a home game system for the world. A chance to finally prove what he was capable of building.
 在那个时候，Lawson 在他的车库开发的投币的街机游戏，“Demolition Derby”，已经在当地的比萨餐厅店里接受过了考验。这是一个鲜活的证据，证明游戏可以运行在 Fairchild 公司的 F8 微处理器上。Fairchild 的高管对此非常感兴趣，并邀请 Lawson 为世人做一个家庭游戏系统，终于有一个机会可以让他证明他能做出什么。
 **11:04** - _Anderson Lawson_
 
-Well, he worked night and day with that.
 他没日没夜的投入到这个项目中。
 **11:08** - _Saron Yitbarek_
 
-Lawson left his “RV days” behind and became Director of Engineering and Marketing of Fairchild's brand new video game division. But what Jerry Lawson was about to build for Fairchild wasn't just a new game console, what Lawson was about to build for them was a game changer.
 Lawson 告别了他的“休闲车时光”，成了 Fairchild 新成立的视频游戏部门的技术及市场总监。但是，Jerry Lawson 将给 Fairchild 带来的不只是一台新的游戏机，他将带来的是完全的行业革新。
-In the early 1970s, a home video game console didn't offer you much. Some systems came with a vinyl overlay you would attach to your TV screen so that the same game would look different. Then there was the Magnavox Odyssey in 1972, which sort of used cartridges, but they had no memory of their own. They just reconfigured the console when you plugged them in. Those predecessors were super limited. The gameplay was limited. But two employees over at Alpex Computer Corporation, Wallace Kirschner and Lawrence Haskel, had cracked something new. They saw what Lawson saw, the potential of microprocessors to revolutionize the gaming industry. Tech historian Benj Edwards explains:
+
 在1970年代初，一个家庭游戏机做不了什么的。有的系统自带一块塑料贴膜，你可以贴在电视屏幕上，这样看起来同一款游戏显得有特色些。然后是1972年的 Magnavox Odyssey，他们用了盒式磁带，但他们没有自己的内存，他们只是在你插上游戏机的时候，做了下重新配置。这些前人的做法都很粗糙，可玩性也不怎么样。但是 Alpex 电脑公司的两名工程师， Wallace Kirschner 和 Lawrence Haskel，却打造出了新的东西。他们和 Lawson 一样，看到了微处理器将会给游戏产业带来的革命。技术史学家 Benj Edwards 这样解释道：
 **12:20** - _Benj Edwards_
 
-The guys at Alpex said, "Hey, we could do this with more intelligence. We can make it a software-based system." So they developed a prototype. The very primitive graphics, I think it was black and white at first in a very low resolution, that would hook to a TV set, and they could program it with software. They could make a simple game and play it on the screen, and then switch it out by loading a different program.
 那两个 Alpex 的工程师这么说：“喂，我们可以用更聪明的办法来做这个。我们可以做一个基于软件的系统。” 于是他们开发了一个原型。最原始的图像，我想是一开始是黑白的，分辨率非常低。然后可以接到电视机上，然后他们可以用软件对它进行编程。他们可以做个简单的游戏，然后在电视屏幕上玩，然后他们可以通过加载不同的程序来进行切换。
 
 **12:43** - _Saron Yitbarek_
 
-But things were still largely conceptual. Back then, removable storage devices meant magnetic, hard-drive disks or even paper tape. It would take several innovations to turn that idea into a consumer product.
 但是这些都还是停留在概念阶段。在但是，可移动存储设备意味着磁性材料，硬盘或者甚至纸质磁带。需要好几种创新才能把那个想法转变为实际的消费产品。
 
 **12:58** - _Benj Edwards_
 
-These guys thought, "Let's just take the EPROM chip that we're using for the development kit of the Intel processor they're using, and let's just put that in a box." So they put the chip on a board, a circuit board. They put the board in a box, and the box had a connector on it that had a more durable connector like a 25-pin D connector, so that they could plug that module into their game system and change games out. They could play that game, and unplug that box, plug in another one. And that was the first game cartridge prototype.
 这些人想，“就直接把他们在使用的Intel处理器的开发包中的 EPROM 芯片，拿来放到一个盒子里。”于是他们把芯片放进一块板子，一块电路板。再把板子放进盒子，盒子上有一个接口，是像25针的D接口一样的更耐用的接口，这样他们就可以把这个模块插入到他们的游戏系统，然后把游戏换出来。他们可以玩那个游戏，然后拔掉那个盒子，插入另一个盒子。而这就是第一个擦卡游戏的原型。
 **13:34** - _Saron Yitbarek_
 
-Kirschner and Haskel had the seed of something great, a computer-controlled game console with removable software cartridges, but it was a long way from becoming a durable product. That would be Lawson's job once Fairchild had licensed their work. The path from prototype to store shelf would be long and complicated. For starters, Lawson translated the hardware circuitry from the 8080 to Fairchild's own F8 chip. But meanwhile, fundamental questions were cropping up everywhere.
 Kirschner 和 Haskel 有了一个伟大创新的点子，一个由电脑控制的游戏机，和可插拔的软件卡带，但是距离成为可持续的产品还有很长一段路要走。一旦 Fairchild 获得了许可，那剩下的就都是 Lawson 的工作了。从原型到货架上的商品，这段路即长，又复杂。首先，Lawson 得将8080上的硬件电路翻译转换成 Fairchild 公司自己得 F8 芯片，但同时，基本性的问题又层出不穷。
 **14:06** - _Benj Edwards_
 
-How do you fit all this circuitry in a box that can sit on top of your TV set, and what does that box look like?
 你要如何把所有的电路都装进一个盒子，这盒子还得能够放在电视机上面，这盒子得长什么样？
 **14:14** - _Saron Yitbarek_
 
-Everything was a first. Kirschner and Haskell for example, had players using a keyboard to play their games. This was a computer-powered experience after all, why not use the computer as the normal interface? But Lawson was set on building a hybrid where microprocessors lived alongside the tactile experience of a joystick you'd find at the arcade, a joystick with 8 axes of movement.
 一切都是第一次。比如 Kirschner 和 Haskell，让玩家用键盘来玩他们的游戏。这毕竟还是基于电脑的游戏体验，为什么不直接用电脑来玩？而 Lawson 打算把街机里的摇杆--那种8轴的游戏杆，的那种触感，以及微处理器的技术，混合到一起。
 **14:40** - _Benj Edwards_
 
-So you could move your paddle around, up, down, left, right. You could twist the top of the joystick to rotate the paddle’s angle, and then you could move your goalie piece like a different player by pulling up and pushing down on the plunger of the joystick. And that was Jerry Lawson's creation—that idea.
 所以你就可以将你的游戏手柄上、下、左、右移动。你可以扭动游戏杆的顶部来旋转游戏手柄的角度，然后你可以通过拉起、压下游戏杆上的活塞，来像其他角色一样，移动你的守门员角色。而那个就是 Jerry Lawson 的创造，那个想法。
 **15:01** - _Saron Yitbarek_
 
-They also had to design a contact system between the cartridges pins and the console, an edge connector that wouldn't get wrecked after being rammed into the console thousands of times by some clumsy kid. And inventing something that could survive rough use was only half the battle, they also had to make it survive the regulators at the FCC. Lawson became famous for wrangling these technical issues. They encased the consoles motherboard in aluminum. They stopped leaking radiation by covering the cartridge adapter with a metal chute. Al Alcorn, the creator of Pong, walked us through the red tape.
 他们还不得不设计一个接口系统来连接插卡和游戏机，一个边缘接口，即使被那些笨拙的小孩塞进个几千次都不会坏的接口。发明一种能够扛得住粗暴使用的产品还只是成功的一半，它还的通过FCC的监管者的考验才能生存下来。Lawson 因为在这些技术问题上的辩论而出名。他们把游戏机的主板用铝包住。他们通过使用一个金属槽盖住插卡的接口来防止辐射。Al Alcorn，《Pong》游戏的创造者，给我们娓娓道来红磁带的经过。
 **15:42** - _Al Alcorn_
 
-The Federal Communications Commission said, "Wait a second, the FCC had to make regulations to limit the radiation of these new devices coming out so as not to interfere with other devices." And so, they made these regulations based on the only device that was out there at the time, which was the Magnavox Odyssey. And because it was an analog device, not digital, it had very little radiation inherently coming out of it. So the regulations were very strict and without getting too technical, frequencies like 10 megahertz the radiation limit was absurd—absurdly low. The regs were overly tight, it was very, very hard. To get approval, you had to make a prototype device and all the connectors, cables, everything, and physically bring it to the FCC offices in Maryland—and they had this big building there—and sit in the lobby and give them the product and hope for the best.
 联邦通讯委员会说：“等等，FCC 得制定一些规定来限制这些新的设备，防止它的辐射跟其他的设备相互影响。” 然后他们根据当时仅存的类似设备--Magnavox Odyssey，来制定这些规定。而因为 Magnavox Odyssey 是模拟信号设备，不是数字的，所以它本身几乎不会发出辐射。于是，制定出来的规定非常严格，而且不用讲太多技术细节，类似10MHZ的频率的辐射限制低得荒唐。要求太严苛，要获得牌照非常非常难。要获得许可，你的做一个原型设备，以及所有的连接器，线缆，所有的，然后亲自把它带到 FCC 在 Maryland 的办公室。他们把这个大家伙放那里，然后坐在大厅里，给他们那个产品，然后祈祷一切顺利。
 **16:48** - _Saron Yitbarek_
 
-To move things forward, Lawson pretty much camped out at the FCC's offices for days pushing for long-delayed approvals. You might've noticed that those were hardware problems Lawson was tackling, that's because gaming was still a hardware-first industry back then. The software-focused industry we know today was in fact the one Lawson was about to create. At last, it was ready for market. They called their machine the Channel F.
 为了取得进展，Lawson 基本上是在 FCC 的办公室安营扎寨了好多天，推动着这个延迟的许可。你可能已经意识到了，Lawson 在交涉的都是一些硬件问题，那是因为在当时，游戏还是在硬件的行业。我们现在所知道的软件行业，实际上就是 Lawson 正准备创造的。最终，产品准备可以发布到市场了。他们把它叫做“Channel F”。
 **17:22** - _Commercial_
 
-Channel F, the one with all the fun. The Fairchild video entertainment system, just $169.95. Video card cartridges $19.95 each.
 “Channel F”，是无穷乐趣的。Fairchild 的视频娱乐系统，只需要＄169.95美元。每个插卡19.95美元。
 **17:31** - _Saron Yitbarek_
 
-Channel F hit the shelves in late 1976, just in time for the Christmas rush. Most people didn't notice it was the world's first ROM-programmable video game, though. Its genius was its simplicity. You could use this fantastic software innovation without understanding it at all. These were programmable cartridges, each bearing a game of their own, that even a child can manipulate. There was Hockey, Space War, Blackjack, a whole catalog of programmable fun. It turned out, though, their innovation was a little too much for some.
 “Channel F”在1976年年底上架，正好赶上圣诞节。然而大部分人都没有意识到那是世界上的第一款 ROM 可编程的视频游戏。那些都是可编程的插卡，每个装着自己的游戏，就算一个小孩都懂得用。当时有“Hockey”、“Space war”、“Blackjack”，一大类可编程的乐趣。然而，现实是，他们的创新对于有的人来说有点太过了。
-Christmas morning, Lawson was at the office and got stuck answering the helpline. He found himself a troubleshooter once more, this time for the general public and they had plenty of questions. One customer had taken the console apart looking for batteries. Some kids had put grandpa's dentures in the machine thinking they'd show up on the television.
+
 圣诞节早晨，Lawson 在办公室里疲于接听热线电话。他发现自己有成了排除故障专家了，这次是面向大众，而且他们有一大堆的问题。一个客户把游戏机拆开寻找电池。一个小孩将他的奶奶的假牙放到机器里想让它在电视机上出现。
-We forget today how strange a cartridge system would have been when it first arrived, but for the few engineers tackling the problem of re-imagining the industry, his accomplishment was clear. Alcorn told us that Lawson had done something truly remarkable.
+
 今天我们已经忘了一个插卡系统第一次出现的时候是什么样奇怪的。当时对于少数的处理着重塑行业的问题的工程师，他的成就是很明显的。Alcorn 告诉我们 Lawson 已经做了一件很了不起的事情。
 **18:54** - _Al Alcorn_
 
-He really was a pioneer in coming up with a cartridge concept and built the first microprocessor-based video game system. To build the first video game, that's engineering, and that's what Jerry did. He certainly opened the door to a lot of what video games became by virtue of simply doing it, of making it work and making a credible system.
 构想出插卡的概念，然后创造出第一个微处理器视频游戏系统，这方面他真的是一个先驱者。创造第一个视频游戏，这是工程学，这就是 Jerry 做的。通过凭借自己的动手做，并且做成了一个难以置信的系统，他毫无疑问的打开了一扇通往许许多多未来视频游戏的大门。
 **19:24** - _Saron Yitbarek_
 
-And we were surprised to discover Lawson even had a hand in creating Alcorn's own breakthrough, Pong.
 我们来惊奇的发现，Lawson 甚至在 Alcorn 的重要突破，《Pong》上，也插了一手。
 **19:31** - _Al Alcorn_
 
-Yeah. Yeah. I mean, he was very helpful on parts that I was designing for the Pong game, certainly helping design the power supply, and then it had a score and that score was very difficult. How do you make numbers appear on the TV screen? It's an engineering challenge. And Jerry says, "All I've got, I've got this new part from Fairchild. It's a CMOS device, and it would put score digits up on the screen on a digital system like that. He gave me a few sample parts, and I hooked it up, and in fact the very first Pong prototype that is today in the Computer History Museum on display—it has those Fairchild parts in it.
 是。是。我的意思是说，在我为《Pong》游戏设计的一些部件上，他帮了不少忙，还帮忙设计供电电源，而且它获得的得分很不容易。你如何把数字显示在电视屏幕上？这是一个技术挑战。而且 Jerry 所，我这边呢，就只能从 Fairchild 弄到这个新部件。那是一个 CMOS 装置，可以在那样的数字系统中显示出数字分数。他给我一些样本部件，然后我把他们连通起来，事实上如今在电脑历史博物馆里面陈列的第一台《Pong》的原型，正是有他的那些 Fairchild 部件在里面。
 **20:20** - _Saron Yitbarek_
 
-The more we researched, the more Jerry Lawson's little known contributions grew in scope.
 我们研究的越多，就发现越多 Jerry Lawson 做出的大大小小的贡献。
 **20:26** - _Jeremy Saucier_
 
-I'm Jeremy Saucier, and I'm assistant vice-president for interpretation and electronic games at the Strong National Museum of Play.
 我是 Jeremy Saucier，我是Strong国家戏剧博物馆的翻译和电子游戏部的副主席助手。
 **20:35** - _Saron Yitbarek_
 
-Saucier says it's critically important to feature Lawson's work at his museum.
 Saucier 说把 Lawson 的作品在他们的博物馆作特别展示是非常重要的。
 **20:40** - _Jeremy Saucier_
 
-Here's someone whose story really hasn't been shared as widely as it should. Really one of the few Black engineers working in this area, certainly in the 1970s, and someone whose impact really in helping to create essentially a platform for what games would become. If we think about what video games were before the video game cartridge, before the interchangeable cartridge console, you had a lot of versions of Pong, a simple tennis game. You had some racing games. You had some other themed games, but they were generally on single systems where they were arcade games. And so, this was really, truly revolutionary.
 有这样一个人的历史没有得到应有的公开和广泛的认知。少有的在这个领域工作的黑人工程师之一，确实是1970年代，一个影响和帮助创造出一个未来游戏的平台的人。如果我们想象在插卡游戏出现之前视频游戏的样子，在可以切换插卡的游戏机之前，你有很多版本的《Pong》一个简单的打网球游戏。你有几个赛车游戏。你还有一些其他主题的游戏，但是他们都普遍的是在单系统的街机游戏中。所以，这个确实的，真正的是一个革新。
 
 **21:43** - _Saron Yitbarek_
 
-But you know, revolutions don't always benefit the first heroes through the gate.
 但是你知道，革新并不总是让第一个到达的英雄受益。
 **21:48** - _Jeremy Saucier_
 
-Initially, it's going to sell pretty well, a few hundred thousand units, but what you see over time is that it will be overshadowed.
 最初，它是会卖得很好的，大概几十万份，但是随着时间的推移，你会看到它渐渐黯然失色。
 **22:01** - _Commercial_
 
-Thanks anyway.
 不管怎样，谢谢。
 **22:03** - _Commercial_
 
-\[inaudible 00:22:03\] family bought an Atari video game—they had no trouble getting babysitters.
-家庭购买了一个 Atari 视频游戏，--他们请个保姆毫不费事。
+\[inaudible 00:22:03\] 家庭购买了一个 Atari 视频游戏，--他们请个保姆毫不费事。
 **22:08** - _Commercial_
 
-Hello. Kate. No, we don't need a babysitter tonight. Bye.
 你好，凯特。不，我们今晚不需要一个保姆，再见。
 **22:11** - _Commercial_
 
-Everybody enjoys Atari.
 所有人都喜欢 Atari。
 **22:13** - _Saron Yitbarek_
 
-Just a year after the Channel F was released, the Atari console arrived, selling millions. Key to Atari's success was their ability to take Lawson's philosophy and put it into action. Their focus was on the games themselves. Al Alcorn was with the company back then, and he remembers how Lawson's work paved the way to Atari's success.
 “Channel F”发布的一年后，Atari 游戏机发布了，卖了几百万份。Atari 成功的关键是他们能将 Lawson 的哲学付诸实践。他们专注于游戏本身。Al Alcorn 但是正好在那家公司，他记得 Lawson 的工作是如何为 Atari 的成功扫清了道路的。
 
 **22:36** - _Al Alcorn_
 
-We determined at Atari that clearly a cartridge-based game was the way to go, and Jerry had put one out well before us, and he's tackled some issues and problems with that and in our game, we were not going to architect it that way. We wanted to get the cost way down. There were too many chips in the Channel F Fairchild system, but it was interesting and very important because he blazed the trail. I mean, at that point when we're doing a cartridge-based game; we sure as hell couldn't say you can't make one because Jerry had done it and it was on the market. And the problem was that the product was a bit expensive because of all the parts that it used, and frankly, Fairchild was not very good at marketing a consumer product at that point in time. These were semiconductor companies.
 我们在 Atari 决定，很明显的插卡式游戏是我们要走的路，而且 Jerry 已经在我们之前发行了一款这样的游戏，而且他已经应付了那个游戏和我们的游戏会遇到的各种问题和困难，我们不会把游戏架构设计成他们那样，我们要把成本大大的降下来。Fairchild 的“Channel F”系统里有太多的芯片了，不过重要而有趣的是，他们已经为我们扫清了道路。我是说，在我们正准备作一个插卡式游戏的那个点上。我们当然不能说你不能再做这个，因为 Jerry 已经做了，而且他们的产品已经上市。问题是，那个产品因为用的那些部件，有点小贵。而且坦白地说，Fairchild 在那时并不擅长做消费产品的营销。他们是半导体公司。
 **23:35** - _Saron Yitbarek_
 
-When you bought an Atari, you got access to Space Invaders, Asteroids, Pac-Man. These were people who knew games. They also had third-party game developers like Activision to boost their catalog. The world Lawson helped to usher in, where game makers were king, ironically, spelled doom for a hardware company like Fairchild. Lawson's son Anderson has a great way of thinking about his father's legacy. Here's a bit more of our chat.
 如果你买了一个 Atari，你就可以玩《Space Invaders》、《Asteroids》、《Pac-Man》。他们都是真正了解游戏的人。他们还有第三方游戏开发商比如 Activision，来帮他们开发游戏，扩展他们的游戏版图。在这个 Lawson 开创出来的世界里，游戏开发商是王者，而讽刺的是，像 Fairchild 这样的硬件公司却难逃厄运。Lawson 的儿子 Anderson 用一种很好的方式来表述他父亲的传奇，以下是我们的更多交谈。
-So, when you think about the gaming industry after the Channel F console, what impact do you think that console had made?
+
 那么，你觉得，在“Channel F”游戏机发布以后的游戏产业中，你觉得这款游戏机都产生了哪些影响呢？
 **24:18** - _Anderson Lawson_
 
-I mean looking back at that again, the legacy probably is, "Hey, we successfully decoupled the software from the hardware." And that's probably the biggest piece right there. I mean, that's the model that's still followed today. I mean, we went from cartridges to DVDs, and from DVDs to now streaming, but there's still even some games, my son has a Nintendo Switch, they have those SD drives they use as cartridges, so it's the same thing. It's just using different mediums to house the games. So, I just think that's the biggest piece right there.
 我想，回顾过去，留给我们的可能就是，“嘿！我们成功地将硬件和软件分离了。” 而这或许是最大的贡献。我的意思是，这是一个直到今天还在被模仿着的模型。我是说，我们从插卡到DVD，再从DVD到如今的流式传输，不过，还是有那么些游戏，我儿子有一台任天堂掌机（Nintendo Switch），它使用SD卡作为插卡，那是一样的东西。只是使用了不同的媒介来存放游戏。所以我觉得，这个就是最大的贡献。
 **25:03** - _Saron Yitbarek_
 
-Absolutely. So when you engaged in a cartridge game, when you used one, or when you blew into it to make it work, did you think of your father?
 肯定的。那么，当你参与到插卡游戏中，当你使用它，或者当你为了让它可以工作而往里面吹气的时候，你会不会想到你的父亲？
 **25:14** - _Anderson Lawson_
 
-Yeah, so it's funny because blowing into the cartridge, but it was really about the cartridge sitting in the carriage the right way, and it's funny, it spread like wildfire. People were doing that, but I don't think it was really doing anything.
 是的。玩插卡里面吹气是挺有趣的，但这其实主要还是插卡在游戏机的位置要插好，这个是很有趣，人们一个传一个的都在那么做，但我不觉得那样做有什么作用。
 **25:34** - _Saron Yitbarek_
 
-Well you just probably blew the minds of many of our listeners, so thank you for that.
 好吧，我想你大概都让我们的听众大开眼界了，谢谢你。
 **25:43** - _Karen Lawson_
 
-My name is Karen Lawson, and I am the daughter of Gerald — Jerry Lawson.
 我叫 Karen Lawson ，我是 Gerald — Jerry Lawson 的女儿。
 **25:51** - _Saron Yitbarek_
 
-We asked Karen about her father's life after he left Fairchild in 1980.
 我们问了 Karen， 关于她父亲在1980年离开 Fairchild 以后的生活。
 **25:56** - _Karen Lawson_
 
-He created a company called VideoSoft, and his headquarters were right down the street from us—an office space—and he designed games for the Atari 2600. So, it was a story of, you know, if you can't beat them, join them.
 他自己成立了一个叫 VideoSoft 的公司，总部刚好和我们在一条街--一个办公区域，他为 Atari 2600 设计游戏。所以，这是一个这样的故事：如果你无法打败它，就加入它。
 **26:16** - _Saron Yitbarek_
 
-In time, Atari was itself surpassed by Nintendo and Sega, which then gave way to Nintendo 64, to PlayStation, to the Wii and Xbox, and then the Nintendo Switch. And as Karen's brother Anderson pointed out, they all have in common this decoupling of the game from the system, the priority of offloaded memory. When Karen looks over the whole history of gaming, she takes pride in knowing her father shaped that industry.
 经过一段时间，Atari 本身也被 任天堂（Nintendo）和世嘉（Sega） 所超越，再后来是任天堂64，PlayStation，Wii，和Xbox，最后是任天堂Switch。而且正如 Karen 的哥哥 Anderson 所说的，它们都有一个共同点，就是将游戏软件和系统分离，都优先设计有一个可插拔内存卡。当 Karen 回顾整个游戏历史，她了解到他父亲为这个行业的形成所做的贡献，为此感到骄傲。
 **26:46** - _Karen Lawson_
 
-We just didn't really know what the impact was at the time. Later on, it became apparent that, "Hey well why don't they talk about this? They talk about all these other gaming systems. Why don't they talk about this one?" The thing is, we do know that he was a little disappointed about how that ended up, but not ever disappointed about the accomplishments that he made—never, never. Because everything that came after had a cartridge. No longer were there systems being developed and made where the games were embedded in the console. So when you look at it, it was mind blowing, it really, really was.
 我们在当时并不清楚影响有多大。再后来，就很明显了，“喂，为什么人们都没有谈论这个？人们都在谈论那些其他的游戏系统。为什么他们不谈论这个呢？” 我们也知道，他对于事情最后发展成这样有点失望，但是他从来没有为他所做出的成就感到失望，从来没有！因为后来的所有游戏系统都有一个插卡。再也没有一个游戏系统被开发和制作出来时游戏是嵌入在游戏机里面的。所以，当你看到这点，这是很了不起的，真的非常了不起。
 **27:38** - _Saron Yitbarek_
 
-Joseph Saulter, who we met at the top of this episode, was the Diversity Chair at the International Game Developers Conference, and it will be his job to give Jerry Lawson his moment of glory. Once he understood everything Lawson had done, he invited him to be honored at GDC 2011.
 Joseph Saulter，也就是我们节目一开始的提到的那位，是国际游戏开发者论坛（International Game Developers Conference）的多元化主席（Diversity Chair）。他接下来的任务就是给 Jerry Lawson 他应有的“光荣时刻”了。当他理解到 Lawson 所做的一切，他邀请他作为荣誉嘉宾参加GDC 2011大会。
 **27:56** - _Joseph Saulter_
 
-I picked up Jerry in the morning, and we drove him to the session, and he was in a wheelchair because he had lost one of his legs through diabetes. So I pushed the wheelchair into the session and everybody was like, "Whoa, who's this coming in here?" I said, "I'd like to introduce you to Jerry Lawson, the man that created the first cartridge game for the Fairchild F Channel." And people were like, "Whoa, this is amazing. This is a blessing. This is so great. We really didn't know who you were." It was like all of the colleagues that were there were completely stunned at the fact that this man had done what he did. He had been a part of the life of the game industry from the beginning. Right from the beginning, he was the one who set the cartridge game into existence.
 我是在早上接到 Jerry 的，然后我们载他到会场，他坐在轮椅上，他因糖尿病而失去了一条腿。所以我推着轮椅到会场，然后每个人就像，“哇哦！是谁来了？”我说，“我想给大家介绍一下 Jerry Lawson，他创造了第一个擦卡游戏，Fairchild 的“F Channel”。然后人们就像，“哇哦！这太棒了！太幸运了！这太好了！我们真的是不知道你是谁。”就好像，所有的在现场的工作人员都为这个人所做的一切震惊了。这个人从一开始就是游戏产业的生命的一部分。就在一开始，他就是那个把擦卡游戏带到世界的人。
 **29:00** - _Saron Yitbarek_
 
-One month after the conference Jerry Lawson, 70 years old, passed away having just barely lived to see himself recognized by the industry he helped to create. And why was Joseph Saulter brought to tears when Lawson got his due?
 大会结束的一个月后，Jerry Lawson ，在被他所创造的产业认可之后的没多久，就过世了，享年70岁。那为什么 Joseph Saulter 在 Lawson 得到他应得的荣誉后，还会泪流满面呢？
 **29:16** - _Joseph Saulter_
 
-So many times in the game development arena, as an African-American, you're very lonely and anybody that's in the industry who is African-American knows what I'm talking about in terms of being lonely to the point of really not being accepted, really being looked at as an outsider. And to know that Jerry had gone through all the things he had gone through, and had survived into a great human being, was so important for me to see that. And it just got to my heart, and I actually started crying. Usually a Black man doesn't want to say, “I started crying,” but it was the sheer knowledge of his participation in an industry that I know is not very accommodating to African-Americans. So the tears were real. The tears were real.
 很经常的在游戏开发的这个竞技场中，作为一名非裔美国人，会很孤独。任何一个在这个行业的非裔美国人都会明白我说的“孤独”的含义--不被接受，总被当做局外人。当知道 Jerry 所经历的一切，还作为一个伟大的人活着，对我来说是能看到这点很重要。这触动了我的内心，我事实上当时开始哭起来了。通常，一个黑人不会说，“我开始哭起来”，但是，正是在了解到他对这个行业，这个就我所知对非裔美国人很不容纳的产业，的伟大贡献，让我泪流满面。所以，眼泪都是真的。
 **30:22** - _Saron Yitbarek_
 
-And so was Jerry Lawson's place in history. Lawson's son Anderson remembers.
 Jerry Lawson 在历史上的地位也是的，Lawson 的儿子 Anderson 会记得的。
 **30:28** - _Anderson Lawson_
 
-The very last conversation I ever had with my father was about that. I had asked him, I said, "Don't you find it odd that near the end of your life, you're getting your roses?" And he said, "Yeah I do find that odd." But he wasn't upset, he was just, I think, that he understood that it had finally come that people were recognizing him. He liked that. I think he just liked to talk about a lot of the things that he worked on and inspire younger people to get interested. That's really what he was all about. And it wasn't about the game per se, he was more into the scientific aspect of the endeavor if that makes sense. He was a true engineer.
 我和我父亲的最后一段对话是这样的。我问他，“在你行将就木的时候，你才得到你的玫瑰花，你不觉得怪怪的吗？”然后他说，“是有点感觉怪怪的。”但是他一点儿也不生气，我觉得，他只是，他理解到最终人们认可了他。他喜欢这样。我想，他就是很喜欢谈论很多他做过的事情，激励年轻人的兴趣。这就是他的一切。而且本质上，这不是关于游戏，他更陶醉在科学的方面的努力，只要这种努力是靠谱的。他是一个真正的工程师。
 **31:20** - _Saron Yitbarek_
 
-Today, there may be 3 billion gamers in the world, and they're spending about US$200 billion each year on their games. In just a few decades, we've gone from that to this. Even as we were working on this episode, Lawson's contributions were featured in a new docu-series from Netflix called High Score. The world is waking up and realizing it was the cartridge revolution that jump-started the industry, paving the way for game development to become a juggernaut.
 如今，世界上大概有30亿玩家，他们每年花了将近2000亿美元在他们的游戏上。之经过了几十年的时间，我们已经从那里发展到这样了。尽管我们在这一集播出，Netflix的一个最新的系列记录片，《High Score》，也专门记述了 Lawson 的贡献。世界已经苏醒并认识到正是这个插卡游戏的革命，全力启动了游戏产业，并为游戏开发最终成为一股强大的力量，铺平了道路。
-The birth of cartridge games shifted the focus from hardware to software, from the console to the game itself. Pong was made by one guy alone in just 3 months. The gaming world that Jerry Lawson helped deliver is one where huge teams spend tens of millions of dollars to build games over the course of years, and those games are now reviewed in the New York Times with the same reverence as operas and symphonies. So, even if cartridges have largely been replaced by the cloud, we're all still living in that rich gaming landscape pioneered by people like Jerry Lawson, innovators who saw that games were ready to level up.
+
 插卡游戏的诞生促使关注点从硬件转移到软件，从游戏机转移到游戏本身。《Pong》是单独一个人用了3个月时间开发出来的。Jerry Lawson 帮助实现的游戏世界，如今已经有着庞大的团队，花费数千方美元，经历数年，在不断创造着游戏，这些游戏在《纽约时代周刊》被评论，和歌剧院、交响乐享有一样尊重。所以，尽管擦卡游戏已经大量的被云所取代，我们始终还是生活在，像 Jerry Lawson 这样的不断升级游戏的革新者们，开拓出来的丰富的游戏生态中。
-Command Line Heroes is an original podcast from Red Hat. For some great background material on Jerry Lawson, head to [redhat.com/commandlineheroes](https:/en/command-line-heroes/season-5). Next time, we meet the woman who helped make GPS a reality, mathematician Dr. Gladys B. West. I'm Saron Yitbarek, keep on coding.
+
 《代码英雄》是一个红帽出品的原创播客。如需更多关于 Jerry Lawson 背景资料，请访问：[redhat.com/commandlineheroes](https:/en/command-line-heroes/season-5)。下一次，我们将认识一位将 GPS 变成现实的女性。数学家 Dr. Gladys B. West。我是 Saron Yitbarek，编程不止。
-I'm sorry. I'm still thinking about how blowing on game cartridges doesn't do anything. My world is upside down right now.
+
 不好意思。我还在想为什么往游戏插卡中吹气，起不起到任何作用。我的世界已经上下颠倒了。
 --------------------------------------------------------------------------------
 
@@ -303,7 +238,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-6/jerry-lawson
 
 作者：[Red Hat][a]
 选题：[bestony][b]
-译者：[阿木](https://github.com/AmorSu)
+译者：[AmorSu](https://github.com/AmorSu)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
