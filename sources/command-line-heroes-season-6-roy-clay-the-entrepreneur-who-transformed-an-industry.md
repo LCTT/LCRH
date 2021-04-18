@@ -7,279 +7,215 @@
 [#]: via: (https://www.redhat.com/en/command-line-heroes/season-6/roy-clay)
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
-Command Line Heroes: Season 6: Roy Clay: The Entrepreneur Who Transformed an Industry
+代码英雄: 第六季: 罗伊.克莱 一个改变行业的企业家
 ======
 **00:00** - _Saron Yitbarek_
+那是上世纪40年代密苏里州弗格森一个炎热的夏天，一个被雇来割草坪的年轻人正在休息，他在本地的一家上商店外喝着可口可乐，但因为他是个年轻黑人，在镇上的这个地方休息就成了错误。
 
-It's a hot summer day in Ferguson, Missouri. Early 1940s. A young man hired to mow lawns is taking a break, drinking a Coca-Cola outside a local shop. But he's a Black young man, and he's taking that break on the wrong side of town.
 
 **00:22** - _Kathy Cotton_
-
-He's picked up by the police and handcuffed and taken to the station.
+他被警察逮捕，拷上送去了警察局。
 
 **00:27** - _Saron Yitbarek_
-
-70 years before Michael Brown was shot and Ferguson was rocked by protests, conflicts with the police were a regular part of life for the city's Black population. Documentary filmmaker, Kathy Cotton of “A Place at the Table,” explains.
+在迈克尔.布朗被枪击，弗格森被人们抗议往前推70年时，对城里的黑人们来说和警察产生冲突都成了日常生活的一部分，纪录片导演“餐桌之上”凯西.科顿如是说。
 
 **00:43** - _Kathy Cotton_
-
-The name of the house and a name of the people in the house, they don't care. They take him to jail because he is on the wrong side of town. That was a normal occurrence for a lot of Black people if you were walking in a white neighborhood. There's a mindset that has been in this country from day one. Hopefully we're going to try to change that somehow, but we'll see. We'll see how it goes.
+那年轻人打扫的房子归谁，房子里还住着谁警察根本不在乎，警察将那个年轻人送进监狱就仅仅因为他出现在了错误的地方。你要是个黑人却误打误撞去了个白人社区，这种情况就会时常发生，这个国家从诞生之时这种错误的观念就存在了，希望我们能改变这一现状，但我们要静观事情会如何发展。
 
 **01:08** - _Saron Yitbarek_
 
-This is a story about opportunities, who gets them and who doesn't. That teenager the police picked up? His name was Roy Clay. And years later, when he was finally given an opportunity to shine—when he was finally allowed to show the world what kind of work he could do—Roy Clay would remake one of the world's most powerful tech companies. And when he did, he also lifted up a whole generation of tech pioneers.
-
+这是个关于机会的故事，有些人紧紧抓住有人却无动于衷，你问那个被警察抓住的青少年叫什么名字？他叫罗伊.克莱。数年后，当他终于能大显身手之时——当他终于能向世界展示他究竟能做到何种程度之时——罗伊.克莱将使世界上最大的科技巨头之一重新焕发生机，他也确实做到了，他的故事激励了整整一代科技先行者。
 **01:40** - _Saron Yitbarek_
 
-I'm Saron Yitbarek and this is Command Line Heroes, an original podcast from Red Hat. All season long, we're celebrating the leaders and inventors that the history books sometimes leave out. Tech trailblazers, who had to fight against the tide while working to change the world. And the story of Roy Clay's phenomenal career doesn't just matter because of his personal accomplishments. When he finally got a chance to do the work he came to do, he was going to bring a lot more people along with him. That's why his story matters. Roy Clay reshaped and redefined Silicon Valley itself.
+我是Saron Yitbarek，这里是代码英雄系列，一个红帽原创播客。每一季我们都会讲述一些有时被历史遗忘的一位领导者或发明家，他/她也可能是科技先行者，那些顶住压力立志改变世界的人们；罗伊.克莱的故事不仅仅只局限于他一个人的成就，当他终于得到自己一直渴求的工作之时，他同时也带领着更多人与他一路前行，这才是他的故事真正值得铭记的地方，罗伊.克莱重新定义,塑造了硅谷。
 
 **02:23** - _Saron Yitbarek_
 
-Years before the U.S. Supreme Court made segregation illegal, Roy Clay's parents, who saw their son's potential, worked to get him into an all-white high school. He became the top student, despite facing challenges being the only Black kid in school. His parents encouraged him to excel wherever he could. He shined, especially in math. Next, Clay graduated as the first Black person to earn a mathematics degree from Saint Louis University. This was 1951. And brilliant as Clay was, searching for meaningful work in tech was at first pretty futile. Hiring managers liked the way he looked on paper, but they balked when the interview happened and a Black man walked through the door.
-
+在美国最高法院宣布种族主义非法的多年以前，罗伊.克莱的父母看到了自己孩子身上的潜力，决定送他去一个白人学校上学，他不负众望成了优等生，但要时刻面对作为学校唯一一个黑人孩子的各种考验。他的父母鼓励他在各个方面努力提高自己的能力，他因此从人群脱颖而出，尤其在数学方面的成就很高；接着克莱作为圣路易斯大学第一位黑人数学学士毕业了，那是1951年。但像克莱这么聪明的人，在找自己科技领域第一份有意义工作时却屡屡碰壁，人力经理一看到他的简历就想让他来面试，可面试在面试官们看见一个黑人踏进门的那一刻就结束了。
 **03:15** - _Saron Yitbarek_
-
-For a few years, teaching math at high school was his best option. But Clay persevered. The space race with the Soviet Union was in full swing and math wizards like Clay were crucial for the nation's high tech engineering efforts. So, in 1956, he managed to get a job as a computer programmer at McDonnell Aircraft Corporation. A couple years after that, he was working at the Lawrence Livermore Lab, developing a computer program to track radiation fallout from atomic bombs. Next, he was building mainframes, and even a Fortran compiler for Control Data Corporation.
+数年之内，克莱最好的选择就是去高中教数学，但他不愿意。此时美国和苏联的太空竞赛正进行的如火如荼，像克莱这样的数学奇才正好能为国家高科技工程建设出一份力，所以在1956年，罗伊成了麦克唐纳飞行器有限公司的一名程序员，几年后，他又去了劳伦斯利弗莫尔实验室，专门开发追踪原子弹爆炸后放射性物质分布的程序，接着他又开始开发主流框架，甚至还抽空为数据控制有限公司写了个Fortran编译器。
 
 **03:59** - _Kathy Cotton_
-
-The word got out, they had this Black man who was a math genius, and through conferences or meetings or whatever, his name is still out there as this little genius.
+这一连串的工作让他声名远扬，国家有了这么一个黑人数学天才，不论何种场合，克莱这个名字总会以某种方式脱颖而出。
 
 **04:10** - _Saron Yitbarek_
-
-And then an opportunity—an opportunity that matched Roy Clay's potential—began to take shape. The age of vacuum tubes and punch cards was coming to a close. The age of the microprocessor was just beginning. Combined with advances in transistors and core memory, those new microprocessors opened a world of possibilities. Computers didn't need to be jumbo, room-sized mainframes anymore. Suddenly, it was possible to build a minicomputer, about the size of a hotel mini bar. Which—I know—not so mini by today's standards, but it was a game changer at the time. Smaller computers meant they could be placed in new environments. And that, combined with shrinking prices, meant a world of new practical uses. Digital Equipment Corporation produced the very first minicomputer in 1965, an $18,000 bargain compared to old mainframes and even more affordable minis were on the way. This was going to revolutionize the computer landscape. Meanwhile, over at Hewlett-Packard, one of the guys in charge wanted in on that emerging marketplace.
+紧接着一个机会来了，一个能让罗伊.克莱完全发挥自己才华的机会，真空管和打孔卡片的时代已经接近尾声，微处理器的时代即将来临，结合了晶体管和核心内存两者优势的新微型处理器能创造无限可能性。电脑不需要再是庞然大物，塞满整个屋子，突然创造小型计算机的可能性有了，大小可以只有酒店迷你吧台那么大。我知道相较于现在的标准，它们可绝对称不上小，但在当时绝对具有跨时代意义；更小的体积意味着使用场景的增加，价格大幅度降低也意味着实用性的增加。美国数字设备公司在1965年造出了第一台小型计算机，相比较于旧型号18000美元已经算相当便宜，更小体积计算机也在研发中，这一事件震动了整个计算机界，与此同时，HP的一位高管也正想着进入这块市场。
 
 **05:29** - _Kathy Cotton_
-
-Dave Packard became interested in the idea of computers.
+戴维.帕卡德对计算机这个领域很感兴趣。
 
 **05:34** - _Saron Yitbarek_
-
-Which was strange because...
+但这着实令人十分费解……
 
 **05:36** - _Kathy Cotton_
-
-Hewlett-Packard was an instrument company. It was not a computer company. It wasn't even in that area; it was measuring different things like radar and that type of thing, but not computers.
+HP是个制造企业，它不是个计算机公司，它甚至跟这个都不沾边；公司主要经营范围是像雷达一类的测量工具，而不是什么计算机。
 
 **05:48** - _Saron Yitbarek_
-
-Back then, Hewlett-Packard was best known for making semiconductors. But David Packard wanted his company to level up. The vision was a new line of 16-bit minicomputers. These would be only the second ever made, after DEC's. And Roy Clay had exactly the skillset to pull that off. Chuck House, a former Hewlett-Packard engineer and the author of “The HP Way,” explains.
+当时HP因生产半导体产品而闻名业界，但戴维.帕卡德想让他的公司更进一步，他瞄准的是新型16位小型计算机，想要研发这种东西必须要抢在DEC之前研发出第二代，罗伊.克莱正是做这件事情的不二人员，恰克.豪斯——一位前HP工程师和“惠普之道”一书的作者解释道。
 
 **06:18** - _Chuck House_
-
-Roy's own qualifications were superb for the day. To have had time at Lawrence Livermore on some of the biggest machinery out there, he was preordained with the right qualifications.
+罗伊个人能力极强，在劳伦斯利弗莫尔实验室那那些日子，他和地球上最大的机器们打过交道，他能胜任这项任务。
 
 **06:35** - _Saron Yitbarek_
-
-Qualifications that HP was sorely missing. While they had the very beginnings of a computer department in place, they needed an infusion of outside expertise. Bill Davidow, who headed up HP's computer marketing division at the time, remembers.
+当时的HP就是欠缺标准，当他们在建立计算机部门之初，他们急需外援，比尔.达维多夫——当时HP市场部分的头还记得这件事。
 
 **06:53** - _Bill Davidow_
-
-The person who was originally running the whole computer area was an individual named Kay Magleby, and I know Kay hired Roy to run the software.
+当时主导计算机世界的人叫凯.毛勒比，我知道凯雇了罗伊来给他写程序。
 
 **07:04** - _Saron Yitbarek_
-
-But it wasn't quite that simple. At first, Clay actually turned them down. After all, he had a good gig. And what did Hewlett-Packard know about computers anyway? But Packard, who sat in on Clay's job interview, kept bumping up the offer. He even offered to pay off the mortgage on Clay's house, and eventually he was able to convince Clay that this was worth the gamble. Clay had to push though for HP to build something better, modernizing the prototype's architecture so he could write better software. Here's Bill Davidow.
+但造电脑没那么简单，起初克莱是拒绝的，毕竟他现在的工作已经很好了，而且HP又懂什么计算机呢？但帕卡德去过克莱的工作面试，一直在邀请克莱来HP工作，他甚至提出可以帮克莱把房贷结清，最终他成功劝说了克莱加入了这场豪赌；克莱需要推动HP的发展，标准化原型架构这样他才能写出更好的软件，这里是比尔.达维多夫。
 
 **07:40** - _Bill Davidow_
-
-Had the architecture stayed the same, Hewlett-Packard would have no doubt been an absolute failure in the computer business. And Roy really drove the stake in the ground. He said, "We've got to change the architecture or it's impossible for me to write software." And had he not forced that issue so forcefully, HP would have been an abject failure in the computer business, in my opinion.
+如果架构一直保持不变，HP在计算机领域一定会惨淡收场，罗伊在这件事上相当用心；他说：“我们必须要改变架构，否则我没法编程”，当时要不是他强行推动架构改革这件事，在我看来HP这计算机生意肯定做不下去了。
 
 **08:12** - _Saron Yitbarek_
-
-Clay's time at HP did more than change the company. It would change his life, and even change all of Silicon Valley. Turns out, David Packard had a very particular reason for wanting to get into the mini-computer market.
+克莱在HP工作的那段时日不仅改变了HP，也改变了他自己的人生，甚至影响到了整个硅谷，后来人们才得知大卫.帕卡德想进军小型计算机市场是有特殊原因的。
 
 **08:29** - _Chuck House_
-
-The problem with the DEC machine was that it was like all computers of the day. It had to be in an air-conditioned room. In short, it didn't go where voltmeters went. Voltmeters went out on manufacturing floors.
+当时DEC的机器和当时其他型号机器都有个同样的问题，机器所处的位置必须得有空调，简而言之，它没法跟伏特计放在一起，伏特计当时正广泛在制造业使用。
 
 **08:42** - _Saron Yitbarek_
-
-Voltmeters. Simple but crucial instruments that measure the voltage on electrical circuits. So why would David Packard care that these new minicomputers couldn't share space with a bunch of voltmeters? Well, Hewlett-Packard had been the industry leader in analog voltmeters for 20 years. It was big business, and it was a business that was rapidly going digital. And digital voltmeters meant digital voltmeter data. And digital voltmeter data meant that computers, instead of people, would be gathering all that data. If a computer could live in the harsh environment where voltmeters were stationed—well, you could automate the process and save a ton of cash in the long run. But, as Chuck House was saying, voltmeters lived in such harsh environments that the minicomputers DEC was offering just weren't tough enough.
+伏特计，一个简单而又不可获取的工具，专门用来测量电流回路的电压。所以为什么大卫.帕卡德要关心这些小型计算机能不能和一堆伏特计放在一起这种问题？原因就是HP已经在模拟伏特计方面领导行业20年了，这部分业务做得很大，而且这块正在快速向信息化形式转变，数字伏特计就意味着数字化伏特计数据，数字化伏特计数据就要用到电脑，人力不再参与收集数据这一过程；如果一台计算机能在伏特计安装的那种恶劣环境中正常运行，那么公司就能将整个过程自动化，并在长期运维中省下一大笔钱，但就像恰克.豪斯所说，DEC生产的那些电脑还不能在这样的环境下使用。
 
 **09:36** - _Chuck House_
-
-These machines weren't any good for us. So we needed to build our own instrument controller. We didn't call it a computer; it's an instrument controller.
+DEC机器对我们来说没什么用，所以我们得自己做一个工具控制器，我们不叫这东西计算机，它叫工具控制器。
 
 **09:46** - _Saron Yitbarek_
-
-Keep that distinction in mind. Instrument controller versus computer. Basically, from Hewlett-Packard's perspective, Roy Clay and his team were going to deliver an expensive, but necessary, peripheral device. A machine for a pretty limited voltmeter market. Clay was particularly focused on the software for that machine—interface software and applications that would let it monitor and read data from external instruments. Bill Davidow explains.
+记住两者的区别，工具控制器VS计算机，总之从HP的角度来看，罗伊.克莱和他的团队将要开发一个昂贵但十分必要的外设，一个为了抢占有限伏特计市场的机器。克莱把重心放在了机器交互软件和应用上，这些能让计算机监控并从外围设备读取数据，比尔.达维多夫说到。
 
 **10:18** - _Bill Davidow_
-
-You needed some basic collection of software that would enable you to get all of these things to interface with one another and that was the first thing Roy did, but the computer needed an assembler, and then it ultimately needed compilers and things like that, and Roy was involved in all of that development.
+你需要一整套软件，它能让你将所有功能集成到一起并和其他设备交互，这是罗伊做的第一件事，但计算机还需要一个汇编器，一个编译器和其他东西，罗伊一直在开发的就是这些东西。
 
 **10:41** - _Saron Yitbarek_
-
-As Clay got to work, they set up his new department in a few humble trailers. Documentarian, Kathy Cotton.
+当克莱去上班的时候，公司在几辆简易拖车上建立了他的新部门，这里是纪录片导演，凯西.科顿。
 
 **10:49** - _Kathy Cotton_
-
-Can you imagine Hewlett-Packard in 3 trailers? But that was the computer division that had the 3 trailers. And that's where he started.
+你能想象HP还有个地方办公区在3辆拖车上吗？但就是这个新成立的电脑部门在3辆拖车上，这就是罗伊开始工作的地方。
 
 **11:00** - _Saron Yitbarek_
-
-So, while the executives in charge did see some utility in the computer division, they really couldn't see its larger potential.
+所以当公司高管在这个新部门看见一些设备时，他们完全想象不到这东西有多大潜力。
 
 **11:08** - _Bill Davidow_
-
-The computer was not very important to Hewlett-Packard. It was a $300 million instrument company, and here was this little group that was trying to get a computer business going.
+计算机对HP来说不是那么重要，它是个市值30亿美元的制造企业，这里面却有一小部分人在想着怎么做做计算机生意。
 
 **11:23** - _Saron Yitbarek_
-
-And yet what Roy Clay eventually helped deliver—Hewlett-Packard's very first computer—would lead to so much more than those executives imagined.
+当罗伊.克莱帮助HP造出第一台计算机时，它完全超出了一众高管们的想象。
 
 **11:37** - _Saron Yitbarek_
-
-Maybe being put out in those trailers was a good thing. When Clay arrived at HP's brand new computer division, he was able to break away from the white shirts and mandatory ties that dominated other departments. His team was relaxed, unorthodox. And since they were stuck in trailers, they came and went as they pleased.
+也许把部门设立在这些拖车上反倒是件好事，当克莱到了HP的全新计算机部门时，他可以远离那些在其他部门指手画脚的人们，省去许多不必要的麻烦，他的团队始终处在一种放松，松散的氛围中，而且因为他们的办公区在拖车上，大家做事就完全按照自己的步调来。
 
 **11:59** - _Chuck House_
-
-He loved to play golf, so he and some of his team would go play from 6:30 to 9:30. They would stroll in somewhere between 10:00 and noon from their golf game, and Hewlett just blew a head gasket over this.
+他特别喜欢打高尔夫，所以从早上6:30到9：30他和团队里的人会去打球，有时他们会从10：00到下午这段时间里去散散步，休利特听闻此事大发雷霆。
 
 **12:15** - _Saron Yitbarek_
-
-It wouldn't be the last time Clay and Hewlett clashed. In fact, Hewlett gained a reputation for disliking the man that David Packard had put in charge.
+这不会是克莱和休利特最后一次起冲突，事实上大家都知道休利特不喜欢那个大卫.帕卡德派来管计算机部门的那个人。
 
 **12:26** - _Chuck House_
-
-Things were kind of at a stalemate until one night, Hewlett was an inveterate tinkerer, and he had one of these machines at home, and on a Friday night at 10:00 PM, his machine failed. And he called the plant for the hotline and got Roy's team. He says, "What are you doing there at 10:00 at night?" And they said, "Well, we work more than 40 hours; they just happen to be different hours than you told us to."
+事态就一直这么僵持着，直到有天晚上，休利特是个喜欢自己捣鼓东西的人，他家里就有一台克莱弄出来的这种机器，那是周五晚上10：00，他的那台机器坏了，所以他给公司车间打了个电话，但接电话的人却是罗伊团队里的人。他问：“你们晚上十点还在公司干什么？"他们回答：“我们已经连续工作超过40小时了；我们只是在规定时间之外工作而已。”
 
 **12:52** - _Saron Yitbarek_
-
-Soon enough, those late nights produced the 2116A—Hewlett-Packard's first computer. Like Chuck House mentioned, the machine was designed for factory floors in harsh environments. Unlike other more fragile options, the 2116A, could operate in up to 131 degrees Fahrenheit and 95% humidity. It was rugged, reliable, hard to break. It boasted 4K of memory and an integrated circuit. Plus, a Fortran compiler and brand new software. Still, when the 2116A arrived in November 1966, Hewlett-Packard seemed determined to keep it out of the spotlight. Roy Clay had delivered the second 16-bit minicomputer ever created, but when it was first displayed at San Francisco's Joint Computer Conference that year, they wouldn't even call it a computer. They stuck with that minimizing term, “instrumentation controller.”
+不久，无数个日日夜夜的努力终于孕育除了HP 2116A型号的第一台计算机，就像恰克.豪斯所说的那样，这台机器能在工厂恶劣环境下运转，不像之前的机器那么脆弱，2116A能在高达131华氏摄氏度和95%湿度的环境下运转，它很坚固，可靠并且不易损坏，它搭载4K内存和一个集成电路，另外还附加一个Fortran编译器和一整套新软件。尽管如此，当时间到达1996年11月，HP还是决定让2116A退出主流市场。罗伊.克莱制造出的第二代小型计算机在那年的旧金山计算机峰会上初次展览，那时人们还不叫它计算机，他们的叫法比较注重体积，“工具控制器”。
 
 **13:58** - _Chuck House_
-
-The problem for the company was that IBM and the other computer manufacturers were among our best customers. They were a $2 billion company, we were a $100 million company. IBM was 20 times the size of HP, and so the feeling Dave and Bill had was there's no way we want to get into that arena.
+有个问题是像IBM这样的计算机制造商在和我们抢客户，他们市值20亿美元，我们就是个市值一亿的公司，IBM体量是HP的20倍大，所以大卫和比尔觉得我们肯定没法跟这样的对手竞争。
 
 **14:18** - _Saron Yitbarek_
-
-HP didn't want to lose one of its best customers. So, if HP suddenly had a brilliant new computer division, they weren't about to celebrate the fact. No matter how Clay improved the project, HP was determined to resist the lure of the computer market. Clay's original worry about HP's lack of experience seemed to be well founded.
+不过HP又不想流失客户，所以如果HP创建了一个新的计算机部门，确实没什么可值得称赞的，无论克莱多努力提升项目质量，HP始终坚持不去计算机市场分一杯羹，克莱最初对HP在计算机行业缺乏经验的担忧终于得到了证实。
 
 **14:43** - _Chuck House_
-
-We had no one inside the company that understood what it was. We hand this thing to the voltmeter salesmen and say, "Here's this terrific tool." Then it's like, "Well, who knows they need that? And why would they need that? And God, look at the price, and this is crazy."
+我们公司内部没人懂这个，我们不可能直接把这东西丢给伏特计推销员然后告诉他：“这东西可厉害了。”他肯定会说：“嘿，谁知道自己需要这东西？而且他们为什么需要这个？哦天哪，看看这价格，你一定是疯了。”
 
 **14:59** - _Saron Yitbarek_
-
-But it was obstruction from the top that most frustrated him. When Clay proposed a software division, Hewlett accused him of “empire building” and refused to OK the idea. Then, when Clay built a computer for the Holiday Inn hotel chain, he was forced to terminate that project, too. Making matters worse, Dave Packard was called away to the Pentagon where he became U.S. Deputy Secretary of Defense in 1969. Roy Clay himself was 91 years old when we caught up with him. But he still remembers how, when Packard left for the Pentagon, and Hewlett was left in charge, Clay's position at the company was constantly challenged.
+最令克莱失望的其实是高层的态度，每当克莱想要提议建立软件部门时，休利特就会立马反驳他妄图建立什么“计算机帝国”并驳回他的请求。没过多久，当克莱为连锁酒店研发出了一款新电脑是，他不得不被迫终止项目，更糟糕的是，大卫.帕卡德在成为美国国防部副部长之后就去了五角大楼，我们去采访罗伊.克莱时他已经91岁了，但他还记得当帕卡德去了五角大楼以后，休利特就独自一人掌权，克莱在公司的地位一下子岌岌可危。
 
 **15:46** - _Roy Clay_
-
-They were two equal partners, but very different. Bill Hewlett was a racist. He didn't think a Black person ought to be at the top of anything. Dave Packard on the other hand, put me at the top of what he wanted to do. When Dave Packard went to the Pentagon, Bill Hewlett was left alone. I had no respect for Bill Hewlett, none. Not then nor now. My wife told me, "Why don't you quit?"
+大卫和休利特是合作伙伴，性格却截然相反，比尔.休利特是个种族主义者，他觉得黑人就应该什么也做不好，而大卫.帕卡德正相反，给我定个目标后就让我放手去做。当大卫.帕卡德去了五角大楼，就只剩比尔.休利特一个人，我对这个人没有丝毫敬意，以前不会现在也不会，我妻子曾经跟我说，“你为什么不辞职？”
 
 **16:13** - _Saron Yitbarek_
-
-And that's exactly what he did. But not everybody was looking to shut Roy Clay down. Tom Perkins was a co-worker of his at HP. He was also leaving to set up his now-famous venture capital firm—Kleiner Perkins Caufield & Byers. Today, Perkins’ VC firm commands more than $9 billion in funds. But back then, he was just looking for his first IPO. Even if Bill Hewlett didn't see it, Tom Perkins thought Clay's work on those Holiday Inn computers had a lot of potential. So, thanks to Perkins' help, Clay and other employees from HP's computer division took all that work from the abandoned Holiday Inn project and turned it into a computer company of their own. Tandem Computers. The company went public in 1977 and sales jumped, reaching $312 million by 1982. Clay later made the argument that that IPO for Tandem was the moment that really invented Silicon Valley. And he had a point.
+克莱也确实这么做了，但不是每个人都希望罗伊.克莱离开。汤姆.珀金斯是罗伊在HP的同事，他也辞职去开了自己的风投公司——Kleiner Perkins Caufield & Byers，现在这家公司已经很有名气了，市值90亿元，但在当时，他还在募集他第一轮融资。虽然比尔.休利特没看出来，但汤姆从连锁酒店项目里看到了克莱的巨大潜力，所以得益于柏金斯的帮助，克莱和其他HP计算机部门的员工接手了废弃连锁酒店的所有工作，并将其变成自己电脑公司-天腾的一部分，这家公司始建于1977年，市值一路上涨到了1982年的3亿1千万2百万，克莱后来说对天腾的第一轮融资才是对硅谷实实在在的投资，我觉得他说得很有道理。
 
 **17:22** - _Saron Yitbarek_
-
-When venture capital arrived on the scene and massive IPOs could be negotiated, it opened the floodgates. Suddenly innovation didn't have to come from behemoths like Hewlett-Packard. Consulting with Perkins' firm, Clay helped bring to life, not just Tandem Computers, but Compaq and Intel, too. The guy who was thwarted at HP became an unlikely power broker of the Valley. Turns out he'd been on the right side of history when he was pushing for HP to commit to the computer industry. In 1997, Compaq acquired Tandem Computers for $3 billion. And a few years after that, Hewlett-Packard bought Compaq for $22 billion. So, Bill Hewlett ended up spending billions to buy that empire he tried to stop Roy Clay from building.
+当风投资金到位并有多方表示出投资意向之后，这产生了连锁效应，突然直接技术革新不再一定需要从HP这样的巨头诞生，在柏金斯的公司咨询，克莱帮助人们将想法变成现实，天腾计算机，康柏，英特尔都是这样诞生的，那个在HP处处碰壁的人成了硅谷数一数二的人物，克莱当时催着HP进入计算机领域这个做法是完全正确的。1997年，康柏以30亿收购了天腾计算机公司，几年以后，HP又以220亿美元的价格收购了康柏，所以比尔.休利特多花了上亿美元买下了当初他阻止罗伊.克莱建立的帝国。
 
 **18:19** - _Roy Clay_
-
-Well, I told you so.
+看，我早告诉过你了。
 
 **18:24** - _Saron Yitbarek_
-
-Today, half a century later, HP Inc. is very much on board with Clay's vision: they make computers, printers and other devices, to the tune of roughly $60 billion a year.
+现在，半个世纪过去了，HP有限公司跟当初克莱设想的别无二致：他们生产计算机，打印机和其他电子设备，每年收益60亿美元。
 
 **18:41** - _Saron Yitbarek_
-
-Roy Clay developed a lot more than just a computer department or a string of startups. His most important development was a culture of inclusion.
+罗伊.克莱不仅仅只是建立了一个计算机部门，他最重要的贡献是开创了一种包容的文化。
 
 **18:50** - _Ken Coleman_
-
-I was shocked that somebody had run R&D at HP, Black like me. And I just found him to be charming, engaging, and interested in me and my background, and what I was interested in doing. He became my mentor.
+当我看到HP研发部门是由一个和我一样的黑人领导时，我非常震惊，随后我发现这个人很有魅力，工作认真负责，对我和我的背景经历都很感兴趣，我本人又非常热衷于自己动手，他自然而然地成了我的导师。
 
 **19:06** - _Saron Yitbarek_
-
-These days, Ken Coleman is Chairman of EIS Software. But back then, he was an Air Force captain looking for a new career. When his resume landed on Clay's desk, he was soon hired by Hewlett-Packard, thanks to Clay's old connections. And this was pretty typical. Clay had a reputation for helping Black programmers and engineers find opportunities when they weren't otherwise getting a fair shake.
+现在肯.科曼是EIS软件公司的董事长，但在那时，他就是个想换职业的空军退役上尉，当他的简历出现在克莱的桌子上时，他很快因为克莱的关系被HP录用了，这件事就很能说明问题，克莱热衷于在黑人程序员和工厂师父无法得到公正对待时伸出援手。
 
 **19:33** - _Ken Coleman_
-
-When I got there, there were really very few Blacks in professional positions in that part of HP, or any part of HP, to be truthful about it. I was one of the few Black professionals in that business at that time. When I became a head of HR in one of the divisions, I was the first Black person at a functional head level since Roy. So, Roy paved the way for me.
+当我去那儿上班时，可以说整个HP都没几个黑人专家，我那时是这个小团体里的一员。当我成为HP某一部门的老大时，我是继罗伊之后第一个成为职能部门高管的黑人，所以可以说罗伊为后人铺好了路。
 
 **20:04** - _Saron Yitbarek_
-
-Coleman saw that Clay was pioneering a new community of Black leaders in Silicon Valley. But he also saw that the road ahead was long.
+科曼看到克莱实则引领着整个硅谷的黑人社区，但他也明白前路依旧漫漫。
 
 **20:14** - _Ken Coleman_
-
-They weren't five Black engineers at HP when I was there. So we've come a long, long way. But most people would say, "We have a long way to go." And I believe that to be true, we have a long way to go. But I am hopeful, enthusiastically hopeful.
+我在HP时那儿连5个黑人工程师都凑不出来，所以我们还有很长的路要走，但就像大多数人说得那样，“前路漫漫但要有光”，我知道我们还有很长的路要走，但我一直满怀希望。
 
 **20:38** - _Saron Yitbarek_
-
-If building a computer division from scratch had been a job, building a Black Silicon Valley was a mission. Clay became the first Black person on the Palo Alto city council in 1973. Then in 1977, he started his own company, ROD-L, manufacturing devices that protect PCs from electrical surges. That company became the largest employer of Black people in Silicon Valley. He saw all this as an intrinsic part of doing business. It was never just about making money or building a piece of tech.
+如果说建立一个计算机部门是工作，那建立黑人硅谷就是个任务，克莱在1973成为了帕洛阿尔托市议会的一员，在1977年，他创立了自己的公司，ROD-L——生产防止PC收到电涌干扰的装置，这家公司后来成为硅谷黑人员工最多的地方，他把这样的事情都看作分内的事，对他来说公司不仅仅是赚钱或者为了科技进步。
 
 **21:14** - _Ken Coleman_
-
-The lesson and the impact of Roy to me is, being a good corporate executive means more than just what you do in your day job, but what kind of citizen you are, what kind of commitment do you have to the community, and you have a bigger responsibility than just coming to work every day. And the community is better for Roy. Not just HP is better, Silicon Valley is better because Roy walked this way and made a broad, lasting contribution to our industry and to our community.
+罗伊对我的影响就是，成为一个愿意合作的好领导要比你只干好本职工作要重要的多，前者意味着你将成为什么样的人，你想为社区做出什么贡献，你将会有更大的责任，整个社区因为罗伊变得更好。不仅是HP，整个硅谷都因为罗伊的这种行为变得更好，我们整个行业，整个社区都在变好。
 
 **21:51** - _Saron Yitbarek_
-
-It's work that Coleman took on, too. In fact, when he left HP and worked for 14 years at Silicon Graphics, Coleman helped build one of the most diverse workplaces in tech. And today decades after Clay made those first inroads, Coleman still mentors and lifts up Black men and women in Silicon Valley. Because the work is far from finished.
+这也是科曼一直在做的，当他离开HP并在硅图工作14年的时间里，科曼帮助建立了一个科技领域中最多元化的社区之一，在克莱首先这么做之后的十来年，科曼依旧是硅谷年轻黑人的导师，因为距离达成目标还有很多事情没做。
 
 **22:16** - _Ken Coleman_
-
-If you look at the 20 largest companies in America that do not have Blacks on the board of directors, 12 of those are technology companies, most of those headquartered in Silicon Valley. To me, that's an embarrassment for the area and for the industry.
+如果你观察一下美国前20的公司，那些董事会里没有黑人的公司里，有12个都是科技公司，而且大多数公司的总部都在硅谷，对我来说，我为这个行业感到羞愧。
 
 **22:34** - _Saron Yitbarek_
-
-In the world of tech, we often like to imagine things are run as a meritocracy. But hiring practices tell another story. Studies show that biased decisions keep women and people of color out of management roles all the time. And that's a truth we've been living with since way back when Roy Clay tried to bring Hewlett-Packard into the computer age.
+在科技领域，我们总天真的认为招人就是择优录取，但实际招人全然不是那么回事，研究表明女性和种族偏见在管理层一直存在，这些现象从罗伊.克莱想让HP进入计算机行业时就存在了。
 
 **22:59** - _Saron Yitbarek_
-
-It had been almost half a century, but Roy Clay was more clear than ever on some things. He knew exactly what kind of obstacles he would face.
+半个世纪过去了，但罗伊.克莱在某些事情上的见解越发清晰，他知道自己将要面对什么样的阻碍。
 
 **23:09** - _Roy Clay_
-
-The town I was born in was Black owned. The town I lived around was white owned, and we were not permitted to go into the areas at different times. So, I always had to be prepared to support myself and defend myself when I was surrounded by my neighbors who didn't want me there. My parents were very supportive. They supported everything I did. In fact, they motivated me to go ahead.
+我出生的那个镇子是属于黑人的，但周围都是白人村镇，我们会在不同时段被禁止进入不同的地方，所以在我邻居不想让我出现在某些地方的时候，我得拿出理由来说服他们，我父母很支持我这种想法，我做什么他们都不反对，事实上，他们才是一直激励我前进的动力。
 
 **23:43** - _Saron Yitbarek_
-
-Who's left in charge can make all the difference. It changes the course of a person's life. It changes the course of a whole field of inventions. What Roy Clay hopes for these days, is an industry where more people are earning each other's respect. Not by simply accomplishing things, but by lifting each other up.
+管事的人是谁会让一切都不同，它会改变一个人的命运，它会改变革新进程，罗伊.克莱所希望的就是，未来这个行业里越来越多的人能得到应有的尊重，人们不是简单地完成任务，而是一起负重前行。
 
 **24:03** - _Roy Clay_
-
-Well, look at everything. And everything is related to everything else. That's all. Just keep that in mind, learn whatever you can and help others learn what they can. I do the best I can, and I tell everybody, "Do the best you can for someone else." It's very simple.
+看看周围的一切，万事万物都是有联系的，就是这样，记住这一点，尽你所能去学习然后帮助他人最大程度的学习，我尽我所能，然后我告诉每个人，“尽你所能去帮助某个人”，就是这么简单。
 
 **24:35** - _Saron Yitbarek_
-
-Roy Clay can rest assured he's made that change in the lives of many others.
+可以确认罗伊.克莱改变了许多人的人生轨迹。
 
 **24:41** - _Ken Coleman_
-
-He was the first of many things and set a great example for people, and he's still revered by people that came behind him. Not just me, not just Black people in HP, but Black people in the Valley. He was the icon, the person we all looked up to. He was a role model. And everything that I've done and achieved flows from him being a supporter and role model for me.
+他是许多方面的先驱者，为他人树立了一个绝佳的榜样，他仍旧激励着后来者，不仅仅是我，还有HP的黑人，还包括硅谷的黑人们；他就是旗帜，我们所有人仰望的对象，他就是标杆，我完成的所有事情，取得的所有成就都是以他为榜样的。
 
 **25:19** - _Saron Yitbarek_
-
-Clay studied by candlelight when he was a child. And from the 1930s to today, he’s seen massive change in the way Black people are given opportunities. He made his mark at Lawrence Livermore National Laboratory, at Control Data Corporation, at Hewlett-Packard, at his own company, ROD-L Electronics, and even at Palo Alto's City Hall. Because he was given a chance, he grew into one of the elder statesmen of his industry. A leader who could bring about real change. His accomplishments were recognized in 2003, when he was inducted into the Silicon Valley Engineering Council's Hall of Fame.
+克莱小时候就着烛光学习，从20世纪30年代到今天，他见过无数得到机会改变命运的黑人，他在劳伦斯利弗莫尔国家实验室、控制数据公司、惠普、ROD-L电子公司，甚至在帕洛阿尔托的市政厅都留下了属于自己的印记。因为他得到了机会，他成为了他所在领域最伟大的领导者之一，一个能真正带来变革的人，他的成就在2003年得到公认，他的名字被写进了硅谷工程师协会的荣誉墙上。
 
 **26:03** - _Roy Clay_
-
-I've had a great life, one that I enjoyed very much. Because I lived life, I gave respect. I gave respect and demanded respect in return.
+我有一段精彩的人生，我也很享受它，因为我享受生活，我给予他人尊重，反过来我也会得到他人的尊重。
 
 **26:17** - _Saron Yitbarek_
-
-Of course, racism still plagues young Black people who want to make it in tech. But Clay's own life story is proof that it's possible to overcome. Some part of him has been hopeful in that way ever since he was a teenager getting harassed by the police. He reflected on that moment during a cable access show called Education in Our Community, back in 2013.
+当然，种族主义现在还困扰着那些想进入科技领域的年轻黑人，但克莱的经历告诉我们这些都可以被克服，即使你年轻时曾被警察恐吓，你依旧有希望，他在2013年一次我们社区承办的一档叫“教育”的有线电视节目中提起过。
 
 **26:42** - _Roy Clay_
-
-I could have been another Trayvon Martin, and I told my mother what had just happened. And she said to me, "You're going to encounter racism for the rest of your life, but don't ever let that be a reason why you don't succeed."
+我本来也可能成为另一个特雷沃恩·马丁，我告诉过我的母亲我都经历了什么，她这么回答我的，“你这辈子会不停遇见和种族主义有关的事情，但这不是你失败的借口。”
 
 **27:02** - _Saron Yitbarek_
-
-It was a mission Roy Clay held true—not just for himself, but for his whole community. His hope has been that Black lives are given a chance to thrive. When he was speaking to the interviewer about Trayvon Martin back then, and all the Black lives that have been cut short, he seemed especially hurt by the idea that their potential would never be known. Reflecting on his own impressive life today and all he's accomplished, Clay said:
+这是罗伊.克莱所一直坚守的——不仅仅只为他自己，而是为了他的整个社区，他希望整个黑人群体都能得到机会，当他向记者谈起特雷沃恩·马丁的故事时，他说所有的黑人当时都被牢牢限制，他对黑人无用论这个想法表示非常沮丧，想到他自己的精彩人生和他一路完成的事，克莱说道：
 
 **27:29** - _Roy Clay_
+他们应该知晓我不想让他们因为我做了什么而夸奖我，这是我们能学着做的东西，这也是我们大家都能做到的事情。
 
-They should know that I don't want them to praise me for what I've done. This is what we can learn to do, and that is what all of us can do.
 
 **27:44** - _Saron Yitbarek_
+这里是代码英雄系列，一个红帽原创播客，想了解更多关于罗伊.克莱依旧HP早期命令行的信息，请浏览redhat.com/commandlineheroes。 下一期，我们会讲述一位研发帮助NASA将尼尔.阿姆斯特朗送上月球的飞行器的杰出女性。我是Saron Yitbarek，感谢您的收听，接着编程吧！
 
-This is Command Line Heroes, an original podcast from Red Hat. For more info on Roy Clay and the early days of Hewlett-Packard's computer line, check out redhat.com/commandlineheroes. Next time, we're learning about the woman whose work on flight trajectories helped NASA put Neil Armstrong on the moon. In the meantime: I'm Saron Yitbarek. Thanks for listening. And keep on coding.
 
 --------------------------------------------------------------------------------
 
@@ -287,7 +223,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-6/roy-clay
 
 作者：[Red Hat][a]
 选题：[bestony][b]
-译者：[译者ID](https://github.com/译者ID)
+译者：[wenwensnow](https://github.com/译者ID)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
