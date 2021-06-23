@@ -1,6 +1,6 @@
 [#]: collector: (bestony)
 [#]: translator: (Ucoer)
-[#]: reviewer: ( )
+[#]: reviewer: (Northurland)
 [#]: publisher: ( )
 [#]: url: ( )
 [#]: subject: (Command Line Heroes: Season 4: Open Source Hardware: Makers Unite)
