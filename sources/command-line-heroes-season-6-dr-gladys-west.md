@@ -11,345 +11,351 @@ Command Line Heroes: Season 6: Dr. Gladys West
 ======
 **00:05** - _Saron Yitbarek_
 
-Third Century BCE. In the Great Library of Alexandria, the Chief Librarian, Eratosthenes, is about to have his breakthrough. Eratosthenes is an astronomer, a historian, a poet, and right now he's a cartographer too. Using just the shadows cast by sticks in the sand and a few geographical records he discovered in his library, he has managed to calculate the circumference of the planet. Even though the ancient Greeks were unaware of whole continents, Eratosthenes’s calculations were off by less than 2%. The world, the whole world, had suddenly snapped into focus.
+公元前三世纪，在亚历山大图书馆，首席图书管理员 Eratosthenes 即将取得科研突破。Eratosthenes 是一位天文学家，历史学家，诗人，现在他也是制图师。仅使用沙子上的棍子所投射的阴影以及他在图书馆中发现的一些地理记录，他就成功地计算了行星的周长。即使古希腊人不知道整个大洲的大小，但 Eratosthenes 的计算结果误差小于 2%。这个世界，乃至整个世界，突然聚焦在了这里。
 
 **00:50** - _Saron Yitbarek_
 
-The dream of building an accurate model of our planet, a complete picture of the whole world, may have begun more than 2,000 years ago, but it's still a dream we're pursuing today. In the ancient world, a good map meant more effective trade routes and better prospects for military campaigns. Today, our ability to measure every nook and cranny of the Earth's surface can lead to so much more. I'm Saron Yitbarek, and this is Command Line Heroes, an original podcast From Red Hat.
+建造地球的精确模型，绘制整个世界的全景图的梦想，可能早在 2000 多年前就开始了，但它仍然是我们今天所追求的梦想。在古代世界，一张好的地图意味着更有效的贸易路线和更好的军事行动前景。今天，我们测量地球表面的每一个角落和缝隙的能力可以带来更多的信息。我是 Saron Yitbarek，这是《代码英雄》，一款红帽公司原创的播客节目。
 
 **01:29** - _Saron Yitbarek_
 
-All season we're tracking inventions and breakthroughs that were made possible by people who never quite got their due. Brilliant minds whose contributions were overlooked. This time we're zooming in on a mathematician who helped bring definition to the 197 million square miles that we call home. Gladys West was a pioneer in the field of geodesy. That's where scientists and mathematicians work to build more and more accurate models of the planet. That model is crucial to our daily lives. Because in helping to build that model, Gladys West didn't just show us what the mountains and oceans of planet earth look like.
+这一季我们都在追踪那些由从未得到应有回报的人创造的发明和突破。他们贡献的杰出成果被忽视了。这次我们将聚焦一位数学家，她帮助我们定义了 1.97 亿平方英里的”家“。Gladys West 是大地测量学领域的先驱。大地测量学是科学家和数学家们致力于建立越来越精确的地球模型的学科。这个模型对我们的日常生活至关重要。因为在帮助建立该模型的过程中，Gladys West 不仅向我们展示了地球上的山脉和海洋的模样，她还为我们提供了一种定位自己的方法。她的工作对 GPS 的诞生至关重要。这一切都始于一个年轻的黑人女性，她决心在一个并不一定需要她的世界里为自己找到一席之地。
 
-**02:16** - _Saron Yitbarek_
+**02:37** - _Saron Yitbarek_
 
-She gave us a way to find ourselves. Her work was crucial to the creation of GPS. It all begins with a young Black woman who is determined to find a place for herself in a world that wasn't necessarily looking for her. Dr. Gladys West, who is now 90 years old, spoke with me from her home in King George County, Virginia.
+现年 90 岁的 Gladys West 博士在弗吉尼亚州乔治国王县的家中与我进行了交谈。
 
-So what did your parents do for a living?
+**02:45** - _Saron Yitbarek_
+
+你的父母是做什么工作的呢？
 
 **02:49** - _Dr. Gladys West_
 
-Well, we were farmers. We were a poor family. The kids worked the farm during the summer and in the evenings. It was busy, so we had plenty of good food because everything was so fresh and everything from the garden. Our money crop was tobacco.
+嗯，我们是农民。我们是一个贫穷的家庭。孩子们在夏天和晚上都在农场工作。我们都在忙于农作，所以我们有很多好的食物，因为一切都很新鲜，一切都来自农园里。我们的经济作物是烟草。
 
-**03:08** - _Saron Yitbarek_
+**03:08 - Saron Yitbarek**
 
-Did you want to do farming when you grew up?
+当时的你长大后想务农吗？
 
 **03:10** - _Dr. Gladys West_
 
-No, not really. I had been on that farm long enough to know that that wasn't a favorite kind of a life for me. I wanted something different. I wanted to leave the farm. I wanted to be educated. I just felt that I needed to go somewhere where I could use my talents and I guess enjoy my life better than working on that farm.
+不，我实际上并不想。我在那个农场呆的时间够长了，知道那不是我喜欢的一种生活。我想要些不一样的东西。我想离开农场。我想接受教育。我只是觉得我需要去一个能发挥我才能的地方，这样我的生活比在农场工作更好。
 
-**03:37** - _Saron Yitbarek_
+**03:37 - Saron Yitbarek**
 
-You mentioned that your family didn't have much money, but you did attend Virginia State College. What did it take for you to get in there and to pay for it?
+你提到你的家庭没有多少钱，但你确实上了弗吉尼亚州立大学。你是怎么进去的，又是怎么承担学费的呢？
 
 **03:46** - _Dr. Gladys West_
 
-My parents would always say that they are making this field here just for Gladys to go to college, and then they're supposed to save that money from the income of that crop. But it always turned out to be that there were some other needs that came up, and they always used it. So we didn't have a lot of savings waiting for me to go to college. And then one day I heard that the State of Virginia was going to give two scholarships to two graduating seniors from high school, and they had to be first and second in their class.
+我的父母总是说，他们在这里种地只是为了让 Gladys 上大学，然后他们应该从这块作物的收入中省下这笔钱。但结果总是有一些其它的需求出现，他们总是使用它。所以我们没有足够的积蓄来供我上大学。后来有一天，我听说弗吉尼亚州将可以为两名即将毕业的高中毕业生提供两份奖学金，他们必须是班里的第一名和第二名。
 
 **04:29** - _Dr. Gladys West_
 
-And I heard that, and right off, I just felt that I could earn one of those if I start working right now and work hard. So when I graduated, I did become first in my class. Life was just great after that. I knew I was going!
+当听到这个消息时，我立刻就觉得，如果我现在就开始努力学习，就能获得其中的一个。所以当我毕业的时候，我确实成了班里的第一名。从那以后，生活变得很美好。我就知道我要走了！
 
 **04:55** - _Saron Yitbarek_
 
-Dr. West wasn't just going to college either. After graduating in 1952, she got a job teaching math at a segregated school. She saved her income, so she could return for a master's degree in mathematics at Virginia State University, a historically Black institution. Then destiny came knocking in 1956. She was invited to come work as a mathematician at the Naval Proving Ground at Dahlgren, an institution that had just been desegregated.
+West 博士也不只是去上大学。1952 年毕业后，她在一所种族隔离的学校找到了一份教数学的工作。她把自己的收入存了起来，这样她就可以回到弗吉尼亚州立大学，一所历史悠久的黑人院校，攻读数学硕士学位。然后命运在 1956 年来敲门。她应邀来到位于达尔格伦的海军试验场担任数学家，那是一个刚刚废除种族隔离的机构。
 
 **05:24** - _Dr. Gladys West_
 
-Before, I had been in mostly a Black environment. Everybody was sort of compatible in that sense. And it wasn't blatant. We didn't have blatant discrimination, but there were things like maybe people stopping talking, being quiet when the Blacks walk in and that kind of thing. Maybe you didn't know too much about what was required for a promotion. Maybe that kind of detail wasn't told to you. We didn't have, like, a mentor to guide you and sort of lead you the way you should go for the best output.
+以前，我几乎是在一个全是黑人的环境中生活。在这个意义上，每个人都是相容的，而且都不会很显眼。我们没有明目张胆的歧视，但是可能会有一些事情，比如当黑人走进来的时候，人们会停止说话，保持安静，诸如此类的事情。也许你不太了解晋升的要求，也许没人告诉过你这种细节。我们没有导师之类的人来指导你，引导你去达到最好的效果。
 
 **06:11** - _Marvin Jackson_
 
-There was always talk in the corridors of, when will these people fail? Are they going to make it?
+在走廊里总有人说，这些人什么时候会失败？他们会不会成功？
 
 **06:19** - _Saron Yitbarek_
 
-That's Marvin Jackson. He's the co-author of Gladys West's memoir, _It Began with a Dream_.
+这位是 Marvin Jackson. 他是 Gladys West 回忆录<ruby>从一个梦想开始<rt>It Began with a Dream</rt></ruby>的合著者。
 
 **06:25** - _Marvin Jackson_
 
-But the thing about it, they were so strong. Like she said, when she first went there, people would look at her. When she went to the ladies' room or something, it's like they saw a ghost. Her thing was, she was far from being a ghost. But she said that after a while, they got used to it, and it was just like anything else in life. Everybody got used to each other. And she said that they gained a lot of good friends at Dahlgren.
+但问题是，黑人的存在感在那里是如此的强大。就像她说的，当她第一次去那里的时候，人们会看着她。当她去女厕所什么的，就像他们看到了一个鬼。她的想法是，她永远不可能是鬼。但她说，过了一段时间，他们就习惯了，就像生活中的其它事情一样。每个人都习惯了彼此。她说他们在达尔格伦结识了很多好朋友。
 
 **07:02** - _Saron Yitbarek_
 
-West was the fourth Black person they ever hired, and the team being assembled there was about to tackle some of the 20th century's largest problems. Gladys West was suddenly a long way from the tobacco fields of her youth.
+West 是他们雇佣的第四名黑人，而正在那里组建的团队即将解决一些 20 世纪最大的问题。Gladys West 突然远离了她年轻时的烟草田。
 
 **07:21** - _News Report_
 
-1957, the world entered the space age. A multi-stage rocket took off from a launching site in Russia. Launched the world's first artificial satellite, called the Sputnik 1.
+1957 年，世界进入太空时代。一枚多级火箭从俄罗斯的一个发射场起飞。发射了世界上第一颗人造卫星 "<ruby>斯普特尼克一号<rt>Sputnik 1</rt></ruby>"。
 
 **07:31** - _Saron Yitbarek_
 
-October 4, 1957. Soon after Gladys West arrived at Dahlgren, the Russian satellite Sputnik began orbiting the Earth at an altitude of 359 miles. The United States, determined to keep up, launched its own satellite, Explorer, the following year. And as the colonization of outer space progressed, an entirely new field opened up for those mathematicians at Dahlgren.
+1957 年 10 月 4 日，Gladys West 抵达达尔格伦后不久，俄罗斯人造卫星斯普特尼克开始在海拔 359 英里的地方绕地球运行。美国决心跟上，在第二年发射了自己的卫星“<ruby>探索者<rt>Explorer</rt></ruby>”。随着外太空殖民的发展，一个全新的领域为达尔格伦的数学家们打开了大门。
 
 **07:59** - _Gavin Schrock_
 
-Scientists had been waiting for a space-based Doppler signal.
+科学家一直在等待天基多普勒信号。
 
 **08:03** - _Saron Yitbarek_
 
-That's Gavin Schrock, a surveyor and also an editor at Geospatial World Magazine.
+这位是 Gavin Schrock，他是一名测量师，同时也是<ruby>《地理空间世界》<rt>Geospatial World Magazine</rt></ruby>杂志的编辑。
 
 **08:09** - _Gavin Schrock_
 
-When Sputnik went up in 1957, within its first couple of orbits, John Hopkins University researchers were getting the Doppler effect. The shift as the signal is coming towards you, it's sort of one pitch. And when it's going away from you, it's another. And with that difference, they're able to determine a position on the earth relative to the satellite and the position of the satellite relative to the earth.
+当 1957 年斯普尼克号升空时，约翰・霍普金斯大学的研究人员在其最初的几条轨道上发现了多普勒效应。当信号向你靠近时，它是一种音调。而当它离开你时，又是另一种音调。通过这种差异，他们能够确定地球上相对于卫星的位置以及卫星相对于地球的位置。
 
 **08:39** - _Saron Yitbarek_
 
-Scientists had realized that if you track a satellite carefully from the surface of the earth, and you applied the Doppler effect to your receiver, you could actually locate where you were on earth. By tracking satellites, you could find yourself. Suddenly our ability to find our place in the world grew infinitely finer. Soon, the Department of Defense had a number of satellite-based navigation systems. The Navy has something called Timation. The Air Force had Program 621B. The Army had SECOR.
+科学家们已经意识到，如果你从地球表面仔细地跟踪一颗卫星，并将多普勒效应应用到你的接收器上，你就能真正找到你在地球上的位置。通过跟踪卫星，你可以找到自己。突然间，我们找到自己在这个世界上的位置的能力变得无限精细。很快，国防部就有了许多基于卫星的导航系统。海军有一个叫”Timation“的东西。空军有 621B 计划。陆军有”SECOR“。
 
 **09:17** - _Saron Yitbarek_
 
-But what was missing was a single coordinated system that everyone could use. After many political wranglings within the military, a man named Bradford Parkinson assembled some of the country's top minds at the Pentagon for a weekend meeting in 1973. There, the master plan for a new global positioning system, GPS, was brought together, including key concepts like a passive one-way, four-dimensional user position. That meant an infinite number of users could conceivably access the system when it was finished.
+但是缺少的是一个每个人都可以使用的单一协调系统。在军方内部进行了多次政治角力之后，1973 年，一位名叫 Bradford Parkinson 的人在五角大楼召集了一些国家的顶尖人才，举行了一次周末会议。在那里，一个新的全球定位系统，GPS，的总体规划被汇集在一起，包括像被动单向，四维用户位置等关键概念。这意味着，当系统完成时，可以想象有无限多的用户访问系统。
 
 **09:55** - _Saron Yitbarek_
 
-The work was going to be way more intense and involved than what Eratosthenes could do with his sticks in the sand. Gladys West and her team would be asked to deliver next-level precision. Schrock explains:
+这项工作要比 Eratosthenes 用他的棍子在沙子里做的工作更加紧张和复杂。Gladys West 和她的团队将被要求提供更高水平的精度。Schrock 解释说：
 
 **10:09** - _Gavin Schrock_
 
-In the ancient eras, the math was actually pretty simple. Just working out some angles, some trigonometry. Where things really took off was in the 18th century. There was a geodesic mission to the equator, the French and Spanish one, in 1736. They were determined to measure the true length of two degrees of longitude. Very precise navigation was not going to be possible until they figured this out. There were too many discrepancies. Navigation at the time with the sextant and the clock was good, but that mission proved a lot of things.
+在古代，数学实际上很简单。只是计算出一些角度，一些三角关系。真正腾飞的年代是在 18 世纪。1736 年，法国和西班牙进行了一次赤道测地线任务。他们决心测量两个经度之间的真实长度。在他们弄清楚这一点之前，非常精确的导航是不可能的。误差太多了。六分仪和时钟的导航表现在当时是很好的，但是这一任务证明了很多事情。
 
 **10:49** - _Gavin Schrock_
 
-For the first time, we had a rough shape of the earth, and they had a pretty good idea of how a Ellipsoid could be computed, one of those egg-shaped models to fit over the earth. This is starting to get towards the kind of math that Dr. West would have to do, but it was, I don't know, maybe 5% as complex as the stuff that Dr. West would have had to do.
+有史以来第一次，我们有了地球的大致形状。他们对如何计算一个椭球体有了很好的认识，一个适合地球的蛋形模型。这就开始接近 West 博士需要做的数学运算了，但是，我不知道，可能比 West 博士需要做的复杂 5%。
 
 **11:17** - _Saron Yitbarek_
 
-To make a GPS system work properly, you need to perfect that model of the earth. You have to build a kind of imaginary shell that fits over the infinitely rough reality of the planet. To build that model, though, an enormous amount of calculations had to be managed first.
+为了让 GPS 系统正常工作，你需要完善这个地球模型。你必须建立一种想象中的外壳，以适应地球上无限粗糙的现实。然而，为了建立这个模型，首先必须进行大量的计算。
 
 **11:37** - _Gavin Schrock_
 
-The earth is a bumpy potato. Everybody knows that. That's fine. But how to correlate something like an elevation or a sea level on that is quite a bit more complicated, because elevation is a function more of the gravity, the mass of that bumpy earth, and how that affects which way the water flows. So you can have a spot that's sea level in one part of the earth, and it's actually many hundreds of meters above or below sea level in another part of the earth.
+地球就像一颗坑坑洼洼的土豆。每个人都知道这一点。这很好。但是如何将海拔或海平面与之联系起来就有点复杂了，因为海拔更多的是重力的函数，即崎岖不平的地球的质量，以及重力如何影响水流的方向。所以你可以测量到地球的一个地方是海平面，而它实际上是在地球的高于或低于海平面好几百米的另一个地方。
 
 **12:07** - _Saron Yitbarek_
 
-West's calculations at Dahlgren had to accommodate such complications. And in doing so, she helped build that finer geodesy, that finer model of the earth.
+West 在达尔格伦的计算必须考虑到这样的复杂性。通过这样做，她帮助建立了更精细的大地测量学，更精细的地球模型。
 
 **12:17** - _Gavin Schrock_
 
-So geodesy was fundamental to GPS in ways that people don't really realize, and it was a lot of hard work to pull it off. To be able to get GPS to be able to measure, initially they just wanted plus or minus 10 meters, was the charter for the US Air Force. If you want it to measure to a meter, or nowadays because the geodesy is so well-refined, you can measure to the centimeter and even over a time series, say structural monitoring, down to millimeters. But to pull this off, you had to refine the geodesy.
+所以人们并没有意识到大地测量学是 GPS 的基础，这需要很多努力才能实现。为了能够让 GPS 能够被测量，最初他们只需要正负 10 米的误差，这是美国空军的初衷。如果你想测量精确到米，或者现在因为大地测量学非常精密，你可以精确到厘米，甚至在一个时间序列中，例如结构监测，可以精确到毫米。但要做到这一点，你必须改进大地测量学。
 
 **12:54** - _Gavin Schrock_
 
-You needed this very perfected model of not only the shape of the earth, but the earth's gravity and the correlation between the two.
+你需要这个非常完善的模型，不仅要了解地球的形状，还要了解地球的引力以及两者之间的关系。
 
 **13:03** - _Saron Yitbarek_
 
-Schrock describes a positive feedback loop where GPS tech grew more and more sophisticated, thanks to the refinement of that model Gladys West was working on.
+Schrock 描述了一个正反馈循环，GPS 技术变得越来越复杂，这得益于 Gladys West 正在研究的那个模型的完善。
 
 **13:13** - _Gavin Schrock_
 
-They were taking satellite-based observations and turning it into a refined model of the earth that would in turn improve the satellite-based systems. GPS would have been pretty useless without it. It was great that there were all of these wonderful people that kept getting all these awards for building the GPS system, but it wasn't going to be any good. It was like building the record player without the vinyl to run on it. You couldn't have a great GPS system without the geodetic foundation. That's why folks that are sort of into the esoterics of GPS see Dr. West as a real hero.
+他们正在利用基于卫星的观测数据，并将其转化为精炼的地球模型，这将反过来改善这个基于卫星的系统。如果没有它，GPS 就会变得非常无用。有这么多优秀的人因为建立 GPS 系统而不断获得这些奖项是一件好事，但它不会有任何好处。这就像建造一个没有黑胶唱片的唱片机一样。没有大地测量的基础，你就不可能有一个伟大的 GPS 系统。这就是为什么那些对 GPS 的深奥知识有兴趣的人把 West 博士视为真正的英雄。
 
 **13:55** - _Saron Yitbarek_
 
-But making the model itself proved so incredibly complicated that even someone like West would need a little help, and help had arrived at exactly the right moment in the form of the world's first supercomputers.
+但事实证明，制作模型本身是如此复杂，即使是像 West 这样的人也需要一点帮助，而帮助恰好在最恰当的时候出现了，那就是世界上第一台超级计算机。
 
 **14:11** - _Paul Ceruzzi_
 
-I'm Paul Ceruzzi. I am a retired curator at the Smithsonian Institution's National Air and Space Museum.
+我是 Paul Ceruzzi，是<ruby>史密森学会国家航空航天博物馆<rt>Smithsonian Institution's National Air and Space Museum</rt></ruby>的一名退休馆长。
 
 **14:19** - _Saron Yitbarek_
 
-We contacted Ceruzzi who literally wrote the book on GPS to find out about the tech Gladys West was able to work with at Dahlgren.
+我们联系了 Ceruzzi，准确来讲，他写了一本关于 GPS 的书，我们以此了解 Gladys West 在达尔格伦能够使用的技术。
 
 **14:28** - _Paul Ceruzzi_
 
-She was in charge of a computing activity that took that data from tracking satellites in space and tracked the anomalies, the variations in their orbits, which she then was able to translate into an understanding of what was causing those variations, namely the variations of the earth's gravity. So her accomplishment was really the translation of this data into a knowledge of the earth's shape, which of course, is very important not just for GPS, but for lots of other things.
+她负责一项计算活动，从太空中的跟踪卫星上获取数据，跟踪异常情况，以及它们轨道的变化，然后她能够将这些数据转化为对造成这些变化的原因的理解，也就是地球引力的变化。所以她的成就就是将这些数据转化为地球形状的认识，当然，这不仅对 GPS 非常重要，对很多其它事情也很重要。
 
 **15:06** - _Paul Ceruzzi_
 
-She worked using these sophisticated IBM computers. And also in the 1950s and '60s, Dahlgren was one of the world's computing centers, believe it or not. Some of the top computers in the world were located there.
+她使用这些复杂的 IBM 电脑工作。而且在 20 世纪 50 年代到 60 年代，不管你信不信，达尔格伦是世界上的计算中心之一。世界上的一些顶级计算机都在那里。
 
 **15:25** - _Saron Yitbarek_
 
-Increasingly precise models of the earth could be made because the mathematicians at Dahlgren had access to IBM supercomputers. And in 1962, the 7030 had arrived, nicknamed Stretch. It was also used at Los Alamos in the race toward atomic development. Stretch was capable of computing at an unprecedented scale, because it was IBM's first transistorized supercomputer. Older versions had used vacuum tubes. Stretch could handle half-a-million instructions per second. And at 60 components, cost about US$70 million in today's dollars.
+由于达尔格伦的数学家们可以使用 IBM 的超级计算机，因此可以制作越来越精确的地球模型。而在 1962 年，7030 已经诞生，绰号为 Stretch。它也被用于洛斯阿拉莫斯的原子发展竞赛中。Stretch 能够以前所未有的规模进行计算，因为它是 IBM 的第一台晶体管超级计算机。较早的版本使用的是真空管。Stretch 每秒可以处理 50 万条指令。以今天的美元计算，60 个部件的成本约为 7000 万美元。
 
 **16:07** - _Saron Yitbarek_
 
-Wow. Yet by our standards, Stretch wasn't that super. Gavin Schrock gives us a sense of how arduous that work really was. Here he describes their work determining the orbits of Pluto and Neptune on another early supercomputer, the NORC.
+哇。虽然按照我们现在的标准，Stretch 并没有那么出色。但 Gavin Schrock 让我们感受到了这项工作的艰巨性。在这里，他描述了他们在另一台早期超级计算机 NORC 上确定冥王星和海王星的轨道的工作。
 
 **16:24** - _Gavin Schrock_
 
-Naval Ordinance Research Calculator or NORC, it entailed five billion calculations and about a hundred hours of processing time. This could be done on your phone in a few seconds, but it can only be done because the processes that go into it, all of the computations and the nuances between them to prove each other out have been proven over decades. The early pioneers were the ones that went, "Okay, we can teach this computer to do a simple calculation, a very straightforward calculation. But what about when putting in all these other variables?"
+<ruby>海军条例研究计算器<rt>Naval Ordinance Research Calculator</rt></ruby>，简称 NORC，它需要 50 亿次计算和大约 100 小时的处理时间。这可以在你的手机上在几秒钟内完成，但这只能是因为，其中的过程、所有的计算和它们之间相互证明的细微差别已经被证明了几十年。早期的先驱们说：“好吧，我们可以教这台电脑做一个简单的计算，一个非常直接的计算。但是如果把所有其它变量都放进去呢？”
 
 **17:01** - _Gavin Schrock_
 
-So they had to do everything by hand to make sure that it would work as they put it into the computer.
+所以他们必须手工操作以确保在输入电脑时能够正常工作。
 
 **17:10** - _Saron Yitbarek_
 
-Gladys West and others at Dahlgren were in fact often using slide rules to manually do their calculations, and these were then incorporated into decks of punch cards they handed over to punch operators who had access to the supercomputers. Paul Ceruzzi.
+Gladys West 和达格伦的其他人实际上经常使用计算尺来手动计算，然后这些计算尺被整合到一组打孔卡中交给能够使用超级计算机的打孔操作员——Paul Ceruzzi。
 
 **17:27** - _Paul Ceruzzi_
 
-For security reasons, only very few people were allowed in that room because it's a multimillion dollar installation. You didn't want somebody pressing the wrong button or something like that. That's the way it was. You would submit your program. You'd wait. It would rerun, and then that would come, sometimes hours or a day later, as a printout, a big giant piece of fan-folded paper, uppercase only, a big giant printer. It made a horrendous racket, but it was actually a good sound. When you heard that racket, you knew that the computer was working and giving you an answer.
+出于安全原因，只有极少数人被允许进入那个房间，因为这是一个价值数百万美元的装置。你不希望有人按错按钮或类似的事情。事情就是这样。你会提交你的程序。你会等待。它将重新运行，然后会出现，有时是几个小时或一天后，作为打印输出，一张巨大的扇形折叠纸，只有大写字母，一个巨大的打印机。它发出可怕的噪音，但它实际上是一种好声音。当你听到这种喧闹声，你就知道电脑在工作，并给你一个答案。
 
 **18:02** - _Saron Yitbarek_
 
-Punch card by punch card, Gladys West and the rest of the Dahlgren mathematicians were using the Stretch supercomputer to painstakingly hone their models of the geoid.
+一张接一张地打孔，Gladys West 和其他达尔格伦的数学家们正在用超级计算机 Stretch 努力打磨着他们的大地水准面模型。
 
 **18:14** - _Gavin Schrock_
 
-They didn't have a second computer or a second set of people coming up with alternate algorithms to prove it out. They had to get right the first time. She says her primary job was not thinking about all of these future end uses, it was getting it right. So at the time it was doing it by hand on one hand with a pen and paper and running it through the computer and seeing how it worked out.
+他们没有第二台计算机，也没有第二组人想出替代算法来证明这项工作。他们必须在第一次就获得成功。她说，她的主要工作不是考虑所有这些未来的最终用途，而是要把它做对。因此，当时是完全是用手拿着纸和笔在电脑上运行看看结果如何。
 
 **18:45** - _Saron Yitbarek_
 
-By the early 1980s, the GPS project was finally taking shape. This would be a universal and truly global positioning system that would redefine the way we orient ourselves to the planet. But even then, skeptics were complaining about its expense. Why build something new when separate disjointed systems already existed? But those arguments went up in smoke in the fall of 1983.
+到 20 世纪 80 年代初，GPS 项目终于成形。这将是一个通用的、真正的全球定位系统，它将重新定义我们对地球的定位方式。但即使在那时，怀疑论者也在抱怨其费用。既然已经有了独立分离的系统，为什么还要建造新的东西？但这些争论在 1983 年秋天就烟消云散了。
 
 **19:15** - _Audio_
 
-My fellow Americans, I'm coming before you tonight about the Korean Airline massacre. This crime against humanity must never be forgotten.
+我的美国同胞们，今晚我要向你们介绍大韩航空公司大屠杀。我们永远不能忘记这一危害人类的罪行。
 
 **19:22** - _Paul Ceruzzi_
 
-A Korean airliner was shot down by the Soviet Union who mistook it for an American spy plane. The Korean airliner had strayed off course. It was using another navigation system, so-called inertial navigation. There was some issue about misreading of the data. It was one of the lowest points, or most dangerous points, of the Cold War between the US and the Soviet Union.
+一架韩国客机被苏联误认为是美国侦察机而击落。那架韩国客机偏离了航线。它使用的是另一种导航系统，即所谓的惯性导航。关于误读数据存在一些问题。那是美苏冷战时期的最低点，或者说最危险的时刻之一。
 
 **19:50** - _Saron Yitbarek_
 
-And in the midst of that disaster came a new push for GPS.
+而在这场灾难中，又出现了对 GPS 的新推动力。
 
 **19:54** - _Paul Ceruzzi_
 
-Then President Reagan made an announcement that said that this GPS system, which was then under development, would be made available worldwide for navigation purposes. That took the planners of GPS a little bit by surprise because it wasn't quite ready yet, but it also put the consciousness of this system in the public's eye. Everybody now realized that there was this system. If and when it got finished, it would be very useful. It would save lives. It was worth the money.
+然后 Reagan 总统宣布，这个当时正在开发的 GPS 系统将在全球范围内用于导航。这让 GPS 的规划者有点意外，因为它还没有完全准备好，但它也让这个系统的概念进入了公众的视野。现在每个人都意识到有这个系统。如果它完成了，它将非常有用。它能够挽救生命。这个经费的花销是值得的。
 
 **20:26** - _Paul Ceruzzi_
 
-So all of those debates over the funding, which were raging in the Pentagon and in Congress, those debates went away.
+所以所有那些在<ruby>五角大楼<rt>Pentagon</rt></ruby>和<ruby>国会<rt>Congress</rt></ruby>关于资金的激烈辩论都消失了。
 
 **20:35** - _Saron Yitbarek_
 
-Finally, there was full support for GPS. By the early 1990s, this enormous project, which would redefine our planet and our position on that planet, was finished at last.
+最后，他们所有人都全面支持 GPS。到 1990 年代初，这个将重新定义我们的星球和我们在星球上位置的庞大工程终于完成了。
 
 **20:49** - _Paul Ceruzzi_
 
-And it has worked exactly as planned or better, really better than planned.
+它和计划的一样甚至更好，比计划的更好。
 
 **21:01** - _Saron Yitbarek_
 
-At the time, Gladys West may not have guessed how great of an impact her work at Dahlgren would eventually have. But then again, nobody could have imagined how GPS was going to influence, guide, and shape our lives.
+当时，Gladys West 可能没有想到她在 Dahlgren 的工作最终会产生多大的影响。但话又说回来，没有人能想象 GPS 将如何影响、引导和塑造我们的生活。
 
 **21:16** - _Todd Humphreys_
 
-I am Todd Humphreys, an associate professor of aerospace engineering at the University of Texas at Austin.
+我是 Todd Humphreys，德克萨斯大学奥斯汀分校航空航天工程副教授。
 
 **21:23** - _Saron Yitbarek_
 
-We went to Todd Humphreys for a look at all the ways West's work is still evolving. It's become so entrenched that life as we know it would be impossible without it. Economists around the world have gamed out what it would look like to go a week without GPS or even a day.
+我们去 Todd Humphreys 那里看了看 West 的工作仍在以何种方式发展。它已经变得如此根深蒂固，以至于我们所知的生活已经不可能没有它了。世界各地的经济学家已经计算出没有 GPS 的一周甚至一天会是什么样子。
 
 **21:42** - _Todd Humphreys_
 
-What they showed was that a prolonged duration would have trillions of dollars of damage to the economy. So going without this wonderful resource that rains down from medium earth orbit would really cripple our economy, and it shows how dependent and how grateful we are for this resource, because we really do benefit from it in a significant way.
+他们所展示的是，长期持续会给经济带来数万亿美元的损失。所以如果没有这些从中地球轨道落下的美妙的资源，我们的经济将会瘫痪，这表明了我们对这些资源的依赖和感激，因为我们确实从它中受益匪浅。
 
 **22:09** - _Saron Yitbarek_
 
-As we've grown more dependent, we've also fine tuned the earlier work from Dahlgren and building that more and more perfect model of the planet allows for finer applications.
+随着我们的依赖性越来越强，我们也对在 Dahlgren 早期的工作进行了微调，并构建了越来越完美的地球模型，以实现更精细的应用。
 
 **22:21** - _Todd Humphreys_
 
-If you were able to take a look at a graph of the errors that GPS has, and its solution at the surface of the earth since the time it became fully operational, around 1995 to today in 2020, you'd be very pleased to see how it's improved every year. Many of those improvements have to do with better orbital modeling. Geodesy aids in the improved orbital modeling that is contributing to every year better, more accurate GPS. I think we've basically flattened out.
+如果你能看一看 GPS 的误差图表，以及它在地球表面的解决方案，从它完全投入使用以来，大约是 1995 年到 2020 年的今天，你会很欣慰地看到它是如何逐年改进的。其中许多改进与更好的轨道建模有关。大地测量有助于改进轨道建模，每年都有助于建立更好、更准确的 GPS。
 
-**23:00** - _Todd Humphreys_
+**22:57** - _Todd Humphreys_
 
-We really can't model the gravitational field of the earth or the earth's shape to any higher resolution that would provide better accuracy for GPS.
+我认为我们已经基本做到极致了。我们真的不能再用更高的分辨率来模拟地球的重力场或地球的形状从而为 GPS 提供更好的精度。
 
 **23:12** - _Saron Yitbarek_
 
-Today, GPS enables the entire rideshare industry. It supercharges our personal wayfinding. It's how every Amazon delivery is tracked around the world. It's estimated that the US alone gains more than $66 billion annually in raw economic improvements thanks to GPS.
+今天，GPS 使整个共享出行行业成为可能。它增强了我们的个人寻路能力。亚马逊在全球各地的配送都是通过这个系统追踪的。据估计，由于全球定位系统，仅美国每年就获得超过 660 亿美元的原始经济改善。
 
 **23:34** - _Todd Humphreys_
 
-That is an amazing benefit to each person living today, and we owe that to the pioneers like Gladys West and other people who contributed to GPS in all of their multifaceted ways. We are just basking in the blessings of having this great resource.
+这对生活在今天的每一个人来说都是一个惊人的好处，我们应该感谢像 Gladys West 这样的先驱者和其他以各种方面的方式为全球定位系统做出贡献的人。我们只是沐浴在拥有这个伟大的资源的祝福中。
 
 **24:01** - _Gwen James_
 
-My name is Gwen James. Dr. West and I belong to the same sorority, Alpha Kappa Alpha Sorority Incorporated.
+我叫 Gwen James。West 博士和我属于同一个联谊会，<ruby>阿尔法卡帕，阿尔法姐妹联谊会<rt>Alpha Kappa Alpha Sorority, Incorporated®</rt></ruby>。
 
 **24:14** - _Saron Yitbarek_
 
-Gwen James was at a sorority meeting honoring older members when Gladys West's brief bio was read aloud.
+Gwen James 当时正在参加联谊会的一个表彰老成员的会议，Gladys West的简介被大声宣读。
 
 **24:21** - _Gwen James_
 
-After the meeting, I went to her and I said, "Dr. West, I had no idea that you worked on the GPS. How amazing it is. There's no segment of our society that doesn't use the GPS." And I said to her, I said, "Well, would you mind if I try to get your story told?" And her response to me was, "Well, you think it's worth telling?" And I'm like, "Uh, yes. I certainly do think it's worth telling."
+会后，我去找她说：“West 博士，我不知道你在研究 GPS。真是太棒了。我们的社会中没有哪个阶层不在使用 GPS。” 我对她说，“那么，你介意我试着把你的故事讲出来吗？” 她对我的回答是，“好吧，你认为值得说吗？” 我想，“嗯，是的。我当然认为值得一提。”
 
 **24:57** - _Saron Yitbarek_
 
-James took the story to a newspaper journalist who wrote an article that got picked up nationally by the Associated Press. For James, this was long overdue credit, but she's not very surprised that it took so long.
+James 把这个故事带给了一位报纸记者，他写了一篇文章，而这篇文章被<ruby>美国联合通讯社（美联社）<rt>Associated Press</rt></ruby>在全国范围内转载。在 James 看来，这是迟到的功劳，但她对花了这么长时间并不感到惊讶。
 
 **25:12** - _Gwen James_
 
-Keep in mind, it was the time when Black people and white people couldn't even go to the bathroom together. They couldn't use the same water fountain. For other people to take credit, for white people to take credit for that work, that was just the way it was. I mean, that was just the way the country was at that time.
+请记住，那时候黑人和白人甚至不能一起上厕所。他们不能用同一个饮水机。让其他人抢功劳，让白人抢功劳，事情就是这样。我的意思是，这就是这个国家当时的情况。
 
 **25:39** - _Saron Yitbarek_
 
-James believes that the more we dig into the history of Black inventors, Black mathematicians and scientists, the more we'll discover that heroes like Gladys West aren't so rare after all. They were always there, ready to be seen.
+James 认为，我们越深入研究黑人发明家、数学家和科学家的历史，就越会发现像 Gladys West 这样的英雄并不罕见。他们一直在那里，随时准备被发现。
 
 **25:55** - _Gwen James_
 
-Dr. West and folks like Katherine Johnson and some of the other hidden figures, they're really not anomalies. These men and women, back in days of segregation, days of Jim Crow, they've always had the intelligence. They always had the wherewithal. They just never received credit for their work because of racism. So had not someone just like I did with Dr. West, someone found out about Katherine Johnson and the other hidden figures, and thought their story was amazing and couldn't believe that no one knew, there are a lot of people around, men and women of color, that never got credit for the work that they did in engineering, in mathematics, in the sciences. So they're not anomalies.
+West 博士和像 Katherine Johnson 这样的人还有其他一些隐藏的人物，他们真的不是异类。这些男人和女人，早在种族隔离的时代里，在<ruby>吉姆·克劳法<rt>Jim Crow</rt></ruby>的岁月中，他们一直都很有智慧。他们总是有必要的资金。只是由于种族主义，他们的工作从未得到过赞扬。因此，如果不是有人像我和 West 博士一样，发现了 Katherine Johnson 和其他隐藏人物，并认为他们的故事是惊人的，不敢相信没有人知道，周围有很多人，有色人种的男人和女人，从来没有因为他们在工程、数学和科学领域所做的工作而得到赞扬。因此，他们并不是异类。
 
 **27:01** - _Saron Yitbarek_
 
-They're not anomalies at all. And West's accomplishments speak to the potential in any number of little girls before the civil rights movement, fighting their way onto the stage. Author Marvin Jackson.
+他们根本不是异类。West 的成就说明了在民权运动之前任何一个小女孩身上的潜力——作家 Marvin Jackson。
 
 **27:13** - _Marvin Jackson_
 
-I call her—my term is “recently recognized,” because she basically was always there, but now she's being recognized for all the hard work she did. I just think that it's important that we recognize people like Gladys and the contributions they made. I mean, and they did it at an even more difficult time than now. And so that should give young girls a reason to be more positive about doing these types of things, because it will be a lot easier for them now to do these things than when it was for Gladys.
+我对她的评价——我的说法是 "最近被认可的"，因为她的成就原本一直在那里，但现在她的努力得到了认可。我只是觉得认识 Gladys 这样的人以及他们所做的贡献很重要。我的意思是，他们在比现在更困难的时候取得了这一成果。因此，这应该给年轻女孩一个激励，让她们更积极地去做这些事情，因为对她们来说，现在做这些事情会比格拉迪斯的时候容易得多。
 
 **28:00** - _Saron Yitbarek_
 
-Later, West would build on early GPS breakthroughs by contributing to the Geosat Satellite Mission in the 1980s, where she helped determine the height of oceans down to the inch. And even when her 42-year career had ended, she remained a fanatic for precision and for excellence at levels that most of us never even contemplate. After retiring in 1998, West went on to get her doctor of philosophy degree in public administration at the age of 70. She was the only Black woman in her program. And just this last summer, she published her memoir entitled, _It Began With a Dream_.
+后来，West 在早期 GPS 突破的基础上，在 20 世纪 80 年代为地球卫星任务做出了贡献，在那里她帮助确定了精确到英寸的海洋的高度。即使在她 42 年的职业生涯结束后，她仍然是一个追求精确和卓越的狂热者，其水平甚至是我们大多数人从未考虑过的。1998 年退休后，West 在 70 岁时继续获得她的公共管理博士学位。她是她的项目成员中唯一的黑人女性。就在去年夏天，她出版了她的回忆录，题为《<ruby>始于梦想<rt>It Began With a Dream</rt></ruby>》。
 
 **28:43** - _Saron Yitbarek_
 
-Here's a bit more of our conversation. In 2018, the Air Force Space Command made you the first Black woman inducted into the Pioneer Hall of Fame. What did that honor mean to you?
+下面是我们谈话的一些内容。
+
+**28:45** - _Saron Yitbarek_
+
+在 2018 年的时候，<ruby>空军航天司令部<rt>Air Force Space Command</rt></ruby>让您成为第一个入选<ruby>先锋名人堂<rt>the Pioneer Hall of Fame</rt></ruby>的黑人女性。这一荣誉对您意味着什么？
 
 **28:57** - _Dr. Gladys West_
 
-Oh yeah. Oh yeah, that was fantastic. I mean, it was unbelievable. You're walking around for a few days wondering who you are.
+噢，是的。是啊，太棒了。我是说，这太不可思议了。那会儿过了好几天了我还在晕头转向。
 
 **29:12** - _Saron Yitbarek_
 
-So do you feel it should have come sooner?
+您觉得它应该早点来吗?
 
 **29:15** - _Dr. Gladys West_
 
-I think that this is about the right time. I can't think of a better time, I’m sort of at the end. You don't want to wait too late so you can enjoy it. So now I can get to sort of enjoy what has happened to me.
+我觉得现在正是时候。我想不出比这更好的时间了，我快到生命的终点了。你不想等到太晚，这样你就可以享受它了。所以现在我可以享受发生在我身上的事情了。
 
 **29:33** - _Saron Yitbarek_
 
-So based on what you've seen over the past 89 years, do you believe the culture in technology and science has evolved its attitude towards Black innovators?
+所以，根据您在过去 89 年的观察，您认为科技文化已经改变大众对黑人创新者的态度了吗?
 
 **29:42** - _Dr. Gladys West_
 
-I've been thinking about this interval of time that has really passed over. And looking back at the real early times, taking folks’ inventions and ideas and all was sort of done without much shame, I guess. You just sort of do your thing and take credit for it.
+我一直在想这段时间真的过去了。回顾真正的早期时代，采纳人们的发明和想法以及所有方法来完成工作，并不是一件羞耻的事情，这是我的观点。你只是做你自己的事，并以此为荣。
 
 **30:03** - _Saron Yitbarek_
 
-What advice or words of encouragement would you give to other Black technologists and scientists?
+您对其他黑人技术专家和科学家有什么建议或鼓励的话？
 
 **30:08** - _Dr. Gladys West_
 
-I find that I had to work hard, and I had to not be discouraged, and treat others as you want to be treated. Set goals and work regardless of what somebody else is doing. Never give up and always be your best. And I guess just be yourself.
+我认为我们必须努力工作，而且我们必须不气馁，以你希望被对待的方式对待他人。设定目标，不管别人在做什么，都要努力。永远不要放弃，永远做你最好的自己。我想只要做你自己就可以了。
 
 **30:33** - _Saron Yitbarek_
 
-Wise words.
+明智之言。
 
 **30:44** - _Saron Yitbarek_
 
-The mission to map the world and find our place in it didn't end with Gladys West, of course. Even as we put the finishing touches on this episode, the Chinese government finished launching its own constellation of satellites, powering their Baidu system, an alternative to GPS. Russia, meanwhile, has its own system too, GLONASS. And SpaceX has been launching satellites of their own, creating the Starlink constellation to provide a further GPS alternative.
+当然，绘制世界地图并找到我们在其中的位置的任务并没有结束于 Gladys West。就在我们对这一集做最后的修改时，中国政府已经完整发射了自己的卫星群，为他们的北斗导航系统赋能，这是 GPS 的替代品。与此同时，俄罗斯也有自己的 GLONASS 系统。SpaceX 也在发射自己的卫星，创建星链星座，以提供进一步的 GPS 替代方案。
 
 **31:16** - _Saron Yitbarek_
 
-What started as a moonshot program that stretched the limits of modern math has become a necessity of modern life. Because, just like Gladys West herself, now that we found ourselves on this big bumpy potato of a world, we don't plan on ever going missing again. We discovered lots more fascinating material on Gladys West and the emergence of GPS. You can check it all out over at redhat.com/commandlineheroes.
+起初是一个延伸了现代数学极限的登月计划，现在已经成为现代生活的必需品。因为，就像 Gladys West 本人一样，既然我们已经发现自己身处这个像崎岖不平的大土豆的世界上，我们不打算再次迷失自我。我们发现了更多关于 Gladys West 和 GPS 诞生的有趣的资料。你可以在 redhat.com/commandlineheroes 上查看全部内容。
 
 **31:51** - _Saron Yitbarek_
 
-Command Line Heroes is an original podcast from Red Hat. Next time we introduce you to Mark Dean, the inventor who made the computer personal. I'm Saron Yitbarek. Keep on coding.
+代码英雄是红帽的原创播客。下回我们将为你介绍 Mark Dean，个人电脑的发明者。我是 Saron Yitbarek。编程不止。
 
 --------------------------------------------------------------------------------
 
