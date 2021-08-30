@@ -18,7 +18,7 @@
 
 ![](https://www.redhat.com/cms/managed-files/img-clh-s4e6-hero-455x539.png)
 
-本文是《[代码英雄](https://www.redhat.com/en/command-line-heroes)》系列播客[《代码英雄》：第四季（7）：游戏主机 —— Dreamcast 的新生](https://www.redhat.com/en/command-line-heroes/season-4/consoles)的[音频](https://cdn.simplecast.com/audio/a88fbe/a88fbe81-5614-4834-8a78-24c287debbe6/0570a364-531f-472f-82f6-6b552fb07701/clh-s4e7-sega-dreamcast-vfinal-20200407_tc.mp3)脚本。
+本文是《[代码英雄](https://www.redhat.com/en/command-line-heroes)》系列播客[《代码英雄》：第四季（7）：游戏机 —— Dreamcast 的新生](https://www.redhat.com/en/command-line-heroes/season-4/consoles)的[音频](https://cdn.simplecast.com/audio/a88fbe/a88fbe81-5614-4834-8a78-24c287debbe6/0570a364-531f-472f-82f6-6b552fb07701/clh-s4e7-sega-dreamcast-vfinal-20200407_tc.mp3)脚本。
 
 > 导语：游戏机是开创性的机器。Dreamcast（DC）推动了游戏机所能做到的极限。但这并不足以保证商业上的成功。但尽管它在商业上失败了，可粉丝们说，从没有其它游戏机取得过如此大的成就。
 > 
