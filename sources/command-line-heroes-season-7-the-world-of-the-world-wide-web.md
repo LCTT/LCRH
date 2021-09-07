@@ -7,11 +7,12 @@
 [#]: via: (https://www.redhat.com/en/command-line-heroes/season-7/world)
 [#]: author: (RedHat https://www.redhat.com/en/command-line-heroes)
 
-Command Line Heroes: Season 7: The World of the World Wide Web
+代码英雄: 第7季: 万维网世界
 ======
 **00:04** - _Archival Audio_
 
 From Georgia to Palo Alto, from Oslo to Singapore, a vast array of information is being made available in attractive, easy-to-use form and for free, over the internet. A global electronic mall is under construction. People congregate here, interact here, and find the information they want. And here too...
+从<ruby>乔治亚州<rt>Georgia</rt></ruby>到<ruby>帕罗奥图<rt>Palo Alto</rt></ruby>,从<ruby>奥斯陆<rt>Oslo</rt></ruby>到<ruby>新加坡<rt>Singapore</rt></ruby>，大量的有吸引力的信息在互联网上免费分享开来。全球的电子商务逐步搭建起来了。人们聚集在这里互相叫卖，同时寻找他们想要的信息。这里也太...
 
 **00:30** - _Saron Yitbarek_
 
