@@ -11,17 +11,15 @@
 ======
 **00:04** - _Archival Audio_
 
-From Georgia to Palo Alto, from Oslo to Singapore, a vast array of information is being made available in attractive, easy-to-use form and for free, over the internet. A global electronic mall is under construction. People congregate here, interact here, and find the information they want. And here too...
-
 从<ruby>乔治亚州<rt>Georgia</rt></ruby>到<ruby>帕罗奥图<rt>Palo Alto</rt></ruby>,从<ruby>奥斯陆<rt>Oslo</rt></ruby>到<ruby>新加坡<rt>Singapore</rt></ruby>，有大量的信息在互联网上以醒目的，易于获取的形式免费分享开来。一个全球性的电子商务正在搭建起来。人们聚集在这里互相交流，同时寻找他们想要的信息。这里也太...
 
 **00:30** - _Saron Yitbarek_
 
-In 1995, the world was coming online. But that global electronic mall wasn't being built everywhere in the same way. There's an old quote from the author, William Gibson, that you might know, "The future is already here. It's just not evenly distributed." And that was never more true than the mid-90s when countries around the planet were racing to join the digital revolution. By that point, 9% of Americans were already online, but only 2% of people living in Eastern Europe and Asia had access to the internet.
+在 1995 年，网络世界已经到来。但是国际化的电子商务还没有按照同样一个形式在世界各地建立。你可能知道的<ruby>威廉姆·吉布森<rt>William Gibson</rt></ruby>的名言，“未来已经到来，只是它还没有打开。”这是在90年代各个国家加入数字革命竞赛的真实写照。当时，美国用户已经有9%在线，而西欧和亚洲仅有2%的用户已经访问过因特网。
 
 **01:07** - _Saron Yitbarek_
 
-In some histories, the internet is this American invention that gets packed up and exported to everybody else. It's a cartoonish idea of a global village where everybody comes to hang out, but things were a lot more complicated than that. Every nation has its own economic, cultural, and political dynamics that fundamentally changed the way they came online.
+在一些历史里，因特网描述为一个发明，然后打包起来出口到其他国家。这个一个卡通式的国际化小镇，所有人都到这里来玩，但是实际上比这个比喻更复杂。所有国家的人都有自己的经济，文化和政治形态，这会在根本上改变他们在线形式。
 
 **01:34** - _Saron Yitbarek_
 
