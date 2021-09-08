@@ -23,15 +23,15 @@
 
 **01:34** - _Saron Yitbarek_
 
-I'm Saron Yitbarek and this is Command Line Heroes, an original podcast from Red Hat. We've devoted all season to that pivotal year, 1995, when earlier networks like the ARPANET and the NSFNET gave way to the world wide web. But when we talk about the shift to online life, we often take an American point of view, yet different countries have very different onramps to the internet and the world wide web. So for this episode, we're breaking it up into three mini episodes. We'll visit 3 different nations to learn how they each built their own online futures back in 1995.
+我是 Saron Yitbarek，这里是代码英雄，一个来自红帽的原创播客。我们节目的整季都贡献给了关键那一年，1995，而那时的早期网络如 <ruby>阿帕网<rt>APPANET</rt></ruby>和 <ruby>美国国家科学基金会网<rt>NSFNET</rt></ruby> 都已经给万维网让位了。但当我们讨论如何迁移互联网生活，我们总是从美国人的角度考虑，实际上不同国家接入互联网和万维网有不同匝道。从这集开始，我们将这个话题分为三个子集：我们将访问三个不同的国家去学习他们在1995年是如何构建线上未来的。
 
 **02:19** - _Saron Yitbarek_
 
-Let's start our time-traveling journey with France. In 1995, the internet was arriving in France, but France Telecom, the giant telecommunications company now known as Orange was not so happy about the internet's arrival. One senior executive was even telling journalists, the internet would be banned, and why? Because France already had an internet of its own, thank you very much.
+让我们开始我们的时间旅行到1995年的法国。互联网技术传播到法国，<runy>新西兰电信<rt>Telecom</rt></ruby>，电信巨头也就是现代熟知的 Orange 公司非常不爽互联网的到来。 一个高管甚至告诉记者，互联网是被禁止的，为什么呢？因为法兰西已经有了自己的互联网，非常感谢。
 
 **02:50** - _Julien Mailland_
 
-I grew up with this system called Minitel.
+我是伴随这个叫 Minitel 的系统长大的。
 
 **02:53** - _Saron Yitbarek_
 
