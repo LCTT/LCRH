@@ -36,6 +36,7 @@
 **02:53** - _Saron Yitbarek_
 
 Julien Mailland is an associate professor of telecommunications at Indiana University, but he grew up in France in the 70s and 80s, and he wrote a book on the network that thrived during that time. The book was called Minitel and that was also the name of France's precursor to the internet.
+<ruby>朱利安·梅兰<rt>Julien Mailland</rt></ruby>是一名<ruby>印第安纳大学<rt>Indiana University</rt></ruby>的电信学副教授，但他在法国的70,80年代长大，他写过一本关于那个时代网络的书。这个书名叫 Minitel 也是法兰西互联网先驱的名字。
 
 **03:13** - _Julien Mailland_
 
