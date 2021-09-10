@@ -35,24 +35,24 @@
 
 **02:53** - _Saron Yitbarek_
 
-Julien Mailland is an associate professor of telecommunications at Indiana University, but he grew up in France in the 70s and 80s, and he wrote a book on the network that thrived during that time. The book was called Minitel and that was also the name of France's precursor to the internet.
 <ruby>朱利安·梅兰<rt>Julien Mailland</rt></ruby>是一名<ruby>印第安纳大学<rt>Indiana University</rt></ruby>的电信学副教授，但他在法国的70,80年代长大，他写过一本关于那个时代网络的书。这个书名叫 Minitel 也是法兰西互联网先驱的名字。
 
 **03:13** - _Julien Mailland_
 
-So what was Minitel? Minitel was a computer system that was rolled out into a large-scale production by the French government, through the Post and Telephone Ministry in 1983.
+因此 Minitel 是什么呢？Minitel是一个由法国邮电部在1983年创建并大规模应用的计算机系统。
 
 **03:29** - _Saron Yitbarek_
 
-You'd head down to your local post office and they'd give you a small terminal called a Minitel. Imagine a tiny desktop computer complete with a tiny keyboard and modem, all totally free. You bring your terminal home, plug it into your phone line and voila, access to a wide variety of Minitel sites.
+你去当地的邮政局，他们会给你一个叫 Minitel 的小终端设备。想象下这个很小的桌面计算机带有一个小键盘和猫，这些都是免费的，你把它带回家，插进你的手机，瞧，就可以访问 Minitel 网络了。
 
 **03:52** - _Julien Mailland_
 
-Starting very early in the mid 80s, basically everyone in France had access to things that wouldn't reach the rest of the world until the late 90s. Anything from online chat, online commerce, any information you can get online.
+很早的时候，在80年代中期，在法国所人员都可以网上聊天，网上商务，在线获取任何信息，但除过与世界其他沟通，值到90年代才解决。
 
 **04:13** - _Saron Yitbarek_
 
 Now, before you start tweeting a correction at me, yes, the U.S. had bulletin board services and yes, other countries had systems too. There was Presto in the U.K. and BTX in Germany, but in the 1980s nobody's network had anything like the reach that Minitel had in France. Millions of Minitel terminals were installed, and it's estimated that eventually half the French population was using them.
+
 
 **04:41** - _Julien Mailland_
 
