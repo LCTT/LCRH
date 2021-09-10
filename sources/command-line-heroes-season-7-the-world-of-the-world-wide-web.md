@@ -51,36 +51,36 @@
 
 **04:13** - _Saron Yitbarek_
 
-Now, before you start tweeting a correction at me, yes, the U.S. had bulletin board services and yes, other countries had systems too. There was Presto in the U.K. and BTX in Germany, but in the 1980s nobody's network had anything like the reach that Minitel had in France. Millions of Minitel terminals were installed, and it's estimated that eventually half the French population was using them.
-
+现在，在你准备发推文纠正我的说法之前，是的，美国已经有了<ruby>BBS公告板<rt>bulletin board services</rt></ruby>，其他国家也有了类似系统。英国的Presto，德国的 BTX，但是在1980年代，没有国家它的网络像法国的 Mintel 那样发达。几百万的 Minitel 终端已经被安装，粗略估计大约一半的法国人当时都在使用它。 
 
 **04:41** - _Julien Mailland_
 
-Very much everyone was online and had access to all these services that only became mainstream in the rest of the world after 1995.
+很多人都是在线的，这些能够获取所有这些服务，而这些服务其他地方在1995以后才有。
 
 **04:51** - _Saron Yitbarek_
 
-How'd this happen? Necessity was the mother of invention. In the 1970s, France's old analog telephone network was in shambles. New lines were being installed by a nationalized company called PTT, and they could take years to install a new line.
+这是如何发生的呢？必然性在于发明之父。1970年，法国的老旧模拟电话网络处于混乱状态。新的线路被本地叫PPT的一个公司建立中，他们可能要花了很多年来铺设新线路。
 
 **05:09** - _Julien Mailland_
 
-It was basically a disaster. It was not on par to what you think of one of the big world powers.
+这基本是一个大灾难。这个根本不是你想象中一个大国的该有的范。
 
 **05:16** - _Saron Yitbarek_
 
-At the same time, the U.S. grew more and more dominant in the field of telecommunications.
+同时，美国在通信领域的主导作用一直越来越明显。
 
 **05:22** - _Julien Mailland_
 
-France, I think has always been very concerned about U.S. cultural domination. After the war, people called it Coca-Colonization.
+我想法国一直很关注美国文化的主导地位，在战后人们称其为可口可乐化。
 
 **05:32** - _Saron Yitbarek_
 
-So France actually had 2 problems. They had to update their crumbling phone system for starters, and they also had to fend off the Americans. The solution to both problems lay in digitizing the telephone network.
+因此法国实际上有两个问题.他们不得不更新他们摇摇欲坠的电话系统，他们也必须阻击美国人。解决这两个问题的方案便是将电话网络数字化。
 
 **05:46** - _Julien Mailland_
 
 There was a very important report in 1978 called, “The Computerization of Society.” And it basically said we can fix both our problems by creating a computer system that will be hooked up to the telephone network, and that was Minitel.
+这儿有一份1978年非常重要的报告，“社会计算机化。”我们可以通过创建一个连接到电话网络的计算机系统来解决我们的问题，那就是 Minitel。
 
 **06:04** - _Saron Yitbarek_
 
