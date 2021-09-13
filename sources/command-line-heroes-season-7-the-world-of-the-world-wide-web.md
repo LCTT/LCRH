@@ -79,48 +79,48 @@
 
 **05:46** - _Julien Mailland_
 
-There was a very important report in 1978 called, “The Computerization of Society.” And it basically said we can fix both our problems by creating a computer system that will be hooked up to the telephone network, and that was Minitel.
 这儿有一份1978年非常重要的报告，“社会计算机化。”我们可以通过创建一个连接到电话网络的计算机系统来解决我们的问题，那就是 Minitel。
 
 **06:04** - _Saron Yitbarek_
 
-By handing out Minitel systems to everyone in France, free of charge, you could jumpstart the marketplace. You're creating a huge need for French content and French tech to elbow aside the American companies who'd otherwise dominate. And at the same time, France's phone network is getting digitized. Minitel went national in 1982, and for a time it thrived. French citizens were enjoying the kind of web experience that Americans wouldn't have for years. There were chat rooms, there was e-commerce, online banking.
+通过向每个法国人免费的分发 Minitel 系统，你就可以占领市场。从而创造一个巨大的国内的内容和技术需求市场来对抗美国公司在其他地方的主导地位。同时，法国的电话网络也开始数字化。Minitel 在1982开始在国内繁荣发展。法国市民享受各种美国多年还不能享受的网络服务，有聊天室，电子商务和网上银行。
 
 **06:41** - _Julien Mailland_
 
-And you also see at that time, the emergence of the connected home, the smart house. So you can connect your thermostat at home, your VCR, your garden sprinklers to Minitel.
+那时你也可以看到家庭互联，智能家居。你可以连接你的家庭温度计，你的录像机，你的庭院花洒到 Minitel系统。
 
 **06:56** - _Saron Yitbarek_
 
-I mean, honestly, France was sort of killing it by publicly funding all this, giving a free computer to anybody who asked. The state had overnight, created an enormous platform, where private enterprise could come and innovate. They even had an app store called the Minitel kiosk that wasn't so different from the one Apple has today. So by 1995, you might think this incredible Minitel network was going to spread to the four corners of the earth. But...
+
+在我看来，老实说，在法国给任何都想要的人免费计算机，用公共基金这种行为就是一种扼杀。创造一个巨大的平台，国家一夜之间就破产了，而一个私营公司完全可以把它做出来和并去创新。他还有一个叫 Minitel kiosk 商城，这个和今天的苹果商城还是有点不一样。因此到1995年，你可能认为这个难以置信的 Minitel 挽留过会在地球的各个地方铺展开来。但实际上...
 
 **07:30** - _Julien Mailland_
 
-The export effort was a disaster. I think by 1995, France had given up on exporting Minitel.
+出口的努力惨败。我想到1995年，法国政府已经放弃了出口 Mintel 系统。
 
 **07:40** - _Saron Yitbarek_
 
-Other nations were trying to develop their own systems. And those other nations weren't necessarily willing to give millions of terminals away for free, the way France had. Without such a huge investment on behalf of the public, the Minitel system wouldn't make sense.
+其他国家正在尝试开发他们自己的系统。那些其他国家没有像法国那样投入百万的免费终端给国民。没有巨大的公共资金的投入，Minitel 系统也没有一点意义。
 
 **07:59** - _Julien Mailland_
 
-One of the reasons Minitel really succeeded was because of this state intervention, but you couldn't really replicate all of that in other countries. And I think that that is one of the main reasons why Minitel did not export well.
+Minitel 真的很成功的，但是没有真的在其他国家复制成功的一个原因是国家政府的干预。我想这也是为什么 Minitel 没有出口海外的主要原因。
 
 **08:13** - _Saron Yitbarek_
 
-There was an effort to bring Minitel to America, by the way. In 1991, a company called 101 Online arrived in San Francisco.
+另外之前是有尝试将 Minitel 带到美国。在1991年，一个叫 101在线的公司来到<ruby>圣弗朗西斯科<rt>San Francisco</rt></ruby>
 
 **08:23** - _Julien Mailland_
 
-It was a disaster. They were trying to push these 1983 terminals onto the Bay area in 1991. That didn't work out too well for obvious reasons.
+这是一个错误。他们将1983年的终端设备带到1992年的大湾区。很明显是无济于事。
 
 **08:36** - _Saron Yitbarek_
 
-What's fascinating to me is Mailland's reply. When we asked about the eventual failure of Minitel, I was not expecting this answer.
+让我很好奇的是<ruby>梅兰德<rt>Mailland</rt></ruby>的回答。当我问及 Minitel 最终失败的原因时，没想到是这样的回答。
 
 **08:45** - _Julien Mailland_
 
-I don't think Minitel failed at all. It failed at export, but they did not fail on a domestic level. It was very successful on the domestic level. When you think about the fact that you had a country that was completely online 20 years before most Americans had ever heard of the internet, I would call that a success.
+我不认为 Minitel 是完全失败的。他是出口失败了，他在国内没有失败。反正在国内发展非常成功。当你想象一个国家已经使用网络20年了，而这之前美国人还只是听说有互联网，而这恰恰是一种成功。
 
 **09:08** - _Saron Yitbarek_
 
