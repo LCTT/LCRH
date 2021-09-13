@@ -124,15 +124,16 @@ Minitel 真的很成功的，但是没有真的在其他国家复制成功的一
 
 **09:08** - _Saron Yitbarek_
 
-We have this idea today of what the internet is supposed to be. The world wide web is supposed to cover the planet in yeah, a world wide web, but the story of Minitel and France's futuristic adventure, reminds us that there's more than one possibility for a networked nation. Ironically, the infrastructure advances that Minitel made possible ended up creating a smoother rollout for the American style internet when it came to France. And Minitel itself was shut down in 2012 because it couldn't evolve into the kind of global force that the web could. But maybe it was never meant to. Maybe its beauty lies in the way it revitalized a nation, right at the moment when a change was needed. And I'm with Mailland, I’d call that a success.
+我们已经认识当今互联网的概念意味着什么。万维网意味着要覆盖地球的一个世界网络，但 Minitel 的故事和法国超前的探索提醒我们网络化的国家还去其他可能。讽刺的是，当美式网络来到法国，超前探索使 Minitel的谢幕为美式互联网创造了一个平滑的过渡。在2012年Minitel自己关闭了，因为它无法发展为网络所具备的全球覆盖力量。也许这是它的命中注定。他的美在于，在恰逢一个需要变迁的时代,它振兴了一个国家。我和<ruby>梅兰德<rt>Mailland</rt></ruby>在一起，我们认那是一种成功。
 
 **10:06** - _Saron Yitbarek_
 
-Okay. Where are we flying to next? Let's head over to the other side of the world to China. What did their 1995 look like? China had the CERNET, which began connecting their academic institutions, but they were eager to make connections with researchers around the globe. To do that, they need to patch into an American network backbone that can route them to all the other countries. For the first time, at the start of 1995, 64,000 lines connected Beijing and Shanghai to the U.S. Internet access was offered to the public via the telephone network. But getting to that point had been a long road. Chinese authorities had been asking for years to connect to the internet, but the Americans had refused because of political tensions between the countries. The pressure to connect was mounting though. A project from the National Science Foundation, the International Connections Management project, or ICM, began to offer a little hope. Steve Goldstein was the program's director.
+好的，我们下一站飞到哪里呢？让我们飞到世界的另一边中国，1995他们是什么样子的呢？中国已经有<ruby>中国教育和科研信息网<rt>CERNET</rt></ruby>，它已经连接了他们的高效科研机构，但是他们渴望和全球的科研人员建立联系。这样做就需要接入到美国主干网来路由到其他国家。开始的时候，1995年开始 64,000 条线路通过电话网络从北京和上海到美国网络为公众提供网络服务。但是这样的线路太冗长了。中国的政府当局一直希望直接接入互联网，但是美国鉴于两国的政治紧张曾一直拒绝接入。因此接入的压力越拉越大，一个来自自然科学基金会的，国际互联管理项目开始提供一点希望。 <ruby>斯蒂文·戈尔德茨坦 <rt>Steven Goldstein</rt></ruby>是这个项目的负责人。
 
 **11:16** - _Steve Goldstein_
 
 I was able to travel pretty much around the world and work with the academic networks of other countries, to help connect them to what was at that point, at least in the early 90s, pretty much the core of the internet, which was the NSFNET, National Science Foundation Network.
+
 
 **11:36** - _Saron Yitbarek_
 
