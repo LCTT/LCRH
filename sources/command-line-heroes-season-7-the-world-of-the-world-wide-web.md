@@ -132,44 +132,43 @@ Minitel 真的很成功的，但是没有真的在其他国家复制成功的一
 
 **11:16** - _Steve Goldstein_
 
-I was able to travel pretty much around the world and work with the academic networks of other countries, to help connect them to what was at that point, at least in the early 90s, pretty much the core of the internet, which was the NSFNET, National Science Foundation Network.
-
+我可以几乎环游世界并工作在其他国家学术网络上，在当时有利于其他国家加强沟通，至少90年代早期，所有的核心网络都是 <ruby>国家科学基金会网络<rt>NFSNET</rt></ruby>。
 
 **11:36** - _Saron Yitbarek_
 
-Not a small job. Goldstein describes how the actual connections were made.
+不小的成就，<ruby>戈尔德茨坦<rt>Goldstein</rt></ruby>来描述下实际的连接如何建立的。
 
 **11:42** - _Steve Goldstein_
 
-The physical connection can be satellite, or it can be copper, or later on it could be fiber. It could be acoustic or can even be smoke signals. It doesn't matter. It's got to be some way of transmitting that information physically. But once that comes in, it's translated to another way, or protocol, that the routers recognize. And then the routers route, or route that signal, through the network that came into a point of presence, usually at one of the NSFNET regional networks, which will then connect it to the NSFNET backbone and thereby to all the other regional networks.
+物理连接可以是卫星，也可以是铜缆，或者后面可以是光纤传输。它可能是声音信号，甚至也可能是烟雾信号。没关系，它一定是某种物理传输信息的方式。但一旦传输过来，就会转换为另外一种方式，或路由器能识别的协议。然后目标网络的路由器路由到此信号，将其连接到一个<ruby>国家科学基金会网络<rt>NFSNET</rt></ruby>子域网，这个会通过<ruby>国家科学基金会网络<rt>NFSNET</rt></ruby>主干网连接其他子域网。
 
 **12:23** - _Saron Yitbarek_
 
-They were especially eager to build connections to research centers around the globe. Goldstein himself lobbied for the creation of the ICM. In 1991, a partnership with Sprint made it possible.
+他们特别想建立与世界范围内研发中心的连接。<ruby>戈尔德茨坦<rt>Goldstein</rt></ruby>亲自游说创建 ICM。在1991年，随着与Sprint合作是它变成可能。
 
 **12:37** - _Steve Goldstein_
 
-Sprint at that time was just getting into internet business, and they saw this as an opportunity. And actually they zero-bid the solicitation, meaning that they said, "Okay, we'll do it. No charge." Sprint turned out to be a marvelous partner for the 5 years of the ICM project. They always bent over backwards to make things work.
+那时的 Sprint 只是刚刚涉足互联网业务，他看到了这是一个机遇。然后他最终以0元中标，就是说：“我们来承接，不要钱。” Sprint 在 ICM 项目的五年里表现出了一个了不起的合作伙伴。他们总是竭尽全力的让这个项目顺利运行。
 
 **13:03** - _Saron Yitbarek_
 
-Goldstein reminded us these international connections weren't blazing fast. When they set one up for Poland, for example, it was 19.6 kilobits per second.
+<ruby>戈尔德茨坦<rt>Goldstein</rt></ruby>提醒过我们这些国际互联并没有迅速发展。例如，当他们为波兰创建一个网络时，它只有19.6kb/s的速度。
 
 **13:15** - _Steve Goldstein_
 
-I was in one of their universities and they let me sit down to read my mail. And I gave the instruction, include, which meant download all my mail. And that was a stupid thing because there were 200 messages and the whole country was only at 19.6 kilobits per second. And I just clogged up their entire line.
+我是他们的大学里一员，他们让我坐下来阅读我的邮件。我根据说明和指导：要下载所有我们的邮件。这是一个很愚蠢的事情，因为他们有200封的消息，而这个国家的网速是19.6kb/s。我就阻塞了他们的整个线路。
 
 **13:36** - _Saron Yitbarek_
 
-Today, Poland's connected at tens of gigabits per second, but that gives you an idea where these links to the larger world began. The ICM started arranging connections to the NSFNET for dozens of countries, even France, despite any hopes that Minitel would take over the world. But for years, China wasn't allowed to connect. And remember China didn't yet have the ability to build a global network of their own. In fact, every country on the planet needed that NSFNET backbone to reach outside their own borders with a TCP/IP connection. Most of those regional networks were academic and they were eager to access a series of other academic networks. For example, there were 280 universities in America alone that were tied to the NSFNET. Meanwhile, access to foreign academic networks was a huge incentive for the National Science Foundation, too. Despite those political hurdles, American academics were very interested in connecting with their Chinese counterparts.
+今天，波兰的网络连接是10Gb/s，但这让你知道与更大的世界网络连接的一个概念。ICM 开始为几十个国家安排接入<ruby>国家科学基金会网络<rt>NFSNET</rt></ruby>，甚至法国也想接入，即使 Minitel 也有望接管世界。但是多年后，中国没能接入。需知中国还没有能力去建立一个自己的国家网络。实际上地球上的每个国家需要<ruby>国家科学基金会网络<rt>NFSNET</rt></ruby>主干网通过 TCP/IP 连接到他们国家的入口。这个子域网络中的大部分是学术用途，他们曾经很渴望获取其他学术网络的内容。例如，就有美国的280个大学与<ruby>国家科学基金会网络<rt>NFSNET</rt></ruby>连接着。同时，能获取国外的学术网络对<ruby>自然科学基金会<rt>National Science Foundation</rt></ruby>也是一个巨大的激励。尽管存在这些政治障碍，美国学者也对与中国的学术同行之间建立联系非常感兴趣。
 
 **14:44** - _Steve Goldstein_
 
-There were some key institutions in that country that wanted to collaborate, sometimes in almost real time, with sister institutions in the United States. So, for example, there was the Institute of High Energy Physics near Beijing, that wanted to work on the high-energy physics programs, which were international—involve the United States, involve Europe, and so forth. So it was a matter of collaboration. So that connection was warmly greeted from that point of view.
+该国的一些关键的机构想与美国的兄弟机构建立合作，甚至有时是实时的连接。例如，位于北京的高能物理研究所，它想从事高能物理项目的研究就需要国际性的团队参与：美国，欧洲等等。因此这是一个合作的问题，从这个角度看连接是非常受大家欢迎的。
 
 **15:16** - _Saron Yitbarek_
 
-Championing the idea of China's connection to the global network was computer scientist, Qiheng Hu, speaking here with the Asia Internet History project.
+计算机科学家胡启恒与<ruby>亚洲互联网历史项目<rt>Asia Internet History project</rt></ruby>共同倡导中国与全球网络互联的理念。
 
 **15:26** - _Qiheng Hu_
 
