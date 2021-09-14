@@ -172,23 +172,23 @@ Minitel 真的很成功的，但是没有真的在其他国家复制成功的一
 
 **15:26** - _Qiheng Hu_
 
-Chinese science and technology people, there is a keen desire for the cheaper communication and the transmission of the big amount of scientific data during their scientific cooperation with their overseas cooperators. So that is the major reason why China at that time has such a motivation to acquire the internet.
+中国从事科学技术研究的人们，他们在与海外合作者进行科学研究的时候渴望通过廉价的通讯获取海量的科学数据。因此这就是中国当时对访问互联网有这样动力的主要原因。
 
 **15:58** - _Saron Yitbarek_
 
-In 1994, Hu traveled to Washington D.C. for a committee meeting and made a special side trip to see the chair of the NSF, Neal Lane. She made the case that China had to be connected to the NSFNET, and it happened. On April 20, 1994, China became connected to the world wide web. Goldstein remembers Hu being a strong advocate for Chinese sovereignty, despite their need to connect on a shared network.
+1994年，胡女士到华盛顿特区参加委员会议并特别访问可 NSF 主席，<ruby>尼尔·莱恩<rt>莱恩</rt></ruby>。她提出中国必须接入<ruby>国家科学基金会网络<rt>NFSNET</rt></ruby>,最终实现了。1994年4月20日中国开始接入万维网。<ruby>戈尔德茨坦 <rt>Goldstein</rt></ruby记得胡女士是一个中国主权自治的坚定拥护者，尽管他们迫切希望连接到共享网络。
 
 **16:28** - _Steve Goldstein_
 
-At one point, she had asked, "Well, okay, now can we connect?" I think I answered, and I said, "Yes, but will you agree that any academic person in China can use the link, not just members of the Communist Party." And her answer was, "Well, do you have such restrictions in the United States?" And she caught me. I had nothing to say. I said, "Okay, you win."
+在当时，她曾这么问过，“现在，我们可以连接了吗？”我想了想，就说，"是的，但你同意中国任何一个搞学术人可以访问这个链接，而不是仅共产党员。"然后她回答说，“你们美国有这样的限制吗？”她把我问住了，我无言以对。我说，“好吧，你赢了”。
 
 **16:54** - _Saron Yitbarek_
 
-There was a lot at stake for China, and arguably, it wasn't just about scientific collaborations. Gianluigi Negro, a professor at the University of Sienna, researches the history of the Chinese internet. He told us that connecting with the NSFNET was part of China's larger movement toward openness.
+这对中国来说生死攸关，可以说，它不仅仅促进科学合作。悉尼大学教授<ruby>吉安路易吉黑人<rt>Gianluigi Negro</rt></ruby>，专门研究中国互联网史。他告诉我们接入<ruby>国家科学基金会网络<rt>NFSNET</rt></ruby>是中国走向开放运动的一部分。
 
 **17:15** - _Gianluigi Negro_
 
-At the time, China started to literally be more connected there, from not only the economic point of view, but also the political one. And this is very important because between the end of the 80s and the beginning of the 90s, there were a lot of projects that supported the telecommunication industry development in China.
+在这时，中国开始了真正的更加互联互通，不仅仅从经济维度，也包括政治上。这个很重要，因为80年代末90年代中，中国有许多项目都在支持电信行业的发展。
 
 **17:37** - _Saron Yitbarek_
 
@@ -212,7 +212,7 @@ This is a reality we see around the globe. While countries came online in their 
 
 **19:26** - _Saron Yitbarek_
 
-We've got time for one more stop. Let's head over to the Americas now, South America. Our final destination, Argentina. By the spring of 1995, they were selling their first commercial internet connections. Email and local networks were established by the early 90s. But connecting to the internet itself was a much larger challenge. We asked Christian O'Flaherty, Regional Vice President for Latin America and The Caribbean at the Internet Society, to talk us through those early days.
+我们还有一点时间停靠一站。让我们回头看看现在的美洲，南美洲。目的地是阿根廷。到1995的春天，他们开始出售他们第一个商业网络连接，电子邮件和本地网络在90年代早期已经建立。但是接入互联网是一个巨大的挑战。我们问问<ruby>克里斯蒂安·奥弗莱赫蒂<rt>Christian O'Flaherty</rt></ruby>,互联网协会拉丁美洲和加勒比区域副主席，来告诉我们这些年的发展历程。
 
 **20:02** - _Christian O'Flaherty_
 
