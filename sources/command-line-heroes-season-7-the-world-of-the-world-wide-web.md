@@ -184,7 +184,7 @@ Minitel 真的很成功的，但是没有真的在其他国家复制成功的一
 
 **16:54** - _Saron Yitbarek_
 
-这对中国来说生死攸关，可以说，它不仅仅促进科学合作。悉尼大学教授<ruby>吉安路易吉黑人<rt>Gianluigi Negro</rt></ruby>，专门研究中国互联网史。他告诉我们接入<ruby>国家科学基金会网络<rt>NFSNET</rt></ruby>是中国走向开放运动的一部分。
+这对中国来说生死攸关，可以说，它不仅仅促进科学合作。悉尼大学教授<ruby>吉安路易吉·尼格罗<rt>Gianluigi Negro</rt></ruby>，专门研究中国互联网史。他告诉我们接入<ruby>国家科学基金会网络<rt>NFSNET</rt></ruby>是中国走向开放运动的一部分。
 
 **17:15** - _Gianluigi Negro_
 
@@ -192,47 +192,46 @@ Minitel 真的很成功的，但是没有真的在其他国家复制成功的一
 
 **17:37** - _Saron Yitbarek_
 
-Opening up economically and opening up academically, went hand in hand. The World Bank began making enormous loans to China, helping them develop their networks. 1994 saw decades worth of change, suddenly happen once that day when Madam Hu's request was granted and the NSF connected China to the internet.
+经济上的开放和学术上的开放相辅相成。世界银行开始给中国提供巨额贷款，帮助他们发展网络。1994看经历了数十年的变革，从胡女士的请求获得批准，<ruby>国家科学基金会<rt>NFS</rt></ruby>将中国接入互联网那天开始突然就变天了。
 
 **17:58** - _Gianluigi Negro_
 
-For the first time, China was connected to the TCP/IP internet connection. So, this is very important from an infrastructure point of view.
+中国首次接入 TCP/IP 因特网，因此这个从基础设施的角度看很重要。
 
 **18:11** - _Saron Yitbarek_
 
-The Chinese internet was never going to be the same as the American internet, though. The so-called "great firewall" regulates what Chinese users can access. Sites like Baidu and Weibo dominate, instead of Google and Instagram. But Professor Negro reminded us that despite those differences, the Chinese internet parallels the American one in other ways.
+中国的因特网从来就和美国的因特网不一样。所谓的“长城防火墙”过滤着中国用户可以访问的内容。像百度和微博等网站占据主导地位，替代可谷歌和<ruby>照片墙<rt>Instagram</rt></ruby>。但是教授<ruby>尼格罗<rt>Negro</rt></ruby>提醒我们中国，尽管存在这些差异，但中国互联网在其他方面与美国互联网相似。
 
 **18:34** - _Gianluigi Negro_
 
-Think about both the mentality or about the Chinese application, or the Chinese services. The management that they have, they think about Alibaba, although they have a very strong connection with the Chinese government, their business mentality is very, very close to the U.S. one.
+审视下关于双方的思维，或中国的应用或中国的服务。他们的所拥有的管理思想，以及关于阿里巴巴的管理，虽然他们与中国政府紧密联系，他们的商业思维非常接近美国。
 
 **18:53** - _Saron Yitbarek_
 
-This is a reality we see around the globe. While countries came online in their own way, and while every country's internet still navigates distinct politics and economic realities, there are also universals. The long work of creating a global networking infrastructure is about maintaining difference, while forging those common bonds. The internet we have today operates in that careful balance between universals and variations.
+这是我们在全球看到的一个现实。当一个国家以自己的方式在线，每个国家的互联网仍旧保持自有的政治和经济现实，他们也存在共性。创建一个全球的网络设施的漫长工作是保持差异，而又建立共同的纽带。今天我们的互联网就是在通用和多样性之间保持平衡。
 
 **19:26** - _Saron Yitbarek_
 
-我们还有一点时间停靠一站。让我们回头看看现在的美洲，南美洲。目的地是阿根廷。到1995的春天，他们开始出售他们第一个商业网络连接，电子邮件和本地网络在90年代早期已经建立。但是接入互联网是一个巨大的挑战。我们问问<ruby>克里斯蒂安·奥弗莱赫蒂<rt>Christian O'Flaherty</rt></ruby>,互联网协会拉丁美洲和加勒比区域副主席，来告诉我们这些年的发展历程。
+我们还有一点时间再停靠一站。让我们回头看看现在的美洲，南美洲。目的地是阿根廷。到1995的春天，他们开始出售他们第一个商业网络连接，电子邮件和本地网络在90年代早期已经建立。但是接入互联网是一个巨大的挑战。我们问问<ruby>克里斯蒂安·奥弗莱赫蒂<rt>Christian O'Flaherty</rt></ruby>,互联网协会拉丁美洲和加勒比区域副主席，来告诉我们这些年的发展历程。
 
 **20:02** - _Christian O'Flaherty_
 
-International data links were not easy to get, very expensive. The bandwidth was low. There were a lot of impediments from, at the time, incumbents or monopolies for international data services.
-
+国际数据链接不容易获取，非常昂贵。带宽也很低。在当时当权者或垄断者是访问国际数据服务造成了很多障碍。
 **20:18** - _Saron Yitbarek_
 
-In the early networking days that O'Flaherty's describing, the early 90s, there were a few nodes with international connections, but they were super expensive satellite connections. The general public didn't have access at all. Academics in Argentina were pushing for a more genuine connection to networks beyond their borders.
+早期网络的时期如<ruby>奥弗莱赫蒂<rt>O'Flaherty</rt></ruby>描述，90年代早期，只有少量的国际连接节点，他们都是用很昂贵的卫星连接。普通大众根本不能访问。阿根廷的学者们曾推动与境外的网络建立真实可靠的连接。
 
 **20:41** - _Christian O'Flaherty_
 
-It was mostly the pressure from those professors and researchers that were working in Europe and the U.S. and were using the internet in those countries. So when they came back to Argentina and other countries, they started looking for ways to get similar services.
+主要压力来源于从欧洲和美国工作回来的教授和研究员。他们曾在所在国使用过互联网。因此当他们回到阿根廷和其他国家，他们开始想办法获取同样的服务。
 
 **21:03** - _Saron Yitbarek_
 
-You remember that monopoly O'Flaherty mentioned? That was an international company called Telintel. And O'Flaherty told us that in the 90s, Telintel was dragging its feet, delaying the arrival of an affordable internet.
+你是否记得<ruby>奥弗莱赫蒂<rt>O'Flaherty</rt></ruby>提到垄断？这是一个国际化的公司 Telintel。<ruby>奥弗莱赫蒂<rt>O'Flaherty</rt></ruby>告诉我们90年代，Telintel 拖了后腿，他延迟了平价互联网的到来。
 
 **21:18** - _Christian O'Flaherty_
 
-They didn't want to provide that service.
+他们不想提供这样的服务。
 
 **21:21** - _Saron Yitbarek_
 
