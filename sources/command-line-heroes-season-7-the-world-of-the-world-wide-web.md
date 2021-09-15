@@ -259,31 +259,32 @@ Minitel 真的很成功的，但是没有真的在其他国家复制成功的一
 
 **23:32** - _Saron Yitbarek_
 
-因为不像我们所听到的法国的那样，阿根廷的机构发展加快并不是想象的那么容易，大部分阿根廷的官方还没有理解互联网能提供什么。
+因为不像我们所听到的法国的那样，阿根廷的机构站出来发展网络并不是想象的那么容易，大部分阿根廷的官方还没有理解互联网能提供什么。
 
 **23:47** - _Christian O'Flaherty_
 
-It was difficult to demonstrate that it was worth paying for those services for something that nobody knew about. So nobody used the internet when she was asking for funds and convincing the universities and the research institutions that it was worth spending the money that way.
+很难解释为这些没人知道的服务该不该值得付出。当我们寻求基金会并说服大学和研究机构付出资金建设网络的时候没人用过互联网。
 
 **24:11** - _Saron Yitbarek_
 
-Ultimately, leaders like Ferreira were able to tie Argentina's networks to America's NSFNET. Up until that time, less than 0.1% of people in Argentina were internet users. But those numbers started exploding once the NSFNET connection was made, and today, three-quarters of Argentinians are online.
+最终，像<ruby>费雷拉<rt>Ferreira</rt></ruby>这样的领导曾经才能将美国的 NSFNET 与阿根廷的网络连接起来。直到那时，阿根廷的互联网用户不到 0.1%，但从 NSFNET接入开始从这个数字一直爆炸式增长到今天 3/4 的阿根廷人上网。 
 
 **24:37** - _Saron Yitbarek_
 
-We could keep on going. There are dozens of other stories we can't tell in a single episode. Every country had its own heroes, its own unique issues, when connecting to the rest of the world. Nobody's 1995 was the same.
+我们会继续。还有几十个国家我们不能在这一集介绍。每个国家都有自己的英雄，也有自己独特的问题，当连接到世界其他国家的时候，1995年的他们都不尽相同。
 
 **24:56** - _Saron Yitbarek_
 
-Our 1995 season has been telling a story about how the modern online experience arrived. But we have to remember, history doesn't really happen that way, because these other stories and timelines were always running in parallel. And yes, 1995 was a dramatic shift point, when the world wide web started racing around the planet, bringing with it a certain sameness to the internet. But when we dig into our history, we remember that the networks we share actually live inside distinct cultures with their own distinct histories and definitely their own futures. 41% of the world is still not online, and over the next couple of decades, as billions more people join the internet, it can't be just about exporting some American tech. And it can't be about folding the world into one tidy version of events. It's going to be about the internet meeting every country's own ambitions and hopes.
+我们这个 1995 季讲述了一个故事是关于现代互联网如何发展而来的。但我们必须记住历史发展不是真的就是那样一幕幕，因为其他这些故事和时间线总是并行发展的。确实是，1995年是一个很戏剧的转折点，当万维网开始在地球上起跑，给互联网带来了确定和统一。但当我们挖掘我们的历史，我们了解到我们实际处在一个有不同文化，不同的历史，明确的未来的共享网络里。41% 的世界人口仍然未接触网络，未来几十年，将有几亿的人口加入互联网，也许不一定是使用美国的一些技术。世界也不可能变成一个固定的事件版本。它将变成每个国家展示雄心和希望的互联网盛会。
 
 **26:01** - _Saron Yitbarek_
 
-You can learn more about how the internet came to France, China, Argentina, and other countries by checking out our bonus material at redhat.com/commandlineheroes.
+你可以在 redhat.com/commandlineheroes 检索我们的官方福利资料， 来深入了解关于互联网如何席卷法国，中国，阿根廷和其他国家。
 
 **26:13** - _Saron Yitbarek_
 
-Next time in our season finale, the dot-com bubble that began in 1995 is finally going to burst. We'll see what lessons were learned when the year 2000 turned the tech world on its head. Until then, I'm Saron Yitbarek and this is Command Line Heroes, an original podcast from Red Hat. Keep on coding.
+Next time in our season finale, the dot-com bubble that began in 1995 is finally going to burst. We'll see what lessons were learned when the year 2000 turned the tech world on its head. Until then, I'm Saron Yitbarek and this is Command Line Heroes, an original podcast from Red Hat. Keep on coding.
+我们下一季介绍，始于1995年的互联网泡沫最终走向破灭。我们将看到当2000 年世界互联网技术翻天覆地时，我们吸取了那些教训。就到这，我是<ruby>萨隆·伊特巴雷克<rt>Saron Yitbarek</rt></ruby>，这里是代码英雄，一个来自红帽的原创播客，编程不止。
 
 --------------------------------------------------------------------------------
 
@@ -291,7 +292,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-7/world
 
 作者：[Red Hat][a]
 选题：[bestony][b]
-译者：[译者ID](https://github.com/译者ID)
+译者：[巴龙](https://github.com/guevaraya)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
