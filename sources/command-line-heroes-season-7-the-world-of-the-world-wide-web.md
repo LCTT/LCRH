@@ -280,7 +280,7 @@ Minitel 真的很成功的，但是没有真的在其他国家复制成功的一
 
 **26:01** - _Saron Yitbarek_
 
-你可以在 redhat.com/commandlineheroes 检索我们的官方福利资料， 来深入了解关于互联网如何席卷法国，中国，阿根廷和其他国家。
+你可以在 [](redhat.com/commandlineheroes) 检索我们的官方福利资料， 来深入了解关于互联网如何席卷法国，中国，阿根廷和其他国家。
 
 **26:13** - _Saron Yitbarek_
 
