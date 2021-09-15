@@ -235,31 +235,31 @@ Minitel 真的很成功的，但是没有真的在其他国家复制成功的一
 
 **21:21** - _Saron Yitbarek_
 
-A truly online Argentina was never going to be possible until somebody got them connected in an affordable way. And there didn't seem to be a local solution. But physicist Emma Perez Ferreira was looking beyond their borders. She's considered the person most responsible for bringing the internet to the people of Argentina.
+真正意义的阿根廷在线网络还没有实现，直到大家用可负担的方式连接才算。看起来没有一个本地化的解决方案。但是物理学家<ruby>艾玛·佩雷斯·费雷拉<rt>Emma Perez Ferreira</rt></ruby>很有远见。她被认为是将互联网带给阿根廷人的最重要的贡献者。
 
 **21:42** - _Christian O'Flaherty_
 
-She was a national pioneer and also a well-respected pioneer in the region. Emma was able to insist on many different areas of the government and elsewhere, and she was able to get this authorization to connect to the internet, getting service from whoever was able to provide it.
+她是这个国家的先驱也是该地区受人尊敬的先驱。<ruby>艾玛<rt>Emma</rt></ruby>在政府很多不同的领域耕耘，她获得授权连接互联网和并获得任何可能的服务。
 
 **22:08** - _Saron Yitbarek_
 
-If Telintel wasn't going to step up, then she would. Since the 1980s Ferreira had been the Director of a network called RETINA, that connected academics at a regional level. But she saw the potential for her mission to grow in the 90s when America began providing the NSFNET's backbone to the world. Suddenly through that ICM project of Steve Goldstein's, it was possible for Argentina to patch into that backbone and join a global internet. She received authorization to create a direct link via Florida. O'Flaherty describes the collaboration with American partners.
+如果 Telintel 不想站出来，她就从1980年代作为 RETINA 网络的负责人负责连接国家的学术互联网络。但是在90年代随着美国提供<ruby>国家科学基金会网络<rt>NFSNET</rt></ruby>骨干网接入世界，她意识到她使命是让网络不断增长的潜力。突然有一天通过<ruby>斯蒂文·戈尔德茨坦 <rt>Steven Goldstein</rt></ruby>的 ICM 项目，阿根廷可以接入国际互联网的骨干网了。她得到授权直接从弗罗里达直接接入。<ruby>奥弗莱赫蒂<rt>O'Flaherty</rt></ruby>来介绍下与美洲搭档的合作过程。
 
 **22:47** - _Christian O'Flaherty_
 
-There was a lot of support and interest from different parties to help developing countries and in particular, Latin American countries, to connect to the internet.
+我们得到了不同的地区发展中国家的支持和青睐，特别是接入到互联网的拉美国家。
 
 **22:59** - _Saron Yitbarek_
 
-Starting in 1992, the connection to the NSFNET ran through the city of Homestead in Florida using the PanAmSat satellite. The router was managed by Sprint and the National Science Foundation paid the management port fees.
+从1992年开始，<ruby>国家科学基金会网络<rt>NFSNET</rt></ruby>的连接是用泛美卫星横穿弗罗里达的霍姆斯特市。路由器由 Sprint 和国家自然基金会担负运营管理。
 
 **23:15** - _Christian O'Flaherty_
 
-Many Latin American countries received support for equipment, and the port was provided free of charge. They facilitated the connection through training, and helped in getting our own IP addresses, and things like that.
+许多拉美国家获得了设备的支持，进出口也是免税。他们通过培训促进了互联互通，帮助我们获得了我们自己的IP地址，大概事情就是这样。
 
 **23:32** - _Saron Yitbarek_
 
-But getting Argentina's institutions to step up, wasn't as easy as you might think, because unlike the situation we heard about in France, most authorities in Argentina didn't yet understand what the internet could provide.
+因为不像我们所听到的法国的那样，阿根廷的机构发展加快并不是想象的那么容易，大部分阿根廷的官方还没有理解互联网能提供什么。
 
 **23:47** - _Christian O'Flaherty_
 
