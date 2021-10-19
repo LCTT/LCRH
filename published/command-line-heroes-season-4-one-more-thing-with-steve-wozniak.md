@@ -1,8 +1,8 @@
 [#]: collector: "bestony"
 [#]: translator: "xiao-song-123"
 [#]: reviewer: "pityonline, wxy"
-[#]: publisher: " "
-[#]: url: " "
+[#]: publisher: "wxy"
+[#]: url: "https://linux.cn/article-13900-1.html"
 [#]: subject: "Command Line Heroes: Season 4: One More Thing with Steve Wozniak"
 [#]: via: "https://www.redhat.com/en/command-line-heroes/season-4/steve-wozniak"
 [#]: author: "RedHat https://www.redhat.com/en/command-line-heroes"
@@ -216,7 +216,7 @@ Altair 一出现在我们俱乐部，我们就得到了这个消息。比尔·�
 
 谢谢你，史蒂夫·沃兹尼亚克，感谢你参加我们的《代码英雄》访谈。在这一季结束之前，我想请一位特别嘉宾来告诉大家第五季的情况。
 
-**00:22:10 - Clive Thompson_
+**00:22:10 - Clive Thompson**：
 
 我是<ruby>克莱夫·汤普森<rt>Clive Thompson</rt></ruby>，《<ruby>程序员<rt>Coders</rt></ruby>》一书的作者。在第五季中，我将会是 Saron 旁边的嘉宾，讲述开发者的职业生涯。不要错过它。
 
