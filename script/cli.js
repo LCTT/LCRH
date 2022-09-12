@@ -15,20 +15,25 @@ async function getContent(url) {
   const title = $("title").text();
   const slug = util.slugize(title,{transform: 1});
   const transcriptHtml = $.html("div#transcript") || $.html("div#transcript-tray");
-  
-  if(!transcriptHtml){
-    
+  const showNotesHtml = $.html("div#show-notes") || $.html("div#show-notes-tray");
+
+  if (!transcriptHtml) {
     console.log("No transcript founded")
     return
+  }
+
+  if(!showNotesHtml){
+    console.log("No showNotes founded")
   }
 
   let turndownService = new TurndownService()
   console.log(`Transfer to Markdown:${title}`)
   var markdown = turndownService.turndown(transcriptHtml)
-
+  var shownotes = turndownService.turndown(showNotesHtml)
   return {
     slug,
     markdown,
+    shownotes,
     title
   }
 }
@@ -44,6 +49,13 @@ async function exportFile(content){
 
 ${content.title}
 ======
+
+### Shownotes
+
+${content.shownotes}
+
+### Transcript
+
 ${content.markdown}
 
 --------------------------------------------------------------------------------
@@ -52,10 +64,10 @@ via: ${url}
 
 作者：[Red Hat][a]
 选题：[bestony][b]
-译者：[译者ID](https://github.com/译者ID)
-校对：[校对者ID](https://github.com/校对者ID)
+译者：[译者 ID](https://github.com/译者 ID)
+校对：[校对者 ID](https://github.com/校对者 ID)
 
-本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
+本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux 中国](https://linux.cn/) 荣誉推出
 
 [a]: https://www.redhat.com/en/command-line-heroes
 [b]: https://github.com/bestony
