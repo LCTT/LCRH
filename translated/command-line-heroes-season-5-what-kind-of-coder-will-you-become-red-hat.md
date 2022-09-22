@@ -1,6 +1,6 @@
 [#]: collector: (bestony)
 [#]: translator: (wenwensnow)
-[#]: reviewer: ( )
+[#]: reviewer: (Daniel4078)
 [#]: publisher: ( )
 [#]: url: ( )
 [#]: subject: (Command Line Heroes: Season 5: What Kind of Coder Will You Become? - Red Hat)
