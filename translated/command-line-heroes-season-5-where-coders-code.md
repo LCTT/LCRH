@@ -12,11 +12,11 @@
 ======
 **00:02** - _Saron Yitbarek_
 
-你们好，欢迎来到《<ruby>代码英雄<rt>Command Line Heroes</rt></ruby>》，一档<ruby>红帽<rt>Red Hat</rt></ruby>的原创播客节目。这是我们有关程序员工作生活的迷你特别季的第 2 集。从开发人员到系统管理员，以及架构师、工程师、程序员。我是你们的主持人 Saron Yitbarek，和我一起参与到这一季的是 Clive Thompson，他是记者、技术向作家以及《 Coders 》一书的作者。你好， Clive。  
+你们好，欢迎来到《<ruby>代码英雄<rt>Command Line Heroes</rt></ruby>》，一档<ruby>红帽<rt>Red Hat</rt></ruby>的原创播客节目。这是我们有关程序员，无论是开发人员到系统管理员，以及架构师、工程师、程序员，工作生活的迷你特别季的第 2 集。我是你们的主持人 Saron Yitbarek，和我一起参与到这一季的是 Clive Thompson，他是记者、技术向作家以及《Coders》一书的作者。你好， Clive。  
 
 **00:30** - _Clive Thompson_
 
-你好 Saron。很高兴回来。  
+你好 Saron。很感谢你能再次邀请我来。  
 
 **00:31** - _Saron Yitbarek_
 
