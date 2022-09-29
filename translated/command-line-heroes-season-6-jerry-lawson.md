@@ -239,7 +239,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-6/jerry-lawson
 作者：[Red Hat][a]
 选题：[bestony][b]
 译者：[AmorSu](https://github.com/AmorSu)
-校对：[校对者ID](https://github.com/校对者ID)
+校对：[Phodopussungorus]([https://github.com/Phodopussungorus])
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 
