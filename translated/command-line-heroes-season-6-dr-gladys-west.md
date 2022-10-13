@@ -1,6 +1,6 @@
 [#]: collector: (bestony)
 [#]: translator: (LaingKe)
-[#]: reviewer: ( )
+[#]: reviewer: (aREversez)
 [#]: publisher: ( )
 [#]: url: ( )
 [#]: subject: (Command Line Heroes: Season 6: Dr. Gladys West)
@@ -364,7 +364,7 @@ via: https://www.redhat.com/en/command-line-heroes/season-6/gladys-west
 作者：[Red Hat][a]
 选题：[bestony][b]
 译者：[LaingKe](https://github.com/laingke)
-校对：[校对者ID](https://github.com/校对者ID)
+校对：[aREversez](https://github.com/aREversez)
 
 本文由 [LCRH](https://github.com/LCTT/LCRH) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
 
