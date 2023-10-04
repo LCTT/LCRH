@@ -122,11 +122,11 @@ Jennifer 在谷歌工作。她是 SRE（<ruby>站点可靠性工程<rt>site reli
 
 **00:08:29 - Jessica Rudder**：
 
-我的名字叫 Jessica Rudder。我是 Github 的软件工程师。
+我的名字叫 Jessica Rudder。我是 GitHub 的软件工程师。
 
 **00:08:33 - Saron Yitbarek**：
 
-Jessica 在 Github 经历过失败。从某种意义上说，这是一个失败的舞台，在这一过程中，她收集了一些关于失败是通往巨大成功的故事。比如这个：
+Jessica 在 GitHub 经历过失败。从某种意义上说，这是一个失败的舞台，在这一过程中，她收集了一些关于失败是通往巨大成功的故事。比如这个：
 
 **00:08:50 - Jessica Rudder**：
 
